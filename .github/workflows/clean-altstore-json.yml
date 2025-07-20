@@ -29,7 +29,7 @@ jobs:
           response = requests.get(url)
           data = response.json()
 
-          data["name"] = "ParadoxTime Repo | Spry"
+          data["name"] = "ParadoxTime Repo | Zx's"
           data["identifier"] = "aiorepo.paradoxtime.tk"
           data["iconURL"] = "https://paradoxtime.tk/img/pdt_logo_nobg_shadow.png"
           data["subtitle"] = "From zx's AIO repo, fixed for AltStore/SideStore"
@@ -73,7 +73,7 @@ jobs:
 
           data["apps"] = cleaned_apps
 
-          with open("repo-source.json", "w") as f:
+          with open("zxcvbn-repo-fix.json", "w") as f:
               json.dump(data, f, indent=2)
           EOF
 
@@ -81,6 +81,6 @@ jobs:
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
-          git add repo-source.json
+          git add zxcvbn-repo-fix.json
           git commit -m "Auto-cleaned, sorted and updated metadata" || echo "No changes to commit"
           git push
