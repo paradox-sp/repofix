@@ -32,7 +32,7 @@ jobs:
 
           SOURCE_URL = "https://repo.ethsign.fyi/"
           DEFAULT_DESCRIPTION = "No description available"
-          DEFAULT_ICON = "https://paradoxtime.tk/img/default_icon.png"
+          DEFAULT_ICON = "https://paradoxtime.tk/img/pdt_logo_nobg_shadow.png"
 
           try:
               response = requests.get(SOURCE_URL, timeout=15)
