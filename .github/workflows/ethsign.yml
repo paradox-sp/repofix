@@ -88,7 +88,7 @@ jobs:
           # Save output
           with open("ethsign-sidestore.json", "w") as f:
               json.dump(output, f, indent=2)
-          print(f"✅ Generated repo with {len(output['apps']} apps")
+          print(f"✅ Generated repo with {len(output['apps'])} apps")  # FIXED: Added missing parenthesis
           EOF
 
       - name: Validate JSON
