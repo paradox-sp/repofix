@@ -32,7 +32,7 @@ jobs:
           data["name"] = "ParadoxTime Repo | Spry"
           data["identifier"] = "aiorepo.paradoxtime.tk"
           data["iconURL"] = "https://paradoxtime.tk/img/pdt_logo_nobg_shadow.png"
-          data["subtitle"] = "Fixes"
+          data["subtitle"] = "From zx's AIO repo, fixed for AltStore/SideStore"
           data["description"] = "Paradoxtime Repo — fetches IPAs from zx's AIO repo and fixes duplicate issues."
 
           for app in data.get("apps", []):
