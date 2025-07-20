@@ -2,8 +2,8 @@ name: Clean AltStore Repo JSON
 
 on:
   schedule:
-    - cron: '0 0 * * *'  # every 24 hours (midnight UTC)
-  workflow_dispatch:      # allows manual trigger
+    - cron: '0 0 * * *'
+  workflow_dispatch:
 
 jobs:
   clean-and-publish:
@@ -39,18 +39,31 @@ jobs:
               if "source" in app and "zx's" in app["source"].lower():
                   app["source"] = "paradoxtime (via zx's aio repo)"
 
+          seen_versions_global = set()
+
+          cleaned_apps = []
           for app in data.get("apps", []):
-              seen_versions = set()
+              bundle_id = app.get("bundleIdentifier")
               cleaned_versions = []
               for v in app.get("versions", []):
                   ver = v.get("version")
-                  if ver not in seen_versions:
-                      seen_versions.add(ver)
-                      cleaned_versions.append(v)
-                  else:
-                      v["version"] = ver + "-alt"
-                      cleaned_versions.append(v)
+                  key = (bundle_id, ver)
+                  if key in seen_versions_global:
+                      new_ver = ver + "-alt"
+                      v["version"] = new_ver
+                      key = (bundle_id, new_ver)
+                      if key in seen_versions_global:
+                          suffix = 1
+                          while (bundle_id, f"{new_ver}-{suffix}") in seen_versions_global:
+                              suffix += 1
+                          v["version"] = f"{new_ver}-{suffix}"
+                          key = (bundle_id, v["version"])
+                  seen_versions_global.add(key)
+                  cleaned_versions.append(v)
               app["versions"] = cleaned_versions
+              cleaned_apps.append(app)
+
+          data["apps"] = cleaned_apps
 
           with open("repo-cleaned.json", "w") as f:
               json.dump(data, f, indent=2)
