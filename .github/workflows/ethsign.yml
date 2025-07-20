@@ -1,3 +1,23 @@
+name: Fetch and Convert EthSign Repo to AltStore
+
+on:
+  schedule:
+    - cron: '0 0 * * *'  # Runs daily at midnight UTC
+  workflow_dispatch:
+
+jobs:
+  convert-and-deploy:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.x'
+
       - name: Fetch and Convert JSON
         run: |
           python3 -c "
@@ -56,11 +76,11 @@ for app in filtered_apps:
     is_featured = app['bundleIdentifier'] in FEATURE_BUNDLES
     (featured if is_featured else others).append(transform(app, is_featured))
 
-# Sort both lists by versionDate descending
+# Sort by versionDate descending
 featured.sort(key=lambda x: parse_date(x['versionDate']), reverse=True)
 others.sort(key=lambda x: parse_date(x['versionDate']), reverse=True)
 
-# Build final JSON
+# Final JSON output
 output = {
     'name': 'ParadoxTime Repo | Ethmod',
     'identifier': 'fyi.ethsign.repo',
@@ -75,3 +95,11 @@ output = {
 with open('sidestore-source.json', 'w') as f:
     json.dump(output, f, indent=2)
 "
+
+      - name: Commit and Push Changes
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add sidestore-source.json
+          git commit -m "Update sidestore-source.json from EthSign (3 versions, featured, sorted)"
+          git push
