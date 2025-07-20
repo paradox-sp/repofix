@@ -63,7 +63,7 @@ jobs:
                   }
               })
 
-          with open("ethsign-fix.json", "w") as f:
+          with open("ethsign-repo-fix.json", "w") as f:
               json.dump(converted, f, indent=2)
           EOF
 
@@ -71,6 +71,6 @@ jobs:
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
-          git add ethsign-fix.json
+          git add ethsign-repo-fix.json
           git commit -m "Auto-convert EthSign repo to AltStore format" || echo "No changes to commit"
           git push
