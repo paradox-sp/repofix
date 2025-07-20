@@ -2,7 +2,7 @@
   "name": "ParadoxTime Repo | Spry",
   "identifier": "aiorepo.paradoxtime.tk",
   "iconURL": "https://paradoxtime.tk/img/pdt_logo_nobg_shadow.png",
-  "subtitle": "Fixes",
+  "subtitle": "From zx's AIO repo, fixed for AltStore/SideStore",
   "description": "Paradoxtime Repo \u2014 fetches IPAs from zx's AIO repo and fixes duplicate issues.",
   "apps": [
     {
