@@ -49,7 +49,7 @@ jobs:
           output = {
               "name": "EthSign Apps",
               "identifier": REPO_IDENTIFIER,
-              "sourceURL": SOURCE_URL,
+              "sourceURL": "https://your-github-repo/sidestore-source.json",  # Update this!
               "iconURL": DEFAULT_ICON,
               "userinfo": {},
               "apps": []
@@ -57,81 +57,86 @@ jobs:
 
           # Process apps
           for app in src_data.get("apps", []):
-              # Skip invalid entries
               if not all(k in app for k in ["name", "bundleIdentifier", "version", "downloadURL"]):
                   continue
 
-              # Get current UTC time in ISO format
-              current_time = datetime.now(timezone.utc).astimezone(pytz.utc).isoformat()
+              # Get proper ISO 8601 timestamp
+              now = datetime.now(timezone.utc).astimezone().isoformat()
 
-              # Build version entry
+              # Build version entry (minimal required fields)
               version_entry = {
                   "version": app["version"],
-                  "date": app.get("versionDate", current_time),
+                  "date": app.get("versionDate", now),
                   "downloadURL": app["downloadURL"],
-                  "localizedDescription": app.get("localizedDescription", "Updated version"),
                   "size": app.get("size", 0),
                   "absoluteVersion": app["version"]
               }
 
-              # Build app entry
+              # Build app entry (minimal required fields)
               app_entry = {
                   "name": app["name"],
                   "bundleIdentifier": app["bundleIdentifier"],
-                  "developerName": app.get("developerName", "Unknown Developer"),
+                  "developerName": app.get("developerName", "Unknown"),
                   "version": app["version"],
-                  "versionDate": app.get("versionDate", current_time),
-                  "versionDescription": app.get("localizedDescription", "Latest version"),
+                  "versionDate": app.get("versionDate", now),
                   "downloadURL": app["downloadURL"],
-                  "localizedDescription": app.get("localizedDescription", "App from EthSign repository"),
+                  "localizedDescription": app.get("localizedDescription", "App from EthSign"),
                   "iconURL": app.get("iconURL", DEFAULT_ICON),
-                  "tintColor": app.get("tintColor", "#FF6B6B"),
                   "size": app.get("size", 0),
-                  "screenshotURLs": app.get("screenshotURLs", []),
-                  "subtitle": app.get("subtitle", "Modified app"),
                   "absoluteVersion": app["version"],
-                  "appID": app["bundleIdentifier"],
+                  "appID": app["bundleIdentifier"],  # Must match bundleIdentifier
                   "versions": [version_entry]
               }
+
+              # Optional fields (only add if they exist)
+              for field in ["subtitle", "tintColor", "screenshotURLs"]:
+                  if field in app:
+                      app_entry[field] = app[field]
 
               output["apps"].append(app_entry)
 
           # Save output
           with open("sidestore-source.json", "w") as f:
-              json.dump(output, f, indent=2)
-          print(f"✅ Successfully converted {len(output['apps'])} apps")
+              json.dump(output, f, indent=2, ensure_ascii=False)
+          print(f"✅ Generated {len(output['apps'])} apps")
           EOF
 
       - name: Validate JSON
         run: |
-          # Install jq if not present
           sudo apt-get install -y jq
-
-          # Basic JSON validation
+          
+          # Check basic JSON validity
           if ! jq empty sidestore-source.json; then
             echo "❌ Invalid JSON structure"
             exit 1
           fi
 
-          # Check required fields
-          REQUIRED=(
-            '.name'
+          # Check critical SideStore requirements
+          REQUIRED_FIELDS=(
             '.identifier'
             '.sourceURL'
             '.apps[].name'
             '.apps[].bundleIdentifier'
             '.apps[].version'
             '.apps[].downloadURL'
+            '.apps[].absoluteVersion'
+            '.apps[].appID'
             '.apps[].versions[].version'
             '.apps[].versions[].downloadURL'
           )
 
-          for field in "${REQUIRED[@]}"; do
+          for field in "${REQUIRED_FIELDS[@]}"; do
             if ! jq -e "$field" sidestore-source.json >/dev/null; then
               echo "❌ Missing required field: $field"
               exit 1
             fi
           done
+
+          # Verify appID matches bundleIdentifier
+          if jq -e '.apps[] | select(.appID != .bundleIdentifier)' sidestore-source.json >/dev/null; then
+            echo "❌ Found apps where appID doesn't match bundleIdentifier"
+            exit 1
+          fi
 
           echo "✅ All validations passed"
 
