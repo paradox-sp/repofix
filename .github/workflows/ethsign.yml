@@ -36,7 +36,7 @@ jobs:
           SOURCE_URL = "https://repo.ethsign.fyi/"
           REPO_IDENTIFIER = "fyi.ethsign.repo"
           DEFAULT_ICON = "https://paradoxtime.tk/img/pdt_logo_nobg_shadow.png"
-          MAX_VERSIONS_PER_APP = 5  # Keep 3 newest versions per app
+          MAX_VERSIONS_PER_APP = 3  # Keep 3 newest versions per app
           YOUR_REPO_URL = "https://raw.githubusercontent.com/paradox-sp/repofix/main/sidestore-source.json"
 
           # Fetch source
@@ -51,11 +51,13 @@ jobs:
 
           # Transform to SideStore format
           output = {
-              "name": "EthSign Apps",
+              "name": ""ParadoxTime Repo | Ethmod",
               "identifier": REPO_IDENTIFIER,
               "sourceURL": YOUR_REPO_URL,
               "iconURL": DEFAULT_ICON,
               "userinfo": {},
+              "subtitle": "From EthSign repo, fixed for AltStore/SideStore",
+              "description": "ParadoxTime Repo — fetches IPAs from EthSign repo and fixes json format for altstore.",
               "apps": []
           }
 
