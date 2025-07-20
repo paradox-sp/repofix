@@ -1,0 +1,76 @@
+name: Fetch and Convert EthSign Repo to AltStore Format
+
+on:
+  schedule:
+    - cron: '0 0 * * *'
+  workflow_dispatch:
+
+jobs:
+  convert-and-publish:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v3
+
+      - name: Set up Python 3.10
+        uses: actions/setup-python@v4
+        with:
+          python-version: '3.10'
+
+      - name: Install dependencies
+        run: pip install requests
+
+      - name: Fetch, convert, and save EthSign repo JSON as AltStore format
+        run: |
+          python <<EOF
+          import requests
+          import json
+
+          url = "https://repo.ethsign.fyi/"
+          r = requests.get(url)
+          r.raise_for_status()
+          src = r.json()
+
+          converted = {
+              "name": "ParadoxTime Repo | Ethmod",
+              "identifier": "ethmod.paradoxtime.tk",
+              "iconURL": "https://paradoxtime.tk/img/pdt_logo_nobg_shadow.png",
+              "subtitle": "From EthSign repo, fixed for AltStore/SideStore",
+              "description": "ParadoxTime Repo — fetches IPAs from EthSign repo and fixes duplicate issues.",
+              "apps": []
+          }
+
+          for app in src.get("apps", []):
+              converted["apps"].append({
+                  "name": app.get("name", "Unnamed App"),
+                  "developerName": app.get("developerName", "Unknown"),
+                  "bundleIdentifier": app.get("bundleIdentifier"),
+                  "localizedDescription": app.get("localizedDescription", ""),
+                  "iconURL": app.get("iconURL", ""),
+                  "versions": [
+                      {
+                          "version": app.get("version", "0.0"),
+                          "date": app.get("versionDate", "2025-01-01"),
+                          "size": app.get("size", 0),
+                          "downloadURL": app.get("downloadURL"),
+                          "localizedDescription": app.get("localizedDescription", "")
+                      }
+                  ],
+                  "appPermissions": {
+                      "entitlements": [],
+                      "privacy": {}
+                  }
+              })
+
+          with open("ethsign-fix.json", "w") as f:
+              json.dump(converted, f, indent=2)
+          EOF
+
+      - name: Commit and push changes
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add ethsign-fix.json
+          git commit -m "Auto-convert EthSign repo to AltStore format" || echo "No changes to commit"
+          git push
