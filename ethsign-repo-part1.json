@@ -39,7 +39,8 @@
           "com.apple.security.cs.allow-jit"
         ],
         "privacy": {}
-      }
+      },
+      "localizedDescription": "MamicECU 1.5.3 UGB edition\n(PSP 3DS NDS GBA NES GO etc)(Nintendo switch emulator)(compatible with jit)\n1.5.3 changelog\n3h ago\n\ufeff\ufeffAdded Virtual Boy support\n\ufeff\ufeffAdded NDS WFC functionality for online gameplay\n\ufeff\ufeffAdded NDS BIOS configuration & HomeMenu access\n\ufeff\ufeffNew NDS GBA Slot2 feature: Insert GBA ROMs to unlock easter eggs and transfer data\n\ufeff\ufeffPSKM compatibility for editing NDS/GBA/GBC/GB saves\n\ufeff\ufeffRe-fixed cover image zoom issue\n\ufeff\ufeffRe-addressed speed abnormality problem\n\ufeff\ufeffFixed C/Z button mapping in 6-button layout\n\ufeff\ufeffOther bug fixes\nupdated to 1.5.0\n\ufeff\ufeffAdded Nintendo 64 (N64) support\n\ufeff\ufeffAdded N64 Transfer Pak functionality for loading GB/ GBC save data\n\ufeff\ufeffAdded multi-disc support for SEGA CD/Mega-CD\n(MCD) and Saturn (SS) games via.m3u/.cue.bin)\n\ufeff\ufeffAdded Multi-disc Assistant for generating .mu files\n\ufeff\ufeffSeparated Game Boy (GB) and Game Boy Color (GBC)\nmanagement\n\ufeff\ufeffOptimized button mapping with joystick directional support\n\ufeff\ufeffFixed unresponsive Saturn L/R buttons\n\ufeff\ufeffFixed cover image glitches during page scrolling\n\ufeff\ufeffFixed file manager failure when adding skins\n\ufeff\ufeffFixed crash caused by accidental JIT activation in unsupported 3DS environments\n\ufeff\ufeffFixed third-party skin shortcuts malfunction in 3DS\n\ufeff\ufeffFixed incorrect aspect ratios on certain platforms\n\ufeff\ufeffFixed game speed inaccuracies on specific devices\n\ufeff\ufeffOther bug fixes and improvements\n1.4.0\n-play PSP 3DS NDS GBA NES GO, Games\n-injected with keychain and sideload fix and file picker fix\n-tested on eth elite cert (jit enabled)\n-available in app store but when you sideload it you get better performance because it works with JIT\n-How to enable jit on elite cert HERE\n\nMade by @moeotf \nDecrypted by Mr eeves bot (McDonald's wifi hacker) @eeveedecrypterbot\nNeed a certificate? Contact @eth4dmin\nNew channel: https://t.me/ethMods\nNew group to chat: https://t.me/ethmodsgroup\nEthMods Repo: https://repo.ethsign.fyi\nprepatched already thanks to @asdfzxcvbn0 ipapatch bot found here"
     },
     {
       "name": "Pocket City 2",
@@ -58,7 +59,8 @@
       "appPermissions": {
         "entitlements": [],
         "privacy": {}
-      }
+      },
+      "localizedDescription": "Pocket City 2 1.085\nApp Store Link ($5): https://apps.apple.com/us/app/pocket-city-2/id1533709428\n\nBuild and explore your own city in this 3D sequel to the original Pocket City!\nCreate using roads, zones, landmarks, and special buildings. Drop your avatar into the world and roam freely. Buy your own house, host events, survive disasters, and live the life of a successful mayor!\n\nNo microtransactions or long wait times, everything is unlocked and rewarded through gameplay!\n\nFEATURES\n\u2022Build a unique city by creating zones and new special buildings\n\u2022Explore your city by controlling your avatar directly\n\u2022Enjoy a dynamic environment with seasons and a day night cycle\n\u2022Play minigames like street racing, plane flying, and much more\n\u2022Trigger fun events like block parties, or disasters like tornadoes\n\u2022Complete quests to earn XP and money\n\u2022Customize your avatar with clothing and tools\n\u2022Become a homeowner and furnish your own house\n\u2022Visit buildings in your city to buy items and find loot\n\u2022Invest and build long-term mega projects\n\u2022Encounter and help NPCs around your city\n\u2022Spend research points to gain valuable perks\n\u2022Invite a friend to collaborate on your city in real-time\n\u2022Unlock special rewards by competing against rival towns\n\u2022Unleash your creative side in Sandbox Mode\n\u2022Play in both landscape and portrait mode\n\nMade by @yougottabillieve \ndecrypted by @eeveedecryptorbot\nNew channel: https://t.me/ethMods\nEthMods Group: https://t.me/ethmodsgroup\nEthMods Repo: https://repo.ethsign.fyi\nneed a cert dm @eth4dmin \nprepatched already thanks to @asdfzxcvbn0 ipapatch bot found here"
     },
     {
       "name": "Stremio",
@@ -91,7 +93,8 @@
       "appPermissions": {
         "entitlements": [],
         "privacy": {}
-      }
+      },
+      "localizedDescription": "Stremio 1.2.0 build 11\n- Stream Movies & Tv shows\n- Requires Debrid Service \n- Direct Torrent streaming is not supported\n- SideloadFix included\n\nChangelogs:\n- Bug fixes\n\nMade by @moeotf \ndecrypted by @Qwert_Yapur\nNeed a certificate? Contact @eth4dmin\nNew channel: https://t.me/ethMods\nEthMods Repo: https://repo.ethsign.fyi\nprepatched already thanks to @asdfzxcvbn0 ipapatch bot found here"
     },
     {
       "name": "\u200eWhatsApp",
@@ -124,7 +127,8 @@
       "appPermissions": {
         "entitlements": [],
         "privacy": {}
-      }
+      },
+      "localizedDescription": "WA v25.19.83 | Watusi License v1.2.77\nFreemium tweak for WhatsApp by Fouad Raheb. \n\nTo unlock all features and remove ads, purchase the license for 10$ or subscribe to Regram for $2 a month from Fouad\u2019s Patreon for access to both Regram and Watusi licensed features.\n\nMade by @yougottabillieve\nNew channel: https://t.me/ethMods\nEthMods Repo: https://repo.ethsign.fyi\nEthMods Group: https://t.me/ethmodsgroup\nNeed A Cert? DM @eth4dmin prepatched already thanks to @asdfzxcvbn0 ipapatch bot found here"
     },
     {
       "name": "NYT Cooking",
@@ -150,7 +154,8 @@
       "appPermissions": {
         "entitlements": [],
         "privacy": {}
-      }
+      },
+      "localizedDescription": "NYT Cooking: Recipes & Tips 4.132.1\n- AppStore Link\n- Recipe & Meal Planning App\n- Subscription Unlocked\n- Minimum iOS/iPadOS 17.0\n\nCreated by ethTeam\nCrack by @VAXMG\nRequest Apps Here\nNeed a certificate? Contact @eth4dmin\nNew main channel: https://t.me/ethMods\nethSign Repo: https://repo.ethsign.fyi"
     },
     {
       "name": "Lingvist",
@@ -176,7 +181,8 @@
       "appPermissions": {
         "entitlements": [],
         "privacy": {}
-      }
+      },
+      "localizedDescription": "Lingvist: Learn Languages Fast 2.63.2\n- AppStore Link\n- Learn Languages\n- Subscription Unlocked\n- Minimum iOS/iPadOS 13.0\n\nCreated by ethTeam\nCrack by @VAXMG\nRequest Apps Here\nNeed a certificate? Contact @eth4dmin\nNew main channel: https://t.me/ethMods\nethSign Repo: https://repo.ethsign.fyi"
     },
     {
       "name": "Bear",
@@ -202,7 +208,8 @@
       "appPermissions": {
         "entitlements": [],
         "privacy": {}
-      }
+      },
+      "localizedDescription": "Bear - Markdown Notes 2.4.5\n- AppStore Link\n- Note Taking App\n- Subscription Unlocked\n- Minimum iOS/iPadOS 15.6\n- Trollstore or JB Only\n\nCreated by ethTeam\nCrack by @VAXMG\nRequest Apps Here\nNeed a certificate? Contact @eth4dmin\nNew main channel: https://t.me/ethMods\nethSign Repo: https://repo.ethsign.fyi"
     },
     {
       "name": "Scanner Free",
@@ -228,7 +235,8 @@
       "appPermissions": {
         "entitlements": [],
         "privacy": {}
-      }
+      },
+      "localizedDescription": "My Scanner: Scan To PDF & Edit 8.6\n- AppStore Link\n- PDF Scanner With Powerful Tools: PDF Editing, OCR, Convert PDFs, Fill & Sign, AI Tools,Scan QRCodes,Grammar Check,Erase Text, and More.\n- Minimum iOS/iPadOS 15.5\n- Subscription Unlocked\n\nCreated by ethTeam\nCrack by @VAXMG\nRequest Apps Here\nNeed a certificate? Contact @eth4dmin\nNew main channel: https://t.me/ethMods\nethSign Repo: https://repo.ethsign.fyi"
     },
     {
       "name": "Gibson",
@@ -261,7 +269,8 @@
       "appPermissions": {
         "entitlements": [],
         "privacy": {}
-      }
+      },
+      "localizedDescription": "Gibson: Learn & Play Guitar 5.5.10\n- AppStore Link\n- Guitar learning app with lessons, tutorials, and practice tools.\n- Subscription Unlocked\nMinimum iOS/iPadOS 15.0\n\nCreated by ethTeam\nCrack by @VAXMG\nRequest Apps Here\nNeed a certificate? Contact @eth4dmin\nNew main channel: https://t.me/ethMods\nethSign Repo: https://repo.ethsign.fyi"
     },
     {
       "name": "Xodo",
@@ -280,7 +289,8 @@
       "appPermissions": {
         "entitlements": [],
         "privacy": {}
-      }
+      },
+      "localizedDescription": "Fill and Sign PDF Docs | Xodo 9.3.0\n- AppStore Link\n- PDF Editor\n- Login To Activate Subscription\n- Minimum iOS/iPadOS 16.0\n\nCreated by ethTeam\nCrack by @VAXMG\nRequest Apps Here\nNeed a certificate? Contact @eth4dmin\nNew main channel: https://t.me/ethMods\nethSign Repo: https://repo.ethsign.fyi"
     },
     {
       "name": "Pixelmator",
@@ -299,7 +309,8 @@
       "appPermissions": {
         "entitlements": [],
         "privacy": {}
-      }
+      },
+      "localizedDescription": "Pixelmator 3.1.15(patched)\n- photo editor by apple \n-injected with keychain and sideload fix\n-didn't touch iaps just the app itself\n\nApp store link ($10)\n\nhttps://apps.apple.com/us/app/pixelmator/id924695435\n\nMade by @moeotf \nNeed a certificate? Contact @eth4dmin\nNew channel: https://t.me/ethMods\nEthMods Repo: https://repo.ethsign.fyi\nprepatched already thanks to @asdfzxcvbn0 ipapatch bot found here"
     },
     {
       "name": "Twitter",
@@ -332,7 +343,8 @@
       "appPermissions": {
         "entitlements": [],
         "privacy": {}
-      }
+      },
+      "localizedDescription": "X 11.8.5 TwiGalaxy 1.9 + Neobird 2.0 BH5.1 Beta 3 adfree (with login fix)\n\nFor fresh installs: on the home screen hold down on Twitter and click \"new tweet\" to get to the login screen\nToday's changes:\nCombined Twigalaxy 1.9 with neobird 2.0BH5.1 beta 3\nMade by @moeotf \ndecrypted by @eeveedecrypterbot\nNeed a certificate? Contact @eth4dmin\nNew channel: https://t.me/ethMods\nEthMods Repo: https://repo.ethsign.fyi\nEthmods Group channel: https://t.me/ethModsGroup\nneed a cert dm @eth4dmin\nprepatched already thanks to @asdfzxcvbn0 ipapatch bot found here"
     },
     {
       "name": "TikTok",
@@ -365,7 +377,8 @@
       "appPermissions": {
         "entitlements": [],
         "privacy": {}
-      }
+      },
+      "localizedDescription": "TikTok 40.8.0 RX1.3.2 & DL2.1.3(patched)\n\nDL requires elite cert or a license and rx also takes a license\n\nsome people requested it for auto clicker etc..You still need a license for RX.\nAdded open in TikTok and keychain\nMade by @moeotf \ndecrypted by @eeveedecrypterbot\nNeed a certificate? Contact @eth4dmin\nNew channel: https://t.me/ethMods\nEthmods Group channel: https://t.me/ethModsGroup\nEthMods Repo: https://repo.ethsign.fyi\nprepatched already thanks to @asdfzxcvbn0 ipapatch bot found here"
     },
     {
       "name": "Videoleap",
@@ -398,7 +411,8 @@
       "appPermissions": {
         "entitlements": [],
         "privacy": {}
-      }
+      },
+      "localizedDescription": "Videoleap Pro 2.73 (patched)\n-Updated videoleap\n-AI video and photo editor\n-Pro unlocked\n-injected with keychain and sideload fix\n\nMade by @moeotf \ndecrypted by @IPADecryptBot\nNeed a certificate? Contact @eth4dmin\nNew channel: https://t.me/ethMods\nEthMods Repo: https://repo.ethsign.fyi"
     },
     {
       "name": "Captions",
@@ -431,7 +445,8 @@
       "appPermissions": {
         "entitlements": [],
         "privacy": {}
-      }
+      },
+      "localizedDescription": "Captions 12.27.0 pro patched\n-Updated captions to 12.27.0 PRO\n-Once you get past the login screen (might have to restart app and try multiple times) then pro will be activated - https://tinyurl.com/Max-subscription\n-Generate and edit talking videos with Al. Captions is a video creation and editing app that harnesses artificial intelligence to allow anyone, anywhere to produce studio-quality videos from their iPhone in seconds.\nCaptions can help at every step of the video creation process, from scripting and recording (or generating) - to editing and sharing.\n-injected with sideloadkeychainfix and the crack\nMade by @moeotf \ndecrypted by @IPADecryptBot\nNeed a certificate? Contact @eth4dmin\nNew channel: https://t.me/ethMods\nEthMods Repo: https://repo.ethsign.fyi"
     },
     {
       "name": "PicsArt",
@@ -464,7 +479,8 @@
       "appPermissions": {
         "entitlements": [],
         "privacy": {}
-      }
+      },
+      "localizedDescription": "PICSART 27.9.3 Pro Patched\n- updated picsart to 27.9.3 pro\n- injected with pro \n-injected with keychain and sideload fix\n-This version uses a new crack made by teamETH so if you have issues delete the old version then install this version\n\nMade by @moeotf \ndecrypted by @IPADecryptBot\nNeed a certificate? Contact @eth4dmin\nNew channel: https://t.me/ethMods\nEthmods Group channel: https://t.me/ethModsGroup\nEthMods Repo: https://repo.ethsign.fyi\nprepatched already thanks to @asdfzxcvbn0 ipapatch bot found here"
     },
     {
       "name": "Textastic",
@@ -497,7 +513,8 @@
       "appPermissions": {
         "entitlements": [],
         "privacy": {}
-      }
+      },
+      "localizedDescription": "Textastic 10.7.1 pro (patched) (file picker fix included) \n- updated to 10.7.1\n-injected with keychain and sideload fix\n-app store link below\n-crack by \u041d\u0438\u043a\u0438\u0442\u0430\n-tested on eth cert with esign\n\nNeeded for the carrot and other app crash entitlements fix found here\n\nhttps://apps.apple.com/us/app/textastic-code-editor/id1049254261\n\nMade by @moeotf \nNeed a certificate? Contact @eth4dmin\ndecrypted by @IPADecryptBot\nNew channel: https://t.me/ethMods\nEthMods Repo: https://repo.ethsign.fyi\nprepatched already thanks to @asdfzxcvbn0 ipapatch bot found here"
     },
     {
       "name": "Pirates Outlaws",
@@ -516,7 +533,8 @@
       "appPermissions": {
         "entitlements": [],
         "privacy": {}
-      }
+      },
+      "localizedDescription": "Pirates Outlaws 4.20\n- AppStore Link\n- Paid Game $0.99\n- Minimum iOS/iPadOS 9.0\n- Decrypted Exclusively by @VAXMG\n\nCreated by ethTeam\nRequest Apps Here\nNeed a certificate? Contact @eth4dmin\nNew main channel: https://t.me/ethMods\nethSign Repo: https://repo.ethsign.fyi"
     },
     {
       "name": "Wipr",
@@ -535,7 +553,8 @@
       "appPermissions": {
         "entitlements": [],
         "privacy": {}
-      }
+      },
+      "localizedDescription": "Wipr 2 v2.9.1\n\nApp Store Link ($5): https://apps.apple.com/us/app/wipr-2/id1662217862\n\nWipr blocks ads, popups, trackers, cookie warnings, and other nasty things that make the web slow and ugly.\n\nWebsites in Safari will look clean, load fast, and stop invisibly tracking you. You\u2019ll notice significant improvements to your battery life and data usage. Setup is a snap.\n\nWipr\u2019s blocklist is updated twice a week automatically, and has enhanced versions for the following languages: Chinese, Czech, Danish, Dutch, Estonian, Finnish, French, German, Greek, Hebrew, Hindi, Hungarian, Icelandic, Italian, Japanese, Korean, Macedonian, Norwegian, Polish, Romanian, Russian, Slovak, Spanish, Thai, and Vietnamese. \n\nMade by @yougottabillieve \ndecrypted by @eeveedecryptorbot\nNew channel: https://t.me/ethMods\nEthMods Group: https://t.me/ethmodsgroup\nEthMods Repo: https://repo.ethsign.fyi\nneed a cert dm @eth4dmin"
     },
     {
       "name": "StopTheMadness Pro",
@@ -554,7 +573,8 @@
       "appPermissions": {
         "entitlements": [],
         "privacy": {}
-      }
+      },
+      "localizedDescription": "StopTheMadness Pro 20.0\nApp Store Link ($15): https://apps.apple.com/us/app/stopthemadness-pro/id6471380298\n\nStopTheMadness Pro is a web browser extension that stops websites from making your browser harder to use, and it protects your privacy on the web. With a huge number of unique features, StopTheMadness Pro is one of a kind! Made by indie developer Jeff Johnson. The support link has documentation and my email address. StopTheMadness Pro includes extensions for Safari, Safari web apps, Chrome, and Firefox on macOS, as well as Safari on iOS and iPadOS.\n\nWhat's new in StopTheMadness Pro:\n\n\u2022 Presets: Easily assign the same specific website options to multiple websites\n\u2022 Customize the list of query tracking parameters automatically removed from URLs, including URL domain-specific removal\n\u2022 Run custom JavaScript snippets at any time\n\u2022 Set custom cookies on websites\n\u2022 Stop web animations\n\u2022 Stop websites from overwriting your system clipboard\n\u2022 Automatically select YouTube video subtitles\n\u2022 Automatically toggle off the YouTube autoplay button\n\u2022 Add your own private comments to website options\n\u2022 Temporarily disable the extension just on the current page\n\u2022 Hide Page Elements: New global list separate from the custom CSS option, so you can hide web page elements without creating new website options\n\u2022 Contextual menu item for Hide Page Elements\n\u2022 Copy Link URL and Copy Link Title use the document URL and title if you're not hovering over a link\n\u2022 New option to open URLs in a non-private window in Web Rules and Tab Rules\n\u2022 Hide \"We'd like to send you some notifications\" banners on many websites\n\u2022 Show the concealed password in password fields\n\u2022 Stop websites from disabling text replacements in Safari\n\u2022 Stop websites from changing the cursor and hiding the scrollbar\n\u2022 Many other improvements\n\nOf course StopTheMadness Pro still includes the features that made StopTheMadness famous:\n\n\u2022 Stop websites from disabling user interface features in Safari such as text selection, copy, cut, and paste, drag and drop, contextual menus, AutoFill, \u2318-key keyboard shortcuts, and \u2318-click to open links in a new tab\n\u2022 Stop clickjacking on Google Search, Gmail, Facebook, and DuckDuckGo\n\u2022 Stop hyperlink auditing (anchor \"ping\")\n\u2022 Stop tracking beacons (Navigator.sendBeacon)\n\u2022 Bypass well-known URL shorteners such as bit.ly, tinyurl, and t.co\n\u2022 Stop autoplaying audio and video\n\u2022 Always show Safari's native video controls, including Picture-in-Picture\n\u2022 Auto-skip YouTube video ads\n\u2022 Auto-select YouTube video quality\n\u2022 Auto-select video playback speed\n\u2022 Hide \"Sign in with Google\" on all websites\n\u2022 Font substitution on websites\n\u2022 Website-specific CSS and JavaScript\n\u2022 Custom URL redirects\n\u2022 Stop losing characters in maxlength password fields\n\u2022 Force links to open in the current tab instead of a new tab, or force links to open in a new tab instead of the current tab\n\u2022 Force images to the front so you can drag and use the contextual menu\n\u2022 Automatically open clicked links in other apps\n\u2022 Contextual menu item to copy link titles\n\u2022 Keyboard shortcuts to copy link titles, link URLs, and open links in other apps\n\u2022 And many more features! \n\nMade by @yougottabillieve \ndecrypted by @eeveedecryptorbot\nNew channel: https://t.me/ethMods\nEthMods Group: https://t.me/ethmodsgroup\nEthMods Repo: https://repo.ethsign.fyi\nneed a cert dm @eth4dmin"
     },
     {
       "name": "!Vibes",
@@ -573,7 +593,8 @@
       "appPermissions": {
         "entitlements": [],
         "privacy": {}
-      }
+      },
+      "localizedDescription": ""
     },
     {
       "name": "!Habits",
@@ -592,7 +613,8 @@
       "appPermissions": {
         "entitlements": [],
         "privacy": {}
-      }
+      },
+      "localizedDescription": "The entire not boring collection with iaps unlocked\n\nMade by @moeotf \nNeed a certificate? Contact @eth4dmin\nNew channel: https://t.me/ethMods\nEthMods Repo: https://repo.ethsign.fyi\nprepatched already thanks to @asdfzxcvbn0 ipapatch bot found here"
     },
     {
       "name": "simple-weather",
@@ -618,7 +640,8 @@
       "appPermissions": {
         "entitlements": [],
         "privacy": {}
-      }
+      },
+      "localizedDescription": ""
     },
     {
       "name": "simple-timer",
@@ -637,7 +660,8 @@
       "appPermissions": {
         "entitlements": [],
         "privacy": {}
-      }
+      },
+      "localizedDescription": ""
     },
     {
       "name": "andyworks-calculator",
@@ -656,7 +680,8 @@
       "appPermissions": {
         "entitlements": [],
         "privacy": {}
-      }
+      },
+      "localizedDescription": ""
     },
     {
       "name": "!Camera",
@@ -675,7 +700,8 @@
       "appPermissions": {
         "entitlements": [],
         "privacy": {}
-      }
+      },
+      "localizedDescription": "Not boring camera 1.31 pro (patched)(unlocked iaps)\n- updated to 1.31\n-injected with keychain and sideload fix and crack by moeotf\n-app store link below\nRequested by @vvvreseller_manager\n\nhttps://apps.apple.com/us/app/not-boring-camera/id6737783441 \n\nMade by @moeotf \nNeed a certificate? Contact @eth4dmin\nNew channel: https://t.me/ethMods\nEthMods Repo: https://repo.ethsign.fyi\nprepatched already thanks to @asdfzxcvbn0 ipapatch bot found here"
     },
     {
       "name": "SoundCloud",
@@ -708,7 +734,8 @@
       "appPermissions": {
         "entitlements": [],
         "privacy": {}
-      }
+      },
+      "localizedDescription": "SoundCloud 8.22.2 Adfree (no music ads or visual ads) (already patched)\n-Scmusicplus 24.9.1-3 for the audio ads\n-another adblocker dylib for the visual ads\n-already fixed the link on libsub being in the framework folder instead of executable root so you can use it with feather esign etc\n-keychain and sideload fixer\n-only tested on eth cert with esign. Didn't test on trollstore or live container etc\n-might not play in your region. Tested in the US, also needs a cert with app groups configured\n\nIf it crashes follow the guide below\nhttps://t.me/ethModsChat/67356\n\nMade by @moeotf \ndecrypted by @eeveedecrypterbot (can also decrypt testflight apps) \nNeed a certificate? Contact @eth4dmin\nNew channel: https://t.me/ethMods\nEthMods Repo: https://repo.ethsign.fyi\nprepatched already thanks to @asdfzxcvbn0 ipapatch bot found here"
     },
     {
       "name": "GoogleNews",
@@ -741,7 +768,8 @@
       "appPermissions": {
         "entitlements": [],
         "privacy": {}
-      }
+      },
+      "localizedDescription": "Google news 5.107 adfree\n-updated Google news to 5.107 PRO (today's release)\n-injected with no ads\n-injected with sideload fix\n\nMade by @moeotf decrypted by @eeveedecrypterbot\nNeed a certificate? Contact @eth4dmin\nNew channel: https://t.me/ethMods\nEthMods Repo: https://repo.ethsign.fyi"
     },
     {
       "name": "RadarScope",
@@ -760,7 +788,8 @@
       "appPermissions": {
         "entitlements": [],
         "privacy": {}
-      }
+      },
+      "localizedDescription": "RadarScope 5.4.2\nApp Store Link ($10): https://apps.apple.com/us/app/radarscope/id288419283 \n\nDISCLAIMER: Paid apps ONLY. No iAP\n\nRadarScope is an AMS-award-winning weather visualization tool that empowers meteorologists, public safety officials, storm spotters, and weather enthusiasts to view a full suite of single-site radar data and related severe weather products. Your initial purchase provides professional radar visualization in a fully native app, free from distracting and invasive practices, with optional subscription packages to add even more capabilities.\n\nWhether you\u2019re scanning for a mesocyclone\u2019s tell-tale hook echo, pinpointing the landfall of a hurricane\u2019s eye wall, or identifying velocity couplet, hail spike, or debris ball signatures, RadarScope displays native radar data in its original radial format. You see what the radar sees almost as soon as the radar sees it, with automatic updates every two to ten minutes depending on the radar\u2019s scanning strategy.\n\nYour initial app purchase includes the following:\n\n\u2022Full suite of single-site radar products for the US, Canada, Guam, Denmark, Finland, and Germany\n\u20226-frame radar loops\n\u2022Two built-in providers for radar data\n\u2022Tornado, thunderstorm, flash flood, special marine, snow squall, and extreme wind warnings in the US\n\u2022Selected severe weather warnings in Canada and Australia\n\u2022NWS-generated storm tracks with hail, TVS, and mesocyclone attributes\n\u2022Inspector and distance tools\n\u2022Color palette options for radar data\n\u2022AllisonHouse data plan integration\n\u2022Spotter Network integration for storm and location reporting\n\u2022mPING integration for submitting weather reports to NSSL\n\u2022Bundled maps with political boundaries, water bodies, and major highways, optimized for low-bandwidth use\n\u2022Support for widgets and complications \nMade by @yougottabillieve \ndecrypted by @eeveedecryptorbot\nNew channel: https://t.me/ethMods\nEthMods Group: https://t.me/ethmodsgroup\nEthMods Repo: https://repo.ethsign.fyi\nneed a cert dm @eth4dmin"
     },
     {
       "name": "Narwhal",
@@ -779,7 +808,8 @@
       "appPermissions": {
         "entitlements": [],
         "privacy": {}
-      }
+      },
+      "localizedDescription": "Narwhal 2025.2 Pro Reddit client\n- updated to 2025.2\n-CLICK PURCHASE THEN CANCEL TO ACTIVATE PRO\n-injected with keychain and sideload fix\n\nNarwhal 2 is the most customizable app for Reddit. This is an all new app designed from the ground up to be the successor to Narwhal 1. All of these features were designed specifically for fast, efficient use of Reddit:\n\ufeff\ufeffView any and all subreddits\n\ufeff\ufeffA seamless experience to see a link and its comments at the same time\n\ufeff\ufeffVoting on posts and comments through a simple swipe\n\ufeff\ufeffCreate your own themes\n\ufeff\ufeffHide and save links to your reddit account\n\ufeff\ufeffAdd new posts to your favorite subreddit\n\ufeff\ufeffView all of your orangereds\n\ufeff\ufeffWhat are you waiting for!? Go ahead and download and browse reddit as much as you want!\n\n\nApp store link \nhttps://apps.apple.com/us/app/narwhal-for-reddit/id845422455\n\nMade by @moeotf \nNeed a certificate? Contact @eth4dmin\nNew channel: https://t.me/ethMods\nEthMods Repo: https://repo.ethsign.fyi\nprepatched already thanks to @asdfzxcvbn0 ipapatch bot found here"
     },
     {
       "name": "AI Liberator",
@@ -798,7 +828,8 @@
       "appPermissions": {
         "entitlements": [],
         "privacy": {}
-      }
+      },
+      "localizedDescription": "AI Liberator v1.3\nApp Store Link ($5): https://apps.apple.com/us/app/ai-liberator/id6740617831\n\nThis is a very simple yet powerful tool that will convert a prompt an AI would normally struggle to answer into one it will answer.\n\nHere's how it works:\n\n1) Select your AI of choice\n\n2) Type in your spiciest prompt and press the \"Liberate\" button to copy the new prompt to your clipboard\n\n3) Open up you AI chat of choice, and paste in the new liberated prompt to get your response\n\nThe following AI models are supported:\n\n- GPT-4o-NEW/o3-MINI, GPT-4o (Chat), GPT-4o-mini, GPT-3.5, System Prompt Generator (playground), and Custom GPT's\n- Claude 3.7 Sonnet, Claude 3.5 Sonnet 20241022, Claude 3.5, Claude-3 OPUS\n- Gemini 2.0 Pro Experimental, GEMINI-2.0-FLASH-THINKING-EXP-01-21, GEMINI-2.0-FLASH-THINKING-EXP-01-21, GEMINI EXPERIMENTAL 1206, GEMINI FLASH 2.0, GEMINI EXPERIMENTAL 1114, GEMINI-1.5-PRO-002, GEMINI-1.5-FLASH-002, GEMINI 1.5 PRO EXPERIMENTAL 0801, GEMINI 1.5 PRO\n- LLAMA-3.3-70B, LLAMA-3.1-405B, LLAMA-3-70B\n- Nova Models\n- QWEN Thinking QWQ, QWEN 2.5 Max, QWEN QWQ, QWEN 2.5 CODER, QWEN 2, QWEN\n- DeepSeek R1, DeepSeek R1 Lite, DeepSeek 2, DeepSeek\n- Mistral Large 2, Mistral Large (Le Chat)\n- Nous (Hermes 3 70B)\n- NVIDIA (LLAMA-3.1-NEMOTRON-70B, NVIDIA NEMOTRON-4-340B)\n- Perplexity\n- Reflection (REFLECTION-70B)\n- Reka (Reka Core)\n- xAI (Grok 3)\n- Zamba (Zamba-7b)\n- Fetch AI ASI1-MINI\n\nExtra features:\n\n- History that logs your prompts (can be disabled)\n \nMade by @yougottabillieve \ndecrypted by @eeveedecryptorbot\nNew channel: https://t.me/ethMods\nEthMods Group: https://t.me/ethmodsgroup\nEthMods Repo: https://repo.ethsign.fyi\nneed a cert dm @eth4dmin"
     },
     {
       "name": "MoeSports",
@@ -831,7 +862,8 @@
       "appPermissions": {
         "entitlements": [],
         "privacy": {}
-      }
+      },
+      "localizedDescription": "MoeSports 2.2 (watch live football, soccer, nfl, nba,mlb, wwe, f1, boxing, tennis, ufc and other sports for free)\n2.2= compiled with xcode 26 instead of the previous version and enabled the \"liquid glass effect\" option for the icon, which now changes themes based on light more or dark mode\n2.1= fixed an issue where sites might \njust show a blank screen\n2.0=redesigned the entire bottom buttons, and finally added an in safari adblocker!!\n1.7 changelog= complete redesign \ninspired from ios26 with it being circular and darker elements, added tennis, added a feedback botton where you can request new sports as well. More ui changes for the buttons on the bottom half coming soon!!!!\nOh and safari will now pull the dark mode version of a website if it is available\n1.6 changelog= i added boxing, wwe, F1 and cleaned up the UI a bit and added keychain fix as well\n1.5=added support for ios 15, so now works on ios 15-18\nlive streams for soccer, football, nba games, nfl games, and mlb and UFC games\n-tap on the sites name to open it in the app without leaving the app\n-watch live games and quickly switch between all 6 sports quickly\n-if a site just loads to a blank page, keep clicking on it\n-fully written in swiftUI\nMade by @moeotf \nCompiled with xcode written with swiftUI\nNeed a certificate? Contact @eth4dmin\nNew channel: https://t.me/ethMods\nEthmods Group channel: https://t.me/ethModsGroup\nEthMods Repo: https://repo.ethsign.fyi"
     },
     {
       "name": "Goblin Tools",
@@ -850,7 +882,8 @@
       "appPermissions": {
         "entitlements": [],
         "privacy": {}
-      }
+      },
+      "localizedDescription": "Goblin tools 1.1 (patched)\n- updated goblin tools to 1.1\n-injected with keychain and sideload fix\n-didn't touch iaps just the app itself\n\nApp store link ($2)\n\nhttps://apps.apple.com/us/app/goblin-tools/id6449003064\n\nMade by @moeotf \nNeed a certificate? Contact @eth4dmin\nNew channel: https://t.me/ethMods\nEthMods Repo: https://repo.ethsign.fyi\nprepatched already thanks to @asdfzxcvbn0 ipapatch bot found here"
     },
     {
       "name": "Omni",
@@ -869,7 +902,8 @@
       "appPermissions": {
         "entitlements": [],
         "privacy": {}
-      }
+      },
+      "localizedDescription": "Omni content hub 1.0 (patched)\n- updated Omni content hub to 1.0\n-injected with keychain and sideload fix\n-didn't touch iaps just the app itself\n-requires debrid service\n-fusion and stremio alternative\n\nApp store link ($10)\n\nhttps://apps.apple.com/us/app/omni-content-hub/id6741470807\n\nMade by @moeotf \nNeed a certificate? Contact @eth4dmin\nNew channel: https://t.me/ethMods\nEthMods Repo: https://repo.ethsign.fyi\nprepatched already thanks to @asdfzxcvbn0 ipapatch bot found here"
     },
     {
       "name": "YouTube Music",
@@ -904,7 +938,8 @@
           "com.apple.security.cs.allow-jit"
         ],
         "privacy": {}
-      }
+      },
+      "localizedDescription": "YouTube Music Ultimate 8.28 patched\n-Ready to use on carplay with eth @eth4dmin certs\n-no ads\n-background playback\n-download audio\n-sponsorblock\n-oled theme option\n-etc etc, many other features\n\nCompiled by @moeotf \nbased from dayanch repo here\ndecrypted by @eeveedecrypterbot\nNeed a certificate? Contact @eth4dmin\nNew channel: https://t.me/ethMods\nEthMods Repo: https://repo.ethsign.fyi\nprepatched already thanks to @asdfzxcvbn0 ipapatch bot found here"
     },
     {
       "name": "ProShot",
@@ -937,7 +972,8 @@
       "appPermissions": {
         "entitlements": [],
         "privacy": {}
-      }
+      },
+      "localizedDescription": "ProShot 9.5.6 pro (patched)(file picker fix already included)\n- updated to 9.5.6\n-injected with keychain and sideload fix and crack by moeotf\n-app store link below\n\nhttps://apps.apple.com/us/app/proshot/id924438909 ($8)\n\nMade by @moeotf \nNeed a certificate? Contact @eth4dmin\nNew channel: https://t.me/ethMods\nEthMods Repo: https://repo.ethsign.fyi\nprepatched already thanks to @asdfzxcvbn0 ipapatch bot found here"
     },
     {
       "name": "Facetune",
@@ -970,7 +1006,8 @@
       "appPermissions": {
         "entitlements": [],
         "privacy": {}
-      }
+      },
+      "localizedDescription": "Facetune Pro 3.94\n-updated facetune to 3.94\n-Keychain fix included\n-AI Photo/Video Editor\n\nMade by @moeotf decrypted by @eeveedecrypterbot (can also decrypt testflight apps)\nNeed a certificate? Contact @eth4dmin\nNew channel: https://t.me/ethMods\nEthMods Repo: https://repo.ethsign.fyi\nPrepatched with @asdfzxcvbn0 ipapatch bot found here"
     },
     {
       "name": "iMe",
@@ -1003,7 +1040,8 @@
       "appPermissions": {
         "entitlements": [],
         "privacy": {}
-      }
+      },
+      "localizedDescription": "iME 11.13.0 official not beta | TGExtra 1.3.1 (patched)(new crack)\nWon't crash anymore\n- Updated iME to 11.13.0 \n- Updated TGExtra to 1.3-1\nTGExtra by ChocolateFluffy (@swiftLeopard)\n\u2022\u26a0\ufe0fTo open the tweak settings Tap 5 Times on the Chats Tab Button. Or Go To settings and Long Press on \"Ask a Question\".\nDisable Ads\nDisable Online Status\nPrevent others from seeing you online.\nDisable Typing Status\nHide when you're typing messages.\nDisable Recording Video Status\nHide when you're recording a video.\nDisable Uploading Video Status\nHide when you're uploading a Video\nDisable Voice Message\nRecording Status\nHide when you're recording a voice message.\nDisable Voice Message\nUploading Status\nHide when you're uploading a voice message.\nDisable Uploading Photo Status\nHide when you're uploading a Photo\nDisable Uploading File Status\nHide when you're uploading a file.\nDisable Choosing Location Status\nHide when you're choosing a location.\nDisable Choosing Contact\nHide when you're choosing a contact.\nDisable Recording Round\nVideo Status\nHide when you're recording a round video.\nDisable Uploading Round\nVideo Status\nDisable Uploading Round Video Status\nDisable Speaking in Group Call Status\nHide when you're speaking in a group call.\nDisable Choosing Sticker Status\nHide when you're picking a sticker.\nDisable Emoji Interaction Status\nHide when you interact with emoji.\nDisable Emoji Acknowledgement\nStatus\nHide when you react with emoji to a message.\nREAD RECEIPTS\nDisable Message Read Receipts\nPrevent others from seeing you've read their messages.\nDisable Story Read Receipts\nPrevent others from seeing you've viewed their stories.\nMade by @moeotf \ndecrypted by @eeveedecrypterbot\nNeed a certificate? Contact @eth4dmin\nNew channel: https://t.me/ethMods\nEthmods chat channel: https://t.me/ethModsChat\nEthMods Repo: https://repo.ethsign.fyi\nprepatched already thanks to @asdfzxcvbn0 ipapatch bot found here"
     },
     {
       "name": "Instagram",
@@ -1036,7 +1074,8 @@
       "appPermissions": {
         "entitlements": [],
         "privacy": {}
-      }
+      },
+      "localizedDescription": "Instagram 388 DL 2.4.4 (already patched)(license already included with elite cert for all DL and LRD and SY tweaks just sign it)\n\nAlready posted other Instagram tweaks just search above. Just adding this to the Instagram tweaks list\nDL 2.4.4:\nDownload\n-Always download in highest quality\n100\u203a\nMedia\n-Share Media\n-No repeat for videos\nStories\n-Watch stories anonymously\n-Disable move automatically to next story\n-Enable video selection from sticker gallery\n-Show mentions\nLive\n-Watch live anonymously\nDirect Messages\n-Watch messages anonymously\n-Keep deleted messages\n-Disable typing indicator\n-Disable Screenshot notifications\n-Disable replayed media notifications\n-Bypass Voice Message Limit\n-Download Voice Messages\n-Upload Video/Audio As Voice Messages\nPopup Alert\n-Confirm Follow/UnFollow\n-Confirm Like/UnLike\nOthers\n-Copy text\n-Show Following Status\n-Show Views and Likes number\n-Always show timer in videos\nBrowser\n-Open Links in Safari\nAds\n-Remove Promo Ads\nApp Lock\n-Enable\n-keychain and sideload fix injected\n-open links in Instagram injected\nMade by @moeotf \ndecrypted by @eeveedecrypterbot\nNeed a certificate? Contact @eth4dmin\nNew channel: https://t.me/ethMods\nEthmods Group channel: https://t.me/ethModsGroup\nEthMods Repo: https://repo.ethsign.fyi\nprepatched already thanks to @asdfzxcvbn0 ipapatch bot found here"
     },
     {
       "name": "Spotify",
@@ -1069,7 +1108,8 @@
       "appPermissions": {
         "entitlements": [],
         "privacy": {}
-      }
+      },
+      "localizedDescription": "- updated spotify to v9.0.60\n\u2014 one of the most popular music streaming services!\n- EeveeSpotify v6.0.2 included\n- OpenSpotifySafariExtension included\n\n@SpotilifeIPAs"
     },
     {
       "name": "VivaCut",
@@ -1102,7 +1142,8 @@
       "appPermissions": {
         "entitlements": [],
         "privacy": {}
-      }
+      },
+      "localizedDescription": "Vivacut pro 4.3.8 (Patched)\n- updated Vivacut pro to 4.3.8\n-injected with pro crack\n-injected with sideload fix\nMade by @moeotf\ndecrypted by @eeveedecrypterbot (can also decrypt testflight apps)\nNeed a certificate? Contact @eth4dmin\nNew channel: https://t.me/ethMods\nEthMods Repo: https://repo.ethsign.fyi"
     },
     {
       "name": "R.E.P.O",
@@ -1121,7 +1162,8 @@
       "appPermissions": {
         "entitlements": [],
         "privacy": {}
-      }
+      },
+      "localizedDescription": "R.E.P.O v0.1\n\n\ud83c\uddf7\ud83c\uddfa \u0422\u0430\u043a\u0442\u0438\u0447\u0435\u0441\u043a\u0438\u0439 \u043a\u043e\u043e\u043f\u0435\u0440\u0430\u0442\u0438\u0432\u043d\u044b\u0439 survival horror \u0441 \u0444\u0438\u0437\u0438\u043a\u043e\u0439 \u0438 \u043f\u0440\u043e\u0446\u0435\u0434\u0443\u0440\u043d\u044b\u043c \u043c\u0438\u0440\u043e\u043c. \u041f\u0440\u043e\u043d\u0438\u043a\u0430\u0439\u0442\u0435 \u0432 \u0437\u0430\u0431\u0440\u043e\u0448\u0435\u043d\u043d\u044b\u0435 \u043c\u0435\u0441\u0442\u0430 \u043f\u043e\u0441\u0442\u0430\u043f\u043e\u043a\u0430\u043b\u0438\u043f\u0442\u0438\u0447\u0435\u0441\u043a\u043e\u0439 \u0446\u0438\u0432\u0438\u043b\u0438\u0437\u0430\u0446\u0438\u0438, \u0438\u0437\u0431\u0435\u0433\u0430\u044f \u0436\u0443\u0442\u043a\u0438\u0445 \u043c\u043e\u043d\u0441\u0442\u0440\u043e\u0432.\n\u2014 \u043f\u043e\u0440\u0442\u0438\u0440\u043e\u0432\u0430\u043d\u043e \u043d\u0430 iOS  \n\u2014 \u0442\u0440\u0435\u0431\u0443\u0435\u0442\u0441\u044f iOS 12.0\n\u2014 \u0437\u0430\u043f\u0443\u0441\u043a \u0434\u043b\u0438\u0442\u0441\u044f \u0431\u043e\u043b\u0435\u0435 50\u0442\u0438 \u0441\u0435\u043a\u0443\u043d\u0434\n\u00a9 \u0421\u043e\u0437\u0434\u0430\u043d\u043e: Neznayaka\n\n\ud83c\uddfa\ud83c\uddf8 Tactical cooperative survival horror with physics and a procedural world. Infiltrate abandoned sites of a post-apocalyptic civilization while avoiding creepy monsters.\n\u2014 ported to iOS  \n\u2014 requires iOS 12.0\n\u2014 the launch lasts more than 50 seconds\n\u00a9 Created: Neznayaka"
     },
     {
       "name": "Infuse",
@@ -1154,7 +1196,8 @@
       "appPermissions": {
         "entitlements": [],
         "privacy": {}
-      }
+      },
+      "localizedDescription": "Infuse 8.1.9 plus 2.2 patched\n- forgot to upload this\n- Updated infuse to v8.1.9\n- Info: plus features updated to 2.2 by Dan\n-2.2 changelog\n- Ability to add or play links directly, or batch import URLs from a file on the Home page\n- Ability to batch import, export, or remove all links on the Direct URL page\n-2.1 changelog\n- Added import from Photos app\n- Fixed importing from files (sideloading)\n- keychain and sideload fix injected and file picker fix\n-Plus features created by @dvntm go follow him!\n\nUpdated by @moeotf, \ndecrypted by @eeveedecrypterbot\nNeed a certificate? Contact @eth4dmin\nNew channel: https://t.me/ethMods\nEthMods Repo: https://repo.ethsign.fyi\nPrepatched with @asdfzxcvbn0 ipapatch bot found here"
     },
     {
       "name": "Subnautica",
@@ -1173,7 +1216,8 @@
       "appPermissions": {
         "entitlements": [],
         "privacy": {}
-      }
+      },
+      "localizedDescription": "Subnautica 1.21 \n- some game that's climbing up the charts\n-injected with keychain and sideload fix\n-app store link below\n\nhttps://apps.apple.com/us/app/subnautica/id6478639011 ($9)\n\nMade by @moeotf \nNeed a certificate? Contact @eth4dmin\nNew channel: https://t.me/ethMods\nEthMods Repo: https://repo.ethsign.fyi\nprepatched already thanks to @asdfzxcvbn0 ipapatch bot found here"
     },
     {
       "name": "MiniMotorways",
@@ -1192,7 +1236,8 @@
       "appPermissions": {
         "entitlements": [],
         "privacy": {}
-      }
+      },
+      "localizedDescription": "Mini Motorways 1.16.7 | Apple Arcade\n\u2022 Draw roads in dynamic cities that grow and change - every game is unique!\n\u2022 Explore stunning maps inspired by cities all around the world.\n\u2022 Choose from a variety of upgrades to meet the demands of your ever-expanding road network: highways, roundabouts, and more!\n\u2022 Stress-free Endless Mode offers you a relaxing gameplay experience, plus you can continue building your city after Game Over.\n\u2022 Tackle our Expert Mode, which features twists such as permanent roads and limited upgrades for the ultimate challenge.\n\u2022 Select different colour palettes on every map including colourblind and night modes.\n\u2022 Relax to a responsive soundtrack from Disasterpeace that grows along with your city.\n\u2022 Unlock new maps and achievements as you achieve mastery.\n\u2022 Export GIFs of your city layouts to share with your friends.\n\u2022 Compete against other players in Daily and Weekly Challenges.\n\u2022 Compatible with Siri Remote, Bluetooth and MFi controllers.\n\nMade by @yougottabillieve \ndecrypted by @eeveedecryptorbot\nNew channel: https://t.me/ethMods\nEthMods Group: https://t.me/ethmodsgroup\nEthMods Repo: https://repo.ethsign.fyi\nneed a cert dm @eth4dmin"
     },
     {
       "name": "PDF Expert",
@@ -1225,7 +1270,8 @@
       "appPermissions": {
         "entitlements": [],
         "privacy": {}
-      }
+      },
+      "localizedDescription": "PDFExpert Pro 7.23.5 PRO patched\n- PDFExpert to 7.23.5\n- PDF viewer\n- Info: Pro Unlocked\n-keychain and sideload fix included\n-requires a cert with app groups\n\nMade by @moeotf \ud83d\udc4c\ud83c\udffb\ndecrypted by @eeveedecrypterbot \nNeed a certificate? Contact @eth4dmin\nNew channel: https://t.me/ethMods\nEthMods Repo: https://repo.ethsign.fyi\nprepatched already thanks to @asdfzxcvbn0 ipapatch bot found here"
     },
     {
       "name": "Intent",
@@ -1244,7 +1290,8 @@
       "appPermissions": {
         "entitlements": [],
         "privacy": {}
-      }
+      },
+      "localizedDescription": "Intent Beta v1.1.4 | TGExtra v1.3.1 | Fork of Swiftgram with AI (isn\u2019t cracked)\nInjected TGExtra by Chocolate Fluffy. Contains features like No Ads, Ghost Mode, Hide Read Receipts, Location Spoofing.\n\n\ud83d\udd14To fix Notifications: t.me/ethModsGroup/64514\n\ud83d\udcacTo fix \u201cConection\u2026\u201d disable \u201cAllow Saving Protected Content\u201d\n\ud83d\udcacTo fix Chats not opening go to Settings app - Intent - Reset Metadata\n\n\u2b06\ufe0fPlugin Patched. Thanks to @zxcvbn_tweaked.\n\u2699Open Settings via tapping 5 times on Chats tab.\n\n\u2764\ufe0fMade by @iosdecrypted - @sgbeta_ipa\n\ud83d\udedcRepost Policy: t.me/iosdecrypted/15\n\n\u2b50\ufe0fFor ethMods: @ethmods"
     },
     {
       "name": "Turrit",
@@ -1263,7 +1310,8 @@
       "appPermissions": {
         "entitlements": [],
         "privacy": {}
-      }
+      },
+      "localizedDescription": "Turrit 1.3.5 official not beta | TGExtra 1.3.1 (patched)\n- Updated Turrit to 1.3.5 \n- Updated TGExtra to 1.3-1\nTGExtra by ChocolateFluffy (@swiftLeopard)\n-\u26a0\ufe0fTo open the tweak hold on the screen with 2 fingers\n-to open the cache delete tool hold on the screen with 4 fingers\n-includes turrit cache delete\n-includes screenshot bypass\nDisable Ads\nDisable Online Status\nPrevent others from seeing you online.\nDisable Typing Status\nHide when you're typing messages.\nDisable Recording Video Status\nHide when you're recording a video.\nDisable Uploading Video Status\nHide when you're uploading a Video\nDisable Voice Message\nRecording Status\nHide when you're recording a voice message.\nDisable Voice Message\nUploading Status\nHide when you're uploading a voice message.\nDisable Uploading Photo Status\nHide when you're uploading a Photo\nDisable Uploading File Status\nHide when you're uploading a file.\nDisable Choosing Location Status\nHide when you're choosing a location.\nDisable Choosing Contact\nHide when you're choosing a contact.\nDisable Recording Round\nVideo Status\nHide when you're recording a round video.\nDisable Uploading Round\nVideo Status\nDisable Uploading Round Video Status\nDisable Speaking in Group Call Status\nHide when you're speaking in a group call.\nDisable Choosing Sticker Status\nHide when you're picking a sticker.\nDisable Emoji Interaction Status\nHide when you interact with emoji.\nDisable Emoji Acknowledgement\nStatus\nHide when you react with emoji to a message.\nREAD RECEIPTS\nDisable Message Read Receipts\nPrevent others from seeing you've read their messages.\nDisable Story Read Receipts\nPrevent others from seeing you've viewed their stories.\nMade by @moeotf \ndecrypted by @eeveedecrypterbot\nNeed a certificate? Contact @eth4dmin\nNew channel: https://t.me/ethMods\nEthmods Group channel: https://t.me/ethModsGroup\nEthMods Repo: https://repo.ethsign.fyi\nprepatched already thanks to @asdfzxcvbn0 ipapatch bot found here"
     },
     {
       "name": "HD Flix",
@@ -1296,7 +1344,8 @@
       "appPermissions": {
         "entitlements": [],
         "privacy": {}
-      }
+      },
+      "localizedDescription": "HD Flix (Absolo) 4.0\n- Absolo witch is made by HD Flix that I change the icon, app name and bundle id to the original one\n- No Ads\n- Toggle ON \u201cFix White Icon\u201d\nIf you need a certificate DM @eth4dmin"
     },
     {
       "name": "Swiftgram",
@@ -1329,7 +1378,8 @@
       "appPermissions": {
         "entitlements": [],
         "privacy": {}
-      }
+      },
+      "localizedDescription": "Swiftgram Beta v11.13 | TGExtra v1.3.1 | ethSign Elite Only\nInjected TGExtra by Chocolate Fluffy. Contains features like No Ads, Ghost Mode, Hide Read Receipts, Location Spoofing. No fixes for certs without NSE entitlement.\n\n\ud83d\udcacTo fix \u201cConection\u2026\u201d disable \u201cAllow Saving Protected Content\u201d\n\ud83d\udcacTo fix Chats not opening go to Settings app - Swiftgram - Reset Metadata\n\n\u2b06\ufe0fPlugin Patched. Thanks to @zxcvbn_tweaked.\n\u2699Open Settings via tapping 5 times on Chats tab.\n\n\u2764\ufe0fMade by @iosdecrypted - @sgbeta_ipa\n\ud83d\udedcRepost Policy: t.me/iosdecrypted/15\n\n\u2b50\ufe0fFor ethMods: @ethmods"
     },
     {
       "name": "Nicegram",
@@ -1348,7 +1398,8 @@
       "appPermissions": {
         "entitlements": [],
         "privacy": {}
-      }
+      },
+      "localizedDescription": "Nicegram 2.1.6 official not beta | TGExtra 1.3.1 (patched)\n- Updated nicegram to 2.1.6 \n- Updated TGExtra to 1.3-1\nTGExtra by ChocolateFluffy (@swiftLeopard)\n\u2022\u26a0\ufe0fTo open the tweak settings Tap 5 Times on the Chats Tab Button. Or Go To settings and Long Press on \"Ask a Question\".\nDisable Ads\nDisable Online Status\nPrevent others from seeing you online.\nDisable Typing Status\nHide when you're typing messages.\nDisable Recording Video Status\nHide when you're recording a video.\nDisable Uploading Video Status\nHide when you're uploading a Video\nDisable Voice Message\nRecording Status\nHide when you're recording a voice message.\nDisable Voice Message\nUploading Status\nHide when you're uploading a voice message.\nDisable Uploading Photo Status\nHide when you're uploading a Photo\nDisable Uploading File Status\nHide when you're uploading a file.\nDisable Choosing Location Status\nHide when you're choosing a location.\nDisable Choosing Contact\nHide when you're choosing a contact.\nDisable Recording Round\nVideo Status\nHide when you're recording a round video.\nDisable Uploading Round\nVideo Status\nDisable Uploading Round Video Status\nDisable Speaking in Group Call Status\nHide when you're speaking in a group call.\nDisable Choosing Sticker Status\nHide when you're picking a sticker.\nDisable Emoji Interaction Status\nHide when you interact with emoji.\nDisable Emoji Acknowledgement\nStatus\nHide when you react with emoji to a message.\nREAD RECEIPTS\nDisable Message Read Receipts\nPrevent others from seeing you've read their messages.\nDisable Story Read Receipts\nPrevent others from seeing you've viewed their stories.\nMade by @moeotf \ndecrypted by @eeveedecrypterbot \nNeed a certificate? Contact @eth4dmin\nNew channel: https://t.me/ethMods\nEthMods Repo: https://repo.ethsign.fyi\nprepatched already thanks to @asdfzxcvbn0 ipapatch bot found here"
     },
     {
       "name": "YouTube",
@@ -1381,7 +1432,8 @@
       "appPermissions": {
         "entitlements": [],
         "privacy": {}
-      }
+      },
+      "localizedDescription": "YouTube 20.26.7 YTLite 5.2 Beta 1 Full July 5th build (added new tweaks)\nNew tweaks added in this build (july 5th):\n-YTABConfig 1.7.9 (highly requested)\n-YTVideoErrorAlert 1.0.2\n-Alderis 1.2.3\n-YouChooseQuality 1.0.6\n-YouLoop 1.0.0\n-YouMute 1.3.2\n-YouSlider 1.2.2\n-YouSpeed 1.6.1\n-Youtimestamp 1.1.0\nThis build does not support casting and might have issues with the tab bar. I don't recommend it until beta 2 is released, For the most stable build that also has 5.2 beta 1 (the same tweak as this ipa, use the 20.10 build posted below\n(turn off vp9 if you have a 15 pro or above, not needed its outdated, and is replaced with AV1 on iphone 15+ and up which supports 4K as well)(today's updates are in bold, to see what changed in those tweaks just click on the new version number which is blue and read through the GitHub commit changes)\n-YouTube \n-YTLite 5.2 beta 1\n-YTABConfig 1.7.9\n-YTVideoErrorAlert 1.0.2\n-Alderis 1.2.3\n-YouChooseQuality 1.0.6\n-YouLoop 1.0.0\n-YouMute 1.3.2\n-YouSlider 1.2.2\n-YouSpeed 1.6.1\n-Youtimestamp 1.1.0\n-Youpip 1.12.7\n-YouQuality 1.3.6\n-YTUHD 1.6.6\n-YTClassicVideoQuality 1.5.2\n-YTvideoOverlay 2.2.3\n-ReturnYouTubeDislike 1.13.12 updated to 1.13.13\n-DontEatMyContent 1.1.10 \n-YouGroupSettings 1.0.4\n-YTvideoerroralert 1.0.2\n-OpenYoutubeSafariExtension\nMade by @moeotf \ud83d\udc4c\ud83c\udffb\ndecrypted by @eeveedecrypterbot\nNeed a certificate? Contact @eth4dmin\nNew channel: https://t.me/ethMods\nEthMods Repo: https://repo.ethsign.fyi\nprepatched already thanks to @asdfzxcvbn0 ipapatch bot found here"
     },
     {
       "name": "Polarr",
@@ -1414,7 +1466,8 @@
       "appPermissions": {
         "entitlements": [],
         "privacy": {}
-      }
+      },
+      "localizedDescription": "Polarr 6.11.5 Pro (patched already)\nPro unlocked- activate satella, just sign into any account and click purchase/restore purchases or pretend like your going to purchase then click cancel\n\nTools:\n\ufeff\ufeffRetouch Al: Face HD, Skin, Liquify, Facial Features Editing\n\ufeff\ufeffSelective Al objects: Sky, Person, Background, etc\n\ufeff\ufeffSelective masks: Brush, Radial, Gradient, Color, Luminance\n\ufeff\ufeffOverlays: Gradient, Duotone, Weather, Backdrop, etc\n\ufeff\ufeffGlobal adjustments: Light, Color, HSL, Toning, Effects, Fringing, Details, Curves, Vignette, Grain, LUT\nFilters:\n\ufeff\ufeffSearch and discover trendy, new Polarr filters\n\ufeff\ufeffCreate and share your own Polarr filters\n\ufeff\ufeffScan or produce Polarr filters as QR codes\n\ufeff\ufeffSynchronize all your Polarr filters with a \nPolarr account\nApp store link\nMade by @moeotf \ndecrypted by @eeveedecrypterbot (can also decrypt testflight apps)\nNeed a certificate? Contact @eth4dmin\nNew channel: https://t.me/ethMods\nEthMods Repo: https://repo.ethsign.fyi\nPrepatched with @asdfzxcvbn0 ipapatch bot found here"
     },
     {
       "name": "Aloha",
@@ -1447,7 +1500,8 @@
       "appPermissions": {
         "entitlements": [],
         "privacy": {}
-      }
+      },
+      "localizedDescription": "Aloha browser 7.6.0 pro patched\n-private browser look it up in the app store\n-updated crack to work with latest version\n-log into any account, premium will unlock\n-Aloha Browser is the ultimate private browser, providing unparalleled privacy and security for all your browsing needs.\nWith hundreds of millions of users around the world, Aloha has earned a 5-star rating in many countries, thanks to its clean interface, ease of use, and awesome teatures.\nCompiled by @moeotf\ndecrypted by @eeveedecrypterbot (can also decrypt testflight apps dm Eevee for premium access)\nNeed a certificate? Contact @eth4dmin\nNew channel: https://t.me/ethMods\nEthMods Repo: https://repo.ethsign.fyi"
     },
     {
       "name": "Hydra",
@@ -1466,7 +1520,8 @@
       "appPermissions": {
         "entitlements": [],
         "privacy": {}
-      }
+      },
+      "localizedDescription": "Hydra 2.8.1 Pro Moe (modern Apollo)\nHydra 2.8.1 pro moe\nHydra is the ultimate Reddit experience on iOS. It's fast, fluid, and designed to make browsing more seamless than ever before. If you're looking for a powerful yet beautifully simple Reddit client, Hydra is the way to go.\n-keychain and sideload fix and crack injected\nCompiled by @moeotf\ndecrypted by @eeveedecrypterbot (can also decrypt testflight apps)\nTweak by @RRRBG https://t.me/DENS0R\nNeed a certificate? Contact @eth4dmin\nNew channel: https://t.me/ethMods\nEthMods Repo: https://repo.ethsign.fyi\nprepatched already thanks to @asdfzxcvbn0 ipapatch bot found here"
     },
     {
       "name": "Photoroom",
@@ -1499,7 +1554,8 @@
       "appPermissions": {
         "entitlements": [],
         "privacy": {}
-      }
+      },
+      "localizedDescription": "Photoroom 2025.26.01 pro (max sub) \n\nThere's nothing to patch app has no plugins etc\n- updated Photoroom\n- injected with pro \n-injected with keychain and sideload fix\n-app store link\n\nMade by @moeotf \ndecrypted by @eeveedecrypterbot \nNeed a certificate? Contact @eth4dmin\nNew channel: https://t.me/ethMods\nEthMods Repo: https://repo.ethsign.fyi"
     },
     {
       "name": "Shadowrocket",
@@ -1532,7 +1588,8 @@
       "appPermissions": {
         "entitlements": [],
         "privacy": {}
-      }
+      },
+      "localizedDescription": "Shadow rocket 2.2.69\n- updated shadowrocket to 2.2.69\n-injected with keychain and sideload fix\n-importing config doesn't work, you need to manually add it.\n-no support provided, if it works it works\n\nMade by @moeotf decrypted by zxeeveewarebot\nNeed a certificate? Contact @eth4dmin\nNew channel: https://t.me/ethMods\nEthMods Repo: https://repo.ethsign.fyi"
     },
     {
       "name": "Vinegar",
@@ -1565,7 +1622,8 @@
       "appPermissions": {
         "entitlements": [],
         "privacy": {}
-      }
+      },
+      "localizedDescription": "Vinegar 3.2.6 pro safari YouTube tweak\n-Vinegar is a Safari extension that replaces the YouTube player with a minimal HTML video tag.\n-It removes ads, restores picture-in-picture, and allows videos to play in the background when set to audio-only quality.\n-allows you to set a default video quality as well\n-injected with keychain and sideload fix\n\nApp store link ($2)\n\nhttps://apps.apple.com/us/app/vinegar-tube-cleaner/id1591303229\n\nMade by @moeotf \nNeed a certificate? Contact @eth4dmin\nNew channel: https://t.me/ethMods\nEthMods Repo: https://repo.ethsign.fyi\nprepatched already thanks to @asdfzxcvbn0 ipapatch bot found here"
     },
     {
       "name": "MyFitnessPal",
@@ -1598,7 +1656,8 @@
       "appPermissions": {
         "entitlements": [],
         "privacy": {}
-      }
+      },
+      "localizedDescription": "\ud83d\udcf1 MyFitnessPal: Calorie Counter\n\n\ud83c\udd94 Bundle ID: \ncom.myfitnesspal.mfp\n\ud83d\udcca Version: 25.25.0\n\ud83d\udd27 Minimum iOS: 17.0\n\n\u2705 Patched\n\ud83d\udc8e Modifier: Subscription Unlocked\n\n\ud83d\udcdd Note: \nNo Additional Notes\n\n\ud83d\udd04 Tweaked by @blatants\n\nKo-Fi \u2615\ufe0f | Crypto \ud83d\udc7e | IPAs \ud83d\udce5"
     },
     {
       "name": "Bazaart",
@@ -1624,7 +1683,8 @@
       "appPermissions": {
         "entitlements": [],
         "privacy": {}
-      }
+      },
+      "localizedDescription": "\ud83d\udcf1 Bazaart AI Photo Editor Design\n\n\ud83c\udd94 Bundle ID: \nco.bazaart.app\n\ud83d\udcca Version: 10.7.5\n\ud83d\udd27 Minimum iOS: 15\n\n\u2705 Patched\n\ud83d\udc8e Modifier: Premium Unlocked\n\n\ud83d\udcdd Note: \nNo Additional Notes\n\n\ud83d\udd04 Tweaked by @blatants\n\nKo-Fi \u2615\ufe0f | Crypto \ud83d\udc7e | IPAs \ud83d\udce5"
     },
     {
       "name": "\u200eWA Business",
@@ -1657,7 +1717,8 @@
       "appPermissions": {
         "entitlements": [],
         "privacy": {}
-      }
+      },
+      "localizedDescription": "WA Business Beta v25.19.10 | injected WhatsAppSy v1.1\nPaid tweak for WhatsApp by @Plus_Sy. Licensed for ethSign certificates.\n\n\ud83d\uddbcTutorial: t.me/ethModsChat/64065\n\ud83d\udcc4FAQ: t.me/c/2165869006/144\n\ud83d\udcbbUsage as linked device is the only supported method. Using as main device (authorization using phone number) can lead to loss of chat history or account.\n\n\u2764\ufe0fMade by @iosdecrypted - @wabeta_ipa\n\ud83d\udedcRepost Policy: t.me/iosdecrypted/15\n\n\u2b50\ufe0fFor ethMods: @ethmods"
     },
     {
       "name": "AI Chatbot",
@@ -1690,7 +1751,8 @@
       "appPermissions": {
         "entitlements": [],
         "privacy": {}
-      }
+      },
+      "localizedDescription": "AI ChatBot Assistant: AskEasy 2.28\n- AppStore Link\n- Ai Chatbot\n- Subscription Unlocked\n- Minimum iOS/iPadOS 15.0\n- To make the widget & keyboard work with cert you need to have the AppGroups entitlement configured in your cert. You can check this using this app\n\nCreated by ethTeam\nCrack by @VAXMG\nRequest Apps Here\nNeed a certificate? Contact @eth4dmin\nNew main channel: https://t.me/ethMods\nethSign Repo: https://repo.ethsign.fyi"
     },
     {
       "name": "Bloomberg",
@@ -1723,7 +1785,8 @@
       "appPermissions": {
         "entitlements": [],
         "privacy": {}
-      }
+      },
+      "localizedDescription": "Bloomberg: Business News Daily 6.42.0\n- AppStore Link\n- Business News, Financial Data, and Market Insights App\n- Subscription Unlocked\n- Login To Activate Subscription\n- Minimum iOS/iPadOS 15.6\n\nCreated by ethTeam\nCrack by @VAXMG\nRequest Apps Here\nNeed a certificate? Contact @eth4dmin\nNew main channel: https://t.me/ethMods\nethSign Repo: https://repo.ethsign.fyi"
     },
     {
       "name": "If Found...",
@@ -1742,7 +1805,8 @@
       "appPermissions": {
         "entitlements": [],
         "privacy": {}
-      }
+      },
+      "localizedDescription": "If Found... 1.2\n- AppStore Link\n- Paid Game $4.99\n- Minimum iOS/iPadOS 11.0\n- Decrypted Exclusively by @VAXMG\n\nCreated by ethTeam\nRequest Apps Here\nNeed a certificate? Contact @eth4dmin\nNew main channel: https://t.me/ethMods\nethSign Repo: https://repo.ethsign.fyi"
     },
     {
       "name": "Caroni",
@@ -1761,7 +1825,8 @@
       "appPermissions": {
         "entitlements": [],
         "privacy": {}
-      }
+      },
+      "localizedDescription": "Caroni: Fuel & Service Tracker (HDFlix)\nMade by @yougottabillieve \ndecrypted by @eeveedecryptorbot\nNew channel: https://t.me/ethMods\nEthMods Repo: \nhttps://repo.ethsign.fyi\nneed a cert dm @eth4dmin \nprepatched already thanks to @asdfzxcvbn0 ipapatch bot found here"
     },
     {
       "name": "OrNET Browser",
@@ -1794,7 +1859,8 @@
       "appPermissions": {
         "entitlements": [],
         "privacy": {}
-      }
+      },
+      "localizedDescription": "TOR 3.7.17 Pro (no plugins to patch)\n- premium features unlocked\n-updated to latest IPA 3.7.17\n-your certificate might need VPN entitlements\n-vpn might not work, use a 3rd party vpn\nTor taxi link for markets etc: http://tortaxi2dev6xjwbaydqzla77rrnth7yn2oqzjfmiuwn5h6vsk2a4syd.onion/\n- Posted and keychain and hack injected by @moeotf, decrypted by @eeveedecrypterbot\nNeed a certificate? Contact @eth4dmin\nNew channel: https://t.me/ethMods\nEthMods Repo: https://repo.ethsign.fyi"
     },
     {
       "name": "KineMaster",
@@ -1820,7 +1886,8 @@
       "appPermissions": {
         "entitlements": [],
         "privacy": {}
-      }
+      },
+      "localizedDescription": "\ud83d\udcf1 KineMaster - Video Editor\n\n\ud83c\udd94 Bundle ID: \ncom.kinemaster.kios\n\ud83d\udcca Version: 7.7.1(2255)\n\ud83d\udd27 Minimum iOS: 16.4\n\n\u2705 Patched\n\ud83d\udc8e Modifier: Pro Unlocked\n\n\ud83d\udcdd Note: \nLogin to activate subscription and ignore \"Get Premium\" banner.\n\n\ud83d\udd04 Tweaked by @blatants\n\nKo-Fi \u2615\ufe0f | Crypto \ud83d\udc7e | IPAs \ud83d\udce5"
     },
     {
       "name": "EPIK",
@@ -1853,7 +1920,8 @@
       "appPermissions": {
         "entitlements": [],
         "privacy": {}
-      }
+      },
+      "localizedDescription": "\ud83d\udcf1 EPIK - AI Photo & Video Editor\n\n\ud83c\udd94 Bundle ID: \ncom.snowcorp.epik\n\ud83d\udcca Version: 6.1.1\n\ud83d\udd27 Minimum iOS: 15.0\n\n\u2705 Patched\n\ud83d\udc8e Modifier: Subscription Unlocked\n\n\ud83d\udcdd Note: \nClick \"Restore\" on purchase page.\n\n\ud83d\udd04 Tweaked by @blatants\n\nKo-Fi \u2615\ufe0f | Crypto \ud83d\udc7e | IPAs \ud83d\udce5"
     },
     {
       "name": "TypeAI",
@@ -1879,7 +1947,8 @@
       "appPermissions": {
         "entitlements": [],
         "privacy": {}
-      }
+      },
+      "localizedDescription": "\ud83d\udcf1 TypeAI: AI Keyboard & Writer\n\n\ud83c\udd94 Bundle ID: \ncom.codeway.AIKeyboard\n\ud83d\udcca Version: 3.3.6\n\ud83d\udd27 Minimum iOS: 15.0\n\n\u2705 Patched\n\ud83d\udc8e Modifier: Subscription Unlocked\n\n\ud83d\udcdd Note: \nNo Additional Notes\n\n\ud83d\udd04 Tweaked by @blatants\n\nKo-Fi \u2615\ufe0f | Crypto \ud83d\udc7e | IPAs \ud83d\udce5"
     },
     {
       "name": "Flero",
@@ -1898,7 +1967,8 @@
       "appPermissions": {
         "entitlements": [],
         "privacy": {}
-      }
+      },
+      "localizedDescription": "Flero v0.0.7b3\n\n\ud83c\uddf7\ud83c\uddfa \u041c\u043e\u0434\u0438\u0444\u0438\u0446\u0438\u0440\u043e\u0432\u0430\u043d\u043d\u0430\u044f \u0432\u0435\u0440\u0441\u0438\u044f Geometry Dash \n\u2014 \u041f\u043e\u043b\u043d\u043e\u0441\u0442\u044c\u044e \u0431\u0435\u0441\u043f\u043b\u0430\u0442\u043d\u0430\u044f \u043c\u043e\u0434\u0438\u0444\u0438\u043a\u0430\u0446\u0438\u044f\n\u2014 \u041d\u0435 \u0442\u0440\u0435\u0431\u0443\u0435\u0442 JIT\n\u2014 \u041f\u0440\u043e\u0432\u0435\u0434\u0438\u0442\u0435 \u043f\u0430\u043b\u044c\u0446\u0435\u043c \u0441\u043f\u0440\u0430\u0432\u0430 \u043d\u0430\u043b\u0435\u0432\u043e, \u0447\u0442\u043e\u0431\u044b \u043e\u0442\u043a\u0440\u044b\u0442\u044c \u0438\u043b\u0438 \u0437\u0430\u043a\u0440\u044b\u0442\u044c \u043c\u0435\u043d\u044e\n\u00a9 \u0421\u043e\u0437\u0434\u0430\u043d\u043e: Flero  \n\n\ud83c\uddfa\ud83c\uddf8 Modified version of Geometry Dash \n\u2014 Completely free modification\n\u2014 Does not require JIT\n\u2014 Swipe from right to left to open or close the menu\n\u00a9 Created: Flero"
     },
     {
       "name": "MoeSports",
@@ -1917,7 +1987,8 @@
       "appPermissions": {
         "entitlements": [],
         "privacy": {}
-      }
+      },
+      "localizedDescription": "MoeSports 1.3 (watch live football (nfl), soccer, nba, mlb, UFC etc games live for free\n-Simple sports app i put together that lets you watch live streams for soccer, football, nba games, nfl games, and mlb and UFC games\n-if an adblocker is needed I'll add one in the future\n-tap on the sites name to open it in the app without leaving the app\n-watch live games and quickly switch between all 6 sports quickly\n-if a site just loads to a blank page, keep clicking on it\nMade by @moeotf \nCompiled with xcode\nNeed a certificate? Contact @eth4dmin\nNew channel: https://t.me/ethMods\nEthMods Repo: https://repo.ethsign.fyi"
     },
     {
       "name": "Waze",
@@ -1950,7 +2021,8 @@
       "appPermissions": {
         "entitlements": [],
         "privacy": {}
-      }
+      },
+      "localizedDescription": "Waze 5.8.1.0\n- Waze 5.8.1.0\n- Blocking Waze ads and sound control button\n- Log in fixed\n\nMade by @Jacks_Apps\nIf you need a certificate DM @eth4dmin"
     },
     {
       "name": "Things",
@@ -1983,7 +2055,8 @@
       "appPermissions": {
         "entitlements": [],
         "privacy": {}
-      }
+      },
+      "localizedDescription": "Things 3 V3.21.18 pro (patched)\n- updated to 3.21.18 \n-injected with keychain and sideload fix\n-app store link below\n\nhttps://apps.apple.com/us/app/things-3/id904237743\n\nMade by @moeotf \nNeed a certificate? Contact @eth4dmin\nNew channel: https://t.me/ethMods\nEthMods Repo: https://repo.ethsign.fyi\nprepatched already thanks to @asdfzxcvbn0 ipapatch bot found here"
     },
     {
       "name": "PS Express",
@@ -2016,7 +2089,8 @@
       "appPermissions": {
         "entitlements": [],
         "privacy": {}
-      }
+      },
+      "localizedDescription": "Photoshop Express 25.25.0\n- Photoshop Express 25.25.0\n- Info: Premium unlocked\n\nMade by @Jacks_Apps0510\nIf you need a certificate DM @eth4dmin"
     },
     {
       "name": "LumaFusion",
@@ -2042,7 +2116,8 @@
       "appPermissions": {
         "entitlements": [],
         "privacy": {}
-      }
+      },
+      "localizedDescription": "Luma fusion 5.2.3 (patched)\n- updated Luma fusion to 5.2.3\n-injected with keychain and sideload fix\n-didn't touch iaps just the app itself\n\nApp store link ($30)\n\nhttps://apps.apple.com/us/app/lumafusion/id1062022008\n\nMade by @moeotf \nNeed a certificate? Contact @eth4dmin\nNew channel: https://t.me/ethMods\nEthMods Repo: https://repo.ethsign.fyi\nprepatched already thanks to @asdfzxcvbn0 ipapatch bot found here"
     },
     {
       "name": "Crashlands 2",
@@ -2068,7 +2143,8 @@
       "appPermissions": {
         "entitlements": [],
         "privacy": {}
-      }
+      },
+      "localizedDescription": "Crashlands 2 v100.1.1499\n- some game that's climbing up the charts\n-injected with keychain and sideload fix\n-app store link below\n\nhttps://apps.apple.com/us/app/crashlands-2/id1528199331 ($10)\n\nMade by @moeotf \nNeed a certificate? Contact @eth4dmin\nNew channel: https://t.me/ethMods\nEthMods Repo: https://repo.ethsign.fyi\nprepatched already thanks to @asdfzxcvbn0 ipapatch bot found here"
     },
     {
       "name": "Kino",
@@ -2087,7 +2163,8 @@
       "appPermissions": {
         "entitlements": [],
         "privacy": {}
-      }
+      },
+      "localizedDescription": "Kino pro camera 1.3.0\n-injected with keychain and sideload fix\n-Appstore link($10)\n\nMade by @moeotf \nNeed a certificate? Contact @eth4dmin\nNew channel: https://t.me/ethMods\nEthMods Repo: https://repo.ethsign.fyi"
     },
     {
       "name": "Lightroom",
@@ -2113,7 +2190,8 @@
       "appPermissions": {
         "entitlements": [],
         "privacy": {}
-      }
+      },
+      "localizedDescription": "Lightroom Unlocked 10.4.1 iPad\n-Lightroom to 10.4.1 pro\n-click purchase then cancel \n-photo editing app\n-Same as above just iPad build.\n\nMade by @moeotf \ud83d\udc4c\ud83c\udffb\ndecrypted by @eeveedecrypterbot \nNeed a certificate? Contact @eth4dmin\nNew channel: https://t.me/ethMods\nEthMods Repo: https://repo.ethsign.fyi\nprepatched already thanks to @asdfzxcvbn0 ipapatch bot found here"
     },
     {
       "name": "Acorn",
@@ -2139,7 +2217,8 @@
       "appPermissions": {
         "entitlements": [],
         "privacy": {}
-      }
+      },
+      "localizedDescription": "Acorn (Reddit) v1.0 Build 58 | TestFlight Decrypted (patched)\n- Added Acorn v1.0 Build 58\n- Patch Included\n\n- Create a Reddit client id\n- Log into Reddit and head over here\n- Create an \u201cinstalled app\u201d with a redirect uri of acorn://login\n- Input the newly created client id into Acorn on your device and press sign in. You'll go through the Reddit sign in flow and once you accept, you'll be able to start using Acorn.\n\nMade by @moeotf\ndecrypted by @eeveedecrypterbot\nNew channel: https://t.me/ethMods\nEthMods Repo: https://repo.ethsign.fyi\nneed a cert dm @eth4dmin"
     },
     {
       "name": "Notability",
@@ -2172,7 +2251,8 @@
       "appPermissions": {
         "entitlements": [],
         "privacy": {}
-      }
+      },
+      "localizedDescription": "Notability 14.12.3 pro prepatched\n-updated Notability to 14.12.3 PRO\n-Keychain fix included\n-AI note taking app etc.. Look it up in the app store\n-injected with satella, so all in app purchases are free. Plus subscription. -Pretend like your going to purchase the plus plan then click cancel, restart app. Plus will be active. You can now hide satella permanently\n-might not work on ipad and any signing app that doesn't use a cert with app groups\nPosted by @moeotf \n@eeveedecrypterbot (can also decrypt testflight apps)\nNeed a certificate? Contact @eth4dmin\nNew channel: https://t.me/ethMods\nEthMods Repo: https://repo.ethsign.fyi\nPrepatched with @asdfzxcvbn0 ipapatch bot found here"
     },
     {
       "name": "GBox",
@@ -2205,7 +2285,8 @@
       "appPermissions": {
         "entitlements": [],
         "privacy": {}
-      }
+      },
+      "localizedDescription": "Gbox 5.7.6 (released 6/23/2025)\n- Changelog just states : adapted for ios 18 they barely give any details\n-rarely gets updated so we're posting this version that just got released for those that want it. Esign>feather>gbox>\ud83d\ude43\n-alternative to esign, offers local signing\n-works with our certificates and our repo\nMade by @moeotf\ndecrypted using @eeveedecrypterbot\nNeed a certificate? Contact @eth4dmin\nNew channel: https://t.me/ethMods\nEthMods Repo: https://repo.ethsign.fyi\nprepatched already thanks to @asdfzxcvbn0 ipapatch bot found here"
     },
     {
       "name": "Noir",
@@ -2231,7 +2312,8 @@
       "appPermissions": {
         "entitlements": [],
         "privacy": {}
-      }
+      },
+      "localizedDescription": "Noir 2025.1.5 pro (patched) dark mode on every safari website\nNoir 2025.1.5 pro (patched)\n \n-injected with keychain and sideload fix\n-didn't touch iaps just the app itself\n\nApp store link ($3)\n\nhttps://apps.apple.com/us/app/noir-dark-mode-for-safari/id1581140954\n\nMade by @moeotf \nNeed a certificate? Contact @eth4dmin\nNew channel: https://t.me/ethMods\nEthMods Repo: https://repo.ethsign.fyi\nprepatched already thanks to @asdfzxcvbn0 ipapatch bot found here"
     },
     {
       "name": "Surge",
@@ -2250,7 +2332,8 @@
       "appPermissions": {
         "entitlements": [],
         "privacy": {}
-      }
+      },
+      "localizedDescription": "\ud83d\udcf1 Surge 5\n\n\ud83c\udd94 Bundle ID: \ncom.nssurge.inc.surge-ios\n\ud83d\udcca Version: 5.8.3\n\ud83d\udc68\u200d\ud83d\udcbb Developer: Surge Networks, Inc.\n\ud83c\udff7 Category: Developer Tools\n\ud83d\udd27 Minimum iOS: 15.0\n\n\ud83d\udc8e Modifier:\nSurge v5.8.3 cracked by (Macked),\nWorks on paid certificate but need VPN and Appgroup entitlements.\n\n\ud83d\udc99 Credits:\nThank chocolateFluffy for making plug-ins patch this wouldn\u2019t be possible without him.\n\n\ud83d\udcdd Note: \nRequirements:\n 1. App Group Entitlement:\n \u2022 Your certificate must include the App Group entitlement.\n \u2022 Ensure that an App Group is properly configured for your cert.\n\n\ud83d\udd04 Tweaked by @blatants\n\nKo-Fi \u2615\ufe0f | AppStore \ud83d\udcf1 | IPAs \ud83d\udce5"
     },
     {
       "name": "Photoleap",
@@ -2283,7 +2366,8 @@
       "appPermissions": {
         "entitlements": [],
         "privacy": {}
-      }
+      },
+      "localizedDescription": "Photoleap AI Art Photo Editor v2.114\n- Pro Features Unlocked\n- injected keychain and sideload fix\n-one of the best AI imaging apps\n\nAppstore Link \nMade by @moeotf decrypted by anyipa.me\nNeed a certificate? Contact @eth4dmin\nNew channel: https://t.me/ethMods\nEthMods Repo: https://repo.ethsign.fyi"
     },
     {
       "name": "Vampire Survivors+",
@@ -2302,7 +2386,8 @@
       "appPermissions": {
         "entitlements": [],
         "privacy": {}
-      }
+      },
+      "localizedDescription": "Vampire Survivors+ 1.13.113 | Apple Arcade\nMow down thousands of night creatures and survive until dawn!\n\nVampire Survivors is a gothic horror casual game with rogue-lite elements, where your choices can allow you to quickly snowball against the hundreds of monsters that get thrown at you.\n\nHell is empty, the devils are here, and there\u2019s no place to run or hide. All you can do is survive as long as you can until death inevitably puts an end to your struggles. Gather gold in each run to buy upgrades and help the next survivor.\n\nThe supernatural indie phenomenon that lets you be the bullet hell!\n\nVampire Survivors+ for Apple Arcade also includes Vampire Survivors: Legacy of the Moonspell and Vampire Survivors: Tides of the Foscari\n\nStarting Tips:\n\u2022Take your time to grab gems and items, they won\u2019t disappear.\n\u2022Get two or three offensive weapons at first, but focus on levelling them up one at a time.\n\u2022Armour and Luck are good starting power-ups to spend money on.\n\u2022Refund power-ups often, it\u2019s free, and try new upgrade paths. \n\nMade by @yougottabillieve \ndecrypted by @eeveedecryptorbot\nNew channel: https://t.me/ethMods\nEthMods Repo: \nhttps://repo.ethsign.fyi\nneed a cert dm @eth4dmin \nprepatched already thanks to @asdfzxcvbn0 ipapatch bot found here"
     },
     {
       "name": "Splice",
@@ -2335,7 +2420,8 @@
       "appPermissions": {
         "entitlements": [],
         "privacy": {}
-      }
+      },
+      "localizedDescription": "\ud83d\udcf1 Splice - Video Editor & Maker\n\n\ud83c\udd94 Bundle ID: \ncom.path36.SpliceFree\n\ud83d\udcca Version: 4.28.40\n\ud83d\udd27 Minimum iOS: 14.0\n\n\u2705 Patched\n\ud83d\udc8e Modifier: Subscription Unlocked\n\n\ud83d\udcdd Note: \nRestart app if Subscriptions isn't activated.\n\n\ud83d\udd04 Tweaked by @blatants\n\nKo-Fi \u2615\ufe0f | Crypto \ud83d\udc7e | IPAs \ud83d\udce5"
     },
     {
       "name": "VlogNow",
@@ -2361,7 +2447,8 @@
       "appPermissions": {
         "entitlements": [],
         "privacy": {}
-      }
+      },
+      "localizedDescription": "\ud83d\udcf1 VN Video Editor\n\n\ud83c\udd94 Bundle ID: \ncom.frontrow.vlog\n\ud83d\udcca Version: 1.96.1\n\ud83d\udd27 Minimum iOS: 15.0\n\n\u2705 Patched\n\ud83d\udc8e Modifier: Subscription Unlocked\n\n\ud83d\udcdd Note: \nNo Additional Notes\n\n\ud83d\udd04 Tweaked by @blatants\n\nKo-Fi \u2615\ufe0f | Crypto \ud83d\udc7e | IPAs \ud83d\udce5"
     },
     {
       "name": "Locket",
@@ -2394,7 +2481,8 @@
       "appPermissions": {
         "entitlements": [],
         "privacy": {}
-      }
+      },
+      "localizedDescription": "\ud83d\udcf1 Locket Widget\n\n\ud83c\udd94 Bundle ID: \ncom.locket.Locket\n\ud83d\udcca Version: 2.1.0\n\ud83d\udd27 Minimum iOS: 14.1\n\n\u2705 Patched\n\ud83d\udc8e Modifier: Locket Gold\n\n\ud83d\udcdd Note: \nNo Additional Notes\n\n\ud83d\udd04 Tweaked by @blatants\n\nKo-Fi \u2615\ufe0f | Crypto \ud83d\udc7e | IPAs \ud83d\udce5"
     },
     {
       "name": "Mojo",
@@ -2420,7 +2508,8 @@
       "appPermissions": {
         "entitlements": [],
         "privacy": {}
-      }
+      },
+      "localizedDescription": "\ud83d\udcf1 Mojo: AI Video & Reels Editor\n\n\ud83c\udd94 Bundle ID: \narchery.storify\n\ud83d\udcca Version: 1.231.1\n\ud83d\udd27 Minimum iOS: 15.0\n\n\u2705 Patched\n\ud83d\udc8e Modifier: Subscription Unlocked\n\n\ud83d\udcdd Note: \nNo Additional Notes\n\n\ud83d\udd04 Tweaked by @blatants\n\nKo-Fi \u2615\ufe0f | Crypto \ud83d\udc7e | IPAs \ud83d\udce5"
     },
     {
       "name": "Facebook",
@@ -2453,7 +2542,8 @@
       "appPermissions": {
         "entitlements": [],
         "privacy": {}
-      }
+      },
+      "localizedDescription": "Glow for Facebook v1.3 patched\n \n\nFrom Dans channel"
     },
     {
       "name": "Fusion",
@@ -2472,7 +2562,8 @@
       "appPermissions": {
         "entitlements": [],
         "privacy": {}
-      }
+      },
+      "localizedDescription": "Fusion 0.1.0 build 98 testflight build.\n- Movies & Tv shows\n- Requires Debrid Service \n- Plugins Patch & SideloadFix included\n\nTestflight can be joined here\n\nMade by @moeotf \ud83d\udc4c\ud83c\udffb\ndecrypted by @eeveedecrypterbot (can also decrypt testflight apps)\nNeed a certificate? Contact @eth4dmin\nNew channel: https://t.me/ethMods\nEthMods Repo: https://repo.ethsign.fyi\nprepatched already thanks to @asdfzxcvbn0 ipapatch bot found here"
     },
     {
       "name": "Outlanders 2",
@@ -2491,7 +2582,8 @@
       "appPermissions": {
         "entitlements": [],
         "privacy": {}
-      }
+      },
+      "localizedDescription": "Outlanders 2 18.0 | Apple Arcade\nWelcome back to the Outlands! A new, courageous generation of outlanders is ready to redefine life on the Outlands, with new approaches to building and surviving, uncharted heights and horizons, and an ecosystem more vibrant than ever before.\n\nOutlanders 2 is the latest installment of the charming town-builder that captivated players with its imaginative levels, easy-to-understand but hard-to-master gameplay, and offbeat humor.\n\nFeaturing:\n\n- Fully revamped graphics and terrain generation breathe new life into the Outlands, adding depth, atmosphere, and color.\n\n- Character-driven campaign with 21 levels on launch and many more coming soon.\n\n- Bi-weekly updated Challenges mode featuring remixes of popular levels and a leaderboard for timed challenges.\n\n- New Tropiclands and Winterlands biomes bring their own unique challenges, including long-awaited weather events.\n\n- Double the number of buildings and resources from before, introducing new ways to improve outlanders' lifestyles.\n\n- Charming cast of Leaders, whose stories intertwine and branch off into unexpected lands.\n\n- The trademark Outlanders charm, with its detailed and expressive animations, crisp sound design, atmospheric soundtrack, and simple yet vibrant graphics.\n\nCharming folk, cozy vibes, and big surprises await you in the Outlands!\n\nMade by @yougottabillieve \ndecrypted by @eeveedecryptorbot\nNew channel: https://t.me/ethMods\nEthMods Repo: \nhttps://repo.ethsign.fyi\nneed a cert dm @eth4dmin \nprepatched already thanks to @asdfzxcvbn0 ipapatch bot found here"
     },
     {
       "name": "Cavern Adventurers",
@@ -2510,7 +2602,8 @@
       "appPermissions": {
         "entitlements": [],
         "privacy": {}
-      }
+      },
+      "localizedDescription": "Cavern Adventurers 1.39\n- AppStore Link\n- Paid Game $6.99\n- Minimum iOS/iPadOS 11.0\n- Decrypted Exclusively by @VAXMG\n\nCreated by ethTeam\nRequest Apps Here\nNeed a certificate? Contact @eth4dmin\nNew main channel: https://t.me/ethMods\nethSign Repo: https://repo.ethsign.fyi"
     },
     {
       "name": "Bounty Of One: Premium",
@@ -2529,7 +2622,8 @@
       "appPermissions": {
         "entitlements": [],
         "privacy": {}
-      }
+      },
+      "localizedDescription": "Bounty Of One: Premium 1.0.128\n- AppStore Link\n- Paid Game $4.99\n- Minimum iOS/iPadOS 11.0\n- Decrypted Exclusively by @VAXMG\n\nCreated by ethTeam\nRequest Apps Here\nNeed a certificate? Contact @eth4dmin\nNew main channel: https://t.me/ethMods\nethSign Repo: https://repo.ethsign.fyi"
     },
     {
       "name": "VSCO",
@@ -2562,7 +2656,8 @@
       "appPermissions": {
         "entitlements": [],
         "privacy": {}
-      }
+      },
+      "localizedDescription": "VSCO 428.0Pro\n- updated VCSO pro \n-injected with pro (auto rc)\n-injected with sideload fix\n\nhttps://apps.apple.com/us/app/vsco-photo-editor/id588013838\n\nMade by @moeotf\ndecrypted by @eeveedecrypterbot (can also decrypt testflight apps)\nNeed a certificate? Contact @eth4dmin\nNew channel: https://t.me/ethMods\nEthMods Repo: https://repo.ethsign.fyi"
     },
     {
       "name": "Missing Banban",
@@ -2581,7 +2676,8 @@
       "appPermissions": {
         "entitlements": [],
         "privacy": {}
-      }
+      },
+      "localizedDescription": "Missing Banyan 1.0.6\n- AppStore Link\n- Paid Game $4.99\n- Minimum iOS/iPadOS 10.0\n- Decrypted Exclusively by @VAXMG\n\nCreated by ethTeam\nRequest Apps Here\nNeed a certificate? Contact @eth4dmin\nNew main channel: https://t.me/ethMods\nethSign Repo: https://repo.ethsign.fyi"
     },
     {
       "name": "Video Stabilizer",
@@ -2600,7 +2696,8 @@
       "appPermissions": {
         "entitlements": [],
         "privacy": {}
-      }
+      },
+      "localizedDescription": "Stable Video Stabilizer 1.1.5\n- stabilize your videos\n-injected with keychain and sideload fix\n-app store link below\n\nhttps://apps.apple.com/us/app/stable-video-stabilizer/id6479000660 ($5)\n\nMade by @moeotf \nNeed a certificate? Contact @eth4dmin\nNew channel: https://t.me/ethMods\nEthMods Repo: https://repo.ethsign.fyi\nprepatched already thanks to @asdfzxcvbn0 ipapatch bot found here"
     },
     {
       "name": "Grok",
@@ -2633,7 +2730,8 @@
       "appPermissions": {
         "entitlements": [],
         "privacy": {}
-      }
+      },
+      "localizedDescription": "Grok 1.1.6 (only posting for countries that don't have it in the app store)\n-injected with sideloadkeychainfix \nMade by @moeotf \ndecrypted by @eeveedecrypterbot (can also decrypt testflight apps)\nNeed a certificate? Contact @eth4dmin\nNew channel: https://t.me/ethMods\nEthMods Repo: https://repo.ethsign.fyi"
     },
     {
       "name": "Fitbod",
@@ -2666,7 +2764,8 @@
       "appPermissions": {
         "entitlements": [],
         "privacy": {}
-      }
+      },
+      "localizedDescription": "Fitbod Pro 7.10\n- updated fitbod\n-injected with pro \n-injected with sideload fix\n\nhttps://apps.apple.com/us/app/fitbod-gym-fitness-planner/id1041517543\n\nMade by @moeotf\ndecrypted by @eeveedecrypterbot (can also decrypt testflight apps)\nNeed a certificate? Contact @eth4dmin\nNew channel: https://t.me/ethMods\nEthMods Repo: https://repo.ethsign.fyi"
     },
     {
       "name": "Dead Cells+",
@@ -2685,7 +2784,8 @@
       "appPermissions": {
         "entitlements": [],
         "privacy": {}
-      }
+      },
+      "localizedDescription": "Dead Cells+ 3.5.6 | Apple Arcade\nPlay as a failed alchemic experiment and explore the sprawling, ever-changing castle to find out what happened on this gloomy island\u2026!\n\nThat is, assuming you\u2019re able to fight your way past its keepers.\n\nDead Cells+ is a roguevania action platformer that will require you to master frantic 2D combat with a wide variety of weapons and skills against merciless minions and boss.\n\nMain Features\n\n\u2022 Roguevania: The progressive exploration of an interconnected world, with the replayability of a rogue-lite and the adrenaline pumping threat of permadeath\n\u2022 Frantic and Dynamic 2D Action: Learn your enemies\u2019 patterns to stay alive, or prepare to be sent back to your cell before you can say \u201cbaguette\u201d\n\u2022 Nonlinear Progression: Unlock new levels with every death, opt for the path that suits your current build, your playstyle or just your mood.\n\nSurely, the ramparts can\u2019t be as bad the sewers, right?\n\n\u2022 Play at your own pace: Will you explore every nook and cranny of the castle, or rush to the end?\n\n[THIS VERSION ALSO INCLUDES ALL OF THE FOLLOWING CONTENT]\n\n*Latest updates are available: Clean Cut & The End is Near*\n\nRETURN TO CASTLEVANIA DLC\n\n\u2022 New storyline - overcome the Ruler of Darkness alongside Alucard and Richter Belmont,\n\u2022 2 new biomes - Explore Dracula's Castle and its outskirts\n\u2022 9 new monsters - Werewolves, haunted armors, and medusas are waiting for you\n\u2022 14 new weapons - wield the Vampire Killer or the Holy Water to defeat creatures of the night,\n\u2022 3 new bosses - go fangs to fangs against Death and Dracula himself\n\u2022 20 new outfits - dress as your favorite Castlevania characters such as Simon and Richter Belmont or Alucard\n\u2022 Alternative soundtracks - play along 51 Castlevania original tracks and 12 tunes reimagined in the style of Dead Cells\n\nTHE BAD SEED DLC\n\nYou reap what you sow\n\n\u2022 New levels to lose your head in: the not-so-peaceful Dilapidated Arboretum and the noxious Morass of the Banished\n\u2022 New monsters to rip to pieces: get to know the locals, such as the Jerkshroom and the Yeeter\n\u2022 New weapons to play with: trim sticking out heads with the Scythe Claw, or make them dance to the sound of the Rhythm n' Bouzouki\n\u2022 New boss to fight against: Mama Tick is dying to meet you\n\nFATAL FALLS DLC\n\nReady for a leap of faith?\n\n\u2022 3 new biomes - Get some fresh air at the Fractured Shrines, splash around at the Undying Shores and take a picture at the Mausoleum\n\u2022 8 new monsters - The Cold Blooded Guardians and their friends would love to teach you about their culture. ... Wait, aren't those relatives of yours in the Undying Shores...?\n\u2022 7 new weapons - lil' Serenade is perfect for breaking the ice with the locals, although the Snake Fangs would make for a perfect souvenir...\n\u2022 1 new boss - The Scarecrow is very proud of his gardening skills and won't hesitate to show off\n\nQUEEN AND THE SEA DLC\n\nTake it to the sea!\n\n\u2022 2 new biomes - Battle your way through a rotten shipwreck, or scale a burning lighthouse and confront your deadliest foe yet.\n\u2022 9 new weapons, including a throwable shark, a trident and a pirate hook hand (eyepatch not included).\n\u2022 2 new bosses - Don't lose your head before you meet the Queen!\n\nThis DLC also gives you the usual extras:\n\n- A not-so-cute pet.\n- Loads of new outfits.\n- New enemies to bash.\n\nCarefully redesigned for Apple Arcade with a revamped interface\n\n\u2022 Two game modes available: Original & Auto-Hit\n\u2022 Custom controls & More touch controls options available: Change the buttons\u2019 position and size to your liking, swipe to dodge\u2026\n\u2022 MFi external controller support\n\u2022 Game Center achievements\n\nMade by @yougottabillieve \ndecrypted by @eeveedecryptorbot\nNew channel: https://t.me/ethMods\nEthMods Repo: \nhttps://repo.ethsign.fyi\nneed a cert dm @eth4dmin \nprepatched already thanks to @asdfzxcvbn0 ipapatch bot found here"
     },
     {
       "name": "Lightroom",
@@ -2718,7 +2818,8 @@
       "appPermissions": {
         "entitlements": [],
         "privacy": {}
-      }
+      },
+      "localizedDescription": "Lightroom Unlocked 10.4 (switched to satella just till we update the eth crack)\n-Lightroom to 10.4 pro\n-click purchase then cancel \n-photo editing app\n-works better then the satella version.\n\nMade by @moeotf \ud83d\udc4c\ud83c\udffb\ndecrypted by @eeveedecrypterbot \nNeed a certificate? Contact @eth4dmin\nNew channel: https://t.me/ethMods\nEthMods Repo: https://repo.ethsign.fyi\nprepatched already thanks to @asdfzxcvbn0 ipapatch bot found here"
     },
     {
       "name": "HotSchedules",
@@ -2751,7 +2852,8 @@
       "appPermissions": {
         "entitlements": [],
         "privacy": {}
-      }
+      },
+      "localizedDescription": "HotSchedules 5.15.0 (patched)(released today)\n- updated to 5.15.0\n-injected with keychain and sideload fix\n-app store link below\n\nhttps://apps.apple.com/us/app/hotschedules/id294934058 ($3)\n\nMade by @moeotf \nNeed a certificate? Contact @eth4dmin\nNew channel: https://t.me/ethMods\nEthMods Repo: https://repo.ethsign.fyi\nprepatched already thanks to @asdfzxcvbn0 ipapatch bot found here"
     },
     {
       "name": "Garten of Banban 6",
@@ -2770,7 +2872,8 @@
       "appPermissions": {
         "entitlements": [],
         "privacy": {}
-      }
+      },
+      "localizedDescription": "Garten of Banban 6\n- AppStore Link\n- Paid Game $4.99\n- Minimum iOS/iPadOS 15.0\n- Decrypted Exclusively by @VAXMG\n\nCreated by ethTeam\nRequest Apps Here\nNeed a certificate? Contact @eth4dmin\nNew main channel: https://t.me/ethMods\nethSign Repo: https://repo.ethsign.fyi"
     },
     {
       "name": "Stardew Save Editor",
@@ -2789,7 +2892,8 @@
       "appPermissions": {
         "entitlements": [],
         "privacy": {}
-      }
+      },
+      "localizedDescription": "Stardew Save Editor 1.0.6\n- AppStore Link\n- Paid App $1.99\n- Minimum iOS/iPadOS 12.4\n- Decrypted Exclusively by @VAXMG\n\nCreated by ethTeam\nRequest Apps Here\nNeed a certificate? Contact @eth4dmin\nNew main channel: https://t.me/ethMods\nethSign Repo: https://repo.ethsign.fyi"
     },
     {
       "name": "CSR Racing 2",
@@ -2808,7 +2912,8 @@
       "appPermissions": {
         "entitlements": [],
         "privacy": {}
-      }
+      },
+      "localizedDescription": "CSR Racing 2 , version 5.7.0\n\n\ud83c\uddf7\ud83c\uddfa CSR2 \u0443\u0441\u0442\u0430\u043d\u0430\u0432\u043b\u0438\u0432\u0430\u0435\u0442 \u043d\u043e\u0432\u044b\u0435 \u0441\u0442\u0430\u043d\u0434\u0430\u0440\u0442\u044b \u0433\u0440\u0430\u0444\u0438\u043a\u0438: \u0433\u0438\u043f\u0435\u0440\u0440\u0435\u0430\u043b\u0438\u0441\u0442\u0438\u0447\u043d\u044b\u0435 \u0441\u043e\u0440\u0435\u0432\u043d\u043e\u0432\u0430\u043d\u0438\u044f \u043f\u043e \u0434\u0440\u044d\u0433-\u0440\u0435\u0439\u0441\u0438\u043d\u0433\u0443 \u0443 \u0442\u0435\u0431\u044f \u0432 \u0440\u0443\u043a\u0430\u0445.\n \u0424\u0443\u043d\u043a\u0446\u0438\u0438: \nInfinity gold,\nInfinity cash\nInfinity keys. \nNo spend fuel,\nMax lvl. \n\n\u00a9 \u0421\u043e\u0437\u0434\u0430\u043d\u043e: GLEHack\n\u00a9 \u0420\u0430\u0437\u0440\u0430\u0431\u043e\u0442\u0447\u0438\u043a: markuz\n\u00a9 \u041f\u043b\u0430\u0442\u0444\u043e\u0440\u043c\u0430: IPA\n\u00a9\u0427\u0438\u0442 \u0432 \u043a\u043e\u043c\u043c\u0435\u043d\u0442\u0430\u0440\u0438\u044f\u0445\n\n\ud83c\uddfa\ud83c\uddf8CSR2 sets new standards in graphics: hyper-realistic drag racing competitions right at your fingertips. \n \nFunction: \nInfinity gold,\nInfinity cash\nInfinity keys. \nNo spend fuel,\nMax lvl. \n\n\u00a9 Created: GLEHack\n\u00a9 Developer: markuz\n\u00a9 Platform: IPA\n\u00a9The cheat is in the comments"
     },
     {
       "name": "CamScanner",
@@ -2827,7 +2932,8 @@
       "appPermissions": {
         "entitlements": [],
         "privacy": {}
-      }
+      },
+      "localizedDescription": "Can scanner + 5.26.12 patched\n- updated to 5.26.12\n-injected with keychain and sideload fix\n-app store link below\n-tested on eth elite cert with esign\n-didn't touch iaps just the app\n\nhttps://apps.apple.com/us/app/camscanner-ocr-scanner/id388624839 ($1)\n\nMade by @moeotf \nNeed a certificate? Contact @eth4dmin\nNew channel: https://t.me/ethMods\nEthMods Repo: https://repo.ethsign.fyi\nprepatched already thanks to @asdfzxcvbn0 ipapatch bot found here"
     },
     {
       "name": "iSTB",
@@ -2846,7 +2952,8 @@
       "appPermissions": {
         "entitlements": [],
         "privacy": {}
-      }
+      },
+      "localizedDescription": "iSTB 1.28.9\n- updated to 1.28.9\n-injected with keychain and sideload fix\n-app store link below\n-tested on eth elite cert with esign\n\nhttps://apps.apple.com/us/app/istb/id1497473331 ($15)\n\nMade by @moeotf \nNeed a certificate? Contact @eth4dmin\nNew channel: https://t.me/ethMods\nEthMods Repo: https://repo.ethsign.fyi\nprepatched already thanks to @asdfzxcvbn0 ipapatch bot found here"
     },
     {
       "name": "Uplens",
@@ -2879,7 +2986,8 @@
       "appPermissions": {
         "entitlements": [],
         "privacy": {}
-      }
+      },
+      "localizedDescription": "\ud83d\udcf1 Uplens: Photo & Video Editor\n\n\ud83c\udd94 Bundle ID: \napp.uplens\n\ud83d\udcca Version: 3.2.0\n\ud83d\udd27 Minimum iOS: 14.0\n\n\u2705 Patched\n\ud83d\udc8e Modifier: Subscription Unlocked\n\n\ud83d\udcdd Note: \nNo Additional Notes\n\n\ud83d\udd04 Tweaked by @blatants\n\nKo-Fi \u2615\ufe0f | Crypto \ud83d\udc7e | IPAs \ud83d\udce5"
     },
     {
       "name": "Parcel",
@@ -2898,7 +3006,8 @@
       "appPermissions": {
         "entitlements": [],
         "privacy": {}
-      }
+      },
+      "localizedDescription": "Parcel 7.15.3 (already patched) (iaps unlocked) (widgets work)\nApp store link \n\nhttps://apps.apple.com/us/app/parcel-delivery-tracking/id375589283\n\n-injected with keychain and sideload fix\n-injected crack (thanks lialaazmi)\n-iaps unlocked\nMade by @moeotf \ndecrypted by @eeveedecrypterbot\nNeed a certificate? Contact @eth4dmin\nNew channel: https://t.me/ethMods\nEthmods chat channel: https://t.me/ethModsChat\nEthMods Repo: https://repo.ethsign.fyi\nprepatched already thanks to @asdfzxcvbn0 ipapatch bot found here"
     },
     {
       "name": "Lumy",
@@ -2917,7 +3026,8 @@
       "appPermissions": {
         "entitlements": [],
         "privacy": {}
-      }
+      },
+      "localizedDescription": "Lumy 2025.2.8 Pro (already patched) (iaps unlocked) (widgets work)\nApp store link ($7)\n\nhttps://apps.apple.com/us/app/lumy/id908905093\n\n-injected with keychain and sideload fix\n-injected crack \n-iaps unlocked\nMade by @moeotf \nNeed a certificate? Contact @eth4dmin\nNew channel: https://t.me/ethMods\nEthmods chat channel: https://t.me/ethModsChat\nEthMods Repo: https://repo.ethsign.fyi\nprepatched already thanks to @asdfzxcvbn0 ipapatch bot found here"
     },
     {
       "name": "Noji",
@@ -2943,7 +3053,8 @@
       "appPermissions": {
         "entitlements": [],
         "privacy": {}
-      }
+      },
+      "localizedDescription": "Noji (used to be called Anki pro) 2.12.1 everything unlocked including iaps (patched)(file picker fix added)\n-injected with keychain and sideload fix\n-injected crack and file picker fix\n-iaps unlocked\n-pretend like your going to buy the max sub then click cancel\n\nMade by @moeotf \ndecrypted by @eeveedecrypterbot\nNeed a certificate? Contact @eth4dmin\nNew channel: https://t.me/ethMods\nEthmods chat channel: https://t.me/ethModsChat\nEthMods Repo: https://repo.ethsign.fyi\nprepatched already thanks to @asdfzxcvbn0 ipapatch bot found here"
     },
     {
       "name": "Keka",
@@ -2976,7 +3087,8 @@
       "appPermissions": {
         "entitlements": [],
         "privacy": {}
-      }
+      },
+      "localizedDescription": "Keka 1.5.2 pro (patched already)(added file picker fix)\nupdated Keka to 1.5.2\n-one of the best apps for unzipping and compressing etc...\n-App store link (changelog here as well)\n-injected with keychainsideload fix and file picker fix\n\nMade by @moeotf \nNeed a certificate? Contact @eth4dmin\nNew channel: https://t.me/ethMods\nEthMods Repo: https://repo.ethsign.fyi\nprepatched already thanks to @asdfzxcvbn0 ipapatch bot found here"
     },
     {
       "name": "VORAZ",
@@ -2995,7 +3107,8 @@
       "appPermissions": {
         "entitlements": [],
         "privacy": {}
-      }
+      },
+      "localizedDescription": "VORAZ - Zombie survival 1.0.124\n- AppStore Link\n- Paid Game $0.99\n- Decrypted Exclusively by @VAXMG\n\nCreated by ethTeam\nRequest Apps Here\nNeed a certificate? Contact @eth4dmin\nNew main channel: https://t.me/ethMods\nethSign Repo: https://repo.ethsign.fyi"
     },
     {
       "name": "NYT Games",
@@ -3014,7 +3127,8 @@
       "appPermissions": {
         "entitlements": [],
         "privacy": {}
-      }
+      },
+      "localizedDescription": "NYT Games: Word, Number, Logic 5.52.0\n- AppStore Link\n- Subscription Unlocked \n- Minimum iOS/iPadOS 17.0\n\nCreated by ethTeam\nCrack by @VAXMG\nRequest Apps Here\nNeed a certificate? Contact @eth4dmin\nNew main channel: https://t.me/ethMods\nethSign Repo: https://repo.ethsign.fyi"
     },
     {
       "name": "Video Star",
@@ -3033,7 +3147,8 @@
       "appPermissions": {
         "entitlements": [],
         "privacy": {}
-      }
+      },
+      "localizedDescription": "Video Star Premium 14.2.0\n- Video Star 14.2.0\n- VSPlusUltra\n   80+ Packs\n   Old Codes Supported\n\nFor more info\nhttps://github.com/6gr8/VSPlusUltra"
     },
     {
       "name": "Anki",
@@ -3052,7 +3167,8 @@
       "appPermissions": {
         "entitlements": [],
         "privacy": {}
-      }
+      },
+      "localizedDescription": "Anki mobile 25.02.1 (patched)\n-injected with keychain and sideload fix\n-didn't touch iaps just the app itself (I'll get to the iaps tmr or when i get more time)\n\nApp store link ($25)\n\nhttps://apps.apple.com/us/app/ankimobile-flashcards/id373493387\n\nMade by @moeotf \nNeed a certificate? Contact @eth4dmin\nNew channel: https://t.me/ethMods\nEthmods chat channel: https://t.me/ethModsChat\nEthMods Repo: https://repo.ethsign.fyi\nprepatched already thanks to @asdfzxcvbn0 ipapatch bot found here"
     },
     {
       "name": "Forest",
@@ -3071,7 +3187,8 @@
       "appPermissions": {
         "entitlements": [],
         "privacy": {}
-      }
+      },
+      "localizedDescription": "Forest focus 4.91.3 (patched)\n-injected with keychain and sideload fix\n-didn't touch iaps just the app itself (I'll get to the iaps tmr or when i get more time)\n\nApp store link ($4)\n\nhttps://apps.apple.com/us/app/forest-focus-for-productivity/id866450515\n\nMade by @moeotf \nNeed a certificate? Contact @eth4dmin\nNew channel: https://t.me/ethMods\nEthmods chat channel: https://t.me/ethModsChat\nEthMods Repo: https://repo.ethsign.fyi\nprepatched already thanks to @asdfzxcvbn0 ipapatch bot found here"
     },
     {
       "name": "Pythonista",
@@ -3090,7 +3207,8 @@
       "appPermissions": {
         "entitlements": [],
         "privacy": {}
-      }
+      },
+      "localizedDescription": "Pythonista 3.4 pro (patched)\n\nPythonista is a complete scripting environment for Python 3.10, running right on your iPad or iPhone, so you can develop and run Python scripts on the go.\n-i already changed the required dependencies from the frameworks folder to the root folder, so you can sign it with any app\n\n-injected with keychain and sideload fix\n-didn't touch iaps just the app itself\n\nApp store link ($10)\n\nhttps://apps.apple.com/us/app/pythonista-3/id1085978097\n\nMade by @moeotf \nNeed a certificate? Contact @eth4dmin\nNew channel: https://t.me/ethMods\nEthMods Repo: https://repo.ethsign.fyi\nprepatched already thanks to @asdfzxcvbn0 ipapatch bot found here"
     },
     {
       "name": "Quantumult X",
@@ -3116,7 +3234,8 @@
       "appPermissions": {
         "entitlements": [],
         "privacy": {}
-      }
+      },
+      "localizedDescription": "QuantomultX 1.5.1 pro (patched)\n-injected with keychain and sideload fix\n-didn't touch iaps just the app itself\n\nApp store link ($10)\n\nhttps://apps.apple.com/us/app/quantumult-x/id1443988620\n\nMade by @moeotf \nNeed a certificate? Contact @eth4dmin\nNew channel: https://t.me/ethMods\nEthMods Repo: https://repo.ethsign.fyi\nprepatched already thanks to @asdfzxcvbn0 ipapatch bot found here"
     },
     {
       "name": "Folium",
@@ -3135,7 +3254,8 @@
       "appPermissions": {
         "entitlements": [],
         "privacy": {}
-      }
+      },
+      "localizedDescription": "Folium 1.20 pro emulator (patched)\nFolium 1.20 pro (patched)\n \n-injected with keychain and sideload fix\n-didn't touch iaps just the app itself\n\nApp store link ($5)\n\nhttps://apps.apple.com/us/app/folium/id6498623389\n\nMade by @moeotf \nNeed a certificate? Contact @eth4dmin\nNew channel: https://t.me/ethMods\nEthMods Repo: https://repo.ethsign.fyi\nprepatched already thanks to @asdfzxcvbn0 ipapatch bot found here"
     },
     {
       "name": "Inspect",
@@ -3154,7 +3274,8 @@
       "appPermissions": {
         "entitlements": [],
         "privacy": {}
-      }
+      },
+      "localizedDescription": "Inspect browser 2.4.4 (patched)\n- updated inspect browser to 2.4.4 \n-injected with keychain and sideload fix\n-didn't touch iaps just the app itself\n\nApp store link ($7)\n\nhttps://apps.apple.com/us/app/inspect-browser/id1203594958\n\nMade by @moeotf \nNeed a certificate? Contact @eth4dmin\nNew channel: https://t.me/ethMods\nEthMods Repo: https://repo.ethsign.fyi\nprepatched already thanks to @asdfzxcvbn0 ipapatch bot found here"
     },
     {
       "name": "Pocket",
@@ -3180,7 +3301,8 @@
       "appPermissions": {
         "entitlements": [],
         "privacy": {}
-      }
+      },
+      "localizedDescription": "Procreate pocket 4.0.14 pro (patched)\n- updated to 4.0.14\n-injected with keychain and sideload fix\n\nMade by @moeotf \nNeed a certificate? Contact @eth4dmin\nNew channel: https://t.me/ethMods\nEthMods Repo: https://repo.ethsign.fyi\nprepatched already thanks to @asdfzxcvbn0 ipapatch bot found here"
     },
     {
       "name": "Discord",
@@ -3213,7 +3335,8 @@
       "appPermissions": {
         "entitlements": [],
         "privacy": {}
-      }
+      },
+      "localizedDescription": "Discord 281.0 | Unbound | NoTrack\n- Updated Discord to 281.0\n- Added Unbound (Enmity) v1.4.0\n- OpenDiscordSafari Extension\n- DiscordNoTrack\n- Unbound Discord channel link for themes and plugins \n- Patch Included\n\n- Uninstall / Reinstall if you are using a different tweak than Unbound or have the Official Discord app installed.\n- You might have to wait 1-2 minutes after opening and logging into Discord for cache to build up before being able to use the app.\n\nTweak by @castdrian\nUnbound GitHub\nMade by @YouGottaBillieve decrypted by @eeveedecrypterbot\nNew channel: https://t.me/ethMods\nEthMods Repo: https://repo.ethsign.fyi\nneed a cert dm @eth4dmin\nprepatched already thanks to @asdfzxcvbn0 ipapatch bot found here"
     }
   ],
   "name": "ParadoxTime Repo | Part 1"
