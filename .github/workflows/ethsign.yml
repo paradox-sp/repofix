@@ -1,4 +1,4 @@
-name: EthSign to AltStore Converter
+name: EthSign to SideStore Converter
 
 on:
   schedule:
@@ -20,20 +20,20 @@ jobs:
           python-version: '3.10'
 
       - name: Install dependencies
-        run: pip install requests
+        run: pip install requests pytz
 
-      - name: Convert to AltStore format
+      - name: Convert to SideStore format
         run: |
           python <<EOF
           import requests
           import json
-          from datetime import datetime
+          from datetime import datetime, timezone
+          import pytz
 
           # Configuration
           SOURCE_URL = "https://repo.ethsign.fyi/"
+          REPO_IDENTIFIER = "fyi.ethsign.repo"
           DEFAULT_ICON = "https://paradoxtime.tk/img/pdt_logo_nobg_shadow.png"
-          DEFAULT_TINT = "#FF6B6B"
-          REPO_IDENTIFIER = "ethsign.altstore"  # Added identifier
 
           # Fetch source
           print("🔄 Fetching EthSign repo...")
@@ -45,83 +45,100 @@ jobs:
               print(f"❌ Error fetching source: {e}")
               exit(1)
 
-          # Transform to AltStore format
+          # Transform to SideStore format
           output = {
               "name": "EthSign Apps",
-              "identifier": REPO_IDENTIFIER,  # Added required identifier
-              "subtitle": "Apps from EthSign repository",
-              "description": "Collection of modified apps from EthSign",
+              "identifier": REPO_IDENTIFIER,
+              "sourceURL": SOURCE_URL,
               "iconURL": DEFAULT_ICON,
-              "website": "https://repo.ethsign.fyi",
-              "tintColor": DEFAULT_TINT,
-              "featuredApps": [],
-              "apps": [],
-              "news": []
+              "userinfo": {},
+              "apps": []
           }
 
           # Process apps
           for app in src_data.get("apps", []):
+              # Skip invalid entries
               if not all(k in app for k in ["name", "bundleIdentifier", "version", "downloadURL"]):
                   continue
 
-              output["apps"].append({
+              # Get current UTC time in ISO format
+              current_time = datetime.now(timezone.utc).astimezone(pytz.utc).isoformat()
+
+              # Build version entry
+              version_entry = {
+                  "version": app["version"],
+                  "date": app.get("versionDate", current_time),
+                  "downloadURL": app["downloadURL"],
+                  "localizedDescription": app.get("localizedDescription", "Updated version"),
+                  "size": app.get("size", 0),
+                  "absoluteVersion": app["version"]
+              }
+
+              # Build app entry
+              app_entry = {
                   "name": app["name"],
                   "bundleIdentifier": app["bundleIdentifier"],
                   "developerName": app.get("developerName", "Unknown Developer"),
-                  "subtitle": app.get("subtitle", "Modified app"),
-                  "localizedDescription": app.get("localizedDescription", "Modified app from EthSign repository"),
+                  "version": app["version"],
+                  "versionDate": app.get("versionDate", current_time),
+                  "versionDescription": app.get("localizedDescription", "Latest version"),
+                  "downloadURL": app["downloadURL"],
+                  "localizedDescription": app.get("localizedDescription", "App from EthSign repository"),
                   "iconURL": app.get("iconURL", DEFAULT_ICON),
-                  "tintColor": DEFAULT_TINT,
-                  "category": "other",
-                  "versions": [{
-                      "version": app["version"],
-                      "date": app.get("versionDate", datetime.now().strftime("%Y-%m-%d")),
-                      "downloadURL": app["downloadURL"],
-                      "size": app.get("size", 10000000),
-                      "localizedDescription": app.get("localizedDescription", "Modified app from EthSign")
-                  }],
-                  "appPermissions": {
-                      "entitlements": [],
-                      "privacy": {}
-                  }
-              })
+                  "tintColor": app.get("tintColor", "#FF6B6B"),
+                  "size": app.get("size", 0),
+                  "screenshotURLs": app.get("screenshotURLs", []),
+                  "subtitle": app.get("subtitle", "Modified app"),
+                  "absoluteVersion": app["version"],
+                  "appID": app["bundleIdentifier"],
+                  "versions": [version_entry]
+              }
 
-          with open("altstore-source.json", "w") as f:
+              output["apps"].append(app_entry)
+
+          # Save output
+          with open("sidestore-source.json", "w") as f:
               json.dump(output, f, indent=2)
           print(f"✅ Successfully converted {len(output['apps'])} apps")
           EOF
 
       - name: Validate JSON
         run: |
+          # Install jq if not present
+          sudo apt-get install -y jq
+
           # Basic JSON validation
-          if ! jq empty altstore-source.json; then
+          if ! jq empty sidestore-source.json; then
             echo "❌ Invalid JSON structure"
             exit 1
           fi
-          echo "✅ Valid JSON structure"
 
-          # AltStore-specific validation
-          REQUIRED_FIELDS=(
+          # Check required fields
+          REQUIRED=(
             '.name'
             '.identifier'
+            '.sourceURL'
             '.apps[].name'
             '.apps[].bundleIdentifier'
-            '.apps[].versions[].downloadURL'
+            '.apps[].version'
+            '.apps[].downloadURL'
             '.apps[].versions[].version'
+            '.apps[].versions[].downloadURL'
           )
-          
-          for field in "${REQUIRED_FIELDS[@]}"; do
-            if ! jq -e "$field" altstore-source.json >/dev/null; then
+
+          for field in "${REQUIRED[@]}"; do
+            if ! jq -e "$field" sidestore-source.json >/dev/null; then
               echo "❌ Missing required field: $field"
               exit 1
             fi
           done
-          echo "✅ All required fields present"
+
+          echo "✅ All validations passed"
 
       - name: Commit changes
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
-          git add altstore-source.json
+          git add sidestore-source.json
           git diff --quiet && git diff --staged --quiet || git commit -m "Auto-update: $(date +'%Y-%m-%d %H:%M')"
           git push
