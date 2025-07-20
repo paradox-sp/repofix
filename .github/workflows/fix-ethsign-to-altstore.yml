@@ -37,7 +37,7 @@ jobs:
               "identifier": "ethmod.paradoxtime.tk",
               "iconURL": "https://paradoxtime.tk/img/pdt_logo_nobg_shadow.png",
               "subtitle": "From EthSign repo, fixed for AltStore/SideStore",
-              "description": "ParadoxTime Repo — fetches IPAs from EthSign repo and fixes duplicate issues.",
+              "description": "ParadoxTime Repo — fetches IPAs from EthSign repo and fixes json format for altstore.",
               "apps": []
           }
 
