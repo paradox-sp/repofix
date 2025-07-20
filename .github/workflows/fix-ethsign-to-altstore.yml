@@ -1,3 +1,152 @@
+# name: Fetch and Convert EthSign Repo to AltStore Format
+
+# on:
+#   schedule:
+#     - cron: '0 0 * * *'
+#   workflow_dispatch:
+
+# jobs:
+#   convert-and-publish:
+#     runs-on: ubuntu-latest
+
+#     steps:
+#       - name: Checkout repository
+#         uses: actions/checkout@v3
+
+#       - name: Set up Python 3.10
+#         uses: actions/setup-python@v4
+#         with:
+#           python-version: '3.10'
+
+#       - name: Install dependencies
+#         run: pip install requests packaging
+
+#       - name: Fetch, convert, save full and split EthSign repo JSONs (3 parts)
+#         run: |
+#           python <<EOF
+#           import requests
+#           import json
+#           from collections import defaultdict
+#           from packaging.version import Version, InvalidVersion
+#           import math
+
+#           url = "https://repo.ethsign.fyi/"
+#           r = requests.get(url)
+#           r.raise_for_status()
+#           src = r.json()
+
+#           base_repo = {
+#               "identifier": "ethmod.paradoxtime.tk",
+#               "iconURL": "https://paradoxtime.tk/img/pdt_logo_nobg_shadow.png",
+#               "subtitle": "From EthSign repo, fixed for AltStore/SideStore",
+#               "description": "ParadoxTime Repo — fetches IPAs from EthSign repo and fixes json format for altstore.",
+#               "apps": []
+#           }
+
+#           apps_by_bundle = defaultdict(list)
+
+#           for app in src.get("apps", []):
+#               bundle_id = app.get("bundleIdentifier")
+#               apps_by_bundle[bundle_id].append(app)
+
+#           def parse_version(ver_str):
+#               try:
+#                   return Version(ver_str)
+#               except InvalidVersion:
+#                   return Version("0.0.0")
+
+#           for bundle_id, app_versions in apps_by_bundle.items():
+#               versions_by_dev = defaultdict(list)
+#               for v in app_versions:
+#                   dev = v.get("developerName", "Unknown")
+#                   versions_by_dev[dev].append(v)
+
+#               filtered_versions = []
+#               app_info_sample = None
+
+#               for dev, dev_versions in versions_by_dev.items():
+#                   dev_versions.sort(key=lambda x: parse_version(x.get("version", "0.0.0")), reverse=True)
+#                   keep_versions = dev_versions[:3]
+#                   filtered_versions.extend(keep_versions)
+
+#               filtered_versions.sort(key=lambda x: parse_version(x.get("version", "0.0.0")), reverse=True)
+
+#               if filtered_versions:
+#                   app_info_sample = filtered_versions[0]
+
+#               icon_url = app_info_sample.get("iconURL", "") if app_info_sample else ""
+#               if icon_url == "https://repo.ethsign.fyi/icon.jpg":
+#                   icon_url = "https://paradoxtime.tk/img/pdt_logo_nobg_shadow.png"
+
+#               altstore_versions = []
+#               for v in filtered_versions:
+#                   altstore_versions.append({
+#                       "version": v.get("version", "0.0"),
+#                       "date": v.get("versionDate", "2025-01-01"),
+#                       "size": v.get("size", 0),
+#                       "downloadURL": v.get("downloadURL"),
+#                       "localizedDescription": v.get("localizedDescription", "")
+#                   })
+
+#               if app_info_sample:
+#                   base_repo["apps"].append({
+#                       "name": app_info_sample.get("name", "Unnamed App"),
+#                       "developerName": app_info_sample.get("developerName", "Unknown"),
+#                       "bundleIdentifier": bundle_id,
+#                       "localizedDescription": app_info_sample.get("localizedDescription", ""),
+#                       "iconURL": icon_url,
+#                       "versions": altstore_versions,
+#                       "appPermissions": {
+#                           "entitlements": [],
+#                           "privacy": {}
+#                       }
+#                   })
+
+#           all_apps = base_repo["apps"]
+#           total = len(all_apps)
+#           chunk_size = math.ceil(total / 3)
+
+#           # Full repo with custom name
+#           full_repo = dict(base_repo)
+#           full_repo["name"] = "ParadoxTime Repo | Ethmod Full"
+
+#           # Part 1 repo
+#           part1_repo = dict(base_repo)
+#           part1_repo["apps"] = all_apps[:chunk_size]
+#           part1_repo["name"] = "ParadoxTime Repo | Ethmod Part 1"
+
+#           # Part 2 repo
+#           part2_repo = dict(base_repo)
+#           part2_repo["apps"] = all_apps[chunk_size:chunk_size*2]
+#           part2_repo["name"] = "ParadoxTime Repo | Ethmod Part 2"
+
+#           # Part 3 repo
+#           part3_repo = dict(base_repo)
+#           part3_repo["apps"] = all_apps[chunk_size*2:]
+#           part3_repo["name"] = "ParadoxTime Repo | Ethmod Part 3"
+
+#           with open("ethsign-repo-fix.json", "w") as f:
+#               json.dump(full_repo, f, indent=2)
+
+#           with open("ethsign-repo-fix1.json", "w") as f:
+#               json.dump(part1_repo, f, indent=2)
+
+#           with open("ethsign-repo-fix2.json", "w") as f:
+#               json.dump(part2_repo, f, indent=2)
+
+#           with open("ethsign-repo-fix3.json", "w") as f:
+#               json.dump(part3_repo, f, indent=2)
+#           EOF
+
+#       - name: Commit and push changes
+#         run: |
+#           git config user.name "github-actions[bot]"
+#           git config user.email "github-actions[bot]@users.noreply.github.com"
+#           git add ethsign-repo-fix.json ethsign-repo-fix1.json ethsign-repo-fix2.json ethsign-repo-fix3.json
+#           git commit -m "Auto-convert EthSign repo to AltStore format full + 3 split parts" || echo "No changes to commit"
+#           git push
+
+
 name: Fetch and Convert EthSign Repo to AltStore Format
 
 on:
@@ -8,20 +157,22 @@ on:
 jobs:
   convert-and-publish:
     runs-on: ubuntu-latest
+    timeout-minutes: 10
 
     steps:
       - name: Checkout repository
         uses: actions/checkout@v3
 
-      - name: Set up Python 3.10
+      - name: Set up Python
         uses: actions/setup-python@v4
         with:
           python-version: '3.10'
+          cache: 'pip'
 
       - name: Install dependencies
-        run: pip install requests packaging
+        run: pip install requests packaging pyyaml
 
-      - name: Fetch, convert, save full and split EthSign repo JSONs (3 parts)
+      - name: Fetch and convert EthSign repo
         run: |
           python <<EOF
           import requests
@@ -29,25 +180,34 @@ jobs:
           from collections import defaultdict
           from packaging.version import Version, InvalidVersion
           import math
+          import yaml
+          from datetime import datetime
 
-          url = "https://repo.ethsign.fyi/"
-          r = requests.get(url)
-          r.raise_for_status()
-          src = r.json()
-
-          base_repo = {
+          SOURCE_URL = "https://repo.ethsign.fyi/"
+          MAX_VERSIONS_PER_APP = 3
+          REPO_METADATA = {
               "identifier": "ethmod.paradoxtime.tk",
               "iconURL": "https://paradoxtime.tk/img/pdt_logo_nobg_shadow.png",
               "subtitle": "From EthSign repo, fixed for AltStore/SideStore",
-              "description": "ParadoxTime Repo — fetches IPAs from EthSign repo and fixes json format for altstore.",
+              "description": "ParadoxTime Repo — automatically synced from EthSign repo",
+              "website": "https://paradoxtime.tk",
+              "tintColor": "#FF6B6B",
               "apps": []
           }
 
-          apps_by_bundle = defaultdict(list)
+          try:
+              response = requests.get(SOURCE_URL, timeout=10)
+              response.raise_for_status()
+              src_data = response.json()
+          except Exception as e:
+              print(f"Error fetching source: {e}")
+              exit(1)
 
-          for app in src.get("apps", []):
-              bundle_id = app.get("bundleIdentifier")
-              apps_by_bundle[bundle_id].append(app)
+          apps_by_bundle = defaultdict(list)
+          for app in src_data.get("apps", []):
+              if not all(k in app for k in ["bundleIdentifier", "version", "downloadURL"]):
+                  continue
+              apps_by_bundle[app["bundleIdentifier"]].append(app)
 
           def parse_version(ver_str):
               try:
@@ -55,93 +215,73 @@ jobs:
               except InvalidVersion:
                   return Version("0.0.0")
 
-          for bundle_id, app_versions in apps_by_bundle.items():
-              versions_by_dev = defaultdict(list)
-              for v in app_versions:
-                  dev = v.get("developerName", "Unknown")
-                  versions_by_dev[dev].append(v)
-
-              filtered_versions = []
-              app_info_sample = None
-
-              for dev, dev_versions in versions_by_dev.items():
-                  dev_versions.sort(key=lambda x: parse_version(x.get("version", "0.0.0")), reverse=True)
-                  keep_versions = dev_versions[:3]
-                  filtered_versions.extend(keep_versions)
-
-              filtered_versions.sort(key=lambda x: parse_version(x.get("version", "0.0.0")), reverse=True)
-
-              if filtered_versions:
-                  app_info_sample = filtered_versions[0]
-
-              icon_url = app_info_sample.get("iconURL", "") if app_info_sample else ""
-              if icon_url == "https://repo.ethsign.fyi/icon.jpg":
-                  icon_url = "https://paradoxtime.tk/img/pdt_logo_nobg_shadow.png"
-
+          processed_apps = []
+          for bundle_id, versions in apps_by_bundle.items():
+              versions.sort(key=lambda x: parse_version(x.get("version", "0.0.0")), reverse=True)
+              kept_versions = versions[:MAX_VERSIONS_PER_APP]
+              if not kept_versions:
+                  continue
+              
+              latest = kept_versions[0]
               altstore_versions = []
-              for v in filtered_versions:
+              for v in kept_versions:
                   altstore_versions.append({
-                      "version": v.get("version", "0.0"),
-                      "date": v.get("versionDate", "2025-01-01"),
+                      "version": v["version"],
+                      "date": v.get("versionDate", datetime.now().strftime("%Y-%m-%d")),
                       "size": v.get("size", 0),
-                      "downloadURL": v.get("downloadURL"),
+                      "downloadURL": v["downloadURL"],
                       "localizedDescription": v.get("localizedDescription", "")
                   })
+              
+              entitlements = []
+              if "emu" in bundle_id.lower() or "manic" in latest.get("name", "").lower():
+                  entitlements.append("com.apple.security.cs.allow-jit")
+              
+              processed_apps.append({
+                  "name": latest.get("name", "Unnamed App"),
+                  "bundleIdentifier": bundle_id,
+                  "developerName": latest.get("developerName", "Unknown"),
+                  "iconURL": latest.get("iconURL", REPO_METADATA["iconURL"]),
+                  "versions": altstore_versions,
+                  "appPermissions": {
+                      "entitlements": entitlements,
+                      "privacy": {}
+                  }
+              })
 
-              if app_info_sample:
-                  base_repo["apps"].append({
-                      "name": app_info_sample.get("name", "Unnamed App"),
-                      "developerName": app_info_sample.get("developerName", "Unknown"),
-                      "bundleIdentifier": bundle_id,
-                      "localizedDescription": app_info_sample.get("localizedDescription", ""),
-                      "iconURL": icon_url,
-                      "versions": altstore_versions,
-                      "appPermissions": {
-                          "entitlements": [],
-                          "privacy": {}
-                      }
-                  })
+          CHUNK_COUNT = 3
+          chunk_size = math.ceil(len(processed_apps) / CHUNK_COUNT)
+          
+          repos = {
+              "ethsign-repo-full.json": {
+                  **REPO_METADATA,
+                  "name": "ParadoxTime Repo | Full",
+                  "apps": processed_apps
+              }
+          }
+          
+          for i in range(CHUNK_COUNT):
+              chunk_name = f"ethsign-repo-part{i+1}.json"
+              chunk_apps = processed_apps[i*chunk_size : (i+1)*chunk_size]
+              repos[chunk_name] = {
+                  **REPO_METADATA,
+                  "name": f"ParadoxTime Repo | Part {i+1}",
+                  "apps": chunk_apps
+              }
 
-          all_apps = base_repo["apps"]
-          total = len(all_apps)
-          chunk_size = math.ceil(total / 3)
-
-          # Full repo with custom name
-          full_repo = dict(base_repo)
-          full_repo["name"] = "ParadoxTime Repo | Ethmod Full"
-
-          # Part 1 repo
-          part1_repo = dict(base_repo)
-          part1_repo["apps"] = all_apps[:chunk_size]
-          part1_repo["name"] = "ParadoxTime Repo | Ethmod Part 1"
-
-          # Part 2 repo
-          part2_repo = dict(base_repo)
-          part2_repo["apps"] = all_apps[chunk_size:chunk_size*2]
-          part2_repo["name"] = "ParadoxTime Repo | Ethmod Part 2"
-
-          # Part 3 repo
-          part3_repo = dict(base_repo)
-          part3_repo["apps"] = all_apps[chunk_size*2:]
-          part3_repo["name"] = "ParadoxTime Repo | Ethmod Part 3"
-
-          with open("ethsign-repo-fix.json", "w") as f:
-              json.dump(full_repo, f, indent=2)
-
-          with open("ethsign-repo-fix1.json", "w") as f:
-              json.dump(part1_repo, f, indent=2)
-
-          with open("ethsign-repo-fix2.json", "w") as f:
-              json.dump(part2_repo, f, indent=2)
-
-          with open("ethsign-repo-fix3.json", "w") as f:
-              json.dump(part3_repo, f, indent=2)
+          for filename, data in repos.items():
+              with open(filename, "w") as f:
+                  json.dump(data, f, indent=2)
           EOF
 
-      - name: Commit and push changes
+      - name: Verify JSON files
+        run: |
+          jq empty ethsign-repo-*.json || (echo "Invalid JSON detected!" && exit 1)
+
+      - name: Commit changes
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
-          git add ethsign-repo-fix.json ethsign-repo-fix1.json ethsign-repo-fix2.json ethsign-repo-fix3.json
-          git commit -m "Auto-convert EthSign repo to AltStore format full + 3 split parts" || echo "No changes to commit"
+          git add ethsign-repo-*.json
+          git diff --quiet && git diff --staged --quiet || git commit -m "Auto-update: $(date +'%Y-%m-%d %H:%M')"
           git push
