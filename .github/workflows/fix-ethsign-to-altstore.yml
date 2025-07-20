@@ -2,7 +2,7 @@ name: Fetch and Convert EthSign Repo to AltStore Format
 
 on:
   schedule:
-    - cron: '0 0 * * *'
+    - cron: '0 0 * * *' 
   workflow_dispatch:
 
 jobs:
@@ -21,21 +21,21 @@ jobs:
       - name: Install dependencies
         run: pip install requests packaging
 
-      - name: Fetch, convert, and save EthSign repo JSON as AltStore format
+      - name: Fetch, convert, save full and split EthSign repo JSONs with custom names
         run: |
           python <<EOF
           import requests
           import json
           from collections import defaultdict
           from packaging.version import Version, InvalidVersion
+          import math
 
           url = "https://repo.ethsign.fyi/"
           r = requests.get(url)
           r.raise_for_status()
           src = r.json()
 
-          converted = {
-              "name": "ParadoxTime Repo | Ethmod",
+          base_repo = {
               "identifier": "ethmod.paradoxtime.tk",
               "iconURL": "https://paradoxtime.tk/img/pdt_logo_nobg_shadow.png",
               "subtitle": "From EthSign repo, fixed for AltStore/SideStore",
@@ -89,7 +89,7 @@ jobs:
                   })
 
               if app_info_sample:
-                  converted["apps"].append({
+                  base_repo["apps"].append({
                       "name": app_info_sample.get("name", "Unnamed App"),
                       "developerName": app_info_sample.get("developerName", "Unknown"),
                       "bundleIdentifier": bundle_id,
@@ -102,14 +102,38 @@ jobs:
                       }
                   })
 
+          all_apps = base_repo["apps"]
+          total = len(all_apps)
+          half = math.ceil(total / 2)
+
+          # Full repo with custom name
+          full_repo = dict(base_repo)
+          full_repo["name"] = "ParadoxTime Repo | Ethmod Full"
+
+          # Part 1 repo
+          part1_repo = dict(base_repo)
+          part1_repo["apps"] = all_apps[:half]
+          part1_repo["name"] = "ParadoxTime Repo | Ethmod Part 1"
+
+          # Part 2 repo
+          part2_repo = dict(base_repo)
+          part2_repo["apps"] = all_apps[half:]
+          part2_repo["name"] = "ParadoxTime Repo | Ethmod Part 2"
+
           with open("ethsign-repo-fix.json", "w") as f:
-              json.dump(converted, f, indent=2)
+              json.dump(full_repo, f, indent=2)
+
+          with open("ethsign-repo-fix1.json", "w") as f:
+              json.dump(part1_repo, f, indent=2)
+
+          with open("ethsign-repo-fix2.json", "w") as f:
+              json.dump(part2_repo, f, indent=2)
           EOF
 
       - name: Commit and push changes
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
-          git add ethsign-repo-fix.json
-          git commit -m "Auto-convert EthSign repo to AltStore format with version sorting" || echo "No changes to commit"
+          git add ethsign-repo-fix.json ethsign-repo-fix1.json ethsign-repo-fix2.json
+          git commit -m "Auto-convert EthSign repo to AltStore format with full and split parts named" || echo "No changes to commit"
           git push
