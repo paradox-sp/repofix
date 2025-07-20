@@ -1,44 +1,46 @@
 name: Fetch and Convert EthSign Repo to AltStore
-'on':
+
+on:
   schedule:
-    - cron: 0 0 * * *
-  workflow_dispatch: null
+    - cron: '0 0 * * *'  # Runs daily at midnight UTC
+  workflow_dispatch:
+
 permissions:
   contents: write
+
 jobs:
   convert-and-deploy:
     runs-on: ubuntu-latest
+
     steps:
       - name: Checkout repository
         uses: actions/checkout@v4
-        with:
-          fetch-depth: 0
+
       - name: Set up Python
         uses: actions/setup-python@v5
         with:
-          python-version: 3.x
+          python-version: '3.x'
+
       - name: Install Python dependencies
         run: |
           python -m pip install --upgrade pip
           pip install requests
-      - name: Create conversion script
+
+      - name: Fetch and Convert JSON
         run: |
           cat <<'EOF' > convert.py
-          import json, requests, re
+          import json, requests
           from datetime import datetime
           from collections import defaultdict
 
           def parse_date(date_str):
               try:
                   return datetime.strptime(date_str, '%Y-%m-%d')
-              except ValueError:
+              except:
                   return datetime.min
 
-          def sanitize_version(v):
-              parts = re.findall(r'\d+', v)
-              while len(parts) < 3:
-                  parts.append('0')
-              return '.'.join(parts[:3])
+          def sanitize_version(version):
+              return str(version).strip().split('+')[0].split('-')[0]
 
           FEATURE_BUNDLES = {
               'com.google.ios.youtube',
@@ -48,45 +50,49 @@ jobs:
 
           def fetch_source():
               try:
-                  r = requests.get('https://repo.ethsign.fyi/', timeout=10)
-                  r.raise_for_status()
-                  return r.json()
+                  response = requests.get('https://repo.ethsign.fyi/', timeout=10)
+                  response.raise_for_status()
+                  return response.json()
               except Exception as e:
-                  print(f"Fetch error: {e}")
+                  print(f"Error fetching source: {e}")
                   return None
+
+          def transform(app, is_featured=False):
+              desc = app.get('localizedDescription', '')
+              desc = desc.replace('\\n', ' ').replace('\n', ' ').replace('\r', ' ').replace('\\', '').strip()
+              if len(desc) > 300:
+                  desc = desc[:297] + '...'
+
+              return {
+                  "name": app["name"],
+                  "bundleIdentifier": app["bundleIdentifier"],
+                  "developerName": app.get("developerName", "Unknown Developer"),
+                  "version": sanitize_version(app["version"]),
+                  "versionDate": app.get("versionDate", ""),
+                  "downloadURL": app["downloadURL"],
+                  "localizedDescription": desc,
+                  "iconURL": app["iconURL"],
+                  "size": int(app.get("size", 0)),
+                  "tintColor": "#007AFF",
+                  **({"featured": True} if is_featured else {})
+              }
 
           def process_apps(source):
               if not source or 'apps' not in source:
                   return [], []
-
+              
               apps = source.get('apps', [])
               grouped = defaultdict(list)
               for app in apps:
                   grouped[app['bundleIdentifier']].append(app)
 
-              filtered = []
+              filtered_apps = []
               for versions in grouped.values():
                   versions.sort(key=lambda x: parse_date(x.get('versionDate', '')), reverse=True)
-                  filtered.extend(versions[:3])
+                  filtered_apps.extend(versions[:3])
 
               featured, others = [], []
-
-              def transform(app, is_featured=False):
-                  return {
-                      'name': app['name'],
-                      'bundleIdentifier': app['bundleIdentifier'],
-                      'developerName': app.get('developerName') or 'Unknown Developer',
-                      'version': sanitize_version(app['version']),
-                      'versionDate': app.get('versionDate', ''),
-                      'downloadURL': app['downloadURL'],
-                      'localizedDescription': app.get('localizedDescription', ''),
-                      'iconURL': app['iconURL'],
-                      'size': int(app.get('size', 0)),
-                      'tintColor': '#007AFF',
-                      **({'featured': True} if is_featured else {})
-                  }
-
-              for app in filtered:
+              for app in filtered_apps:
                   is_featured = app['bundleIdentifier'] in FEATURE_BUNDLES
                   (featured if is_featured else others).append(transform(app, is_featured))
 
@@ -102,27 +108,32 @@ jobs:
 
               featured, others = process_apps(source)
 
-              out = {
-                  'name': 'ParadoxTime Repo | Ethmod',
-                  'identifier': 'fyi.ethsign.repo',
-                  'sourceURL': 'https://raw.githubusercontent.com/paradox-sp/repofix/main/sidestore-source.json',
-                  'iconURL': 'https://paradoxtime.tk/img/pdt_logo_nobg_shadow.png',
-                  'userinfo': {},
-                  'subtitle': 'From EthSign repo, fixed for AltStore/SideStore',
-                  'description': 'ParadoxTime Repo — fetches IPAs from EthSign repo',
-                  'apps': featured + others
+              output = {
+                  "name": "ParadoxTime Repo | Ethmod",
+                  "identifier": "fyi.ethsign.repo",
+                  "sourceURL": "https://raw.githubusercontent.com/paradox-sp/repofix/main/sidestore-source.json",
+                  "iconURL": "https://paradoxtime.tk/img/pdt_logo_nobg_shadow.png",
+                  "userinfo": {},
+                  "subtitle": "From EthSign repo, fixed for AltStore/SideStore",
+                  "description": "ParadoxTime Repo — fetches IPAs from EthSign repo",
+                  "apps": featured + others
               }
 
-              with open('sidestore-source.json', 'w') as f:
-                  json.dump(out, f, indent=2)
+              with open("sidestore-source.json", "w", encoding="utf-8") as f:
+                  json.dump(output, f, indent=2, ensure_ascii=False)
+
               return True
 
-          if __name__ == '__main__':
+          if __name__ == "__main__":
               if not main():
                   exit(1)
           EOF
-      - name: Run conversion script
-        run: python3 convert.py
+          python3 convert.py
+
+      - name: Validate JSON
+        run: |
+          python -m json.tool sidestore-source.json > /dev/null
+
       - name: Commit and Push Changes
         run: |
           git config user.name "github-actions[bot]"
@@ -132,6 +143,6 @@ jobs:
             echo "No changes to commit"
           else
             git add sidestore-source.json
-            git commit -m "Update sidestore-source.json from EthSign (latest 3 versions, fixed versions)"
+            git commit -m "Update sidestore-source.json from EthSign (cleaned and fixed)"
             git push
           fi
