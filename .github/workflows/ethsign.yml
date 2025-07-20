@@ -2,7 +2,7 @@ name: Fetch and Convert EthSign Repo to AltStore
 
 on:
   schedule:
-    - cron: '0 0 * * *'  # Runs daily at midnight UTC
+    - cron: '0 0 * * *'
   workflow_dispatch:
 
 jobs:
@@ -20,7 +20,7 @@ jobs:
 
       - name: Fetch and Convert JSON
         run: |
-          python3 -c "
+          cat <<EOF > convert.py
 import json, requests
 from datetime import datetime
 from collections import defaultdict
@@ -37,6 +37,7 @@ FEATURE_BUNDLES = {
     'com.spotify.client'
 }
 
+# Fetch the source JSON
 source = requests.get('https://repo.ethsign.fyi/').json()
 apps = source.get('apps', [])
 
@@ -74,13 +75,14 @@ def transform(app, is_featured=False):
 
 for app in filtered_apps:
     is_featured = app['bundleIdentifier'] in FEATURE_BUNDLES
-    (featured if is_featured else others).append(transform(app, is_featured))
+    target_list = featured if is_featured else others
+    target_list.append(transform(app, is_featured))
 
-# Sort by versionDate descending
+# Sort both lists by versionDate descending
 featured.sort(key=lambda x: parse_date(x['versionDate']), reverse=True)
 others.sort(key=lambda x: parse_date(x['versionDate']), reverse=True)
 
-# Final JSON output
+# Final output JSON
 output = {
     'name': 'ParadoxTime Repo | Ethmod',
     'identifier': 'fyi.ethsign.repo',
@@ -92,14 +94,17 @@ output = {
     'apps': featured + others
 }
 
+# Write the output file
 with open('sidestore-source.json', 'w') as f:
     json.dump(output, f, indent=2)
-"
+EOF
+
+          python3 convert.py
 
       - name: Commit and Push Changes
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
           git add sidestore-source.json
-          git commit -m "Update sidestore-source.json from EthSign (3 versions, featured, sorted)"
+          git commit -m "Update sidestore-source.json from EthSign (latest 3 versions, featured, sorted)"
           git push
