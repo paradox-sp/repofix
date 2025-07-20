@@ -1,0 +1,65 @@
+name: Clean AltStore Repo JSON
+
+on:
+  schedule:
+    - cron: '0 0 * * *'  # every 24 hours (midnight UTC)
+  workflow_dispatch:      # allows manual trigger
+
+jobs:
+  clean-and-publish:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repo
+        uses: actions/checkout@v3
+
+      - name: Set up Python
+        uses: actions/setup-python@v4
+        with:
+          python-version: '3.10'
+
+      - name: Install dependencies
+        run: pip install requests
+
+      - name: Download and clean JSON
+        run: |
+          python <<EOF
+          import json, requests
+
+          url = "https://aio.zxcvbn.fyi/r/repo.altstore.json"
+          response = requests.get(url)
+          data = response.json()
+
+          data["name"] = "paradoxtime repo v1"
+          data["identifier"] = "tk.paradoxtime.aio"
+          data["iconURL"] = "https://paradoxtime.tk/img/pdt_logo_nobg_shadow.png"
+          data["subtitle"] = "Fixes"
+          data["description"] = "Paradoxtime Repo — fetches IPAs from zx's AIO repo and fixes duplicate issues."
+
+          for app in data.get("apps", []):
+              if "source" in app and "zx's" in app["source"].lower():
+                  app["source"] = "paradoxtime (via zx's aio repo)"
+
+          for app in data.get("apps", []):
+              seen_versions = set()
+              cleaned_versions = []
+              for v in app.get("versions", []):
+                  ver = v.get("version")
+                  if ver not in seen_versions:
+                      seen_versions.add(ver)
+                      cleaned_versions.append(v)
+                  else:
+                      v["version"] = ver + "-alt"
+                      cleaned_versions.append(v)
+              app["versions"] = cleaned_versions
+
+          with open("repo-cleaned.json", "w") as f:
+              json.dump(data, f, indent=2)
+          EOF
+
+      - name: Commit cleaned JSON
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add repo-cleaned.json
+          git commit -m "Auto-cleaned and updated metadata" || echo "No changes to commit"
+          git push
