@@ -1,9 +1,11 @@
 {
-  "name": "EthSign Apps",
+  "name": "ParadoxTime Repo | Ethmod",
   "identifier": "fyi.ethsign.repo",
   "sourceURL": "https://raw.githubusercontent.com/paradox-sp/repofix/main/sidestore-source.json",
   "iconURL": "https://paradoxtime.tk/img/pdt_logo_nobg_shadow.png",
   "userinfo": {},
+  "subtitle": "From EthSign repo, fixed for AltStore/SideStore",
+  "description": "ParadoxTime Repo — fetches IPAs from EthSign repo and fixes json format for altstore.",
   "apps": [
     {
       "name": "Manic EMU",
@@ -41,14 +43,6 @@
           "size": 77746597,
           "absoluteVersion": "1.4.2",
           "localizedDescription": "MamicECU 1.4.2(PSP 3DS NDS GBA NES GO)(Nintendo switch emulator)(file picker fix included)(compatible with jit)\n- updated to 1.4.2\n-play PSP 3DS NDS GBA NES GO, Games\n-injected with keychain and sideload fix and file picker fix\n-tested on eth elite cert (jit enabled)\n-available in app store but when you sideload it you get better performance because it works with JIT\n-How to enable jit on elite cert HERE\n\nMade by @moeotf \nNeed a certificate? Contact @eth4dmin\nNew channel: https://t.me/ethMods\nEthMods Repo: https://repo.ethsign.fyi\nprepatched already thanks to @asdfzxcvbn0 ipapatch bot found here"
-        },
-        {
-          "version": "1.4.1",
-          "date": "2025-06-18",
-          "downloadURL": "https://repo.ethsign.fyi/8dd4932d-1fc2-46db-ab24-486c93e45552/manicemu1.4.1JITEnabled.ipa",
-          "size": 73939617,
-          "absoluteVersion": "1.4.1",
-          "localizedDescription": "MamicECU 1.4.1(PSP 3DS NDS GBA NES GO)(Nintendo switch emulator)(file picker fix included)(compatible with jit)\n- updated to 1.4.1\n-play PSP 3DS NDS GBA NES GO, Games\n-injected with keychain and sideload fix and file picker fix\n-tested on eth elite cert (jit enabled)\n-available in app store but when you sideload it you get better performance because it works with JIT\n-How to enable jit on elite cert HERE\n-Nintendo switch emulator here\n\nMade by @moeotf \nNeed a certificate? Contact @eth4dmin\nNew channel: https://t.me/ethMods\nEthMods Repo: https://repo.ethsign.fyi\nprepatched already thanks to @asdfzxcvbn0 ipapatch bot found here"
         }
       ]
     },
@@ -111,22 +105,6 @@
           "size": 68066297,
           "absoluteVersion": "1.2.0",
           "localizedDescription": "Stremio 1.2.0 build 4 (file picker fix included)\n- Stream Movies & Tv shows\n- Requires Debrid Service \n- Direct Torrent streaming is not supported\n- Plugins Patch & SideloadFix included\n\nChangelogs:\n- Bug fixes\n\nMade by @moeotf 👌🏻\ndecrypted by @eeveedecrypterbot\nNeed a certificate? Contact @eth4dmin\nNew channel: https://t.me/ethMods\nEthMods Repo: https://repo.ethsign.fyi\nprepatched already thanks to @asdfzxcvbn0 ipapatch bot found here"
-        },
-        {
-          "version": "1.0.1",
-          "date": "2025-04-15",
-          "downloadURL": "https://repo.ethsign.fyi/9975a5af-36b2-4692-9696-3f74dee01530/Stremio_1.0.1-17-ethMods.ipa",
-          "size": 67832450,
-          "absoluteVersion": "1.0.1",
-          "localizedDescription": "Stremio 1.0.1-17\n- Stream Movies & Tv shows\n- Requires Debrid Service \n- Direct Torrent streaming is not supported\n- Plugins Patch & SideloadFix included\n\nChangelogs:\n- Bug fixes\n\nCreated by @eth4dmin\nNeed a certificate? Contact @eth4dmin\nNew channel: https://t.me/ethMods"
-        },
-        {
-          "version": "1.0.1",
-          "date": "2025-04-05",
-          "downloadURL": "https://repo.ethsign.fyi/92e09e0d-250e-43d8-98f3-d1ead2ef363c/Stremio_1.0.1-13-ethMods.ipa",
-          "size": 67626719,
-          "absoluteVersion": "1.0.1",
-          "localizedDescription": "Stremio 1.0.1-13\n- Stream Movies & Tv shows\n- Requires Debrid Service \n- Direct Torrent streaming is not supported\n- Plugins Patch & SideloadFix included\n\nChangelogs:\nIn this update you may encounter\n\"Core paniced!\" Popups after some crash. When it happens please send us the crash message\nWe are aware that there is issues with auto-select subtitles with VLCKit\n* feat (player): next video features\n* feat (metaDetails): copy magnet link\n* feat(metaDetails): blur videos to avoid spoilers\n\nCreated by @eth4dmin\nNeed a certificate? Contact @eth4dmin\nNew channel: https://t.me/ethMods"
         }
       ]
     },
@@ -166,22 +144,6 @@
           "size": 118194453,
           "absoluteVersion": "25.19.10",
           "localizedDescription": "WhatsApp Beta v25.19.10 | injected WhatsAppSy v1.1\nPaid tweak for WhatsApp by @Plus_Sy. Licensed for ethSign certificates.\n\n🖼Tutorial: t.me/ethModsChat/64065\n📄FAQ: t.me/c/2165869006/144\n💻Usage as linked device is the only supported method. Using as main device (authorization using phone number) can lead to loss of chat history or account.\n\n❤️Made by @iosdecrypted - @wabeta_ipa\n🛜Repost Policy: t.me/iosdecrypted/15\n\n⭐️For ethMods: @ethmods"
-        },
-        {
-          "version": "25.19.10",
-          "date": "2025-06-30",
-          "downloadURL": "https://repo.ethsign.fyi/1eee68d6-a885-42df-bfe6-49f07bbc82ed/%E2%80%8EWhatsApp_25.19.10_WL.ipa",
-          "size": 118085614,
-          "absoluteVersion": "25.19.10",
-          "localizedDescription": "WhatsApp Beta v25.19.10 | injected Watusi License v1.2.74\nFreemium tweak for WhatsApp by Fouad Raheb. To unlock all features and remove ads, purchase the license for 10$.\n\n🖼Tutorial: t.me/ethModsChat/64065\n📄FAQ: t.me/c/2165869006/144\n💻Usage as linked device is the only supported method. Using as main device (authorization using phone number) can lead to loss of chat history or account.\n\n⬆️Plugin Patched. Thanks to @zxcvbn_tweaked.\n\n❤️Made by @iosdecrypted - @wabeta_ipa\n🛜Repost Policy: t.me/iosdecrypted/15\n\n⭐️For ethMods: @ethmods"
-        },
-        {
-          "version": "25.18.10",
-          "date": "2025-06-19",
-          "downloadURL": "https://repo.ethsign.fyi/5f3ac03a-5327-4985-88d1-83af5449ecfa/%E2%80%8EWhatsApp_25.18.10_WL.ipa",
-          "size": 116368139,
-          "absoluteVersion": "25.18.10",
-          "localizedDescription": "WhatsApp Beta v25.18.10 | injected Watusi License v1.2.74\nFreemium tweak for WhatsApp by Fouad Raheb. To unlock all features and remove ads, purchase the license for 10$.\n\n🖼Tutorial: t.me/ethModsChat/64065\n📄FAQ: t.me/c/2165869006/144\n💻Usage as linked device is the only supported method. Using as main device (authorization using phone number) can lead to loss of chat history or account.\n\n⬆️Plugin Patched. Thanks to @zxcvbn_tweaked.\n\n❤️Made by @iosdecrypted - @wabeta_ipa\n🛜Repost Policy: t.me/iosdecrypted/15\n\n⭐️For ethMods: @ethmods"
         }
       ]
     },
@@ -430,22 +392,6 @@
           "size": 162301067,
           "absoluteVersion": "11.8.5",
           "localizedDescription": "X11.8.5 Neofreebird 2.0 Beta BH 5.1 Beta 3 (RECOMMENDED TWITTER TWEAK🚨🚨🚨)\nUpdate to latest from july 15th :\n-General\nVoice Tweets\nTurn Voice Tweets on or off (iOS only).\nNo topic Tweets\nRemove Tweets tied to suggested topics.\nNo 'Topics to follow' Remove suggested topics.\nNo 'Who to follow'\nRemove follow suggestions.\nLock Twitter\nRequire Face ID or a passcode to open Twitter.\nUse external browser\nOpen links in Safari or your default browser.\nCustomize links\nChoose a custom URL for links, and remove tracking.\nAl translate button (beta)\nAdds an Al translate button to Tweets that are not in your language. Requires an API key.\n-Tweets\nDisable compact style\nShow likes, retweets, and replies on a separate line instead of inline on tweet detail view.\nSave Tweet as image\nLong-press share to export Tweets as images.\n-Messages\nDM profile pictures\nAdds profile pictures to all recipients. not just groups.\nOld compose bar\nUse the old message compose bar.\nNo voice messages\nDisable voice message sender on compose bar.\nCustom Messages background\nPick a custom background for your Direct Messages.\nPhotos and videos\nNo video captions\nHigh-quality media\nAlways load photos and videos in the highest resolution possible.\nLarge images\nVideo Timestamp\nShows timestamp on immersive player.\nA bunch more see screenshots\n-manually added openinappeex and keychain\nMade by @moeotf, tweak from here\ndecrypted by @IPADecryptBot\nNeed a certificate? Contact @eth4dmin\nNew channel: https://t.me/ethMods\nEthmods Group channel: https://t.me/ethModsGroup\nEthMods Repo: https://repo.ethsign.fyi\nprepatched already thanks to @asdfzxcvbn0 ipapatch bot found here"
-        },
-        {
-          "version": "11.8.5",
-          "date": "2025-07-17",
-          "downloadURL": "https://repo.ethsign.fyi/525754d5-372e-4fbf-b0b4-c9f52e8bf0a9/X11.8.5Twigalaxy1.8MoePatched.ipa",
-          "size": 170196007,
-          "absoluteVersion": "11.8.5",
-          "localizedDescription": "X 11.8.5 TwiGalaxy 1.8 adfree (with login fix)\nToday's changes:\nTWIGalaxy V1.8\n • Full Count Display: See complete follower, following, and tweet counts without any abbreviations\n • Faster Profile Sharing: Tap the share button to instantly copy your profile link for quick sharing\n • Voice Message Download: Save voice messages easily as MP3 audio files or MP4 video files\n• New HD Video Download: Download videos in high definition with a new button\nTWIGalaxy V1.6\n-Hide username : Hide the tweet author’s username\n-Hide Tweet Date : Hide the date/timestamp on tweets\n-Upload full HD : Upload videos in full high-definition (HD) quality\n-Background Playback : Keep your videos running while you do other things.\n\nHow to disable ads, go to twi galaxy's settings on the bottom right, click on \"more features\" \nscroll down, enable \"Hide Ads\" restart the app.\nAny issues with loading the timeline will require you to delete the old version before installing!\n- Updated X to 11.1 and TWIGalaxy to 1.6 (newer X tweak by densor) \nTWIGalaxy V1.5\n• Tweets from verified accoun\nts only\n• No link previews or media cards\n• Hide ads\n• Hide retweets\n• Hide replies from tweets\n• Replace username with user ID\n• Copy author info with long press\nTWIGalaxy V1.4\n- Bug Fixes\n- Performance improvements\nTWIGalaxy V1.3\nDownload Images Faster : Long-press to instantly save high-quality images, including avatars and tweets\nSmooth Zoom : Makes zooming into images smoother\nBug Fixes\nPerformance improvements\nTWIGalaxy V1.2 changelog\n• Download Tweet as Image – Easily save any tweet as image for sharing anywhere. \n+ Fake Verified Tweet (Makes it look better)\n• Lock Chats – Protect your private conversations\n• Embed Tweets – Share tweets as embedded content directly in Discord or Telegram\n- Bug Fixes\n- Performance improvements                                        Changelog = TWIGalaxy1.1\n- Hide Subscribe Button\n- Hide Users From Search Results\n- Hide Topics From Search Results\n- Disable Recent Searches\n- Tap to play or pause\nChangelog = TWIGalaxy1.0\n- some features are listed below \n-injected with keychain and sideload fix - - Download Videos\n- Disable unfollow confirmation\n- Follow Confirmation\n- Like Confirmation\n- Save Confirmation\n- Retweet Confirmation\n- Reaction Confirmation\n- Copy Bio\n- Disable Double-Tap\n- Disable Long-press\n- Tweet Timestamp\nMade by @moeotf \ndecrypted by @IPADecryptBot\nNeed a certificate? Contact @eth4dmin\nNew channel: https://t.me/ethMods\nEthMods Repo: https://repo.ethsign.fyi\ntweak made by densor or you can find him at https://6gr8.github.io/deno.io/\nEthmods Group channel: https://t.me/ethModsGroup\nneed a cert dm @eth4dmin\nprepatched already thanks to @asdfzxcvbn0 ipapatch bot found here"
-        },
-        {
-          "version": "11.8.5",
-          "date": "2025-07-17",
-          "downloadURL": "https://repo.ethsign.fyi/7f266965-4065-411e-9db7-5a6e08dc2d7b/X11.8.5BH4.4MoePatched.ipa",
-          "size": 179020047,
-          "absoluteVersion": "11.8.5",
-          "localizedDescription": "X 11.8.5 BH 4.4 update (login fix added)\nUpdate BHTwitter 4.4:\nFix all the crashes in the newer versions.\nAdd the new tabs to the hide page.\nNew feature: DM replay later page and tags.\nNew feature: Upload 4K media.\nNew feature: Voice feature in posts and replies.\nUpdate the localizations.\nRemove unnecessary options.\nFeatures\nDownload Videos (even if account private).\nCustom Tab Bar\nNo history feature.\nHide topics tweet feature.\nDisable video layer caption.\nPadlock.\nFont changer.\nEnable the new UI of DM search.\nAuto load photos in highest quality feature.\nUndo tweet feature.\nTheme (like Twitter Blue).\nApp icon changer\nTwitter Circle feature.\nCopying profile information feature.\nSave tweet as an image.\nHide spaces bar.\nDisable RTL.\nAlways open in Safari.\nTranslate bio.\nDisable new tweet style (A.K.A edge to edge tweet)\nEnable voice tweet and voice message in DM.\nHide promoted tweet from the timeline.\nConfirm alert when hit the tweet button.\nConfirm alert when hit like button.\nConfirm alert when hit follow button.\nFLEX for debugging.\n-manually added AdBlock 1.2.6 and openinappeex and keychain\nMade by @moeotf, bh from BandarHL repo github\ndecrypted by @IPADecryptBot\nNeed a certificate? Contact @eth4dmin\nNew channel: https://t.me/ethMods\nEthmods Group channel: https://t.me/ethModsGroup\nEthMods Repo: https://repo.ethsign.fyi\nprepatched already thanks to @asdfzxcvbn0 ipapatch bot found here"
         }
       ]
     },
@@ -485,22 +431,6 @@
           "size": 448224625,
           "absoluteVersion": "40.6.0",
           "localizedDescription": "TIKTOK 40.6.0 AC 2.1 \nUpdated to 2.1 free (patched)\n2.1 changelog:\n- The app is fully compatible with the with the latest TikTok update, with all bugs resolved since 2.0.\n- One of the Best tiktok tweaks in terms of stability. no \"maximum a\nttempts (unless your using a vpn or try too many times) or search bar not working etc.\n-liking a video and search bar actually work etc unlike most recent TikTok tweaks\n-everything should work including following and all normal TikTok functions\n-updated TikTok to latest version\n- For a list of all features check out the link showing features below. \n-pics of settings https://imgur.com/gallery/fbq0xVf\n-set bundle id and name to whatever you want but stock settings are preferred when signing\n-for AC settings to appear, login then restart TikTok about 1-2 times. Settings will be under normal TikTok settings.\n-added Open in TikTok from safari extension injected\n-keychain injected with sideload fix injected\nMade by @moeotf \ndecrypted using @eeveedecrypterbot\nNeed a certificate? Contact @eth4dmin\nNew channel: https://t.me/ethMods\nEthMods Repo: https://repo.ethsign.fyi\nneed a cert dm @eth4dmin\nprepatched already thanks to @asdfzxcvbn0 ipapatch bot found here"
-        },
-        {
-          "version": "40.6.0",
-          "date": "2025-07-02",
-          "downloadURL": "https://repo.ethsign.fyi/20951ecb-ee3d-4b44-8f9f-aee66f5a1c91/TikTok40.6.0DL2.1.3MoePatched.ipa",
-          "size": 447758800,
-          "absoluteVersion": "40.6.0",
-          "localizedDescription": "TikTok 40.6.0 DL 2.1.3 (already patched) requires license unless you have an ETH Elite Cert or a license)\n\nPosted a bunch of other free TikTok tweaks already, just updating DL to 2.1.3\nDLTikTok Update 2.1.3\n1. Fixed the issue with resetting settings.\n2. Added the ability to save images.\nFeatures:\n-send stickers in comments\n-save videos in hd without a watermark\n-change country of for you videos\n-display flag of country for all users\n-tv mode (auto scroll)\n-continue clear display\n-hide safety warning\n-hide sensitive content warning\n-play sounds in muted videos\n-option to launch app on \"following\"\n-option to show video creation date\n-option to show total number of videos\n-option to always show just watched button\n-option to save profile picture\n-Live auto clicker(actually works tested it when when you scroll away and come back) (100,200,300 etc at a time) (if you overuse this feature then you'll have to wait 40 minutes before likes register again)\n-option to always show progress bar\n-option to force TikTok not to repeat videos\n-bypass comment character limit\n-view disabled comments\n-option to enable copying of description, username and introduction\n-remove ads\n-open links in safari\n-open TikTok videos in DL extension added\n-keychain fix added\n-option to enable a passcode on TikTok\n-if you have an ETH elite cert just sign it with that cert and your license will be preactivated.\nMade by @moeotf \ndecrypted by @eeveedecrypterbot (are you enjoying?)\nNeed a certificate? Contact @eth4dmin\nNew channel: https://t.me/ethMods\nEthMods Repo: https://repo.ethsign.fyi\nprepatched already thanks to @asdfzxcvbn0 ipapatch bot found here"
-        },
-        {
-          "version": "40.6.0",
-          "date": "2025-07-02",
-          "downloadURL": "https://repo.ethsign.fyi/ce7c4dce-5108-47a8-85ce-7049ee4c701a/TikTok40.6.0LRD3.8MoePatched.ipa",
-          "size": 451264380,
-          "absoluteVersion": "40.6.0",
-          "localizedDescription": "TikTok 40.6.0 LRD 3.8 (already patched)(sign with anything besides esign)(license already included with elite cert for all DL and LRD and SY tweaks just sign it)(screenshots below) \nScreenshots of features here or here\n\nAlready posted other free TikTok tweaks just search this channel. \n\nJust adding this to the TikTok tweaks list for elite cert users. SY tweaks will all be posted this week as well\nLRD 3.7:\nScreenshots of features here or here\n-just look at the screenshots above. Way too many features to type out\n-sign it with anything besides esign\n-keychain and sideload fix injected\n-open links in TikTok injected\nCompiled by @moeotf\ndecrypted by @eeveedecrypterbot (can also decrypt testflight apps)\nNeed a certificate? Contact @eth4dmin\nNew channel: https://t.me/ethMods\nEthMods Repo: https://repo.ethsign.fyi\nprepatched already thanks to @asdfzxcvbn0 ipapatch bot found here"
         }
       ]
     },
@@ -540,22 +470,6 @@
           "size": 400182397,
           "absoluteVersion": "2.72",
           "localizedDescription": "-Updated videoleap to 2.72 PRO\n-AI video and photo editor\n-Pro unlocked\n-injected with keychain and sideload fix\n\nMade by @moeotf decrypted by @eeveedecrypterbot\nNeed a certificate? Contact @eth4dmin\nNew channel: https://t.me/ethMods\nEthMods Repo: https://repo.ethsign.fyi"
-        },
-        {
-          "version": "2.71",
-          "date": "2025-06-25",
-          "downloadURL": "https://repo.ethsign.fyi/cf525f39-4f4b-4292-bc89-9b10909a9724/Videoleap2.71ProMoe.ipa",
-          "size": 400160687,
-          "absoluteVersion": "2.71",
-          "localizedDescription": "-Updated videoleap to 2.71 PRO\n-AI video and photo editor\n-Pro unlocked\n-injected with keychain and sideload fix\n\nMade by @moeotf decrypted by @eeveedecrypterbot\nNeed a certificate? Contact @eth4dmin\nNew channel: https://t.me/ethMods\nEthMods Repo: https://repo.ethsign.fyi"
-        },
-        {
-          "version": "2.69",
-          "date": "2025-05-11",
-          "downloadURL": "https://repo.ethsign.fyi/708246b8-a132-48dc-be8e-38cbda9f0af3/Videoleap2.69Promoe.ipa",
-          "size": 397892912,
-          "absoluteVersion": "2.69",
-          "localizedDescription": "-Updated videoleap to 2.69 PRO\n-AI video and photo editor\n-Pro unlocked\n-injected with keychain and sideload fix\n\nMade by @moeotf decrypted by anyipa.me\nNeed a certificate? Contact @eth4dmin\nNew channel: https://t.me/ethMods\nEthMods Repo: https://repo.ethsign.fyi"
         }
       ]
     },
@@ -595,22 +509,6 @@
           "size": 368016364,
           "absoluteVersion": "12.26.2",
           "localizedDescription": "Captions 12.26.2 pro patched\n-Updated captions to 12.26.2 PRO\n-Once you get past the login screen (might have to restart app and try multiple times) then pro will be activated - https://tinyurl.com/Max-subscription\n-Generate and edit talking videos with Al. Captions is a video creation and editing app that harnesses artificial intelligence to allow anyone, anywhere to produce studio-quality videos from their iPhone in seconds.\nCaptions can help at every step of the video creation process, from scripting and recording (or generating) - to editing and sharing.\n-injected with sideloadkeychainfix and the crack\nMade by @moeotf \ndecrypted by @eeveedecrypterbot (can also decrypt testflight apps)\nNeed a certificate? Contact @eth4dmin\nNew channel: https://t.me/ethMods\nEthMods Repo: https://repo.ethsign.fyi"
-        },
-        {
-          "version": "12.26.0",
-          "date": "2025-07-09",
-          "downloadURL": "https://repo.ethsign.fyi/8c29cac9-b2c2-4777-a12c-a56f51a75d0f/Captions12.26.0ProMoePatched.ipa",
-          "size": 369373027,
-          "absoluteVersion": "12.26.0",
-          "localizedDescription": "Captions 12.26.0 pro patched\n-Updated captions to 12.26.0 PRO\n-Once you get past the login screen (might have to restart app and try multiple times) then pro will be activated - https://tinyurl.com/Max-subscription\n-Generate and edit talking videos with Al. Captions is a video creation and editing app that harnesses artificial intelligence to allow anyone, anywhere to produce studio-quality videos from their iPhone in seconds.\nCaptions can help at every step of the video creation process, from scripting and recording (or generating) - to editing and sharing.\n-injected with sideloadkeychainfix and the crack\nMade by @moeotf \ndecrypted by @eeveedecrypterbot (can also decrypt testflight apps)\nNeed a certificate? Contact @eth4dmin\nNew channel: https://t.me/ethMods\nEthMods Repo: https://repo.ethsign.fyi"
-        },
-        {
-          "version": "12.25.0",
-          "date": "2025-07-02",
-          "downloadURL": "https://repo.ethsign.fyi/4212b311-6ebc-4e3f-8aae-d3bf2d740729/Captions12.25.0ProMoePatched.ipa",
-          "size": 367738491,
-          "absoluteVersion": "12.25.0",
-          "localizedDescription": "Captions 12.25.0 pro patched\n-Updated captions to 12.25.0 PRO\n-Once you get past the login screen (might have to restart app and try multiple times) then pro will be activated - https://tinyurl.com/Max-subscription\n-Generate and edit talking videos with Al. Captions is a video creation and editing app that harnesses artificial intelligence to allow anyone, anywhere to produce studio-quality videos from their iPhone in seconds.\nCaptions can help at every step of the video creation process, from scripting and recording (or generating) - to editing and sharing.\n-injected with sideloadkeychainfix and the crack\nMade by @moeotf \ndecrypted by @eeveedecrypterbot (can also decrypt testflight apps)\nNeed a certificate? Contact @eth4dmin\nNew channel: https://t.me/ethMods\nEthMods Repo: https://repo.ethsign.fyi"
         }
       ]
     },
@@ -650,22 +548,6 @@
           "size": 94494137,
           "absoluteVersion": "27.8.3",
           "localizedDescription": "PICSART 27.8.3 Pro (no plugins so there's nothing to patch)\n- updated picsart to 27.8.3 pro\n- injected with pro \n-injected with keychain and sideload fix\n-This version uses a new crack made by teamETH so if you have issues delete the old version then install this version\n\nMade by @moeotf \ndecrypted by @eeveedecrypterbot (can also decrypt testflight apps dm Eevee for premium access)\nNeed a certificate? Contact @eth4dmin\nNew channel: https://t.me/ethMods\nEthMods Repo: https://repo.ethsign.fyi\nCheckout @asdfzxcvbn0 ipapatch bot found here"
-        },
-        {
-          "version": "27.7.3",
-          "date": "2025-06-19",
-          "downloadURL": "https://repo.ethsign.fyi/1d9eee85-e18e-4f4a-8e0c-8c06f27b092e/Picsart27.7.3ProMoe.ipa",
-          "size": 94361305,
-          "absoluteVersion": "27.7.3",
-          "localizedDescription": "PICSART 27.7.3 Pro (no plugins so there's nothing to patch)\n- updated picsart to 27.7.3 pro\n- injected with pro \n-injected with keychain and sideload fix\n-This version uses a new crack made by teamETH so if you have issues delete the old version then install this version\n\nMade by @moeotf \ndecrypted by @eeveedecrypterbot (can also decrypt testflight apps dm Eevee for premium access)\nNeed a certificate? Contact @eth4dmin\nNew channel: https://t.me/ethMods\nEthMods Repo: https://repo.ethsign.fyi\nCheckout @asdfzxcvbn0 ipapatch bot found here"
-        },
-        {
-          "version": "27.7.2",
-          "date": "2025-06-18",
-          "downloadURL": "https://repo.ethsign.fyi/27aa0577-029c-4b12-91fb-62a048954afc/PicsArt27.7.2ProMoe.ipa",
-          "size": 94360634,
-          "absoluteVersion": "27.7.2",
-          "localizedDescription": "PICSART 27.7.2 Pro (no plugins so there's nothing to patch)\n- updated picsart to 27.7.2 pro\n- injected with pro \n-injected with keychain and sideload fix\n-This version uses a new crack made by teamETH so if you have issues delete the old version then install this version\n\nMade by @moeotf \ndecrypted by @eeveedecrypterbot (can also decrypt testflight apps dm Eevee for premium access)\nNeed a certificate? Contact @eth4dmin\nNew channel: https://t.me/ethMods\nEthMods Repo: https://repo.ethsign.fyi\nCheckout @asdfzxcvbn0 ipapatch bot found here"
         }
       ]
     },
@@ -959,22 +841,6 @@
           "size": 99673582,
           "absoluteVersion": "8.22.0",
           "localizedDescription": "SoundCloud 8.22.0 Adfree (no music ads or visual ads) (already patched)\n-Scmusicplus 24.9.1-3 for the audio ads\n-another adblocker dylib for the visual ads\n-already fixed the link on libsub being in the framework folder instead of executable root so you can use it with feather esign etc\n-keychain and sideload fixer\n-only tested on eth cert with esign. Didn't test on trollstore or live container etc\n-might not play in your region. Tested in the US, also needs a cert with app groups configured\n\nIf it crashes follow the guide below\nhttps://t.me/ethModsChat/67356\n\nMade by @moeotf \ndecrypted by @eeveedecrypterbot (can also decrypt testflight apps) \nNeed a certificate? Contact @eth4dmin\nNew channel: https://t.me/ethMods\nEthMods Repo: https://repo.ethsign.fyi\nprepatched already thanks to @asdfzxcvbn0 ipapatch bot found here"
-        },
-        {
-          "version": "8.20.0",
-          "date": "2025-06-30",
-          "downloadURL": "https://repo.ethsign.fyi/524a96ca-bf0e-43cf-9da2-dda8e5a063a9/soundcloud8.20.0AdfreeMoePatched.ipa",
-          "size": 96757634,
-          "absoluteVersion": "8.20.0",
-          "localizedDescription": "SoundCloud 8.20.0 Adfree (no music ads or visual ads) (already patched)\n-Scmusicplus 24.9.1-3 for the audio ads\n-another adblocker dylib for the visual ads\n-already fixed the link on libsub being in the framework folder instead of executable root so you can use it with feather esign etc\n-keychain and sideload fixer\n-only tested on eth cert with esign. Didn't test on trollstore or live container etc\n-might not play in your region. Tested in the US, also needs a cert with app groups configured\n\nIf it crashes follow the guide below\nhttps://t.me/ethModsChat/67356\n\nMade by @moeotf \ndecrypted by @eeveedecrypterbot (can also decrypt testflight apps) \nNeed a certificate? Contact @eth4dmin\nNew channel: https://t.me/ethMods\nEthMods Repo: https://repo.ethsign.fyi\nprepatched already thanks to @asdfzxcvbn0 ipapatch bot found here"
-        },
-        {
-          "version": "8.18.1",
-          "date": "2025-06-16",
-          "downloadURL": "https://repo.ethsign.fyi/6bf17134-2862-460e-983f-02b2f97af245/Soundcloud8.18.1AdfreeMoePatched.ipa",
-          "size": 92268032,
-          "absoluteVersion": "8.18.1",
-          "localizedDescription": "SoundCloud 8.18.1 Adfree (no music ads or visual ads) (already patched)\n-Scmusicplus 24.9.1-3 for the audio ads\n-another adblocker dylib for the visual ads\n-already fixed the link on libsub being in the framework folder instead of executable root so you can use it with feather esign etc\n-keychain and sideload fixer\n-only tested on eth cert with esign. Didn't test on trollstore or live container etc\n-might not play in your region. Tested in the US, also needs a cert with app groups configured\n\nIf it crashes follow the guide below\nhttps://t.me/ethModsChat/67356\n\nMade by @moeotf \ndecrypted by @eeveedecrypterbot (can also decrypt testflight apps) \nNeed a certificate? Contact @eth4dmin\nNew channel: https://t.me/ethMods\nEthMods Repo: https://repo.ethsign.fyi\nprepatched already thanks to @asdfzxcvbn0 ipapatch bot found here"
         }
       ]
     },
@@ -1014,22 +880,6 @@
           "size": 32007000,
           "absoluteVersion": "5.105",
           "localizedDescription": "Google news 5.105 adfree\n-updated Google news to 5.105 PRO (today's release)\n-injected with pro/no paywall/no ads\n-injected with sideload fix\n\nMade by @moeotf decrypted by anyipa.me\nNeed a certificate? Contact @eth4dmin\nNew channel: https://t.me/ethMods\nEthMods Repo: https://repo.ethsign.fyi"
-        },
-        {
-          "version": "5.104",
-          "date": "2025-04-16",
-          "downloadURL": "https://repo.ethsign.fyi/d61fa974-f6a0-418e-9208-b21cb0e8abe4/GoogleNews5.104AdfreeMoePro.ipa",
-          "size": 31172403,
-          "absoluteVersion": "5.104",
-          "localizedDescription": "-updated Google news to 5.104 PRO (today's release)\n-injected with pro/no paywall/no ads\n-injected with sideload fix\n-good propoganda \n\nMade by @moeotf decrypted by anyipa.me\nNeed a certificate? Contact @eth4dmin\nNew channel: https://t.me/ethMods\nEthMods Repo: https://repo.ethsign.fyi"
-        },
-        {
-          "version": "5.102",
-          "date": "2025-02-07",
-          "downloadURL": "https://repo.ethsign.fyi/e2fac812-02a1-4edb-99ce-603536ec0f0a/GoogleNews5.102AdfreeMoe_patched_nofix.ipa",
-          "size": 30794638,
-          "absoluteVersion": "5.102",
-          "localizedDescription": "-updated Google news to 5.102 PRO (today's release)\n-injected with pro/no paywall/no ads\n-injected with sideload fix\n-good propoganda \n\nMade by @moeotf decrypted by anyipa.me\nIf you need a cert message @eth4dmin or @sultanipas\nnew main channel linked below\nhttps://t.me/SultanModsiOS"
         }
       ]
     },
@@ -1138,22 +988,6 @@
           "size": 670308,
           "absoluteVersion": "2.0",
           "localizedDescription": "MoeSports 2.0 (watch live football, soccer, nfl, nba,mlb, wwe, f1, boxing, tennis, ufc and other sports for free)\n2.0=redesigned the entire bottom buttons, and finally added an in safari adblocker!!\n1.7 changelog= complete redesign \ninspired from ios26 with it being circular and darker elements, added tennis, added a feedback botton where you can request new sports as well. More ui changes for the buttons on the bottom half coming soon!!!!\nOh and safari will now pull the dark mode version of a website if it is available\n1.6 changelog= i added boxing, wwe, F1 and cleaned up the UI a bit and added keychain fix as well\n1.5=added support for ios 15, so now works on ios 15-18\nlive streams for soccer, football, nba games, nfl games, and mlb and UFC games\n-tap on the sites name to open it in the app without leaving the app\n-watch live games and quickly switch between all 6 sports quickly\n-if a site just loads to a blank page, keep clicking on it\n-fully written in swiftUI\nMade by @moeotf \nCompiled with xcode written with swiftUI\nNeed a certificate? Contact @eth4dmin\nNew channel: https://t.me/ethMods\nEthMods Repo: https://repo.ethsign.fyi"
-        },
-        {
-          "version": "1.7",
-          "date": "2025-06-26",
-          "downloadURL": "https://repo.ethsign.fyi/8c581df8-6bad-4d85-b84e-8c0aa6da59c5/MoeSports1.7.ipa",
-          "size": 8707797,
-          "absoluteVersion": "1.7",
-          "localizedDescription": "MoeSports 1.7 (watch live football, soccer, nfl, nba,mlb, wwe, f1, boxing, tennis, ufc and other sports for free)\n1.7 changelog= complete redesign inspired from ios26 and darker elements, added tennis, added a feedback bottom where you can request new sports as well\n1.6 changelog= i added boxi\nng, wwe, F1 and cleaned up the UI a bit and added keychain fix as well\n1.5=added support for ios 15, so now works on ios 15-18\nlive streams for soccer, football, nba games, nfl games, and mlb and UFC games\n-if an adblocker is needed I'll add one in the future\n-tap on the sites name to open it in the app without leaving the app\n-watch live games and quickly switch between all 6 sports quickly\n-if a site just loads to a blank page, keep clicking on it\n-fully written in swiftUI\nMade by @moeotf \nCompiled with xcode written with swiftUI\nNeed a certificate? Contact @eth4dmin\nNew channel: https://t.me/ethMods\nEthMods Repo: https://repo.ethsign.fyi"
-        },
-        {
-          "version": "1.6",
-          "date": "2025-06-26",
-          "downloadURL": "https://repo.ethsign.fyi/b11f93c6-8e05-4b88-b50d-5a15a8f82e7d/MoeSports1.6.ipa",
-          "size": 5015471,
-          "absoluteVersion": "1.6",
-          "localizedDescription": "MoeSports 1.6 (watch live football, nfl,soccer, nba, mlb, wwe, f1, boxing, UFC etc games live for free)\n1.6 changelog= i added boxing, wwe, F1 and cleaned up the UI a bit\n1.5=added support for ios 15, so now works on ios 15-18\n1.4=set minimum ios versi\non to ios16\n-Simple sports app i put together that lets you watch \nlive streams for soccer, football, nba games, nfl games, and mlb and UFC games\n-if an adblocker is needed I'll add one in the future\n-tap on the sites name to open it in the app without leaving the app\n-watch live games and quickly switch between all 6 sports quickly\n-if a site just loads to a blank page, keep clicking on it\n-fully written in swift\nMade by @moeotf \nCompiled with xcode\nNeed a certificate? Contact @eth4dmin\nNew channel: https://t.me/ethMods\nEthMods Repo: https://repo.ethsign.fyi"
         }
       ]
     },
@@ -1239,22 +1073,6 @@
           "size": 94456538,
           "absoluteVersion": "8.26.5",
           "localizedDescription": "YT Music Ultimate+ 8.26.5\n- YouTube Music 8.26.5\n- YTMusicUltimate\n- Return YouTube Music Dislike\n- YTMABConfig\n- YouMusicPIP\n- Info: https://telegra.ph/zxcvbn-tweaked-ytmusicultimate-04-16\n- Patch already included\n\nMade by @Jacks_Apps\nIf you need a certificate DM @eth4dmin"
-        },
-        {
-          "version": "8.26.5",
-          "date": "2025-07-02",
-          "downloadURL": "https://repo.ethsign.fyi/4be0a07f-54e4-4acd-9421-1ecab28c51be/YTMusicUltimate8.26Patched.ipa",
-          "size": 94202393,
-          "absoluteVersion": "8.26.5",
-          "localizedDescription": "YouTube Music Ultimate 8.26 patched\n-Ready to use on carplay with eth @eth4dmin certs\n-no ads\n-background playback\n-download audio\n-sponsorblock\n-oled theme option\n-etc etc, many other features\n\nCompiled by @moeotf \nbased from dayanch repo here\ndecrypted by @eeveedecrypterbot\nNeed a certificate? Contact @eth4dmin\nNew channel: https://t.me/ethMods\nEthMods Repo: https://repo.ethsign.fyi\nprepatched already thanks to @asdfzxcvbn0 ipapatch bot found here"
-        },
-        {
-          "version": "8.25.3",
-          "date": "2025-06-23",
-          "downloadURL": "https://repo.ethsign.fyi/bdd731d4-3005-47ad-8923-b80553c1116f/YTMusicUltimate+_No_PIP_8.25_Jacks_Apps.ipa",
-          "size": 94317329,
-          "absoluteVersion": "8.25.3",
-          "localizedDescription": "YT Music Ultimate+ (No PIP) 8.24\n- YouTube Music 8.24\n- YTMusicUltimate\n- Return YouTube Music Dislike\n- YTMABConfig\n- Info: https://telegra.ph/zxcvbn-tweaked-ytmusicultimate-04-16\n- Patch already included\n\nMade by @Jacks_Apps\nIf you need a certificate DM @eth4dmin"
         }
       ]
     },
@@ -1294,14 +1112,6 @@
           "size": 13119748,
           "absoluteVersion": "9.5.4",
           "localizedDescription": "ProShot 9.5.4 pro (patched)(file picker fix already included)\n- updated to 9.5.4\n-injected with keychain and sideload fix and auto revenue cat\n-app store link below\n\nhttps://apps.apple.com/us/app/proshot/id924438909 ($8)\n\nMade by @moeotf \nNeed a certificate? Contact @eth4dmin\nNew channel: https://t.me/ethMods\nEthMods Repo: https://repo.ethsign.fyi\nprepatched already thanks to @asdfzxcvbn0 ipapatch bot found here"
-        },
-        {
-          "version": "9.5.3",
-          "date": "2025-04-06",
-          "downloadURL": "https://repo.ethsign.fyi/55515f58-19c7-4f4e-b8f0-10674b670b70/ProShotv9.5.3moe.ipa",
-          "size": 8977502,
-          "absoluteVersion": "9.5.3",
-          "localizedDescription": "Proshot 9.5.3 pro requested by ethsign user\n\nhttps://apps.apple.com/us/app/proshot/id924438909\n\nMade by @moeotf decrypted by anyipa.me\nNeed a certificate? Contact @eth4dmin\nNew channel: https://t.me/ethMods\nEthMods Repo: https://repo.ethsign.fyi"
         }
       ]
     },
@@ -1341,22 +1151,6 @@
           "size": 345446458,
           "absoluteVersion": "3.91",
           "localizedDescription": "Facetune Pro 3.91\n-updated facetune to 3.91\n-Keychain fix included\n-AI Photo/Video Editor\n\nMade by @moeotf decrypted by @eeveedecrypterbot (can also decrypt testflight apps)\nNeed a certificate? Contact @eth4dmin\nNew channel: https://t.me/ethMods\nEthMods Repo: https://repo.ethsign.fyi\nPrepatched with @asdfzxcvbn0 ipapatch bot found here"
-        },
-        {
-          "version": "3.90.1",
-          "date": "2025-06-18",
-          "downloadURL": "https://repo.ethsign.fyi/dd805d88-3c81-4149-92d7-b538b6028938/Facetune3.90.1ProMoe.ipa",
-          "size": 339609045,
-          "absoluteVersion": "3.90.1",
-          "localizedDescription": "Facetune Pro 3.90.1\n-updated facetune to 3.90.1\n-Keychain fix included\n-AI Photo/Video Editor\n\nMade by @moeotf decrypted by @eeveedecrypterbot (can also decrypt testflight apps)\nNeed a certificate? Contact @eth4dmin\nNew channel: https://t.me/ethMods\nEthMods Repo: https://repo.ethsign.fyi\nPrepatched with @asdfzxcvbn0 ipapatch bot found here"
-        },
-        {
-          "version": "3.89.1",
-          "date": "2025-06-04",
-          "downloadURL": "https://repo.ethsign.fyi/4f991439-e571-4333-a633-745293a1bf53/Facetune3.89.1PromoeEnjoyingEeveeDecrypterEdition.ipa",
-          "size": 342219581,
-          "absoluteVersion": "3.89.1",
-          "localizedDescription": "Facetune Pro 3.89.1\n-updated facetune to 3.89.1\n-Keychain fix included\n-AI Photo/Video Editor\n\nMade by @moeotf decrypted by @eeveedecrypterbot (can also decrypt testflight apps)\nNeed a certificate? Contact @eth4dmin\nNew channel: https://t.me/ethMods\nEthMods Repo: https://repo.ethsign.fyi\nPrepatched with @asdfzxcvbn0 ipapatch bot found here"
         }
       ]
     },
@@ -1396,14 +1190,6 @@
           "size": 136688019,
           "absoluteVersion": "11.7.2",
           "localizedDescription": "iMe: AI Messenger 11.7.2\n- iMe: AI Messenger 11.7.2\n- A cool messaging app\n- Info: Pro Unlocked\n- Switching app icon requires Trollstore or Jailbreak\n- App will crash on first boot, ignore and reopen\n- Plugins Patch already included\n\nMade by ethTeam\nCrack by @VAXMG"
-        },
-        {
-          "version": "11.6.0",
-          "date": "2025-01-17",
-          "downloadURL": "https://repo.ethsign.fyi/2daacf65-2cee-4ca7-ba7c-8e14d7bb764a/iMe-11.6.0Pro-SultanMods_patched.ipa",
-          "size": 130242584,
-          "absoluteVersion": "11.6.0",
-          "localizedDescription": "iMe: AI Messenger 11.6.0\n- iMe: AI Messenger 11.6.0\n- A cool messaging app\n- Info: Pro Unlocked\n- Switching app icon requires Trollstore or Jailbreak\n- App will crash on first boot, ignore and reopen\n- Plugins Patch already included\n\nMade by ethTeam\nCrack by @VAXMG"
         }
       ]
     },
@@ -1443,22 +1229,6 @@
           "size": 231234575,
           "absoluteVersion": "387.0.0",
           "localizedDescription": "Instagram 387 DL 2.4.3 (already patched)(license already included with elite cert for all DL and LRD and SY tweaks just sign it)\n\nAlready posted other Instagram tweaks just search above. Just adding this to the Instagram tweaks list\nDL2.4.3\n-bug fixes\n-compatible with latest ig\n-fixed voice messages\nDL 2.4.2:\nDownload\n-Always download in highest quality\n100›\nMedia\n-Share Media\n-No repeat for videos\nStories\n-Watch stories anonymously\n-Disable move automatically to next story\n-Enable video selection from sticker gallery\n-Show mentions\nLive\n-Watch live anonymously\nDirect Messages\n-Watch messages anonymously\n-Keep deleted messages\n-Disable typing indicator\n-Disable Screenshot notifications\n-Disable replayed media notifications\n-Bypass Voice Message Limit\n-Download Voice Messages\n-Upload Video/Audio As Voice Messages\nPopup Alert\n-Confirm Follow/UnFollow\n-Confirm Like/UnLike\nOthers\n-Copy text\n-Show Following Status\n-Show Views and Likes number\n-Always show timer in videos\nBrowser\n-Open Links in Safari\nAds\n-Remove Promo Ads\nApp Lock\n-Enable\n-keychain and sideload fix injected\n-open links in Instagram injected\nCompiled by @moeotf\ndecrypted by @eeveedecrypterbot (can also decrypt testflight apps)\nNeed a certificate? Contact @eth4dmin\nNew channel: https://t.me/ethMods\nEthMods Repo: https://repo.ethsign.fyi\nprepatched already thanks to @asdfzxcvbn0 ipapatch bot found here"
-        },
-        {
-          "version": "387.0.0",
-          "date": "2025-07-04",
-          "downloadURL": "https://repo.ethsign.fyi/aba5fee5-0b44-4b6f-ac22-d375b6a73d29/Instagram387.0.0LRD2.14MoePatched.ipa",
-          "size": 234621118,
-          "absoluteVersion": "387.0.0",
-          "localizedDescription": "Instagram 387 LRD 2.14 (already patched)(sign with anything besides esign)(license already included with elite cert for all DL and LRD and SY tweaks just sign it)(screenshots below) \n\nScreenshots of features here\n\nUpdated to 2.14= compatible with the latest ig\n\nAlready posted other free Instagram tweaks just search above. Just adding this to the Instagram tweaks list for elite certs\nLRD 2.13:\n-just look at the screenshots in the link above, too many features to type out.\n-sign it with anything besides esign\n-keychain and sideload fix injected\n-open links in Instagram injected\nCompiled by @moeotf\ndecrypted by @eeveedecrypterbot (can also decrypt testflight apps)\nNeed a certificate? Contact @eth4dmin\nNew channel: https://t.me/ethMods\nEthMods Repo: https://repo.ethsign.fyi\nprepatched already thanks to @asdfzxcvbn0 ipapatch bot found here"
-        },
-        {
-          "version": "386.0.0",
-          "date": "2025-06-29",
-          "downloadURL": "https://repo.ethsign.fyi/483f5014-494b-4bdc-aa5e-5dac0883eec0/instagram386.0.0IGFormat1.79MoePatched.ipa",
-          "size": 228627235,
-          "absoluteVersion": "386.0.0",
-          "localizedDescription": "Instagram 386.0 IGFormat v1.79 (already patched)(released today)\nIGFormat × IGHDMedia v1.79\n• Download Reels\nIGFormat: 720p (smaller files)\nIGHDMedia: 1080p (higher quality, larger size)\n• Download Stories\nIGFormat: 720p (smaller files)\nIGHDMedia: 1080p (higher quality, larger size)\n • Pause Stories\nPhoto stories pause until you tap\nBug fixes\nImprovements\nIGFormat V1.78\n • Full Follower Count: Now displays the complete follower count without abbreviation.\n • Reel Timestamps: Added creation\n date display for Reels.\n • Unlimited Video Views: Rewatch chat videos without any view limits.\nBug fixes\nImprovements\nEnd changelog for 1.78>>\n• Fixed likes format display\n• Fixed Hide Mute Icon\n• Fixed hiding camera tab\n• Added new method for downloading stories\nLocalization\n• Added support for Arabic (العربية)\n• Added support for Chinese (中文)\nIGFormat V1.76 changelog:\n • Custom music colors\n • Custom music lyrics colors\n • Custom Story fonts\n • Completely redesigned settings UI\n-Bug fixes\n-Improvements\nIGFormat V1.75 changelog:\n- Upload Files : upload and send files in DMs\n- Ghost Typing : Type without showing “typing…” to others — but still see when they type.\n-Fixed Download Audio From Reels\n-Fixed Play Songs in Background\n-Support for Instagram V380\nMore features\n- Download Voice Message\n- Managing Chats\n- Download GIFs\n- Number of Segment \n- Download Audio From Reels \n- Hide Search Collection\n- Follow Status\n- Format\n- Follow Confirmation \n- Auto Following\n-and more go check the telegram linked on the bottom\n-keychain and sideload fix injected\n-open links in Instagram injected\nCompiled by @moeotf\ndecrypted by @eeveedecrypterbot (can also decrypt testflight apps)\nTweak by @RRRBG https://t.me/DENS0R\nNeed a certificate? Contact @eth4dmin\nNew channel: https://t.me/ethMods\nEthMods Repo: https://repo.ethsign.fyi\nprepatched already thanks to @asdfzxcvbn0 ipapatch bot found here"
         }
       ]
     },
@@ -1497,22 +1267,6 @@
           "downloadURL": "https://repo.ethsign.fyi/8b4b84c8-8854-4066-b454-c20dc4825373/EeveeSpotify-9.0.58-patched.ipa",
           "size": 86744126,
           "absoluteVersion": "9.0.58",
-          "localizedDescription": "• Patched"
-        },
-        {
-          "version": "9.0.58",
-          "date": "2025-07-06",
-          "downloadURL": "https://repo.ethsign.fyi/19090f09-4a91-4f1b-8f55-e08e127b2771/EeveeSpotify-9.0.58.ipa",
-          "size": 84840587,
-          "absoluteVersion": "9.0.58",
-          "localizedDescription": "- updated spotify to v9.0.58\n— one of the most popular music streaming services!\n- updated: EeveeSpotify v6.0.2\n- OpenSpotifySafariExtension included\n\n • Updated Spanish localizaton by @longopy\n • Updated Polish localization by @HackZy01\n\n@SpotilifeIPAs"
-        },
-        {
-          "version": "9.0.56",
-          "date": "2025-06-27",
-          "downloadURL": "https://repo.ethsign.fyi/4574450a-2787-463e-ba89-e3c689ed3706/EeveeSpotify-9.0.56-patched.ipa",
-          "size": 86587225,
-          "absoluteVersion": "9.0.56",
           "localizedDescription": "• Patched"
         }
       ]
@@ -1553,22 +1307,6 @@
           "size": 203914154,
           "absoluteVersion": "4.3.4",
           "localizedDescription": "Vivacut pro 4.3.4 (no need to patch because there are no plugins)\n- updated Vivacut pro to 4.3.4\n-injected with pro crack\n-injected with sideload fix\nMade by @moeotf\ndecrypted by @eeveedecrypterbot (can also decrypt testflight apps)\nNeed a certificate? Contact @eth4dmin\nNew channel: https://t.me/ethMods\nEthMods Repo: https://repo.ethsign.fyi"
-        },
-        {
-          "version": "4.3.2",
-          "date": "2025-06-10",
-          "downloadURL": "https://repo.ethsign.fyi/6de5851b-38d8-4707-9b5c-1894c23ed4fb/Vivacut4.3.2ProMoe.ipa",
-          "size": 203872135,
-          "absoluteVersion": "4.3.2",
-          "localizedDescription": "Vivacut pro 4.3.2 (no need to patch because there are no plugins)\n- updated Vivacut pro to 4.3.2\n-injected with pro crack\n-injected with sideload fix\nMade by @moeotf\ndecrypted by @eeveedecrypterbot (can also decrypt testflight apps)\nNeed a certificate? Contact @eth4dmin\nNew channel: https://t.me/ethMods\nEthMods Repo: https://repo.ethsign.fyi"
-        },
-        {
-          "version": "4.3.0",
-          "date": "2025-06-04",
-          "downloadURL": "https://repo.ethsign.fyi/45ab50cb-cd5a-4457-bff2-56027b29bd68/Vivacut4.3.0ProMoePatched.ipa",
-          "size": 203827406,
-          "absoluteVersion": "4.3.0",
-          "localizedDescription": "Vivacut pro 4.3.0 (no need to patch because there are no plugins)\n- updated Vivacut pro to 4.3.0\n-injected with pro crack\n-injected with sideload fix\nMade by @moeotf\ndecrypted by @eeveedecrypterbot (can also decrypt testflight apps)\nNeed a certificate? Contact @eth4dmin\nNew channel: https://t.me/ethMods\nEthMods Repo: https://repo.ethsign.fyi"
         }
       ]
     },
@@ -1631,22 +1369,6 @@
           "size": 69289047,
           "absoluteVersion": "8.1.8",
           "localizedDescription": "Infuse 8.1.8 plus 2.2 (added file picker fix)\n\nNothing to patch app has to plugins etc\n- Updated infuse to v8.1.8\n- Info: plus features updated to 2.2 by Dan\n-2.2 changelog\n- Ability to add or play links directly, or batch import URLs from a file on the Home page\n- Ability to batch import, export, or remove all links on the Direct URL page\n-2.1 changelog\n- Added import from Photos app\n- Fixed importing from files (sideloading)\n- keychain and sideload fix injected and file picker fix\n-Plus features created by @dvntm go follow him!\n\nUpdated by @moeotf, \ndecrypted by @eeveedecrypterbot\nNeed a certificate? Contact @eth4dmin\nNew channel: https://t.me/ethMods\nEthMods Repo: https://repo.ethsign.fyi\nPrepatched with @asdfzxcvbn0 ipapatch bot found here"
-        },
-        {
-          "version": "8.1.7",
-          "date": "2025-06-02",
-          "downloadURL": "https://repo.ethsign.fyi/1174f49d-76d4-49e5-93b1-5090a424e292/infuse8.1.7Plus2.2MoeFP.ipa",
-          "size": 69272540,
-          "absoluteVersion": "8.1.7",
-          "localizedDescription": "Infuse 8.1.7 plus 2.2 (added file picker fix)\n\nNothing to patch app has to plugins etc\n- Updated infuse to v8.1.7\n- Info: plus features updated to 2.2 by Dan\n-2.2 changelog\n- Ability to add or play links directly, or batch import URLs from a file on the Home page\n- Ability to batch import, export, or remove all links on the Direct URL page\n-2.1 changelog\n- Added import from Photos app\n- Fixed importing from files (sideloading)\n- keychain and sideload fix injected and file picker fix\n-Plus features created by @dvntm go follow him!\n\nUpdated by @moeotf, \ndecrypted by @eeveedecrypterbot\nNeed a certificate? Contact @eth4dmin\nNew channel: https://t.me/ethMods\nEthMods Repo: https://repo.ethsign.fyi\nPrepatched with @asdfzxcvbn0 ipapatch bot found here"
-        },
-        {
-          "version": "8.1.7",
-          "date": "2025-05-27",
-          "downloadURL": "https://repo.ethsign.fyi/5881e1c4-6694-4984-914b-aabcffd10189/infuse8.1.7Plus2.2Moe.ipa",
-          "size": 69261297,
-          "absoluteVersion": "8.1.7",
-          "localizedDescription": "Infuse 8.1.7 plus 2.2 \n\nNothing to patch app has to plugins etc\n- Updated infuse to v8.1.7\n- Info: plus features updated to 2.2 by Dan\n-2.2 changelog\n- Ability to add or play links directly, or batch import URLs from a file on the Home page\n- Ability to batch import, export, or remove all links on the Direct URL page\n-2.1 changelog\n- Added import from Photos app\n- Fixed importing from files (sideloading)\n- keychain and sideload fix injected\n-Plus features created by @dvntm go follow him!\n\nUpdated by @moeotf, \ndecrypted by @eeveedecrypterbot\nNeed a certificate? Contact @eth4dmin\nNew channel: https://t.me/ethMods\nEthMods Repo: https://repo.ethsign.fyi\nPrepatched with @asdfzxcvbn0 ipapatch bot found here"
         }
       ]
     },
@@ -1732,22 +1454,6 @@
           "size": 142171829,
           "absoluteVersion": "7.23.3",
           "localizedDescription": "PDFExpert Pro 7.23.3 PRO patched\n- PDFExpert to 7.23.3\n- PDF viewer\n- Info: Pro Unlocked\n-keychain and sideload fix included\n-requires a cert with app groups\n\nMade by @moeotf 👌🏻\ndecrypted by @eeveedecrypterbot \nNeed a certificate? Contact @eth4dmin\nNew channel: https://t.me/ethMods\nEthMods Repo: https://repo.ethsign.fyi\nprepatched already thanks to @asdfzxcvbn0 ipapatch bot found here"
-        },
-        {
-          "version": "7.23.2",
-          "date": "2025-05-19",
-          "downloadURL": "https://repo.ethsign.fyi/e3e0060d-0557-4f30-b705-ece6ea158999/PDFExpert7.23.2ProMoePatched.ipa",
-          "size": 140607470,
-          "absoluteVersion": "7.23.2",
-          "localizedDescription": "PDFExpert Pro 7.23.2 PRO patched\n- PDFExpert to 7.23.2\n- PDF viewer\n- Info: Pro Unlocked\n-keychain and sideload fix included\n-requires a cert with app groups\n\nMade by @moeotf 👌🏻\ndecrypted by @eeveedecrypterbot \nNeed a certificate? Contact @eth4dmin\nNew channel: https://t.me/ethMods\nEthMods Repo: https://repo.ethsign.fyi\nprepatched already thanks to @asdfzxcvbn0 ipapatch bot found here"
-        },
-        {
-          "version": "7.23.1",
-          "date": "2025-05-13",
-          "downloadURL": "https://repo.ethsign.fyi/6f6ae57b-a9a3-4e77-95ec-cebcb17e4ac2/PDFExpert7.23.1TeamETH.ipa",
-          "size": 140607094,
-          "absoluteVersion": "7.23.1",
-          "localizedDescription": "PDFExpert Pro 7.23.1 PRO\n- PDFExpert to 7.23.1\n- PDF viewer\n- Info: Pro Unlocked\n-keychain and sideload fix included\n\nCompiled by @moeotf\ndecrypted by anyipa.me\nNeed a certificate? Contact @eth4dmin\nNew channel: https://t.me/ethMods\nEthMods Repo: https://repo.ethsign.fyi"
         }
       ]
     },
@@ -1833,22 +1539,6 @@
           "size": 25253151,
           "absoluteVersion": "3.0",
           "localizedDescription": "HD Flix (Xianao) 3.0\n- Xianao witch is made by HD Flix that I change the icon, app name and bundle id to the original one\n- No Ads\n- Toggle ON “Fix White Icon”\nIf you need a certificate DM @eth4dmin"
-        },
-        {
-          "version": "3.0",
-          "date": "2025-06-02",
-          "downloadURL": "https://repo.ethsign.fyi/8a0e1284-a426-45fe-93d4-07726d9a8ba3/HD_Flix_(Creatii)_3.0_Jacks_Apps.ipa",
-          "size": 17429775,
-          "absoluteVersion": "3.0",
-          "localizedDescription": "HD Flix (Creatii) 3.0\n- Creatii witch is made by HD Flix that I change the icon, app name and bundle id to the original one\n- No Ads\n- Toggle ON “Fix White Icon”\n- Restart the app 5 times then in the 5th time wait 15-30 seconds\n- If you need a certificate DM @eth4dmin"
-        },
-        {
-          "version": "2.1",
-          "date": "2025-06-28",
-          "downloadURL": "https://repo.ethsign.fyi/79eb945d-4fc2-418a-8223-04733aae636b/HD_Flix_(Caroni)_2.1_Jacks_Apps.ipa",
-          "size": 8988592,
-          "absoluteVersion": "2.1",
-          "localizedDescription": "HD Flix (Caroni) 2.1\n- Caroni witch is made by HD Flix that I change the icon, app name and bundle id to the original one\n- Click “Add information”\nFill in:\nCar name: 3689\nLeave other fields random → Save\nYou’ll be redirected to the HD FLIX app automatically!\n- No Ads\n- Toggle ON “Fix White Icon”\nIf you need a certificate DM @eth4dmin"
         }
       ]
     },
@@ -1888,22 +1578,6 @@
           "size": 88507516,
           "absoluteVersion": "11.12.1",
           "localizedDescription": "Swiftgram 11.12.1 official not beta | TGExtra 1.3.1 (patched)\n- Updated Swiftgram to 11.12.1 (fixes translation issue)\n- Updated TGExtra to 1.3-1\nTGExtra by ChocolateFluffy (@swiftLeopard)\n•⚠️To open the tweak settings Tap 5 Times on the Chats Tab Button. Or Go To settings and Long Press on \"Ask a Question\".\nDisable Ads\nDisable Online Status\nPrevent others from seeing you online.\nDisable Typing Status\nHide when you're typing messages.\nDisable Recording Video Status\nHide when you're recording a video.\nDisable Uploading Video Status\nHide when you're uploading a Video\nDisable Voice Message\nRecording Status\nHide when you're recording a voice message.\nDisable Voice Message\nUploading Status\nHide when you're uploading a voice message.\nDisable Uploading Photo Status\nHide when you're uploading a Photo\nDisable Uploading File Status\nHide when you're uploading a file.\nDisable Choosing Location Status\nHide when you're choosing a location.\nDisable Choosing Contact\nHide when you're choosing a contact.\nDisable Recording Round\nVideo Status\nHide when you're recording a round video.\nDisable Uploading Round\nVideo Status\nDisable Uploading Round Video Status\nDisable Speaking in Group Call Status\nHide when you're speaking in a group call.\nDisable Choosing Sticker Status\nHide when you're picking a sticker.\nDisable Emoji Interaction Status\nHide when you interact with emoji.\nDisable Emoji Acknowledgement\nStatus\nHide when you react with emoji to a message.\nREAD RECEIPTS\nDisable Message Read Receipts\nPrevent others from seeing you've read their messages.\nDisable Story Read Receipts\nPrevent others from seeing you've viewed their stories.\nMade by @moeotf \ndecrypted by @eeveedecrypterbot \nNeed a certificate? Contact @eth4dmin\nNew channel: https://t.me/ethMods\nEthMods Repo: https://repo.ethsign.fyi\nprepatched already thanks to @asdfzxcvbn0 ipapatch bot found here"
-        },
-        {
-          "version": "11.12.1",
-          "date": "2025-07-02",
-          "downloadURL": "https://repo.ethsign.fyi/e152705d-4b26-4fb5-911d-b158f1bfafd9/[TG@sgbeta_ipa]_11.12.1_TE.ipa",
-          "size": 71946217,
-          "absoluteVersion": "11.12.1",
-          "localizedDescription": "Swiftgram Beta v11.12.1 | TGExtra v1.3\nInjected TGExtra by Chocolate Fluffy. Contains features like No Ads, Ghost Mode, Hide Read Receipts, Location Spoofing.\n\n🔔To fix Notifications: t.me/ethModsChat/64514\n💬To fix “Conection…” disable “Allow Saving Protected Content”\n💬To fix Chats not opening go to Settings app - Swiftgram - Reset Metadata\n\n⬆️Plugin Patched. Thanks to @zxcvbn_tweaked.\n⚙Open Settings via tapping 5 times on Chats tab.\n\n❤️Made by @iosdecrypted - @sgbeta_ipa\n🛜Repost Policy: t.me/iosdecrypted/15\n\n⭐️For ethMods: @ethmods"
-        },
-        {
-          "version": "11.12.1",
-          "date": "2025-07-02",
-          "downloadURL": "https://repo.ethsign.fyi/77d92bd5-59ac-451e-ba42-8a7f0325fb47/[TG@sgbeta_ipa]_11.12.1_TE_TS.ipa",
-          "size": 71887482,
-          "absoluteVersion": "11.12.1",
-          "localizedDescription": "Swiftgram Beta v11.12.1 | TGExtra v1.3 | ethSign Elite Only\nInjected TGExtra by Chocolate Fluffy. Contains features like No Ads, Ghost Mode, Hide Read Receipts, Location Spoofing. No fixes for certs without NSE entitlement.\n\n💬To fix “Conection…” disable “Allow Saving Protected Content”\n💬To fix Chats not opening go to Settings app - Swiftgram - Reset Metadata\n\n⬆️Plugin Patched. Thanks to @zxcvbn_tweaked.\n⚙Open Settings via tapping 5 times on Chats tab.\n\n❤️Made by @iosdecrypted - @sgbeta_ipa\n🛜Repost Policy: t.me/iosdecrypted/15\n\n⭐️For ethMods: @ethmods"
         }
       ]
     },
@@ -1966,22 +1640,6 @@
           "size": 117892585,
           "absoluteVersion": "20.26.7",
           "localizedDescription": "YouTube 20.26.7 LRDTube 1.8 (already patched)(sign with anything besides esign)(license already included with elite cert for all DL and LRD and SY tweaks just sign it)(screenshots below) \nScreenshots of features here, yes it has a built in media player for downloaded videos and audio\n\nRecommended YTPLUS build(Free): here\nRecommended DLTube build(elite customers): here\n\nAlready posted other free YouTube tweaks just search above. Just adding this to the YouTube tweaks list for elite cert users\nLRD 1.8:\n-just look at the screenshots in the link above.\n-built in video and audio player for downloaded content\n-sign it with anything besides esign\n-keychain and sideload fix injected\n-open links in Instagram injected\nCompiled by @moeotf\ndecrypted by @eeveedecrypter\nbot (can also decrypt testflight apps)\nNeed a certificate? Contact @eth4dmin\nNew channel: https://t.me/ethMods\nEthMods Repo: https://repo.ethsign.fyi\nprepatched already thanks to @asdfzxcvbn0 ipapatch bot found here"
-        },
-        {
-          "version": "20.26.7",
-          "date": "2025-06-30",
-          "downloadURL": "https://repo.ethsign.fyi/18259562-4be4-4f9d-8bf3-0e2222877b7a/YouTube20.26.7PlusEX.Lite5.2bBasicJune29thMoePatched.ipa",
-          "size": 124923702,
-          "absoluteVersion": "20.26.7",
-          "localizedDescription": "YouTube 20.26.7 YTLite 5.2 Beta 1 Basic June 29th build\nThis build does not support casting and might have issues with the tab bar. I don't recommend it until beta 2 is released, For the most stable build that also has 5.2 beta 1 (the same tweak as this ipa, use the link below\nRecommended and most stable build linked below with casting support posted here\n\n(turn off vp9 if you have a 15 pro or above, not needed its outdated, and is replaced with AV1 on iphone 15 pro+ and up which supports 4K as well)(today's updates are in bold, to see what changed in those tweaks just click on the new version number which is blue)\n-YouTube \n-YTLite 5.2 beta 1 (changelog here -https://t.me/dvntms/157) (thanks Dan)(over 50+ features, too many to type out, including isponsor, downloading and much much much much much more)\n-YouQuality 1.3.5 updated to 1.3.6\n-YTUHD 1.6.2 updated to 1.6.6\n-YTClassicVideoQuality 1.5.2\n-YTvideoOverlay 2.2.3\n-YouGroupSettings 1.0.4\n-YTvideoerroralert 1.0.2\n-OpenYoutubeSafariExtension\n-other minor updates check poomsmarts github for smaller changes\n\nMade by @moeotf 👌🏻\ndecrypted by @eeveedecrypterbot\nNeed a certificate? Contact @eth4dmin\nNew channel: https://t.me/ethMods\nEthMods Repo: https://repo.ethsign.fyi\nprepatched already thanks to @asdfzxcvbn0 ipapatch bot found here"
-        },
-        {
-          "version": "20.26.7",
-          "date": "2025-06-30",
-          "downloadURL": "https://repo.ethsign.fyi/d68d7b11-8ead-4c95-8ddd-97ac760925ec/uYouEnhanced_20.26.7-3.0.4Moe.ipa",
-          "size": 131851651,
-          "absoluteVersion": "20.26.7",
-          "localizedDescription": "YouTube 20.26.7 uYouEnhanced 3.0.4\n\n(turn off vp9 if you have a 15 pro or above, not needed its outdated, and is replaced with AV1 on iphone 15+ and up which supports 4K as well)(to remove ads go to uyou's settings and turn on YouTube ad blocker)\n-YouTube to 20.26.7\n-uYouEnhanced 3.0.4 (includes built in media manager)\n-iSponsorBlock\n-YouPiP\n-YTUHD\n-YTClassicVideoQuality\n-YTNoHoverCards\n-YouRememberCaption\n-NoYTPremium\n-YTSpeed\n-YTMiniplayerEnabler\n-DontEatMyContent\n-YTABConfig\n-YouMute\n-YouQuality\n-YouTimeStamp\n-YTVideoOverlay\n-NotificationsTab\n-LowContrastMode\n\nCompiled by @moeotf from arichornlover's GitHub which can be found here \ndecrypted using areyouenjoyingbot\nNeed a certificate? Contact @eth4dmin\nNew channel: https://t.me/ethMods\nEthMods Repo: https://repo.ethsign.fyi"
         }
       ]
     },
@@ -2021,14 +1679,6 @@
           "size": 188710005,
           "absoluteVersion": "6.11.3",
           "localizedDescription": "Polarr 6.11.3 Pro Moe\nPro unlocked- activate satella, just sign into any account and click purchase/restore purchases or pretend like your going to purchase then click cancel\n\nTools:\n﻿﻿Retouch Al: Face HD, Skin, Liquify, Facial Features Editing\n﻿﻿Selective Al objects: Sky, Person, Background, etc\n﻿﻿Selective masks: Brush, Radial, Gradient, Color, Luminance\n﻿﻿Overlays: Gradient, Duotone, Weather, Backdrop, etc\n﻿﻿Global adjustments: Light, Color, HSL, Toning, Effects, Fringing, Details, Curves, Vignette, Grain, LUT\nFilters:\n﻿﻿Search and discover trendy, new Polarr filters\n﻿﻿Create and share your own Polarr filters\n﻿﻿Scan or produce Polarr filters as QR codes\n﻿﻿Synchronize all your Polarr filters with a \nPolarr account\nApp store link\nMade by @moeotf \ndecrypted by @eeveedecrypterbot (can also decrypt testflight apps)\nNeed a certificate? Contact @eth4dmin\nNew channel: https://t.me/ethMods\nEthMods Repo: https://repo.ethsign.fyi\nPrepatched with @asdfzxcvbn0 ipapatch bot found here"
-        },
-        {
-          "version": "6.11.1",
-          "date": "2025-03-24",
-          "downloadURL": "https://repo.ethsign.fyi/21557c18-575a-4f95-84b7-99a383280bc3/polarr6.11.1MoePro.ipa",
-          "size": 188599825,
-          "absoluteVersion": "6.11.1",
-          "localizedDescription": "Polarr 6.11.1 Pro Moe\nPro unlocked- just sign into any account and click purchase/restore purchases\n\nTools:\n﻿﻿Retouch Al: Face HD, Skin, Liquify, Facial Features Editing\n﻿﻿Selective Al objects: Sky, Person, Background, etc\n﻿﻿Selective masks: Brush, Radial, Gradient, Color, Luminance\n﻿﻿Overlays: Gradient, Duotone, Weather, Backdrop, etc\n﻿﻿Global adjustments: Light, Color, HSL, Toning, Effects, Fringing, Details, Curves, Vignette, Grain, LUT\nFilters:\n﻿﻿Search and discover trendy, new Polarr filters\n﻿﻿Create and share your own Polarr filters\n﻿﻿Scan or produce Polarr filters as QR codes\n﻿﻿Synchronize all your Polarr filters with a \nPolarr account\nApp store link\nMade by @moeotf decrypted by anyipa.me\nNeed a certificate? Contact @eth4dmin\nNew channel: https://t.me/ethMods\nEthMods Repo: https://repo.ethsign.fyi"
         }
       ]
     },
@@ -2068,22 +1718,6 @@
           "size": 103319551,
           "absoluteVersion": "7.4.0",
           "localizedDescription": "Aloha browser 7.4.0 pro features unlocked (no need to patch because there are no plugins anyway)\n-private browser look it up in the app store\n-satella based\nCompiled by @moeotf\ndecrypted by @eeveedecrypterbot (can also decrypt testflight apps dm Eevee for premium access)\nNeed a certificate? Contact @eth4dmin\nNew channel: https://t.me/ethMods\nEthMods Repo: https://repo.ethsign.fyi"
-        },
-        {
-          "version": "7.4.0",
-          "date": "2025-05-22",
-          "downloadURL": "https://repo.ethsign.fyi/83f97fd5-cd3f-4bb7-b664-7bd6af3788f7/AlohaBrowser7.4.0Build4TestflightMoe.ipa",
-          "size": 100830922,
-          "absoluteVersion": "7.4.0",
-          "localizedDescription": "Aloha browser 7.4.0 Build 4 testflight pro features unlocked (no need to patch because there are no plugins anyway)\n-Vpn works\n-private browser look it up in the app store\n-to activate pretend like your going to purchase premium, you'll see it say that you won't be charged and that your in a sandbox, success!\n-latest testflight build\nCompiled by @moeotf\ndecrypted by @eeveedecrypterbot (can also decrypt testflight apps dm Eevee for premium access)\nNeed a certificate? Contact @eth4dmin\nNew channel: https://t.me/ethMods\nEthMods Repo: https://repo.ethsign.fyi"
-        },
-        {
-          "version": "7.3.0",
-          "date": "2025-05-09",
-          "downloadURL": "https://repo.ethsign.fyi/115a4bda-a125-434f-8397-0d74537b3529/Aloha_Browser_Private_VPN_v7_3_0_Subscription_Unlocked_blatant.ipa",
-          "size": 123587971,
-          "absoluteVersion": "7.3.0",
-          "localizedDescription": "📱 Aloha Browser - Private VPN\n\n🆔 Bundle ID: \ncom.alohabrowser.alohabrowser\n📊 Version: 7.3.0\n👨‍💻 Developer: Aloha Mobile\n🏷 Category: Utilities\n🔧 Minimum iOS: 16.0\n\n💎 Modifier: Subscription Unlocked\n\n📝 Note: \nLogin to activate subscription\n\n🔄 Tweaked by @blatants\n\nKo-Fi ☕️ | Crypto 👾 | IPAs 📥"
         }
       ]
     },
@@ -2146,22 +1780,6 @@
           "size": 111211323,
           "absoluteVersion": "2025.24.02",
           "localizedDescription": "Photoroom 2025.24.02 pro (max sub) \n\nThere's nothing to patch app has no plugins etc\n- updated Photoroom\n- injected with pro \n-injected with keychain and sideload fix\n-app store link\n\nMade by @moeotf \ndecrypted by @eeveedecrypterbot \nNeed a certificate? Contact @eth4dmin\nNew channel: https://t.me/ethMods\nEthMods Repo: https://repo.ethsign.fyi"
-        },
-        {
-          "version": "2025.21.01",
-          "date": "2025-05-27",
-          "downloadURL": "https://repo.ethsign.fyi/67c126e1-6c9a-4db8-980d-508cb45791f1/Photoroom2025.21.01ProMoe.ipa",
-          "size": 110575426,
-          "absoluteVersion": "2025.21.01",
-          "localizedDescription": "Photoroom 2025.21.01 pro (max sub) \n\nThere's nothing to patch app has no plugins etc\n- updated Photoroom to 2025.21.01 PRO\n- injected with pro \n-injected with keychain and sideload fix\n-app store link\n\nMade by @moeotf \ndecrypted by @eeveedecrypterbot \nNeed a certificate? Contact @eth4dmin\nNew channel: https://t.me/ethMods\nEthMods Repo: https://repo.ethsign.fyi"
-        },
-        {
-          "version": "2025.20.01",
-          "date": "2025-05-20",
-          "downloadURL": "https://repo.ethsign.fyi/9fb27bc4-79d4-4bb7-973b-4a501758b192/Photoroom2025.20.01ProMoePatched.ipa",
-          "size": 109013381,
-          "absoluteVersion": "2025.20.01",
-          "localizedDescription": "Photoroom 2025.20.01 pro patched\n\nAll apps will be prepatched now thanks to @asdfzxcvbn0 ipapatch bot found here\n- updated Photoroom to 2025.20.01 PRO\n- injected with pro \n-injected with keychain and sideload fix\n-app store link\n\nMade by @moeotf \ndecrypted by @eeveedecrypterbot \nNeed a certificate? Contact @eth4dmin\nNew channel: https://t.me/ethMods\nEthMods Repo: https://repo.ethsign.fyi"
         }
       ]
     },
@@ -2201,22 +1819,6 @@
           "size": 20227130,
           "absoluteVersion": "2.2.66",
           "localizedDescription": "Shadowrocket 2.2.66 (patched)(released today)\n- updated to 2.2.66\n-requires a cert with vpn entitlements\n-injected with keychain and sideload fix\n-app store link below\n-rule based proxy utility\n\nhttps://apps.apple.com/us/app/shadowrocket/id932747118 ($3)\n\nMade by @moeotf \nNeed a certificate? Contact @eth4dmin\nNew channel: https://t.me/ethMods\nEthMods Repo: https://repo.ethsign.fyi\nprepatched already thanks to @asdfzxcvbn0 ipapatch bot found here"
-        },
-        {
-          "version": "2.2.64",
-          "date": "2025-04-05",
-          "downloadURL": "https://repo.ethsign.fyi/79150c2c-d9bb-4b68-a7d6-2e16c9ecd788/com.liguangming.Shadowrocket_VAXMG_2.2.64_patched_nofix.ipa",
-          "size": 18076395,
-          "absoluteVersion": "2.2.64",
-          "localizedDescription": "Shadowrocket 2.2.64\n- Shadowrocket 2.2.64\n- Paid App 3.99$\n- Requires Paid Cert With VPN Entitlement\n\nDecrypted by @VAXMG\nNeed a certificate? Contact @eth4dmin\nNew main channel: https://t.me/ethMods\nethSign Repo: https://repo.ethsign.fyi"
-        },
-        {
-          "version": "2.2.63",
-          "date": "2025-03-19",
-          "downloadURL": "https://repo.ethsign.fyi/3e73c7ce-c379-4463-ba43-c8f248a0d879/com.liguangming.Shadowrocket-VAXMG_2.2.63_patched_nofix.ipa",
-          "size": 18040556,
-          "absoluteVersion": "2.2.63",
-          "localizedDescription": "Shadowrocket 2.2.63\n- Shadowrocket 2.2.63\n- Paid App 3.99$\n- Requires Paid Cert With VPN Entitlement\n\nDecrypted by @VAXMG\nNeed a certificate? Contact @eth4dmin\nNew main channel: https://t.me/ethMods\nethSign Repo: https://repo.ethsign.fyi"
         }
       ]
     },
@@ -2365,22 +1967,6 @@
           "size": 131608967,
           "absoluteVersion": "25.19.10",
           "localizedDescription": "WA Business Beta v25.19.10 | injected Watusi Cracked v1.2.70\nCracked tweak for WhatsApp. Original tweak by Fouad Raheb. To unlock all features and remove ads, Log Out from tweak and restart twice.\n\n💎Cracked by EnjoyTeam.app - @dpixel\n\n🖼Tutorial: t.me/ethModsChat/64065\n📄FAQ: t.me/c/2165869006/144\n💻Usage as linked device is the only supported method. Using as main device (authorization using phone number) can lead to loss of chat history or account.\n🛜For Jailbroken users Disabling Tweak Injection via Choicy is recommended.\n\n⬆️Plugin Patched. Thanks to @zxcvbn_tweaked.\n\n❤️Made by @iosdecrypted - @wabeta_ipa\n🛜Repost Policy: t.me/iosdecrypted/15\n\n⭐️For ethMods: @ethmods"
-        },
-        {
-          "version": "25.18.10",
-          "date": "2025-06-19",
-          "downloadURL": "https://repo.ethsign.fyi/31fe950d-c9e9-472b-b373-f28beeb494a7/%E2%80%8EWA%20Business_25.18.10_WL.ipa",
-          "size": 122047723,
-          "absoluteVersion": "25.18.10",
-          "localizedDescription": "WA Business Beta v25.18.10 | injected Watusi License v1.2.74\nFreemium tweak for WhatsApp by Fouad Raheb. To unlock all features and remove ads, purchase the license for 10$.\n\n🖼Tutorial: t.me/ethModsChat/64065\n📄FAQ: t.me/c/2165869006/144\n💻Usage as linked device is the only supported method. Using as main device (authorization using phone number) can lead to loss of chat history or account.\n\n⬆️Plugin Patched. Thanks to @zxcvbn_tweaked.\n\n❤️Made by @iosdecrypted - @wabeta_ipa\n🛜Repost Policy: t.me/iosdecrypted/15\n\n⭐️For ethMods: @ethmods"
-        },
-        {
-          "version": "25.18.10",
-          "date": "2025-06-19",
-          "downloadURL": "https://repo.ethsign.fyi/443003b6-a0cf-499e-a599-d8e2ee2ac3c0/%E2%80%8EWABusinessBeta-v25.18.10-WhatsAppSy-ethmods.ipa",
-          "size": 124886557,
-          "absoluteVersion": "25.18.10",
-          "localizedDescription": "WA Business Beta v25.18.10 | injected WhatsAppSy v1\nPaid tweak for WhatsApp by @Plus_Sy. Licensed for ethSign certificates.\n\n🖼Tutorial: t.me/ethModsChat/64065\n📄FAQ: t.me/c/2165869006/144\n💻Usage as linked device is the only supported method. Using as main device (authorization using phone number) can lead to loss of chat history or account.\n\n⬆️Plugin Patched. Thanks to @zxcvbn_tweaked.\n\n❤️Made by @iosdecrypted - @wabeta_ipa\n🛜Repost Policy: t.me/iosdecrypted/15\n\n⭐️For ethMods: @ethmods"
         }
       ]
     },
@@ -2544,22 +2130,6 @@
           "size": 69280206,
           "absoluteVersion": "3.7.14",
           "localizedDescription": "TOR 3.7.14 Pro (no plugins to patch)\n- premium features unlocked\n-updated to latest IPA 3.7.14\n-your certificate might need VPN entitlements\n-vpn might not work, use a 3rd party vpn\nTor taxi link for markets etc: http://tortaxi2dev6xjwbaydqzla77rrnth7yn2oqzjfmiuwn5h6vsk2a4syd.onion/\n- Posted and keychain and hack injected by @moeotf, decrypted by @eeveedecrypterbot\nNeed a certificate? Contact @eth4dmin\nNew channel: https://t.me/ethMods\nEthMods Repo: https://repo.ethsign.fyi"
-        },
-        {
-          "version": "3.7.12",
-          "date": "2025-05-30",
-          "downloadURL": "https://repo.ethsign.fyi/1a8e163a-5211-4b77-9506-71e629937f93/tor3.7.12promoePatched.ipa",
-          "size": 69280390,
-          "absoluteVersion": "3.7.12",
-          "localizedDescription": "TOR 3.7.12 Pro (patched)\n- premium features unlocked\n-updated to latest IPA 3.7.12\n-your certificate might need VPN entitlements\n-vpn might not work, use a 3rd party vpn\nTor taxi link for markets etc: http://tortaxi2dev6xjwbaydqzla77rrnth7yn2oqzjfmiuwn5h6vsk2a4syd.onion/\n- Posted and keychain and hack injected by @moeotf, decrypted by @eeveedecrypterbot\nNeed a certificate? Contact @eth4dmin\nNew channel: https://t.me/ethMods\nEthMods Repo: https://repo.ethsign.fyi"
-        },
-        {
-          "version": "3.7.10",
-          "date": "2025-04-10",
-          "downloadURL": "https://repo.ethsign.fyi/39f02584-4d37-4455-aa8e-f7cc5d87e0cb/Tor3.7.10moepro.ipa",
-          "size": 68968935,
-          "absoluteVersion": "3.7.10",
-          "localizedDescription": "TOR 3.7.10 Pro\n- premium features unlocked\n-updated to latest IPA 3.7.10\n-your certificate might need VPN entitlements\n-vpn might not work, use a 3rd party vpn\nTor taxi link: http://tortaxi2dev6xjwbaydqzla77rrnth7yn2oqzjfmiuwn5h6vsk2a4syd.onion/\n- Posted and keychain and hack injected by @moeotf, decrypted by anyipa.me\nNeed a certificate? Contact @eth4dmin\nNew channel: https://t.me/ethMods\nEthMods Repo: https://repo.ethsign.fyi"
         }
       ]
     },
@@ -2630,14 +2200,6 @@
           "size": 141635965,
           "absoluteVersion": "5.5.32",
           "localizedDescription": "📱 EPIK - AI Photo & Video Editor\n\n🆔 Bundle ID: \ncom.snowcorp.epik\n📊 Version: 5.5.32\n👨‍💻 Developer: SNOW Corporation\n🏷 Category: Photo & Video\n🔧 Minimum iOS: 15.0\n\n💎 Modifier: Subscription Unlocked\n\n📝 Note: \nClick \"Restore\" on purchase page.\n\n🔄 Tweaked by @blatants\n\nKo-Fi ☕️ | Crypto 👾 | IPAs 📥"
-        },
-        {
-          "version": "5.5.30",
-          "date": "2025-01-24",
-          "downloadURL": "https://repo.ethsign.fyi/2f103258-bfa1-4960-bae6-e2fd53cd6cc7/EPIK%20v5.5.30%20Subscription%20Unlocked%20blatant.ipa",
-          "size": 142257739,
-          "absoluteVersion": "5.5.30",
-          "localizedDescription": "📱 EPIK - AI Photo & Video Editor\n\n🆔 Bundle ID: \ncom.snowcorp.epik\n📊 Version: 5.5.30\n👨‍💻 Developer: SNOW Corporation\n🏷 Category: Photo & Video\n🔧 Minimum iOS: 15.0\n\n💎 Modifier: Subscription Unlocked\n\n📝 Note: \nClick \"Restore\" on purchase page.\n\n🔄 Tweaked by @blatants\n\nKo-Fi ☕ | AppStore 📱 | IPAs 📥"
         }
       ]
     },
@@ -2754,22 +2316,6 @@
           "size": 85602718,
           "absoluteVersion": "5.3.1",
           "localizedDescription": "Waze 5.3.1\n- Waze 5.3.1\n- Blocking Waze ads and sound control button\n- Log in fixed\n\nMade by @Jacks_Apps\nDecrypted by @eeveedecrypterbot"
-        },
-        {
-          "version": "5.3.0",
-          "date": "2025-01-25",
-          "downloadURL": "https://repo.ethsign.fyi/30d521e7-57f0-481a-bbd1-7ed81e241f43/WazePlus_5.3_Jacks_Apps.ipa",
-          "size": 85604104,
-          "absoluteVersion": "5.3.0",
-          "localizedDescription": "Waze 5.3\n- Waze 5.3\n- Blocking Waze ads and sound control button\n- Log in fixed\n\nMade by @Jacks_Apps\nDecrypted by @eeveedecrypterbot"
-        },
-        {
-          "version": "5.2.5",
-          "date": "2025-01-06",
-          "downloadURL": "https://repo.ethsign.fyi/3bf12668-106f-45fa-bca7-569507fd99b3/WazePlus_5.2.5_Jacks_Apps.ipa",
-          "size": 86869665,
-          "absoluteVersion": "5.2.5",
-          "localizedDescription": "Waze 5.2.5\n- Waze 5.2.5\n- Blocking Waze ads and sound control button\n- Log in fixed\n\nMade by @Jacks_Apps\nDecrypted by @eeveedecrypterbot"
         }
       ]
     },
@@ -2809,14 +2355,6 @@
           "size": 21360491,
           "absoluteVersion": "3.21.17",
           "localizedDescription": "Things 3 V3.21.17 pro (patched)\n- updated to 3.21.17\n-injected with keychain and sideload fix\n-app store link below\n\nhttps://apps.apple.com/us/app/things-3/id904237743 ($10)\n\nMade by @moeotf \nNeed a certificate? Contact @eth4dmin\nNew channel: https://t.me/ethMods\nEthMods Repo: https://repo.ethsign.fyi\nprepatched already thanks to @asdfzxcvbn0 ipapatch bot found here"
-        },
-        {
-          "version": "3.21.16",
-          "date": "2025-05-29",
-          "downloadURL": "https://repo.ethsign.fyi/0770dd92-3515-4731-995b-0482830c4e71/Things3v3.21.16ProMoePatched.ipa",
-          "size": 20846508,
-          "absoluteVersion": "3.21.16",
-          "localizedDescription": "Things 3 V3.21.16 pro (patched)\n- updated to 3.21.16 \n-injected with keychain and sideload fix\n-app store link below\n\nhttps://apps.apple.com/us/app/things-3/id904237743\n\nMade by @moeotf \nNeed a certificate? Contact @eth4dmin\nNew channel: https://t.me/ethMods\nEthMods Repo: https://repo.ethsign.fyi\nprepatched already thanks to @asdfzxcvbn0 ipapatch bot found here"
         }
       ]
     },
@@ -2856,22 +2394,6 @@
           "size": 150466606,
           "absoluteVersion": "25.20.1",
           "localizedDescription": "Photoshop Express 25.20.2\n- Photoshop Express 25.20.1\n- Info: Premium unlocked\n\nMade by @Jacks_Apps0510\nIf you need a certificate DM @eth4dmin"
-        },
-        {
-          "version": "25.6.1",
-          "date": "2025-03-02",
-          "downloadURL": "https://repo.ethsign.fyi/0ab9d031-88ed-454d-b85b-dbc77128056b/PS_Express_25.6.1_Jacks_Apps.ipa",
-          "size": 148094538,
-          "absoluteVersion": "25.6.1",
-          "localizedDescription": "Photoshop Express 25.6.1\n- Photoshop Express 25.6.1\n- Info: Premium unlocked\n\nMade by @Jacks_Apps0510\nIf you need a certificate DM @eth4dmin"
-        },
-        {
-          "version": "25.5.0",
-          "date": "2025-02-04",
-          "downloadURL": "https://repo.ethsign.fyi/b4b96c4a-659b-4cb2-8010-6ad8653c9900/PS_Express_25.5_Jacks_Apps.ipa",
-          "size": 149135410,
-          "absoluteVersion": "25.5.0",
-          "localizedDescription": "Photoshop Express 25.5\n- Photoshop Express 25.5\n- Info: Premium unlocked\n\nMade by @Jacks_Apps0510\nDecrypted by @eeveedecrypterbot\nIf you want a certificate DM @eth4dmin"
         }
       ]
     },
@@ -3058,22 +2580,6 @@
           "size": 207292972,
           "absoluteVersion": "14.11.16",
           "localizedDescription": "Notability 14.11.16 pro prepatched\n-updated Notability to 14.11.16 PRO\n-Keychain fix included\n-AI note taking app etc.. Look it up in the app store\n-injected with satella, so all in app purchases are free. Plus subscription. -Pretend like your going to purchase the plus plan then click cancel, restart app. Plus will be active. You can now hide satella permanently\nPosted by @moeotf \n@eeveedecrypterbot (can also decrypt testflight apps)\nNeed a certificate? Contact @eth4dmin\nNew channel: https://t.me/ethMods\nEthMods Repo: https://repo.ethsign.fyi\nPrepatched with @asdfzxcvbn0 ipapatch bot found here"
-        },
-        {
-          "version": "14.11.14",
-          "date": "2025-05-18",
-          "downloadURL": "https://repo.ethsign.fyi/aac73cad-f779-40b5-ab91-e2f1a5a803b5/Notability14.11.14ProMoePatched.ipa",
-          "size": 193889855,
-          "absoluteVersion": "14.11.14",
-          "localizedDescription": "Notability 14.11.14 pro prepatched\n-updated Notability to 14.11.14 PRO\n-Keychain fix included\n-AI note taking app etc.. Look it up in the app store\n-injected with satella, so all in app purchases are free. Plus subscription. -Pretend like your going to purchase the plus plan then click cancel, restart app. Plus will be active. You can now hide satella permanently\nPosted by @moeotf \n@eeveedecrypterbot (can also decrypt testflight apps)\nNeed a certificate? Contact @eth4dmin\nNew channel: https://t.me/ethMods\nEthMods Repo: https://repo.ethsign.fyi\nPrepatched with @asdfzxcvbn0 ipapatch bot found here"
-        },
-        {
-          "version": "14.11.13",
-          "date": "2025-05-14",
-          "downloadURL": "https://repo.ethsign.fyi/63466dc8-8fc7-4874-aa6d-60136a627bf8/Notability14.11.13ProMoePatched.ipa",
-          "size": 192177809,
-          "absoluteVersion": "14.11.13",
-          "localizedDescription": "Notability 14.11.13 pro patched\n\nAll apps will be prepatched now thanks to @asdfzxcvbn0 ipapatch bot found here\n-updated Notability to 14.11.13 PRO\n-Keychain fix included\n-AI note taking app etc.. Look it up in the app store\n-injected with satella, so all in app purchases are free. Plus subscription\nPosted by @moeotf decrypted by anyipa.me \nNeed a certificate? Contact @eth4dmin\nNew channel: https://t.me/ethMods\nEthMods Repo: https://repo.ethsign.fyi"
         }
       ]
     },
@@ -3113,22 +2619,6 @@
           "size": 6766585,
           "absoluteVersion": "5.7",
           "localizedDescription": "Gbox 5.7.0 (released 1/25/2025 yesterday) \n- Changelog just states : adapted for ios 18 they barely give any details\n-rarely gets updated so we're posting this version that just got released for those that want it. Esign>gbox>🙃\n-alternative to esign, offers local signing\n-works with our certificates and our repo\n- Posted by @moeotf"
-        },
-        {
-          "version": "5.6.9",
-          "date": "2024-12-02",
-          "downloadURL": "https://repo.ethsign.fyi/1d0fcf7f-4481-435f-bd55-a827cf9e16fd/GBox_v5.6.9.ipa",
-          "size": 6765136,
-          "absoluteVersion": "5.6.9",
-          "localizedDescription": "Gbox 5.6.9 (released today) \n- Changelog just states : adapted for ios 18 \n-rarely gets updated so we're posting this version that just got released\n-alternative to esign, offers local signing\n-works with our certificates and our repo\n- Posted by @moeotf"
-        },
-        {
-          "version": "5.6.8",
-          "date": "2024-11-28",
-          "downloadURL": "https://repo.ethsign.fyi/71eadfc3-204f-4f2d-9f6f-a21db0295a9c/Gbox-5.6.8.ipa",
-          "size": 6764889,
-          "absoluteVersion": "5.6.8",
-          "localizedDescription": "Gbox 5.6.8 (released today Thanksgiving) \n- Changelog just states : adapted for ios 18 \n-rarely gets updated so we're posting this version that just got released\n-alternative to esign, offers local signing\n-works with our certificates along with esign, feather and every other signing app. local signing is usually better then online signing from issues we see daily and in the past. So try to stick to gbox or esign (anything that supports local signing), if your cert doesnt support local signing on ios 18, get one from @eth4dmin\n- Posted by @moeotf"
         }
       ]
     },
@@ -3222,22 +2712,6 @@
           "size": 379878197,
           "absoluteVersion": "2.110",
           "localizedDescription": "Photoleap AI Art Photo Editor v2.110\n- Pro Features Unlocked\n- injected keychain and sideload fix\n-one of the best AI imaging apps\n\nAppstore Link \nMade by @moeotf decrypted by anyipa.me\nNeed a certificate? Contact @eth4dmin\nNew channel: https://t.me/ethMods\nEthMods Repo: https://repo.ethsign.fyi"
-        },
-        {
-          "version": "2.108.3",
-          "date": "2025-03-26",
-          "downloadURL": "https://repo.ethsign.fyi/9ad1aebe-4b1e-4ec1-b1ac-252904a5a4e6/Photoleap2.108.3ProMoe.ipa",
-          "size": 375751587,
-          "absoluteVersion": "2.108.3",
-          "localizedDescription": "Photoleap AI Art Photo Editor v2.108.3\n- Pro Features Unlocked\n- injected keychain and sideload fix\n-one of the best AI imaging apps\n\nAppstore Link \nMade by @moeotf decrypted by anyipa.me\nNeed a certificate? Contact @eth4dmin\nNew channel: https://t.me/ethMods\nEthMods Repo: https://repo.ethsign.fyi"
-        },
-        {
-          "version": "2.108.2",
-          "date": "2025-03-23",
-          "downloadURL": "https://repo.ethsign.fyi/7fec73cd-cf2d-4aa2-82ca-60ac00f556f7/Photoleap2.108.2MoePro.ipa",
-          "size": 375779213,
-          "absoluteVersion": "2.108.2",
-          "localizedDescription": "Photoleap AI Art Photo Editor v2.108.2\n- Pro Features Unlocked\n- injected keychain and sideload fix\n-one of the best AI imaging apps\n\nAppstore Link \nMade by @moeotf decrypted by anyipa.me\nNeed a certificate? Contact @eth4dmin\nNew channel: https://t.me/ethMods\nEthMods Repo: https://repo.ethsign.fyi"
         }
       ]
     },
@@ -3300,14 +2774,6 @@
           "size": 166370856,
           "absoluteVersion": "4.28.31",
           "localizedDescription": "📱 Splice - Video Editor & Maker\n\n🆔 Bundle ID: \ncom.path36.SpliceFree\n📊 Version: 4.28.31\n👨‍💻 Developer: Bending Spoons Apps ApS\n🏷 Category: Photo & Video\n🔧 Minimum iOS: 12.2\n\n💎 Modifier: Subscription Unlocked\n\n📝 Note: \nRestart app if Subscriptions isn't activated.\n\n🔄 Tweaked by @blatants\n\nKo-Fi ☕️ | Crypto 👾 | IPAs 📥"
-        },
-        {
-          "version": "4.28.28",
-          "date": "2025-01-27",
-          "downloadURL": "https://repo.ethsign.fyi/21ca1851-ed10-4372-99dd-f446a29c57b6/Splice%20v4.28.28%20Subscription%20Unlocked%20blatant.ipa",
-          "size": 160807793,
-          "absoluteVersion": "4.28.28",
-          "localizedDescription": "📱 Splice - Video Editor & Maker\n\n🆔 Bundle ID: \ncom.path36.SpliceFree\n📊 Version: 4.28.28\n👨‍💻 Developer: Bending Spoons Apps ApS\n🏷 Category: Photo & Video\n🔧 Minimum iOS: 12.2\n\n💎 Modifier: Subscription Unlocked\n\n📝 Note: \nRestart app if Subscriptions isn't activated.\n\n🔄 Tweaked by @blatants\n\nKo-Fi ☕ | AppStore 📱 | IPAs 📥"
         }
       ]
     },
@@ -3448,22 +2914,6 @@
           "size": 163947864,
           "absoluteVersion": "514.0.0",
           "localizedDescription": "Facebook v514 No Ads | Wolf v2.1\n- Updated Facebook to v514\n- FacebookNoAds\n- Patch Included\n\nWolf v2.1 Features\n- Save feed videos\n- Like confirmation\n- No story and food ads\n- Save story images and videos\n- Disable auto-advance in stories\n- Disable marking stories\n- Disable typing status in messages\n- Disable marking messages as seen\n\nDisclaimer\n- Wolf Settings may not open on Facebook v514 but the tweak still works. You can update over an older version to keep settings or install v511, change the Wolf Tweak settings you want, then update over v511 with this version.\n- The Wolf tweak has been abandoned and all features may not work as intended.\n\nMade by @yougottabillieve decrypted by @eeveedecryptorbot\nNew channel: https://t.me/ethMods\nEthMods Repo: https://repo.ethsign.fyi\nneed a cert dm @eth4dmin"
-        },
-        {
-          "version": "513.1.0",
-          "date": "2025-05-20",
-          "downloadURL": "https://repo.ethsign.fyi/437df107-1a1e-474d-a105-7adb09795086/FacebookWolf_NoAds_v513.1_2.1_Billieve.ipa",
-          "size": 164344188,
-          "absoluteVersion": "513.1.0",
-          "localizedDescription": "Facebook v513.1 No Ads | Wolf v2.1\n- Updated Facebook to v513.1\n- FacebookNoAds\n- Patch Included\n\nWolf v2.1 Features\n- Save feed videos\n- Like confirmation\n- No story and food ads\n- Save story images and videos\n- Disable auto-advance in stories\n- Disable marking stories\n- Disable typing status in messages\n- Disable marking messages as seen\n\nDisclaimer\n- Wolf Settings may not open on Facebook v513.1 but the tweak still works. You can update over an older version to keep settings or install v511, change the Wolf Tweak settings you want, then update over v511 with this version.\n- The Wolf tweak has been abandoned and all features may not work as intended.\n\nMade by @yougottabillieve decrypted by @eeveedecryptorbot\nNew channel: https://t.me/ethMods\nEthMods Repo: https://repo.ethsign.fyi\nneed a cert dm @eth4dmin"
-        },
-        {
-          "version": "513.0.0",
-          "date": "2025-05-14",
-          "downloadURL": "https://repo.ethsign.fyi/ee8b804a-903d-44fe-8bc5-9ce10c3b2076/FacebookWolf_NoAds_v513_2.1_Billieve.ipa",
-          "size": 164012248,
-          "absoluteVersion": "513.0.0",
-          "localizedDescription": "Facebook v513 No Ads | Wolf v2.1\n- Updated Facebook to v513\n- FacebookNoAds\n- Patch Included\n\nWolf v2.1 Features\n- Save feed videos\n- Like confirmation\n- No story and food ads\n- Save story images and videos\n- Disable auto-advance in stories\n- Disable marking stories\n- Disable typing status in messages\n- Disable marking messages as seen\n\nDisclaimer\n- Wolf Settings may not open on Facebook v513 but the tweak still works. You can update over an older version to keep settings or install v511, change the Wolf Tweak settings you want, then update over v511 with this version.\n- The Wolf tweak has been abandoned and all features may not work as intended.\n\nMade by @yougottabillieve decrypted by @eeveedecryptorbot\nNew channel: https://t.me/ethMods\nEthMods Repo: https://repo.ethsign.fyi\nneed a cert dm @eth4dmin"
         }
       ]
     },
@@ -3595,22 +3045,6 @@
           "size": 146354238,
           "absoluteVersion": "426.0.0",
           "localizedDescription": "📱 VSCO: Photo Editor\n\n🆔 Bundle ID: \nco.visualsupply.cam\n📊 Version: 426.0.0\n🔧 Minimum iOS: 15.0\n\n✅ Patched\n💎 Modifier: Subscription Unlocked\n\n📝 Note: \nNo Additional Notes\n\n🔄 Tweaked by @blatants\n\nKo-Fi ☕️ | Crypto 👾 | IPAs 📥"
-        },
-        {
-          "version": "414.0.1",
-          "date": "2025-03-09",
-          "downloadURL": "https://repo.ethsign.fyi/d1b67bdb-43b0-4693-b622-fe45f947b2dd/VSCO_Photo_&_Video_Editor_v414_0_1_Subscription_Unlocked_blatant.ipa",
-          "size": 147569412,
-          "absoluteVersion": "414.0.1",
-          "localizedDescription": "📱 VSCO: Photo & Video Editor\n\n🆔 Bundle ID: \nco.visualsupply.cam\n📊 Version: 414.0.1\n👨‍💻 Developer: Visual Supply Company\n🏷 Category: Photo & Video\n🔧 Minimum iOS: 15.0\n\n💎 Modifier: Subscription Unlocked\n\n📝 Note: \nNo Additional Notes\n\n🔄 Tweaked by @blatants\n\nKo-Fi ☕️ | Crypto 👾 | IPAs 📥"
-        },
-        {
-          "version": "412.0.0",
-          "date": "2025-02-24",
-          "downloadURL": "https://repo.ethsign.fyi/fb97d1a9-af0d-4944-af36-270c510800cd/VSCO_Photo_&_Video_Editor_v412_0_0_Subscription_Unlocked_blatant.ipa",
-          "size": 149699257,
-          "absoluteVersion": "412.0.0",
-          "localizedDescription": "📱 VSCO: Photo & Video Editor\n\n🆔 Bundle ID: \nco.visualsupply.cam\n📊 Version: 412.0.0\n👨‍💻 Developer: Visual Supply Company\n🏷 Category: Photo & Video\n🔧 Minimum iOS: 15.0\n\n💎 Modifier: Subscription Unlocked\n\n📝 Note: \nNo Additional Notes\n\n🔄 Tweaked by @blatants\n\nKo-Fi ☕️ | Crypto 👾 | IPAs 📥"
         }
       ]
     },
@@ -3696,22 +3130,6 @@
           "size": 36984585,
           "absoluteVersion": "1.0.100",
           "localizedDescription": "Grok 1.0.100 (only posting for countries that don't have it in the app store)\n-injected with sideloadkeychainfix \nMade by @moeotf \ndecrypted by @eeveedecrypterbot (can also decrypt testflight apps)\nNeed a certificate? Contact @eth4dmin\nNew channel: https://t.me/ethMods\nEthMods Repo: https://repo.ethsign.fyi"
-        },
-        {
-          "version": "1.0.55",
-          "date": "2025-03-23",
-          "downloadURL": "https://repo.ethsign.fyi/27b99c73-3bab-458b-b169-1c94ad1ce4b4/Grok1.0.55ETH.ipa",
-          "size": 28629022,
-          "absoluteVersion": "1.0.55",
-          "localizedDescription": "Updated Grok to 1.0.55\nios 17 minimum\nThis app is now available in like 95% of app stores so it probably won't be updated in the future.. Unless there's people who actually need it. \n\nFor the best experience login. There is NO message limit in the US, there might be one OUTSIDE of the US.\n\nNothing cracked about this, just updating for the countries that don't have it\n\nGrok 3.0\n\nMade by @moeotf decrypted by anyipa.me\nNeed a certificate? Contact @eth4dmin\nNew channel: https://t.me/ethMods\nEthMods Repo: https://repo.ethsign.fyi"
-        },
-        {
-          "version": "1.0.50",
-          "date": "2025-03-12",
-          "downloadURL": "https://repo.ethsign.fyi/1e038b6f-025b-40a5-8675-291df8c12266/Grok1.0.50ETH.ipa",
-          "size": 22065108,
-          "absoluteVersion": "1.0.50",
-          "localizedDescription": "Updated Grok to 1.0.50\nios 17 minimum\nThis app is now available in like 95% of app stores so it probably won't be updated in the future.. Unless there's people who actually need it. \n\nFor the best experience login. There is NO message limit in the US, there might be one OUTSIDE of the US.\n\nNothing cracked about this, just updating for the countries that don't have it\n\nGrok 3.0\n\nChangelog: 1.0.50: \n﻿﻿-Voice Mode\n﻿﻿-Grok has a new logo\n﻿﻿-Grok 3\n﻿﻿-DeepSearch and Think\n\nMade by @moeotf decrypted by @eeveedecryptbot\nNeed a certificate? Contact @eth4dmin\nNew channel: https://t.me/ethMods\nEthMods Repo: https://repo.ethsign.fyi"
         }
       ]
     },
@@ -3751,22 +3169,6 @@
           "size": 135493587,
           "absoluteVersion": "7.4.1",
           "localizedDescription": "Fitbod Workout & Gym Planner 7.4.1\n- AppStore Link\n- Fitness & Workout App\n- Subscription Unblocked\n- Minimum iOS 17.0\n\nChangelog 7.4.1:\n- bug fixes and improvements.\n\nCreated by ethTeam\nCrack by @VAXMG\nNeed a certificate? Contact @eth4dmin\nNew main channel: https://t.me/ethMods\nethSign Repo: https://repo.ethsign.fyi"
-        },
-        {
-          "version": "7.2.0",
-          "date": "2025-02-25",
-          "downloadURL": "https://repo.ethsign.fyi/dbaf729b-7592-4c17-bcfc-c94ed3e9a456/com.fitbod_SultanMods-7.2.0.ipa",
-          "size": 165068309,
-          "absoluteVersion": "7.2.0",
-          "localizedDescription": "Fitbod Workout & Gym Planner 7.2.0\n- AppStore Link\n- Fitness & Workout App.\n- Subscription Unlocked.\n- minimum iOS 17.0\n\nChangelog 7.2.0:\n- Timed exercise are now supported when creating a custom exercise.\n- bug fixes and improvements.\n\nCreated by ethTeam\nCrack by @VAXMG\nNeed a certificate? Contact @eth4dmin or @Sultanipas.\nNew channel: https://t.me/SultanModsiOS\nSultanMods Repo: https://repo.ethsign.fyi"
-        },
-        {
-          "version": "7.1.0",
-          "date": "2025-02-12",
-          "downloadURL": "https://repo.ethsign.fyi/3ba55914-852e-4c8f-8bfb-57bf24e83e26/com.fitbod-7.1.0.ipa",
-          "size": 163651686,
-          "absoluteVersion": "7.1.0",
-          "localizedDescription": "Fitbod Unlocked 7.1.0\n- Fitbod 7.1.0\n- Fitness App\n- Info: Subscription Unlocked  \n- Requires IOS 17.0 or Later\n- For those who have iOS 16\n\nMade by ethTeam\nCrack by @VAXMG"
         }
       ]
     },
@@ -3829,22 +3231,6 @@
           "size": 175652023,
           "absoluteVersion": "10.3.0",
           "localizedDescription": "Lightroom Unlocked 10.3 (Non Satella version)(team ETH crack)\n-Lightroom to 10.3 pro\n-brand new TeamETH crack by @VAXMG \n-photo editing app\n-works better then the satella version.\n\nMade by @moeotf decrypted by anyipa.me\nNeed a certificate? Contact @eth4dmin\nNew channel: https://t.me/ethMods\nEthMods Repo: https://repo.ethsign.fyi\nStill traveling (mo) don't dm me just had a few minutes to hop on and update a couple apps ttyl✌🏻 dm any other admins if you need anything"
-        },
-        {
-          "version": "10.2.2",
-          "date": "2025-02-21",
-          "downloadURL": "https://repo.ethsign.fyi/b33b009f-0ad4-418f-a90c-7fa29e8111a7/Lightroom10.2.2Pro.ipa",
-          "size": 187106865,
-          "absoluteVersion": "10.2.2",
-          "localizedDescription": "Lightroom Unlocked 10.2.2 (Non Satella version)\n-Lightroom to 10.2.2 pro\n-injected with patch thanks @eth4dmin \n-photo editing app\n-works better then the satella version.\n\nMade by @moeotf\nDecrypted by anyipa.me need a cert? Dm @eth4dmin\nnew main channel linked below\nhttps://t.me/SultanModsiOS"
-        },
-        {
-          "version": "10.2.1",
-          "date": "2025-02-12",
-          "downloadURL": "https://repo.ethsign.fyi/09bb6a74-2736-49a8-9e25-87ce6aadf9b3/Lightroom10.2.1MoePro.ipa",
-          "size": 187125982,
-          "absoluteVersion": "10.2.1",
-          "localizedDescription": "Lightroom Unlocked 10.2.1 (Non Satella version)\n-Lightroom to 10.2.1 pro\n-injected with patch thanks @eth4dmin \n-photo editing app\n-works better then the satella version.\n\nMade by @moeotf\nDecrypted by anyipa.me need a cert? Dm @eth4dmin\nnew main channel linked below\nhttps://t.me/SultanModsiOS"
         }
       ]
     },
@@ -4038,14 +3424,6 @@
           "size": 175984294,
           "absoluteVersion": "2.9.17",
           "localizedDescription": "📱 Uplens: Photo & Video Editor\n\n🆔 Bundle ID: \napp.uplens\n📊 Version: 2.9.17\n👨‍💻 Developer: MPGames\n🏷 Category: Photo & Video\n🔧 Minimum iOS: 14.0\n\n💎 Modifier: Subscription Unlocked\n\n📝 Note: \nNo Additional Notes\n\n🔄 Tweaked by @blatants\n\nKo-Fi ☕️ | Crypto 👾 | IPAs 📥"
-        },
-        {
-          "version": "2.9.16",
-          "date": "2025-02-03",
-          "downloadURL": "https://repo.ethsign.fyi/8cee7e8e-e6e5-4c9e-8b46-c4a0285e0b21/Uplens_Photo_&_Video_Editor_v2_9_16_Subscription_Unlocked_blatant.ipa",
-          "size": 175980116,
-          "absoluteVersion": "2.9.16",
-          "localizedDescription": "📱 Uplens: Photo & Video Editor\n\n🆔 Bundle ID: \napp.uplens\n📊 Version: 2.9.16\n👨‍💻 Developer: MPGames\n🏷 Category: Photo & Video\n🔧 Minimum iOS: 14.0\n\n💎 Modifier: Subscription Unlocked\n\n📝 Note: \nNo Additional Notes\n\n🔄 Tweaked by @blatants\n\nKo-Fi ☕️ | Crypto 👾 | IPAs 📥"
         }
       ]
     },
@@ -4162,14 +3540,6 @@
           "size": 31740763,
           "absoluteVersion": "1.5",
           "localizedDescription": "-updated Keka to 1.5 (today's release)\n-one of the best apps for unzipping and compressing etc...\n-App store link \n-injected with keychainsideload fix\n-pluginfix already injected\n\nMade by @moeotf, decrypted by anyipa.me If you need a cert dm @eth4dmin"
-        },
-        {
-          "version": "1.4.1",
-          "date": "2024-12-10",
-          "downloadURL": "https://repo.ethsign.fyi/e30cbb82-0e01-4c11-8100-48366129c1f7/Keka1.4.1moe.ipa",
-          "size": 31656690,
-          "absoluteVersion": "1.4.1",
-          "localizedDescription": "-updated Keka to 1.4.1 \n-one of the best apps for unzipping and compressing etc...\n-i get a bunch of dms asking for this\n-App store link \n-injected with keychainsideload fix\n\nMade by @moeotf If you need a cert dm @eth4dmin"
         }
       ]
     },
@@ -4455,22 +3825,6 @@
           "size": 99543060,
           "absoluteVersion": "280.0",
           "localizedDescription": "Discord 280.0 | BoundTweak | NoTrack\n- Updated Discord to 280.0\n- Added BoundTweak (Revenge) v0.8.1\n- OpenDiscordSafari Extension\n- DiscordNoTrack\n- Revenge Discord channel link for themes and plugins \n- Patch Included\n\nMade by @YouGottaBillieve decrypted by @eeveedecrypterbot\nNew channel: https://t.me/ethMods\nEthMods Repo: https://repo.ethsign.fyi\nneed a cert dm @eth4dmin"
-        },
-        {
-          "version": "280.0",
-          "date": "2025-05-21",
-          "downloadURL": "https://repo.ethsign.fyi/42240567-9c0d-46db-9274-c7137f46eeab/Discord_v280-Revenge_v250-NoTrack-Billieve.ipa",
-          "size": 99686749,
-          "absoluteVersion": "280.0",
-          "localizedDescription": "Discord 280.0 | Revenge Tweak | NoTrack\n- Updated Discord to 280.0\n- Added Revenge v250.0\n- OpenDiscordSafari Extension\n- DiscordNoTrack\n- Revenge Discord channel link for themes and plugins \n- Patch Included\n\nMade by @YouGottaBillieve decrypted by @eeveedecrypterbot\nNew channel: https://t.me/ethMods\nEthMods Repo: https://repo.ethsign.fyi\nneed a cert dm @eth4dmin"
-        },
-        {
-          "version": "280.0",
-          "date": "2025-05-21",
-          "downloadURL": "https://repo.ethsign.fyi/2fc0a5d0-b9d4-4578-ad4c-d0d77dbbd781/Discord_v280-Bunny_0.8.1-NoTrack-Billieve.ipa",
-          "size": 99543877,
-          "absoluteVersion": "280.0",
-          "localizedDescription": "Discord 280.0 | Bunny Tweak | NoTrack\n- Updated Discord to 280.0\n- OpenDiscordSafari Extension\n- DiscordNoTrack\n- Vendetta Discord channel link for Bunny themes and plugins \n- Patch Included\n\nMade by @YouGottaBillieve decrypted by @eeveedecrypterbot\nNew channel: https://t.me/ethMods\nEthMods Repo: https://repo.ethsign.fyi\nneed a cert dm @eth4dmin"
         }
       ]
     },
@@ -4773,22 +4127,6 @@
           "size": 90256833,
           "absoluteVersion": "18.3.3",
           "localizedDescription": "- updated ProCamera to 18.3.3 PRO ($30 app and $70 IAP unlocked)\n-one of the best camera apps according to the appstore description\n- injected with pro everything \n-everything's unlocked including in app purchases\n-injected with keychain and sideload fix\n-Appstore link\n\n18.3.3 changelog\n\n[+] NEW DUOTONE FILTERS\n[+] CAPTURE 50,000 PHOTOS WITH PROTIMER\n[+] ADAPTIVE HDR SUPPORT\n\nMade by @moeotf decrypted by anyipa.me\nNeed a certificate? Contact @eth4dmin\nNew channel: https://t.me/ethMods\nEthMods Repo: https://repo.ethsign.fyi"
-        },
-        {
-          "version": "18.3.2",
-          "date": "2025-03-17",
-          "downloadURL": "https://repo.ethsign.fyi/99d584f9-c20e-4c29-bc71-90f39a993e51/ProCameraRAW18.3.2ProMoe.ipa",
-          "size": 79450612,
-          "absoluteVersion": "18.3.2",
-          "localizedDescription": "- updated ProCamera to 18.3.2 PRO ($30 app and $70 IAP unlocked)\n-one of the best camera apps according to the appstore description\n- injected with pro everything \n-everything's unlocked including in app purchases\n-injected with keychain and sideload fix\n-Appstore link\n\nMade by @moeotf decrypted by anyipa.me\nNeed a certificate? Contact @eth4dmin\nNew channel: https://t.me/ethMods\nEthMods Repo: https://repo.ethsign.fyi"
-        },
-        {
-          "version": "18.1.2",
-          "date": "2024-12-10",
-          "downloadURL": "https://repo.ethsign.fyi/f636c54c-dbd9-403d-a179-ebe1b53b55c0/ProCamera18.1.2promoe.ipa",
-          "size": 77560516,
-          "absoluteVersion": "18.1.2",
-          "localizedDescription": "- updated ProCamera to 18.1.2 PRO\n-one of the best camera apps according to the appstore description ($30 app)\n- injected with pro everything is unlocked including in app purchases\n-injected with keychain and sideload fix\n\nMade by @moeotf If you need a cert dm @eth4dmin"
         }
       ]
     },
@@ -4936,22 +4274,6 @@
           "size": 120157665,
           "absoluteVersion": "24.2.2",
           "localizedDescription": "Twitch Adfree 24.2\n- Updated Twitch to 24.2\n-updated adfree to 0.1.5 (settings are now displayed properly) \n- Video game streaming \n-added bundle id to fix missing text\n- adfree \n-Injected AdBlock by level3tjg\n-injected open in safari extension\n-fixed ads, there should be 0 ads. if you still have any, delete the old ipa and reinstall.\n\nMade by @moeotf, adfree tweak by level3tjg decrypted by anyipa.me\nNeed a certificate? Contact @eth4dmin\nNew channel: https://t.me/ethMods\nEthMods Repo: https://repo.ethsign.fyi"
-        },
-        {
-          "version": "24.2.2",
-          "date": "2025-04-29",
-          "downloadURL": "https://repo.ethsign.fyi/42a66e30-fe5a-406a-98b6-9e25b64863bf/Twitch.ipa",
-          "size": 129458382,
-          "absoluteVersion": "24.2.2",
-          "localizedDescription": "Twitch 24.2.2 | TwitchAdBlock 0.5.1\n- Updated Twitch to 24.2.2\n\nMade by @YouGottaBillieve decrypted by @eeveedecrypterbot\nNew channel: https://t.me/ethMods\nEthMods Repo: https://repo.ethsign.fyi\nneed a cert dm @eth4dmin"
-        },
-        {
-          "version": "24.1",
-          "date": "2025-04-21",
-          "downloadURL": "https://repo.ethsign.fyi/c4d81cbc-70d8-4a62-9f97-534fb11e9adc/Twitch_24.1_AdFree_Billieve.ipa",
-          "size": 134136860,
-          "absoluteVersion": "24.1",
-          "localizedDescription": "Twitch 24.1 | TwitchAdBlock 0.5.1\n- Updated Twitch to 24.1\n\nMade by @YouGottaBillieve decrypted by @eeveedecrypterbot\nNew channel: https://t.me/ethMods\nEthMods Repo: https://repo.ethsign.fyi\nneed a cert dm @eth4dmin"
         }
       ]
     },
@@ -5053,14 +4375,6 @@
           "size": 84400910,
           "absoluteVersion": "2.99.0",
           "localizedDescription": "Updated Trading View Pro to 2.99\nCracked with premium ($600 a year sub)\nDont touch the bundle id or it will crash. Updated dells version which seems to work better then the version above. Login, restart the app a couple of times and it should look like this CLICK HERE FOR SCREENSHOT\n-Appstore link\n-Best stock/Trade viewing app\n-Open app, login to any account, then restart the app once or twice it should look like this, you must be logged into an account\n-keychain injected to avoid crashing and crash fixes injected.\n-patched already\n\nUpdated and fixed crashing by @moeotf, crack by Dell, decrypted by anyipa.me, need a cert dm @eth4dmin or @sultanipas"
-        },
-        {
-          "version": "2.98.1",
-          "date": "2025-01-16",
-          "downloadURL": "https://repo.ethsign.fyi/e8924ced-31bf-4cbf-85da-e2cd4035e945/TradingViewProMoe2.98.1_patched.ipa",
-          "size": 75095923,
-          "absoluteVersion": "2.98.1",
-          "localizedDescription": "Updated Trading View Pro to 2.98.1\nCracked with plus ($160 a year sub)\n-Appstore link\n-Best stock/Trade viewing app\n-Open app, login to any account, then restart the app once or twice it should look like this, you must be logged into an account\n-to make the frogs go away just double click on them.\n-keychain injected to avoid crashing and crash fixes injected.\n-patched already\n\nUpdated and fixed crashing by @moeotf, crack by ipaomtk, decrypted by anyipa.me, need a cert dm @eth4dmin or @sultanipas"
         }
       ]
     },
@@ -5408,14 +4722,6 @@
           "size": 334207512,
           "absoluteVersion": "4.1.80",
           "localizedDescription": "iScreen - Widgets & Themes 4.1.80\n- iScreen - Widgets & Themes 4.1.80\n- Widgets & Themes App\n- Info: Subscription Unlocked\n- To make the widget work with the cert you need to have the AppGroups entitlement configured in your cert. You can check this using this app\n\nMade by ethTeam\nCrack by @VAXMG\nNeed a cert that works with widget apps and has lots of entitlements? Dm @eth4dmin\nNew Main Channel: https://t.me/SultanModsiOS"
-        },
-        {
-          "version": "4.1.80",
-          "date": "2025-02-12",
-          "downloadURL": "https://repo.ethsign.fyi/e42af559-bb57-44fc-9699-065bcd6a117d/iScreen_Widgets_&_Themes_v4_1_80_Subscription_Unlocked_blatant.ipa",
-          "size": 323712814,
-          "absoluteVersion": "4.1.80",
-          "localizedDescription": "📱 iScreen - Widgets & Themes\n\n🆔 Bundle ID: \ncom.zerone.hidesktop\n📊 Version: 4.1.80\n👨‍💻 Developer: Xiamen iScreen Information Technology Co., Ltd.\n🏷 Category: Graphics & Design\n🔧 Minimum iOS: 14.0\n\n💎 Modifier: Subscription Unlocked\n\n📝 Note: \nTo make widgets work with certificates > Read.\n\n🔄 Tweaked by @blatants\n\nKo-Fi ☕️ | Crypto 👾 | IPAs 📥"
         }
       ]
     },
@@ -5501,22 +4807,6 @@
           "size": 119498431,
           "absoluteVersion": "14.7.5",
           "localizedDescription": "📱 Truecaller: Number & Caller ID\n\n🆔 Bundle ID: \ncom.truesoftware.TrueCallerOther\n📊 Version: 14.7\n👨‍💻 Developer: True Software Scandinavia AB\n🏷 Category: Utilities\n🔧 Minimum iOS: 16.0\n\n💎 Modifier: Gold Unlocked\n\n📝 Note: \nTo make it work with certificates > Read.\n\n🔄 Tweaked by @blatants\n\nKo-Fi ☕️ | Crypto 👾 | IPAs 📥"
-        },
-        {
-          "version": "14.6.5",
-          "date": "2025-03-03",
-          "downloadURL": "https://repo.ethsign.fyi/bfec8f50-b46e-49fe-b13f-cf5b2b9803c1/Truecaller_Number_&_Caller_ID_v14_6_Gold_Unlocked_blatant.ipa",
-          "size": 122156261,
-          "absoluteVersion": "14.6.5",
-          "localizedDescription": "📱 Truecaller: Number & Caller ID\n\n🆔 Bundle ID: \ncom.truesoftware.TrueCallerOther\n📊 Version: 14.6\n👨‍💻 Developer: True Software Scandinavia AB\n🏷 Category: Utilities\n🔧 Minimum iOS: 16.0\n\n💎 Modifier: Gold Unlocked\n\n📝 Note: \nTo make it work with certificates > Read.\n\n🔄 Tweaked by @blatants\n\nKo-Fi ☕️ | Crypto 👾 | IPAs 📥"
-        },
-        {
-          "version": "14.5.6",
-          "date": "2025-02-24",
-          "downloadURL": "https://repo.ethsign.fyi/b4525a4a-273f-4617-965d-ff31f6655bd7/Truecaller_Number_&_Caller_ID_v14_5_Gold_Unlocked_blatant.ipa",
-          "size": 122010962,
-          "absoluteVersion": "14.5.6",
-          "localizedDescription": "📱 Truecaller: Number & Caller ID\n\n🆔 Bundle ID: \ncom.truesoftware.TrueCallerOther\n📊 Version: 14.5\n👨‍💻 Developer: True Software Scandinavia AB\n🏷 Category: Utilities\n🔧 Minimum iOS: 16.0\n\n💎 Modifier: Gold Unlocked\n\n📝 Note: \nTo make it work with certificates > Read.\n\n🔄 Tweaked by @blatants\n\nKo-Fi ☕️ | Crypto 👾 | IPAs 📥"
         }
       ]
     },
@@ -5556,14 +4846,6 @@
           "size": 103410705,
           "absoluteVersion": "2.9.5",
           "localizedDescription": "📱 Dazz Cam - Vintage Camera\n\n🆔 Bundle ID: \ndazz.camera.vintagecamera\n📊 Version: 2.9.5\n👨‍💻 Developer: DAZZ PTE. LTD.\n🏷 Category: Photo & Video\n🔧 Minimum iOS: 15.0\n\n💎 Modifier: Dazz Pro\n\n📝 Note: \nNo Additional Notes\n\n🔄 Tweaked by @blatants\n\nKo-Fi ☕ | AppStore 📱 | IPAs 📥"
-        },
-        {
-          "version": "2.9.4",
-          "date": "2025-01-24",
-          "downloadURL": "https://repo.ethsign.fyi/a221c299-a93c-4fe4-be8d-f22b28b547d4/DazzCamera%20v2.9.4%20Dazz%20Pro%20blatant.ipa",
-          "size": 103406058,
-          "absoluteVersion": "2.9.4",
-          "localizedDescription": "📱 Dazz Cam - Vintage Camera\n\n🆔 Bundle ID: \ndazz.camera.vintagecamera\n📊 Version: 2.9.4\n👨‍💻 Developer: DAZZ PTE. LTD.\n🏷 Category: Photo & Video\n🔧 Minimum iOS: 15.0\n\n💎 Modifier: Dazz Pro\n\n📝 Note: \nNo Additional Notes\n\n🔄 Tweaked by @blatants\n\nKo-Fi ☕ | AppStore 📱 | IPAs 📥"
         }
       ]
     },
@@ -5834,22 +5116,6 @@
           "size": 68064212,
           "absoluteVersion": "5.5.3",
           "localizedDescription": "SpeedTest 5.5.3\n- SpeedTest 5.5.3\n- Check Your Internet Speed\n- Info: Premium Unlocked\n- Login, close the app, then open \nit again | Premium Unlocked\n- VPN Requires Paid Cert with VPN Entitlement or TrollStore\n\nMade by ethTeam\nCrack by @VAXMG\nNeed a cert? Message @eth4dmin"
-        },
-        {
-          "version": "5.5.2",
-          "date": "2024-12-12",
-          "downloadURL": "https://repo.ethsign.fyi/2fe13470-6fef-45b5-a601-65555e03e8ed/com.ookla.speedtest-5.5.2.ipa",
-          "size": 64183366,
-          "absoluteVersion": "5.5.2",
-          "localizedDescription": "SpeedTest 5.5.2\n- SpeedTest 5.5.2\n- Check Your Internet Speed\n- Info: Premium Unlocked\n- Login, close the app, then open \nit again | Premium Unlocked\n- VPN Requires Paid Cert with VPN Entitlement or TrollStore\n- PluginsInject added\n\nMade by ethTeam\nCrack by @VAXMG"
-        },
-        {
-          "version": "5.5.1",
-          "date": "2024-12-11",
-          "downloadURL": "https://repo.ethsign.fyi/f77d1af6-749a-44e8-9359-474d9eba412c/com.ookla.speedtest-5.5.1.ipa",
-          "size": 64183029,
-          "absoluteVersion": "5.5.1",
-          "localizedDescription": "SpeedTest 5.5.1\n- SpeedTest 5.5.1\n- Check Your Internet Speed\n- Info: Premium Unlocked\n- Login, close the app, then open \nit again | Premium Unlocked\n- VPN Requires Paid Cert with VPN Entitlement or TrollStore\n- PluginsInject added\n\nMade by ethTeam\nCrack by @VAXMG"
         }
       ]
     },
@@ -5912,22 +5178,6 @@
           "size": 40614079,
           "absoluteVersion": "2.2.7",
           "localizedDescription": "Salatuk 2.2.7\n- Salatuk 2.2.7\n- Muslim Prayer Companion\n- Paid App $3.99\n\nDecrypted by @SultanIPAS\nNeed a cert? Contact @SultanIPAS or @eth4dmin"
-        },
-        {
-          "version": "2.2.7",
-          "date": "2024-12-09",
-          "downloadURL": "https://repo.ethsign.fyi/55e2e873-453b-4ce4-b3c9-3005f5b5a2f7/com.masaratapp.salatuk-2.2.7-75866.ipa",
-          "size": 40498505,
-          "absoluteVersion": "2.2.7",
-          "localizedDescription": "Salatuk 2.2.7\n- Salatuk 2.2.7\n- Muslim Prayer Companion\n- Paid App $3.99\n\nDecrypted by ethTeam"
-        },
-        {
-          "version": "2.2.6",
-          "date": "2024-11-27",
-          "downloadURL": "https://repo.ethsign.fyi/8eb534cf-fe91-4d59-a99e-dfb16ec25b52/Salatuk-2.2.6.ipa",
-          "size": 51879482,
-          "absoluteVersion": "2.2.6",
-          "localizedDescription": "Salatuk 2.2.6\n- Salatuk 2.2.6\n- Muslim Prayer Companion\n- Paid App $3.99\n\nDecrypted by @SultanModsIPAs"
         }
       ]
     },
@@ -5998,22 +5248,6 @@
           "size": 118158780,
           "absoluteVersion": "1.85.0",
           "localizedDescription": "- updated walli pro to 1.85.0 \n- injected with pro (might bring up a trial popup when first opening, ignore it you can see it's pro under the settings and once you close and open it again)\n-injected with keychain and sideload fix\n\nMade by @moeotf decrypted by anyipa.me and if you need a cert dm @eth4dmin or @sultanipas"
-        },
-        {
-          "version": "1.84.0",
-          "date": "2025-01-13",
-          "downloadURL": "https://repo.ethsign.fyi/a7264797-70d9-4e5a-b254-16dbd74ab02d/Walli1.84.0ProMoe.ipa",
-          "size": 73998690,
-          "absoluteVersion": "1.84.0",
-          "localizedDescription": "- updated walli pro to 1.84\n- injected with pro (might bring up a trial popup when first opening, ignore it you can see it's pro under the settings and once you close and open it again)\n-injected with keychain and sideload fix\n\nMade by @moeotf decrypted by anyipa.me and if you need a cert dm @eth4dmin"
-        },
-        {
-          "version": "1.83.0",
-          "date": "2025-01-10",
-          "downloadURL": "https://repo.ethsign.fyi/3428b164-bca5-44a0-8b1c-8fb44a54e2a3/Walli1.83.0ProMoe.ipa",
-          "size": 74035947,
-          "absoluteVersion": "1.83.0",
-          "localizedDescription": "- updated walli pro to 1.83\n- injected with pro (might bring up a trial popup when first opening, ignore it you can see it's pro under the settings and once you close and open it again)\n-injected with keychain and sideload fix\n\nMade by @moeotf decrypted by anyipa.me and if you need a cert dm @eth4dmin or @sultanipas"
         }
       ]
     },
@@ -6214,22 +5448,6 @@
           "size": 136579520,
           "absoluteVersion": "2025.07.1",
           "localizedDescription": "RedditDeluxe 2025.07.1\n- Reddit 2025.07.1\n- RedditFilter updated to 1.1.7\n- RedditCache\n- RedditCacheCleaner\n- RedditUndoScrollUp\n- ColorComments\n- Patch already included\n\n- Posted by @moeotf, decrypted by anyipa.me Need a certificate? Contact @eth4dmin or @Sultanipas.\nNew channel: https://t.me/SultanModsiOS\nSultanMods Repo: https://repo.ethsign.fyi"
-        },
-        {
-          "version": "2025.07.0",
-          "date": "2025-02-20",
-          "downloadURL": "https://repo.ethsign.fyi/f92da73b-95a6-4479-b272-c0fc253caad9/RedditDeluxe_2025.07.0_Jacks_Apps.ipa",
-          "size": 135779300,
-          "absoluteVersion": "2025.07.0",
-          "localizedDescription": "RedditDeluxe 2025.07.0\n- Reddit 2025.07.0\n- RedditFilter \n- RedditCache\n- RedditCacheCleaner\n- RedditUndoScrollUp\n- ColorComments\n- Patch already included\n\nMade by @Jacks_Apps\nIf you need a certificate DM @eth4dmin"
-        },
-        {
-          "version": "2025.06.0",
-          "date": "2025-02-12",
-          "downloadURL": "https://repo.ethsign.fyi/d80326c0-ac25-48c9-9978-c2d830c6f466/RedditDeluxe_2025.06.0_Jacks_Apps.ipa",
-          "size": 136256408,
-          "absoluteVersion": "2025.06.0",
-          "localizedDescription": "RedditDeluxe 2025.06.0\n- Reddit 2025.06.0\n- RedditFilter \n- RedditCache\n- RedditCacheCleaner\n- RedditUndoScrollUp\n- ColorComments\n- Patch already included\n\nMade by @Jacks_Apps\nDecrypted by @eeveedecrypterbot"
         }
       ]
     },
@@ -6292,14 +5510,6 @@
           "size": 23311057,
           "absoluteVersion": "9.8.0",
           "localizedDescription": "📱 Free Your Music Move Playlists\n\n🆔 Bundle ID: \nio.stampapp.Stamp\n📊 Version: 9.8.0\n👨‍💻 Developer: Hernas OÜ\n🏷 Category: Music\n🔧 Minimum iOS: 15.5\n\n💎 Modifier: Subscription Unlocked\n\n📝 Note: \nNo Additional Notes\n\n🔄 Tweaked by @blatants\n\nKo-Fi ☕ | AppStore 📱 | IPAs 📥"
-        },
-        {
-          "version": "9.4.0",
-          "date": "2024-12-01",
-          "downloadURL": "https://repo.ethsign.fyi/7b58e9d8-4e27-4a3b-8987-38e7c66cca3c/FreeYourMusicv9.4.0Proaddedsideloadfixforbot.ipa",
-          "size": 23475231,
-          "absoluteVersion": "9.4.0",
-          "localizedDescription": "Free your music 9.4.0 pro\n- Transfer unlimited songs, playlists and albums between 20+ music services.\nAuto-sync all playlists / albums every 15 minutes!\nUse across all your devices (mobile and desktop).\nBackup your playlists in the cloud.\nSee your most-played songs, artists and albums on Spotify, Apple Music, YouTube Music and other.\n-injected with keychain sideload fix \nCompiledby @moeotf cracked by blatant"
         }
       ]
     },
@@ -6655,22 +5865,6 @@
           "size": 213256461,
           "absoluteVersion": "34.00.1",
           "localizedDescription": "Fortnite v34.00.1\n\n🇷🇺Легендарная мультиплеерная игра снова на iOS\n— Приложение из маркета Epic Games\n— Работает на сертификате GLESign\n— Добавлен полноэкранный режим для устройств на macOS\n— Требуется iOS 16+\n© Создано: GLESign\n\n🇺🇸The legendary multiplayer game is back on iOS\n— An application from the Epic Games market\n— It works on the GLESign certificate\n— Added full-screen mode for macOS devices\n— Requires iOS 16+\n© Created by: GLESign"
-        },
-        {
-          "version": "34.00",
-          "date": "2025-02-21",
-          "downloadURL": "https://repo.ethsign.fyi/e678ffcf-3dd9-4eb6-a6f3-52989b7342e1/Fortnite%20v34.00%5Btg@glesign%5D.ipa",
-          "size": 219315014,
-          "absoluteVersion": "34.00",
-          "localizedDescription": "Fortnite v34.00\n\n🇷🇺Легендарная мультиплеерная игра снова на iOS\n— Приложение из маркета Epic Games\n— Работает на сертификате GLESign\n— Добавлен полноэкранный режим для устройств на macOS\n— Требуется iOS 16+\n© Создано: GLESign\n\n🇺🇸The legendary multiplayer game is back on iOS\n— An application from the Epic Games market\n— It works on the GLESign certificate\n— Added full-screen mode for macOS devices\n— Requires iOS 16+\n© Created by: GLESign"
-        },
-        {
-          "version": "33.20.1",
-          "date": "2025-01-23",
-          "downloadURL": "https://repo.ethsign.fyi/0546bdd7-7475-4385-a074-b7f00cb7cbb2/Fortnite%20v33.20.1%5Btg@glesign%5D.ipa",
-          "size": 211243630,
-          "absoluteVersion": "33.20.1",
-          "localizedDescription": "Fortnite v33.20.1\n\n🇷🇺Легендарная мультиплеерная игра снова на iOS\n— Приложение из маркета Epic Games\n— Работает на сертификате GLESign\n— Добавлен полноэкранный режим для устройств на macOS\n— Требуется iOS 16+\n© Создано: GLESign\n\n🇺🇸The legendary multiplayer game is back on iOS\n— An application from the Epic Games market\n— It works on the GLESign certificate\n— Added full-screen mode for macOS devices\n— Requires iOS 16+\n© Created by: GLESign"
         }
       ]
     },
@@ -6710,22 +5904,6 @@
           "size": 64969175,
           "absoluteVersion": "7.6.3",
           "localizedDescription": "Genie 7.63 pro\nLast working version of genie workout the prompt issue. Use this version not 7.7.0 to avoid high traffic issues.\n\n-Chatgpt\n-Gpt-4O pro\n-Gemini 1.5\n-Claude\n-deepseek\n\nCompiled by @moeotf, cracked by @blatants \ndecrypted by anyipa.me\nNeed a certificate? Contact @eth4dmin\nNew channel: https://t.me/ethMods\nEthMods Repo: https://repo.ethsign.fyi"
-        },
-        {
-          "version": "7.6.3",
-          "date": "2025-01-14",
-          "downloadURL": "https://repo.ethsign.fyi/b910b17a-1565-4fba-86f6-d9395926a5ef/Geniev7.6.3Pro.ipa",
-          "size": 63894580,
-          "absoluteVersion": "7.6.3",
-          "localizedDescription": "Genie AI 7.6.3 PRO\n- GENIE AI to 7.6.3\n-AI app gpt 4, krok other models etc...\n- already injected with the plugin fix\n- updated app, and injected keychain fix and sideload fix made by @moeotf decrypted by anyipa.me, crack by blatant,need a cert? Dm @eth4dmin or @sultanipas"
-        },
-        {
-          "version": "7.6.2",
-          "date": "2025-01-12",
-          "downloadURL": "https://repo.ethsign.fyi/7bc6dec7-3a6a-4c9f-ad5a-7038411620c3/Geniechat7.6.2ProMoe.ipa",
-          "size": 62891207,
-          "absoluteVersion": "7.6.2",
-          "localizedDescription": "Genie AI 7.6.2 PRO\n- GENIE AI to 7.6.2\n-AI app gpt 4, krok other models etc...\n- already injected with the plugin fix\n- updated app, and injected keychain fix and sideload fix made by @moeotf decrypted by anyipa.me, need a cert? Dm @eth4dmin or @sultanipas"
         }
       ]
     },
@@ -7504,22 +6682,6 @@
           "size": 93911812,
           "absoluteVersion": "1.4.10",
           "localizedDescription": "Noteful Pro 1.4.10\n- Noteful 1.4.10\n- Note taking app\n- Info: Pro Unlocked \n\nMade by ethTeam \nCrack by @VAXMG"
-        },
-        {
-          "version": "1.4.9",
-          "date": "2024-12-14",
-          "downloadURL": "https://repo.ethsign.fyi/fcbd2e9c-dc3c-4845-b721-70ef1e3ccdf0/com.noteful-technologies.noteful-1.4.9.ipa",
-          "size": 93893997,
-          "absoluteVersion": "1.4.9",
-          "localizedDescription": "Noteful Pro 1.4.9\n- Noteful 1.4.9\n- Note taking app\n- Info: Pro Unlocked \n\nMade by ethTeam \nCrack by @VAXMG"
-        },
-        {
-          "version": "1.4.8",
-          "date": "2024-11-30",
-          "downloadURL": "https://repo.ethsign.fyi/61168a6e-736e-4274-bffd-eb7913c09580/Noteful-1.4.8Pro-SultanMods.ipa",
-          "size": 86626119,
-          "absoluteVersion": "1.4.8",
-          "localizedDescription": "Noteful Pro 1.4.8\n- Noteful 1.4.8\n- Note taking app\n- Info: Pro Unlocked \n\nMade by ethTeam \nCrack by @VAXMG"
         }
       ]
     },
@@ -7582,22 +6744,6 @@
           "size": 42449703,
           "absoluteVersion": "5.7",
           "localizedDescription": "Unzip 5.7 pro\n-updated Unzip to 5.7 PRO\n-Keychain fix included\nBasically like 7-zip on windows or any unarchive utility etc..\n\nMade by @moeotf decrypted by anyipa.me need a cert dm @eth4dmin"
-        },
-        {
-          "version": "5.6",
-          "date": "2025-01-08",
-          "downloadURL": "https://repo.ethsign.fyi/56b40de0-070c-4382-81f8-232a523f5ea4/Unzip5.6ProMoe.ipa",
-          "size": 42517028,
-          "absoluteVersion": "5.6",
-          "localizedDescription": "Unzip 5.6 pro\n-updated Unzip to 5.6 PRO\n-Keychain fix included\nBasically like 7-zip on windows or any unarchive utility etc..\n\nMade by @moeotf decrypted by anyipa.me need a cert dm @eth4dmin or @sultanipas"
-        },
-        {
-          "version": "5.5",
-          "date": "2024-12-12",
-          "downloadURL": "https://repo.ethsign.fyi/c2bc887c-28e2-41a8-945f-ce5fe653c01b/Unzip5.5promoe.ipa",
-          "size": 42516749,
-          "absoluteVersion": "5.5",
-          "localizedDescription": "Unzip 5.5 pro\n-updated Unzip to 5.5 PRO\n-Keychain fix included\nBasically like 7-zip on windows or an archive utility\n\nMade by @moeotf decrypted by anyipa.me need a cert dm @eth4dmin"
         }
       ]
     },
@@ -7830,22 +6976,6 @@
           "size": 42853236,
           "absoluteVersion": "1192.0",
           "localizedDescription": "FotMob Pro 1192.0\n- FotMob 1192.0\n- Track European football\n- Info: Pro Unlocked\n\nMade by @SultanIPAS\nNeed a cert? Contact @SultanIPAS or @eth4dmin"
-        },
-        {
-          "version": "1191.0",
-          "date": "2025-01-07",
-          "downloadURL": "https://repo.ethsign.fyi/4a73ba94-7763-452c-9d82-49d06efff2f3/com.mobilefootie.fotmobpro-1191.0-78428_patched_nofix.ipa",
-          "size": 41926632,
-          "absoluteVersion": "1191.0",
-          "localizedDescription": "FotMob Pro 1191.0\n- FotMob 1191.0\n- Track European football\n- Info: Pro Unlocked\n\nMade by @SultanIPAs\nNeed a cert? Contact @SultanIPAS"
-        },
-        {
-          "version": "1190.0",
-          "date": "2025-01-03",
-          "downloadURL": "https://repo.ethsign.fyi/0be4dd43-202e-436b-97db-cfd3f0692eb4/com.mobilefootie.fotmobpro-1190.0-78428_patched_nofix.ipa",
-          "size": 41920696,
-          "absoluteVersion": "1190.0",
-          "localizedDescription": "FotMob Pro 1190.0\n- FotMob 1190.0\n- Track European football\n- Info: Pro Unlocked\n\nMade by @SultanIPAs\nNeed a cert? Message @Sultanipas to purchase"
         }
       ]
     },
@@ -8100,22 +7230,6 @@
           "size": 119824531,
           "absoluteVersion": "6.2.13",
           "localizedDescription": "Alight Motion 6.2.13\n- Alight Motion 6.2.13\n- Video Editing App\n- Info: Subscription Unlocked\n- Login To Activate Subscription\n\nMade by ethTeam\nCrack by @VAXMG\nNeed a cert? Dm @eth4dmin or @SultanIPAs"
-        },
-        {
-          "version": "6.2.11",
-          "date": "2025-01-22",
-          "downloadURL": "https://repo.ethsign.fyi/b0b2fcc3-6bec-4d0c-b408-09d86ed8a33c/com.alightcreative.motion-6.2.11.ipa",
-          "size": 118873620,
-          "absoluteVersion": "6.2.11",
-          "localizedDescription": "Alight Motion 6.2.11\n- Alight Motion 6.2.11\n- Video Editing App\n- Info: Subscription Unlocked\n- Login To Activate Subscription\n\nMade by ethTeam\nCrack by @VAXMG\nNeed a cert? Message @eth4dmin or @SultanIPAs"
-        },
-        {
-          "version": "6.2.10",
-          "date": "2024-12-03",
-          "downloadURL": "https://repo.ethsign.fyi/0ff9a6a2-33ce-46a7-9e4d-0e0d784017bb/com.alightcreative.motion-6.2.10.ipa",
-          "size": 119385696,
-          "absoluteVersion": "6.2.10",
-          "localizedDescription": "Alight Motion 6.2.10\n- Alight Motion 6.2.10\n- Video Editing App\n- Info: Subscription Unlocked\n- Login To Activate The Subscription\n\nMade by @eth4dmin\nCrack by @VAXMG"
         }
       ]
     },
@@ -8877,14 +7991,6 @@
           "size": 126774976,
           "absoluteVersion": "13.6.11",
           "localizedDescription": "SnowAi VIP 13.6.11\n- SnowAI 13.6.11\n- AI Beauty Camera App\n- Info: VIP Unlocked\n\nMade by ethTeam\nCrack by @VAXMG\nNeed a cert? Dm @SultanIPAs"
-        },
-        {
-          "version": "13.5.10",
-          "date": "2024-12-07",
-          "downloadURL": "https://repo.ethsign.fyi/5c60d782-0ea3-4027-b3c6-fc33ef8ba3a9/com.campmobile.snow-13.5.10.ipa",
-          "size": 127730589,
-          "absoluteVersion": "13.5.10",
-          "localizedDescription": "SnowAi VIP 13.5.10\n- SnowAI 13.5.10\n- AI Beauty Camera App\n- Info: VIP Unlocked\n\nMade by ethTeam\nCrack by @VAXMG"
         }
       ]
     },
@@ -9323,14 +8429,6 @@
           "size": 320978533,
           "absoluteVersion": "11.2.4",
           "localizedDescription": "Logo Maker Pro 11.2.4\n- Logo Maker 11.2.4\n- Design Logos\n- Info: Pro unlocked\n\nMade by ethTeam\nCrack by @VAXMG\nNeed a cert? Message @eth4dmin"
-        },
-        {
-          "version": "11.2.3",
-          "date": "2024-12-01",
-          "downloadURL": "https://repo.ethsign.fyi/c11ae628-80b4-4604-8e84-0a6e63f68c91/com.contentarcade.LogoMaker-11.2.3.ipa",
-          "size": 252699049,
-          "absoluteVersion": "11.2.3",
-          "localizedDescription": "Logo Maker Pro 11.2.3\n- Logo Maker 11.2.3\n- Design Logos\n- Info: Pro unlocked\n\nMade by ethTeam\nCrack by @VAXMG"
         }
       ]
     },
@@ -9416,14 +8514,6 @@
           "size": 301147659,
           "absoluteVersion": "1.9.3",
           "localizedDescription": "Fasting Pro 1.9.3\n- Fasting 1.9.3\n- Track your Fasting goals\n- Info: Premium Unlocked\n- Widget Require AppGroup Entitlement\n \nMade by ethTeam\nCrack by @VAXMG\nNeed a cert? Message @eth4dmin"
-        },
-        {
-          "version": "1.9.1",
-          "date": "2024-12-04",
-          "downloadURL": "https://repo.ethsign.fyi/ea225dda-950c-4c31-bc06-4864512a3e0b/Fasting-1.9.1Pro-SultanMods.ipa",
-          "size": 319869915,
-          "absoluteVersion": "1.9.1",
-          "localizedDescription": "Fasting Pro 1.9.1\n- Fasting 1.9.1\n- Track your Fasting goals\n- Info: Premium Unlocked\n\nMade by ethTeam\nCrack by @VAXMG"
         }
       ]
     },
@@ -9577,14 +8667,6 @@
           "date": "2025-01-08",
           "downloadURL": "https://repo.ethsign.fyi/7e14d292-6e8f-42f3-aac2-e82a0719d372/Egern-1.27.0-SultanMods.ipa",
           "size": 18667810,
-          "absoluteVersion": "1.27.0",
-          "localizedDescription": "Egern 1.27.0\n- Egern 1.27.0\n- VPN to hack apps\n- Paid App $4.99\n- Egern Scripts\n\n⚠️TrollStore Only & iOS 16 min⚠️\n\nDecrypted by Anon"
-        },
-        {
-          "version": "1.27.0",
-          "date": "2024-12-10",
-          "downloadURL": "https://repo.ethsign.fyi/3d3fca0a-0ffd-493f-bd06-e36689d4df68/com.bytecrossing.Egern-1.27.0-75969_patched_nofix.ipa",
-          "size": 18684334,
           "absoluteVersion": "1.27.0",
           "localizedDescription": "Egern 1.27.0\n- Egern 1.27.0\n- VPN to hack apps\n- Paid App $4.99\n- Egern Scripts\n\n⚠️TrollStore Only & iOS 16 min⚠️\n\nDecrypted by Anon"
         }
