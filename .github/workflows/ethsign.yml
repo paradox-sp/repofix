@@ -31,9 +31,9 @@ jobs:
       - name: Fetch and Convert JSON
         run: |
           cat <<EOF > convert.py
-import json, requests, re
-from datetime import datetime
-from collections import defaultdict
+          import json, requests, re
+          from datetime import datetime
+          from collections import defaultdict
 
 def parse_date(date_str):
     try:
