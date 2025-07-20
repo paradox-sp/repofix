@@ -2,7 +2,7 @@ name: EthSign to SideStore Converter
 
 on:
   schedule:
-    - cron: '0 0 * * *'  # Daily at midnight UTC
+    - cron: '50 0 * * *'  # Daily at midnight UTC
   workflow_dispatch:
 
 jobs:
