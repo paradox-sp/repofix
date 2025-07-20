@@ -146,7 +146,6 @@
 #           git commit -m "Auto-convert EthSign repo to AltStore format full + 3 split parts" || echo "No changes to commit"
 #           git push
 
-
 name: Fetch and Convert EthSign Repo to AltStore Format
 
 on:
@@ -167,10 +166,10 @@ jobs:
         uses: actions/setup-python@v4
         with:
           python-version: '3.10'
-          cache: 'pip'
 
       - name: Install dependencies
-        run: pip install requests packaging pyyaml
+        run: |
+          pip install requests packaging pyyaml
 
       - name: Fetch and convert EthSign repo
         run: |
