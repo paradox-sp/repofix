@@ -1,1 +1,2686 @@
-
+{
+  "identifier": "ethmod.paradoxtime.tk",
+  "iconURL": "https://paradoxtime.tk/img/pdt_logo_nobg_shadow.png",
+  "subtitle": "From EthSign repo, fixed for AltStore/SideStore",
+  "description": "ParadoxTime Repo \u2014 fetches IPAs from EthSign repo and fixes json format for altstore.",
+  "apps": [
+    {
+      "name": "B612",
+      "developerName": "ethMods",
+      "bundleIdentifier": "com.linecorp.b612",
+      "localizedDescription": "B612 Unlocked 14.0.16\n- B612 14.0.16\n- Camera App\n- Info: VIP Unlocked \n\nMade by ethTeam\nCrack by @VAXMG\nNeed a cert? Message @eth4dmin\nNew Main Channel: https://t.me/SultanModsiOS",
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/74/54/2c/74542ca8-6df2-bea5-0a55-6c25321fe436/AppIcon-0-0-1x_U007epad-0-1-0-sRGB-85-220.png/512x512bb.jpg",
+      "versions": [
+        {
+          "version": "14.0.16",
+          "date": "2025-02-19",
+          "size": 129233864,
+          "downloadURL": "https://repo.ethsign.fyi/305b0571-912c-4c6e-861e-e3410b3eb8d0/com.linecorp.b612-14.0.16.ipa",
+          "localizedDescription": "B612 Unlocked 14.0.16\n- B612 14.0.16\n- Camera App\n- Info: VIP Unlocked \n\nMade by ethTeam\nCrack by @VAXMG\nNeed a cert? Message @eth4dmin\nNew Main Channel: https://t.me/SultanModsiOS"
+        },
+        {
+          "version": "13.6.11",
+          "date": "2025-01-09",
+          "size": 127054959,
+          "downloadURL": "https://repo.ethsign.fyi/12b2e2f0-528a-4971-b686-b6cced372d4e/com.linecorp.b612-13.6.11.ipa",
+          "localizedDescription": "B612 Unlocked 13.6.11\n- B612 13.6.11\n- Camera App\n- Info: VIP Unlocked \n\nMade by ethTeam\nCrack by @VAXMG"
+        },
+        {
+          "version": "13.5.10",
+          "date": "2024-12-05",
+          "size": 127816070,
+          "downloadURL": "https://repo.ethsign.fyi/dfce1f4a-65fa-411d-8c9a-c12f17a43066/com.linecorp.b612-13.5.10.ipa",
+          "localizedDescription": "B612 Unlocked 13.5.10\n- B612 13.5.10\n- Camera App\n- Info: VIP Unlocked \n\nMade by ethTeam\nCrack by @VAXMG"
+        }
+      ],
+      "appPermissions": {
+        "entitlements": [],
+        "privacy": {}
+      }
+    },
+    {
+      "name": "The Escapists 2: Pocket Breakout",
+      "developerName": "ethMods",
+      "bundleIdentifier": "com.Team17.TheEscapists2",
+      "localizedDescription": "The Escapists 2: Pocket Breakout v1.10.635486\n\n\ud83c\uddf7\ud83c\uddfa The Escapists 2: Pocket Breakout \u2014 \u0441\u043f\u043b\u0430\u043d\u0438\u0440\u0443\u0439\u0442\u0435 \u043f\u043e\u0431\u0435\u0433 \u0438\u0437 \u0440\u0430\u0437\u043b\u0438\u0447\u043d\u044b\u0445 \u0442\u044e\u0440\u0435\u043c, \u0438\u0441\u043f\u043e\u043b\u044c\u0437\u0443\u044f \u043a\u0440\u0430\u0444\u0442, \u0441\u043a\u0440\u044b\u0442\u043d\u043e\u0441\u0442\u044c \u0438 \u0441\u043c\u0435\u043a\u0430\u043b\u043a\u0443.  \n\u2014 \u041f\u043b\u0430\u0442\u043d\u043e\u0435 \u043f\u0440\u0438\u043b\u043e\u0436\u0435\u043d\u0438\u0435 \u0438\u0437 AppStore  \n\u00a9 \u0421\u043e\u0437\u0434\u0430\u043d\u043e: GLESign\n\n\ud83c\uddfa\ud83c\uddf8 The Escapists 2: Pocket Breakout challenges you to plan escapes from multiple prisons using crafting, stealth, and wit.  \n\u2014 Paid app from the App Store  \n\u00a9 Created: GLESign",
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple113/v4/a5/17/fe/a517fe3f-20e2-5acb-cba9-eab4d604cf16/AppIcon-0-1x_U007emarketing-0-0-GLES2_U002c0-512MB-sRGB-0-0-0-85-220-0-0-0-6.png/512x512bb.jpg",
+      "versions": [
+        {
+          "version": "1.10.635486",
+          "date": "2025-02-19",
+          "size": 617906814,
+          "downloadURL": "https://repo.ethsign.fyi/afd4db20-385d-4660-a325-0ffbb752df2c/The%20Escapists%202%20v1.10.635486%5Btg@glesign%5D.ipa",
+          "localizedDescription": "The Escapists 2: Pocket Breakout v1.10.635486\n\n\ud83c\uddf7\ud83c\uddfa The Escapists 2: Pocket Breakout \u2014 \u0441\u043f\u043b\u0430\u043d\u0438\u0440\u0443\u0439\u0442\u0435 \u043f\u043e\u0431\u0435\u0433 \u0438\u0437 \u0440\u0430\u0437\u043b\u0438\u0447\u043d\u044b\u0445 \u0442\u044e\u0440\u0435\u043c, \u0438\u0441\u043f\u043e\u043b\u044c\u0437\u0443\u044f \u043a\u0440\u0430\u0444\u0442, \u0441\u043a\u0440\u044b\u0442\u043d\u043e\u0441\u0442\u044c \u0438 \u0441\u043c\u0435\u043a\u0430\u043b\u043a\u0443.  \n\u2014 \u041f\u043b\u0430\u0442\u043d\u043e\u0435 \u043f\u0440\u0438\u043b\u043e\u0436\u0435\u043d\u0438\u0435 \u0438\u0437 AppStore  \n\u00a9 \u0421\u043e\u0437\u0434\u0430\u043d\u043e: GLESign\n\n\ud83c\uddfa\ud83c\uddf8 The Escapists 2: Pocket Breakout challenges you to plan escapes from multiple prisons using crafting, stealth, and wit.  \n\u2014 Paid app from the App Store  \n\u00a9 Created: GLESign"
+        }
+      ],
+      "appPermissions": {
+        "entitlements": [],
+        "privacy": {}
+      }
+    },
+    {
+      "name": "The Escapists",
+      "developerName": "ethMods",
+      "bundleIdentifier": "com.team17.escapists",
+      "localizedDescription": "The Escapists v1.1.8\n\n\ud83c\uddf7\ud83c\uddfa The Escapists \u2014 \u043e\u0440\u0438\u0433\u0438\u043d\u0430\u043b\u044c\u043d\u044b\u0439 \u0441\u0438\u043c\u0443\u043b\u044f\u0442\u043e\u0440 \u043f\u043e\u0431\u0435\u0433\u0430 \u0438\u0437 \u0442\u044e\u0440\u044c\u043c\u044b: \u0434\u043e\u0431\u044b\u0432\u0430\u0439\u0442\u0435 \u0438\u043d\u0441\u0442\u0440\u0443\u043c\u0435\u043d\u0442\u044b, \u043f\u043b\u0430\u043d\u0438\u0440\u0443\u0439\u0442\u0435 \u0438 \u043e\u0441\u0443\u0449\u0435\u0441\u0442\u0432\u043b\u044f\u0439\u0442\u0435 \u0441\u0432\u043e\u0439 \u043f\u043e\u0431\u0435\u0433.  \n\u2014 \u041f\u043b\u0430\u0442\u043d\u043e\u0435 \u043f\u0440\u0438\u043b\u043e\u0436\u0435\u043d\u0438\u0435 \u0438\u0437 AppStore  \n\u00a9 \u0421\u043e\u0437\u0434\u0430\u043d\u043e: GLESign\n\n\ud83c\uddfa\ud83c\uddf8 The Escapists is the original prison-break simulator: gather tools, plan your strategy, and make your escape.  \n\u2014 Paid app from the App Store  \n\u00a9 Created: GLESign",
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple123/v4/29/b6/0b/29b60ba2-956f-a181-8e2f-c2c191d82b7d/AppIcon-0-1x_U007emarketing-0-85-220-0-7.png/512x512bb.jpg",
+      "versions": [
+        {
+          "version": "1.1.8",
+          "date": "2025-02-19",
+          "size": 104193216,
+          "downloadURL": "https://repo.ethsign.fyi/6d12bc52-1f03-4687-8cc4-4624eb91e17f/The%20Escapists%20v1.1.8%5Btg@glesign%5D.ipa",
+          "localizedDescription": "The Escapists v1.1.8\n\n\ud83c\uddf7\ud83c\uddfa The Escapists \u2014 \u043e\u0440\u0438\u0433\u0438\u043d\u0430\u043b\u044c\u043d\u044b\u0439 \u0441\u0438\u043c\u0443\u043b\u044f\u0442\u043e\u0440 \u043f\u043e\u0431\u0435\u0433\u0430 \u0438\u0437 \u0442\u044e\u0440\u044c\u043c\u044b: \u0434\u043e\u0431\u044b\u0432\u0430\u0439\u0442\u0435 \u0438\u043d\u0441\u0442\u0440\u0443\u043c\u0435\u043d\u0442\u044b, \u043f\u043b\u0430\u043d\u0438\u0440\u0443\u0439\u0442\u0435 \u0438 \u043e\u0441\u0443\u0449\u0435\u0441\u0442\u0432\u043b\u044f\u0439\u0442\u0435 \u0441\u0432\u043e\u0439 \u043f\u043e\u0431\u0435\u0433.  \n\u2014 \u041f\u043b\u0430\u0442\u043d\u043e\u0435 \u043f\u0440\u0438\u043b\u043e\u0436\u0435\u043d\u0438\u0435 \u0438\u0437 AppStore  \n\u00a9 \u0421\u043e\u0437\u0434\u0430\u043d\u043e: GLESign\n\n\ud83c\uddfa\ud83c\uddf8 The Escapists is the original prison-break simulator: gather tools, plan your strategy, and make your escape.  \n\u2014 Paid app from the App Store  \n\u00a9 Created: GLESign"
+        }
+      ],
+      "appPermissions": {
+        "entitlements": [],
+        "privacy": {}
+      }
+    },
+    {
+      "name": "LD",
+      "developerName": "ethMods",
+      "bundleIdentifier": "com.lensdistortions.Lens-Distortions",
+      "localizedDescription": "LD - Photo & Video Finishing 6.9.1\n- LD - Photo & Video Finishing 6.9.1\n- Photo & Video editing App\n- Info: Subscription Unlocked\n\nMade by ethTeam\nCrack by @VAXMG\nNeed a cert? Dm @eth4dmin\nNew Main Channel: https://t.me/SultanModsiOS",
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/f0/9d/d9/f09dd901-3f64-a1f0-2498-407dd7e63285/AppIcon-0-0-1x_U007emarketing-0-6-0-85-220.png/512x512bb.jpg",
+      "versions": [
+        {
+          "version": "6.9.1",
+          "date": "2025-02-13",
+          "size": 120230971,
+          "downloadURL": "https://repo.ethsign.fyi/f681af86-e7dc-41d4-9b63-194f2f410b5c/com.lensdistortions.Lens-Distortions-6.9.1.ipa",
+          "localizedDescription": "LD - Photo & Video Finishing 6.9.1\n- LD - Photo & Video Finishing 6.9.1\n- Photo & Video editing App\n- Info: Subscription Unlocked\n\nMade by ethTeam\nCrack by @VAXMG\nNeed a cert? Dm @eth4dmin\nNew Main Channel: https://t.me/SultanModsiOS"
+        }
+      ],
+      "appPermissions": {
+        "entitlements": [],
+        "privacy": {}
+      }
+    },
+    {
+      "name": "Monopoly",
+      "developerName": "ethMods",
+      "bundleIdentifier": "com.marmalade.monopoly",
+      "localizedDescription": "Monopoly v1.14.4\n\n\ud83c\uddf7\ud83c\uddfa \u041a\u043b\u0430\u0441\u0441\u0438\u0447\u0435\u0441\u043a\u0430\u044f \u043d\u0430\u0441\u0442\u043e\u043b\u044c\u043d\u0430\u044f \u0438\u0433\u0440\u0430 \u043d\u0430 \u0432\u0430\u0448\u0435\u043c \u0442\u0435\u043b\u0435\u0444\u043e\u043d\u0435! \u0421\u0442\u0440\u043e\u0439\u0442\u0435 \u0441\u0432\u043e\u044e \u0438\u043c\u043f\u0435\u0440\u0438\u044e \u0438 \u0432\u044b\u0438\u0433\u0440\u044b\u0432\u0430\u0439\u0442\u0435 \u0432 \u043c\u043e\u043d\u043e\u043f\u043e\u043b\u0438\u044e.  \n\u2014 \u041f\u043b\u0430\u0442\u043d\u043e\u0435 \u043f\u0440\u0438\u043b\u043e\u0436\u0435\u043d\u0438\u0435 \u0438\u0437 AppStore  \n\u00a9 \u0421\u043e\u0437\u0434\u0430\u043d\u043e: GLESign\n\n\ud83c\uddfa\ud83c\uddf8 The classic board game on your phone! Build your empire and win at Monopoly.  \n\u2014 Paid app from AppStore  \n\u00a9 Created: GLESign",
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/e2/2f/56/e22f56bf-ac08-b949-a6f6-49c1ce5fa4c0/AppIcon-1x_U007emarketing-0-7-0-85-220-0.png/512x512bb.jpg",
+      "versions": [
+        {
+          "version": "1.14.4",
+          "date": "2025-02-12",
+          "size": 727453874,
+          "downloadURL": "https://repo.ethsign.fyi/88e901e9-3707-48ff-a8ab-34bd0fdf8701/Monopoly%20v1.14.4%5Btg@glesign%5D.ipa",
+          "localizedDescription": "Monopoly v1.14.4\n\n\ud83c\uddf7\ud83c\uddfa \u041a\u043b\u0430\u0441\u0441\u0438\u0447\u0435\u0441\u043a\u0430\u044f \u043d\u0430\u0441\u0442\u043e\u043b\u044c\u043d\u0430\u044f \u0438\u0433\u0440\u0430 \u043d\u0430 \u0432\u0430\u0448\u0435\u043c \u0442\u0435\u043b\u0435\u0444\u043e\u043d\u0435! \u0421\u0442\u0440\u043e\u0439\u0442\u0435 \u0441\u0432\u043e\u044e \u0438\u043c\u043f\u0435\u0440\u0438\u044e \u0438 \u0432\u044b\u0438\u0433\u0440\u044b\u0432\u0430\u0439\u0442\u0435 \u0432 \u043c\u043e\u043d\u043e\u043f\u043e\u043b\u0438\u044e.  \n\u2014 \u041f\u043b\u0430\u0442\u043d\u043e\u0435 \u043f\u0440\u0438\u043b\u043e\u0436\u0435\u043d\u0438\u0435 \u0438\u0437 AppStore  \n\u00a9 \u0421\u043e\u0437\u0434\u0430\u043d\u043e: GLESign\n\n\ud83c\uddfa\ud83c\uddf8 The classic board game on your phone! Build your empire and win at Monopoly.  \n\u2014 Paid app from AppStore  \n\u00a9 Created: GLESign"
+        }
+      ],
+      "appPermissions": {
+        "entitlements": [],
+        "privacy": {}
+      }
+    },
+    {
+      "name": "PlantsVsZombiesRH",
+      "developerName": "ethMods",
+      "bundleIdentifier": "com.GLESign.PlantsVsZombiesRH",
+      "localizedDescription": "PVZ Fusion v2.0.4b1\n\n\ud83c\uddf7\ud83c\uddfa \u0418\u0441\u0441\u043b\u0435\u0434\u0443\u0439\u0442\u0435 \u043d\u043e\u0432\u0443\u044e \u0437\u0430\u0445\u0432\u0430\u0442\u044b\u0432\u0430\u044e\u0449\u0443\u044e \u0432\u0435\u0440\u0441\u0438\u044e Plants vs Zombies \u0441 \u0443\u043d\u0438\u043a\u0430\u043b\u044c\u043d\u044b\u043c\u0438 \u0433\u0438\u0431\u0440\u0438\u0434\u0430\u043c\u0438, \u0437\u0430\u0445\u0432\u0430\u0442\u044b\u0432\u0430\u044e\u0449\u0438\u043c\u0438 \u0443\u0440\u043e\u0432\u043d\u044f\u043c\u0438 \u0438 \u0441\u0432\u0435\u0436\u0438\u043c\u0438 \u0441\u0442\u0440\u0430\u0442\u0435\u0433\u0438\u044f\u043c\u0438\n\u2014 \u043f\u043e\u0440\u0442\u0438\u0440\u043e\u0432\u0430\u043d\u043e \u043d\u0430 iOS\n\u2014 \u0442\u0440\u0435\u0431\u0443\u0435\u0442\u0441\u044f iOS 12.0\n\u00a9 \u0421\u043e\u0437\u0434\u0430\u043d\u043e: GLESign\n\n\ud83c\uddfa\ud83c\uddf8 Explore an exciting new version of Plants vs Zombies with unique hybrids, challenging levels, and fresh strategies\n\u2014 ported to iOS\n\u2014 requires iOS 12.0\n\u00a9 Created by: GLESign",
+      "iconURL": "https://paradoxtime.tk/img/pdt_logo_nobg_shadow.png",
+      "versions": [
+        {
+          "version": "2.0.4",
+          "date": "2024-12-31",
+          "size": 158048960,
+          "downloadURL": "https://repo.ethsign.fyi/751cbb12-3545-4a90-8e91-7b3d9c724cfb/PVZ%20Fusion%20v2.0.4b1%5Btg@glesign%5D.ipa",
+          "localizedDescription": "PVZ Fusion v2.0.4b1\n\n\ud83c\uddf7\ud83c\uddfa \u0418\u0441\u0441\u043b\u0435\u0434\u0443\u0439\u0442\u0435 \u043d\u043e\u0432\u0443\u044e \u0437\u0430\u0445\u0432\u0430\u0442\u044b\u0432\u0430\u044e\u0449\u0443\u044e \u0432\u0435\u0440\u0441\u0438\u044e Plants vs Zombies \u0441 \u0443\u043d\u0438\u043a\u0430\u043b\u044c\u043d\u044b\u043c\u0438 \u0433\u0438\u0431\u0440\u0438\u0434\u0430\u043c\u0438, \u0437\u0430\u0445\u0432\u0430\u0442\u044b\u0432\u0430\u044e\u0449\u0438\u043c\u0438 \u0443\u0440\u043e\u0432\u043d\u044f\u043c\u0438 \u0438 \u0441\u0432\u0435\u0436\u0438\u043c\u0438 \u0441\u0442\u0440\u0430\u0442\u0435\u0433\u0438\u044f\u043c\u0438\n\u2014 \u043f\u043e\u0440\u0442\u0438\u0440\u043e\u0432\u0430\u043d\u043e \u043d\u0430 iOS\n\u2014 \u0442\u0440\u0435\u0431\u0443\u0435\u0442\u0441\u044f iOS 12.0\n\u00a9 \u0421\u043e\u0437\u0434\u0430\u043d\u043e: GLESign\n\n\ud83c\uddfa\ud83c\uddf8 Explore an exciting new version of Plants vs Zombies with unique hybrids, challenging levels, and fresh strategies\n\u2014 ported to iOS\n\u2014 requires iOS 12.0\n\u00a9 Created by: GLESign"
+        },
+        {
+          "version": "1.0",
+          "date": "2025-02-12",
+          "size": 161645376,
+          "downloadURL": "https://repo.ethsign.fyi/7e6859e2-713d-4937-9eaa-677cbbcd85d1/PVZ%20Fusion%20v2.0.4b3%5Btg@glesign%5D.ipa",
+          "localizedDescription": "PVZ Fusion v2.0.4b3 | RU\n\n\ud83c\uddf7\ud83c\uddfa \u0418\u0441\u0441\u043b\u0435\u0434\u0443\u0439\u0442\u0435 \u043d\u043e\u0432\u0443\u044e \u0437\u0430\u0445\u0432\u0430\u0442\u044b\u0432\u0430\u044e\u0449\u0443\u044e \u0432\u0435\u0440\u0441\u0438\u044e Plants vs Zombies \u0441 \u0443\u043d\u0438\u043a\u0430\u043b\u044c\u043d\u044b\u043c\u0438 \u0433\u0438\u0431\u0440\u0438\u0434\u0430\u043c\u0438, \u0437\u0430\u0445\u0432\u0430\u0442\u044b\u0432\u0430\u044e\u0449\u0438\u043c\u0438 \u0443\u0440\u043e\u0432\u043d\u044f\u043c\u0438 \u0438 \u0441\u0432\u0435\u0436\u0438\u043c\u0438 \u0441\u0442\u0440\u0430\u0442\u0435\u0433\u0438\u044f\u043c\u0438\n\u2014 \u043f\u043e\u0440\u0442\u0438\u0440\u043e\u0432\u0430\u043d\u043e \u043d\u0430 iOS\n\u2014 \u0442\u0440\u0435\u0431\u0443\u0435\u0442\u0441\u044f iOS 12.0\n\u2014 \u0434\u043e\u0431\u0430\u0432\u043b\u0435\u043d \u043f\u0435\u0440\u0435\u0432\u043e\u0434 \u043d\u0430 \u0440\u0443\u0441\u0441\u043a\u0438\u0439 \u044f\u0437\u044b\u043a\n\u00a9 \u0421\u043e\u0437\u0434\u0430\u043d\u043e: GLESign\n\n\ud83c\uddfa\ud83c\uddf8 Explore an exciting new version of Plants vs Zombies with unique hybrids, challenging levels, and fresh strategies\n\u2014 ported to iOS\n\u2014 requires iOS 12.0\n\u2014 added a Russian translation\n\u00a9 Created by: GLESign"
+        }
+      ],
+      "appPermissions": {
+        "entitlements": [],
+        "privacy": {}
+      }
+    },
+    {
+      "name": "Shipwrecked",
+      "developerName": "ethMods",
+      "bundleIdentifier": "com.Kleientertainment.dontstarveshipwrecked",
+      "localizedDescription": "Shipwrecked v1.84  \n\n\ud83c\uddf7\ud83c\uddfa \u041f\u0440\u0438\u043a\u043b\u044e\u0447\u0435\u043d\u0447\u0435\u0441\u043a\u0430\u044f \u0438\u0433\u0440\u0430, \u0433\u0434\u0435 \u0432\u0430\u043c \u043f\u0440\u0435\u0434\u0441\u0442\u043e\u0438\u0442 \u0432\u044b\u0436\u0438\u0432\u0430\u0442\u044c \u043d\u0430 \u043e\u0441\u0442\u0440\u043e\u0432\u0435 \u0438 \u0438\u0441\u0441\u043b\u0435\u0434\u043e\u0432\u0430\u0442\u044c \u0435\u0433\u043e \u0441\u0435\u043a\u0440\u0435\u0442\u044b.  \n\u2014 \u041f\u043b\u0430\u0442\u043d\u043e\u0435 \u043f\u0440\u0438\u043b\u043e\u0436\u0435\u043d\u0438\u0435 \u0438\u0437 AppStore  \n\u00a9 \u0421\u043e\u0437\u0434\u0430\u043d\u043e: GLESign  \n\n\ud83c\uddfa\ud83c\uddf8 An adventure game where you survive on an island and explore its secrets.  \n\u2014 Paid app from AppStore  \n\u00a9 Created: GLESign",
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple112/v4/50/c3/2f/50c32f11-b48c-7176-a546-c400127ee431/AppIcon-1x_U007emarketing-0-10-85-220.png/512x512bb.jpg",
+      "versions": [
+        {
+          "version": "1.84",
+          "date": "2025-02-12",
+          "size": 1003041142,
+          "downloadURL": "https://repo.ethsign.fyi/6dac9f52-6484-4e7f-bc83-1a383cdba710/Shipwrecked%20v1.84%5Btg@glesign%5D.ipa",
+          "localizedDescription": "Shipwrecked v1.84  \n\n\ud83c\uddf7\ud83c\uddfa \u041f\u0440\u0438\u043a\u043b\u044e\u0447\u0435\u043d\u0447\u0435\u0441\u043a\u0430\u044f \u0438\u0433\u0440\u0430, \u0433\u0434\u0435 \u0432\u0430\u043c \u043f\u0440\u0435\u0434\u0441\u0442\u043e\u0438\u0442 \u0432\u044b\u0436\u0438\u0432\u0430\u0442\u044c \u043d\u0430 \u043e\u0441\u0442\u0440\u043e\u0432\u0435 \u0438 \u0438\u0441\u0441\u043b\u0435\u0434\u043e\u0432\u0430\u0442\u044c \u0435\u0433\u043e \u0441\u0435\u043a\u0440\u0435\u0442\u044b.  \n\u2014 \u041f\u043b\u0430\u0442\u043d\u043e\u0435 \u043f\u0440\u0438\u043b\u043e\u0436\u0435\u043d\u0438\u0435 \u0438\u0437 AppStore  \n\u00a9 \u0421\u043e\u0437\u0434\u0430\u043d\u043e: GLESign  \n\n\ud83c\uddfa\ud83c\uddf8 An adventure game where you survive on an island and explore its secrets.  \n\u2014 Paid app from AppStore  \n\u00a9 Created: GLESign"
+        }
+      ],
+      "appPermissions": {
+        "entitlements": [],
+        "privacy": {}
+      }
+    },
+    {
+      "name": "Zooba",
+      "developerName": "ethMods",
+      "bundleIdentifier": "com.fungames.battleroyale",
+      "localizedDescription": "Zooba v4.69.2 | iOSGods ViP Cracked\n\n\ud83c\uddf7\ud83c\uddfa Zooba \u2014 \u0432\u0435\u0441\u0435\u043b\u0430\u044f \u0430\u0440\u043a\u0430\u0434\u043d\u0430\u044f \u0438\u0433\u0440\u0430 \u0441 \u044d\u043b\u0435\u043c\u0435\u043d\u0442\u0430\u043c\u0438 \u0431\u043e\u044f, \u0432 \u043a\u043e\u0442\u043e\u0440\u043e\u0439 \u0432\u044b \u0441\u0440\u0430\u0436\u0430\u0435\u0442\u0435\u0441\u044c \u0432 \u0431\u043e\u0435\u0432\u044b\u0445 \u0430\u0440\u0435\u043d\u0430\u0445.  \n\u2014 ViP Pro \u0430\u043a\u0442\u0438\u0432\u0438\u0440\u043e\u0432\u0430\u043d  \n\u2014 \u0424\u0443\u043d\u043a\u0446\u0438\u0438 \u0447\u0438\u0442\u0430: \u0441\u0441\u044b\u043b\u043a\u0430\n\u00a9 \u0421\u043e\u0437\u0434\u0430\u043d\u043e: GLESign\n\n\ud83c\uddfa\ud83c\uddf8 Zooba \u2014 a fun arcade game with combat elements where you fight in battle arenas.  \n\u2014 ViP Pro activated  \n\u2014 Cheat features: link\n\u00a9 Created: GLESign",
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/c9/6a/2d/c96a2d41-a266-1672-4e91-824c6713f37f/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/512x512bb.jpg",
+      "versions": [
+        {
+          "version": "4.69.2",
+          "date": "2025-02-11",
+          "size": 189683238,
+          "downloadURL": "https://repo.ethsign.fyi/8f391f65-2c2d-4190-9f74-94bcf97143c1/Zooba%20v4.69.2%5Btg@glesign%5D.ipa",
+          "localizedDescription": "Zooba v4.69.2 | iOSGods ViP Cracked\n\n\ud83c\uddf7\ud83c\uddfa Zooba \u2014 \u0432\u0435\u0441\u0435\u043b\u0430\u044f \u0430\u0440\u043a\u0430\u0434\u043d\u0430\u044f \u0438\u0433\u0440\u0430 \u0441 \u044d\u043b\u0435\u043c\u0435\u043d\u0442\u0430\u043c\u0438 \u0431\u043e\u044f, \u0432 \u043a\u043e\u0442\u043e\u0440\u043e\u0439 \u0432\u044b \u0441\u0440\u0430\u0436\u0430\u0435\u0442\u0435\u0441\u044c \u0432 \u0431\u043e\u0435\u0432\u044b\u0445 \u0430\u0440\u0435\u043d\u0430\u0445.  \n\u2014 ViP Pro \u0430\u043a\u0442\u0438\u0432\u0438\u0440\u043e\u0432\u0430\u043d  \n\u2014 \u0424\u0443\u043d\u043a\u0446\u0438\u0438 \u0447\u0438\u0442\u0430: \u0441\u0441\u044b\u043b\u043a\u0430\n\u00a9 \u0421\u043e\u0437\u0434\u0430\u043d\u043e: GLESign\n\n\ud83c\uddfa\ud83c\uddf8 Zooba \u2014 a fun arcade game with combat elements where you fight in battle arenas.  \n\u2014 ViP Pro activated  \n\u2014 Cheat features: link\n\u00a9 Created: GLESign"
+        }
+      ],
+      "appPermissions": {
+        "entitlements": [],
+        "privacy": {}
+      }
+    },
+    {
+      "name": "Getting Over It",
+      "developerName": "ethMods",
+      "bundleIdentifier": "net.Foddy.GettingOverIt",
+      "localizedDescription": "Getting Over It v1.14\n\n\ud83c\uddf7\ud83c\uddfa \u041d\u0435\u0432\u0435\u0440\u043e\u044f\u0442\u043d\u043e \u0441\u043b\u043e\u0436\u043d\u0430\u044f \u0438 \u0437\u0430\u0431\u0430\u0432\u043d\u0430\u044f \u0438\u0433\u0440\u0430, \u0432 \u043a\u043e\u0442\u043e\u0440\u043e\u0439 \u0432\u044b \u0443\u043f\u0440\u0430\u0432\u043b\u044f\u0435\u0442\u0435 \u043f\u0435\u0440\u0441\u043e\u043d\u0430\u0436\u0435\u043c, \u043f\u044b\u0442\u0430\u044e\u0449\u0438\u043c\u0441\u044f \u043f\u043e\u0434\u043d\u044f\u0442\u044c\u0441\u044f \u043d\u0430 \u0432\u0435\u0440\u0448\u0438\u043d\u0443, \u043f\u0440\u0435\u043e\u0434\u043e\u043b\u0435\u0432\u0430\u044f \u0442\u0440\u0443\u0434\u043d\u044b\u0435 \u043f\u0440\u0435\u043f\u044f\u0442\u0441\u0442\u0432\u0438\u044f.  \n\u2014 \u041f\u043b\u0430\u0442\u043d\u043e\u0435 \u043f\u0440\u0438\u043b\u043e\u0436\u0435\u043d\u0438\u0435 \u0438\u0437 AppStore  \n\u00a9 \u0421\u043e\u0437\u0434\u0430\u043d\u043e: GLESign\n\n\ud83c\uddfa\ud83c\uddf8 An incredibly difficult and fun game where you control a character trying to climb to the top, overcoming tough obstacles.  \n\u2014 Paid app from AppStore  \n\u00a9 Created: GLESign",
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple115/v4/5e/1e/40/5e1e40d4-45fc-94d8-fbc6-f35f4fbf6fb7/AppIcon-1x_U007emarketing-0-7-0-85-220.png/512x512bb.jpg",
+      "versions": [
+        {
+          "version": "1.14",
+          "date": "2025-02-11",
+          "size": 118486160,
+          "downloadURL": "https://repo.ethsign.fyi/31c9d721-3873-43b3-bea9-fa1337e20204/Getting%20Over%20It%20v1.14%5Btg@glesign%5D.ipa",
+          "localizedDescription": "Getting Over It v1.14\n\n\ud83c\uddf7\ud83c\uddfa \u041d\u0435\u0432\u0435\u0440\u043e\u044f\u0442\u043d\u043e \u0441\u043b\u043e\u0436\u043d\u0430\u044f \u0438 \u0437\u0430\u0431\u0430\u0432\u043d\u0430\u044f \u0438\u0433\u0440\u0430, \u0432 \u043a\u043e\u0442\u043e\u0440\u043e\u0439 \u0432\u044b \u0443\u043f\u0440\u0430\u0432\u043b\u044f\u0435\u0442\u0435 \u043f\u0435\u0440\u0441\u043e\u043d\u0430\u0436\u0435\u043c, \u043f\u044b\u0442\u0430\u044e\u0449\u0438\u043c\u0441\u044f \u043f\u043e\u0434\u043d\u044f\u0442\u044c\u0441\u044f \u043d\u0430 \u0432\u0435\u0440\u0448\u0438\u043d\u0443, \u043f\u0440\u0435\u043e\u0434\u043e\u043b\u0435\u0432\u0430\u044f \u0442\u0440\u0443\u0434\u043d\u044b\u0435 \u043f\u0440\u0435\u043f\u044f\u0442\u0441\u0442\u0432\u0438\u044f.  \n\u2014 \u041f\u043b\u0430\u0442\u043d\u043e\u0435 \u043f\u0440\u0438\u043b\u043e\u0436\u0435\u043d\u0438\u0435 \u0438\u0437 AppStore  \n\u00a9 \u0421\u043e\u0437\u0434\u0430\u043d\u043e: GLESign\n\n\ud83c\uddfa\ud83c\uddf8 An incredibly difficult and fun game where you control a character trying to climb to the top, overcoming tough obstacles.  \n\u2014 Paid app from AppStore  \n\u00a9 Created: GLESign"
+        }
+      ],
+      "appPermissions": {
+        "entitlements": [],
+        "privacy": {}
+      }
+    },
+    {
+      "name": "Zen Brush",
+      "developerName": "ethMods",
+      "bundleIdentifier": "jp.co.psoft.Zen-Brush",
+      "localizedDescription": "Zen Brush v1.38  \n\n\ud83c\uddf7\ud83c\uddfa \u041f\u0440\u0438\u043b\u043e\u0436\u0435\u043d\u0438\u0435 \u0434\u043b\u044f \u0440\u0438\u0441\u043e\u0432\u0430\u043d\u0438\u044f \u0432 \u044f\u043f\u043e\u043d\u0441\u043a\u043e\u043c \u0441\u0442\u0438\u043b\u0435, \u043f\u043e\u0437\u0432\u043e\u043b\u044f\u044e\u0449\u0435\u0435 \u0441\u043e\u0437\u0434\u0430\u0432\u0430\u0442\u044c \u0443\u043d\u0438\u043a\u0430\u043b\u044c\u043d\u044b\u0435 \u0445\u0443\u0434\u043e\u0436\u0435\u0441\u0442\u0432\u0435\u043d\u043d\u044b\u0435 \u0440\u0430\u0431\u043e\u0442\u044b.  \n\u2014 \u041f\u043b\u0430\u0442\u043d\u043e\u0435 \u043f\u0440\u0438\u043b\u043e\u0436\u0435\u043d\u0438\u0435 \u0438\u0437 AppStore  \n\u00a9 \u0421\u043e\u0437\u0434\u0430\u043d\u043e: GLESign\n\n\ud83c\uddfa\ud83c\uddf8 A drawing app in Japanese style, allowing you to create unique artistic works.  \n\u2014 Paid app from AppStore  \n\u00a9 Created: GLESign",
+      "iconURL": "https://paradoxtime.tk/img/pdt_logo_nobg_shadow.png",
+      "versions": [
+        {
+          "version": "1.38",
+          "date": "2025-02-11",
+          "size": 42664255,
+          "downloadURL": "https://repo.ethsign.fyi/c4fccd73-5d6f-4e32-84f1-57ce31fe6051/Zen%20Brush%20v1.38%5Btg@glesign%5D.ipa",
+          "localizedDescription": "Zen Brush v1.38  \n\n\ud83c\uddf7\ud83c\uddfa \u041f\u0440\u0438\u043b\u043e\u0436\u0435\u043d\u0438\u0435 \u0434\u043b\u044f \u0440\u0438\u0441\u043e\u0432\u0430\u043d\u0438\u044f \u0432 \u044f\u043f\u043e\u043d\u0441\u043a\u043e\u043c \u0441\u0442\u0438\u043b\u0435, \u043f\u043e\u0437\u0432\u043e\u043b\u044f\u044e\u0449\u0435\u0435 \u0441\u043e\u0437\u0434\u0430\u0432\u0430\u0442\u044c \u0443\u043d\u0438\u043a\u0430\u043b\u044c\u043d\u044b\u0435 \u0445\u0443\u0434\u043e\u0436\u0435\u0441\u0442\u0432\u0435\u043d\u043d\u044b\u0435 \u0440\u0430\u0431\u043e\u0442\u044b.  \n\u2014 \u041f\u043b\u0430\u0442\u043d\u043e\u0435 \u043f\u0440\u0438\u043b\u043e\u0436\u0435\u043d\u0438\u0435 \u0438\u0437 AppStore  \n\u00a9 \u0421\u043e\u0437\u0434\u0430\u043d\u043e: GLESign\n\n\ud83c\uddfa\ud83c\uddf8 A drawing app in Japanese style, allowing you to create unique artistic works.  \n\u2014 Paid app from AppStore  \n\u00a9 Created: GLESign"
+        }
+      ],
+      "appPermissions": {
+        "entitlements": [],
+        "privacy": {}
+      }
+    },
+    {
+      "name": "Epic Games",
+      "developerName": "ethMods",
+      "bundleIdentifier": "com.epicgames.store",
+      "localizedDescription": "Epic Games v0.5.2\n\n\ud83c\uddf7\ud83c\uddfa \u041c\u0430\u0433\u0430\u0437\u0438\u043d \u043f\u0440\u0438\u043b\u043e\u0436\u0435\u043d\u0438\u0439 \u043e\u0442 Epic Games\n\u2014 \u041f\u0440\u043e\u0441\u0442\u043e \u043f\u0440\u0438\u043b\u043e\u0436\u0435\u043d\u0438\u0435\n\u2014 \u041e\u043d\u043e \u043d\u0435 \u0431\u0443\u0434\u0435\u0442 \u0443 \u0432\u0430\u0441 \u0440\u0430\u0431\u043e\u0442\u0430\u0442\u044c\n\u00a9 \u0421\u043e\u0437\u0434\u0430\u043d\u043e: GLESign\n\n\ud83c\uddfa\ud83c\uddf8 The Epic Games App Store\n\u2014 is Just an App\n\u2014 It won't work for you.\n\u00a9 Created by: GLESign",
+      "iconURL": "https://paradoxtime.tk/img/pdt_logo_nobg_shadow.png",
+      "versions": [
+        {
+          "version": "0.5.2",
+          "date": "2025-02-11",
+          "size": 7365723,
+          "downloadURL": "https://repo.ethsign.fyi/fa890fb1-2b5a-4843-9946-1319e06d7ec1/Epic%20Games%20v0.5.2%5Btg@glesign%5D.ipa",
+          "localizedDescription": "Epic Games v0.5.2\n\n\ud83c\uddf7\ud83c\uddfa \u041c\u0430\u0433\u0430\u0437\u0438\u043d \u043f\u0440\u0438\u043b\u043e\u0436\u0435\u043d\u0438\u0439 \u043e\u0442 Epic Games\n\u2014 \u041f\u0440\u043e\u0441\u0442\u043e \u043f\u0440\u0438\u043b\u043e\u0436\u0435\u043d\u0438\u0435\n\u2014 \u041e\u043d\u043e \u043d\u0435 \u0431\u0443\u0434\u0435\u0442 \u0443 \u0432\u0430\u0441 \u0440\u0430\u0431\u043e\u0442\u0430\u0442\u044c\n\u00a9 \u0421\u043e\u0437\u0434\u0430\u043d\u043e: GLESign\n\n\ud83c\uddfa\ud83c\uddf8 The Epic Games App Store\n\u2014 is Just an App\n\u2014 It won't work for you.\n\u00a9 Created by: GLESign"
+        }
+      ],
+      "appPermissions": {
+        "entitlements": [],
+        "privacy": {}
+      }
+    },
+    {
+      "name": "Offline Music",
+      "developerName": "ethMods",
+      "bundleIdentifier": "com.offlinemusic",
+      "localizedDescription": "\ud83d\udcf1 Offline Music Player\n\n\ud83c\udd94 Bundle ID: \ncom.offlinemusic\n\ud83d\udcca Version: 3.4.8\n\ud83d\udc68\u200d\ud83d\udcbb Developer: Md Zakir Hossain\n\ud83c\udff7 Category: Music\n\ud83d\udd27 Minimum iOS: 15.0\n\n\ud83d\udc8e Modifier: Pro Unlocked\n\n\ud83d\udcdd Note: \nNo Additional Notes\n\n\ud83d\udd04 Tweaked by @blatants\n\nKo-Fi \u2615\ufe0f | Crypto \ud83d\udc7e | IPAs \ud83d\udce5",
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/3c/71/7f/3c717f59-6ce8-8ad0-3c35-bce056478b5d/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/512x512bb.jpg",
+      "versions": [
+        {
+          "version": "3.4.8",
+          "date": "2025-02-11",
+          "size": 89251077,
+          "downloadURL": "https://repo.ethsign.fyi/5c641221-7c11-4346-a0ab-a10ae4997dfc/Offline%20Music%20Player%20v3.4.8%20Pro%20Unlocked%20blatant.ipa",
+          "localizedDescription": "\ud83d\udcf1 Offline Music Player\n\n\ud83c\udd94 Bundle ID: \ncom.offlinemusic\n\ud83d\udcca Version: 3.4.8\n\ud83d\udc68\u200d\ud83d\udcbb Developer: Md Zakir Hossain\n\ud83c\udff7 Category: Music\n\ud83d\udd27 Minimum iOS: 15.0\n\n\ud83d\udc8e Modifier: Pro Unlocked\n\n\ud83d\udcdd Note: \nNo Additional Notes\n\n\ud83d\udd04 Tweaked by @blatants\n\nKo-Fi \u2615\ufe0f | Crypto \ud83d\udc7e | IPAs \ud83d\udce5"
+        }
+      ],
+      "appPermissions": {
+        "entitlements": [],
+        "privacy": {}
+      }
+    },
+    {
+      "name": "Buddy",
+      "developerName": "ethMods",
+      "bundleIdentifier": "com.iPwners.Plonkan",
+      "localizedDescription": "\ud83d\udcf1 Buddy: Budget Planner App\n\n\ud83c\udd94 Bundle ID: \ncom.iPwners.Plonkan\n\ud83d\udcca Version: 12.37\n\ud83d\udc68\u200d\ud83d\udcbb Developer: Buddy Budgeting AB\n\ud83c\udff7 Category: Finance\n\ud83d\udd27 Minimum iOS: 16.0\n\n\ud83d\udc8e Modifier: Premium Unlocked\n\n\ud83d\udcdd Note: \nNo Additional Notes\n\n\ud83d\udd04 Tweaked by @blatants\n\nKo-Fi \u2615\ufe0f | Crypto \ud83d\udc7e | IPAs \ud83d\udce5",
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/42/aa/0c/42aa0c0d-99cf-8b10-d786-9e7361aab938/AppIcon-0-1x_U007epad-0-1-0-85-220-0.png/512x512bb.jpg",
+      "versions": [
+        {
+          "version": "12.37",
+          "date": "2025-02-11",
+          "size": 62363118,
+          "downloadURL": "https://repo.ethsign.fyi/88da3041-6443-43b0-af95-cded56e01c66/Buddy%20%20Budget%20Planner%20App%20v12.37%20Premium%20Unlocked%20blatant.ipa",
+          "localizedDescription": "\ud83d\udcf1 Buddy: Budget Planner App\n\n\ud83c\udd94 Bundle ID: \ncom.iPwners.Plonkan\n\ud83d\udcca Version: 12.37\n\ud83d\udc68\u200d\ud83d\udcbb Developer: Buddy Budgeting AB\n\ud83c\udff7 Category: Finance\n\ud83d\udd27 Minimum iOS: 16.0\n\n\ud83d\udc8e Modifier: Premium Unlocked\n\n\ud83d\udcdd Note: \nNo Additional Notes\n\n\ud83d\udd04 Tweaked by @blatants\n\nKo-Fi \u2615\ufe0f | Crypto \ud83d\udc7e | IPAs \ud83d\udce5"
+        }
+      ],
+      "appPermissions": {
+        "entitlements": [],
+        "privacy": {}
+      }
+    },
+    {
+      "name": "Carbon",
+      "developerName": "ethMods",
+      "bundleIdentifier": "rr.carbon",
+      "localizedDescription": "Carbon B&W Filters and Effects 14.2\n- Carbon B&W Filters and Effects 14.2\n- Photo editor with cool filters, effects, and a great looking UI.\n- Info: Subscription Unlocked\n\nMade by ethTeam\nCrack by @VAXMG\nNeed a cert? Dm @eth4dmin\nNew Main Channel: https://t.me/SultanModsiOS",
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/16/e8/aa/16e8aa60-f479-0cb5-56c2-5985f2d1f5ce/AppIcon-Release-0-0-1x_U007emarketing-0-7-0-85-220.jpeg/512x512bb.jpg",
+      "versions": [
+        {
+          "version": "14.2",
+          "date": "2025-02-11",
+          "size": 94090240,
+          "downloadURL": "https://repo.ethsign.fyi/97d42804-949e-453b-86f1-c504af3a8ae1/rr.carbon-14.2.ipa",
+          "localizedDescription": "Carbon B&W Filters and Effects 14.2\n- Carbon B&W Filters and Effects 14.2\n- Photo editor with cool filters, effects, and a great looking UI.\n- Info: Subscription Unlocked\n\nMade by ethTeam\nCrack by @VAXMG\nNeed a cert? Dm @eth4dmin\nNew Main Channel: https://t.me/SultanModsiOS"
+        }
+      ],
+      "appPermissions": {
+        "entitlements": [],
+        "privacy": {}
+      }
+    },
+    {
+      "name": "One Player",
+      "developerName": "ethMods",
+      "bundleIdentifier": "xyz.lijun.www.AudioPlayer",
+      "localizedDescription": "One Player - Offline Music 3.3.4\n- One Player - Offline Music 3.3.4\n- Info: Premium Unlocked\n- \ud83c\udfb5 Advanced Music Player: \n\u2022 Supports APE, OGG,OPUS,WMA, & more  \n\u2022 Unlimited playlists & songs  \n\u2022 Edit covers, titles & lyrics (LRC)  \n\u2022 Vinyl-style UI & folder playback  \n\u2022 CarPlay (TrollStore Only) & Siri Shortcuts support  \n\u2022 Custom EQ & 20+ app icons  \n\u2022 Home screen widgets)\n\nMade by ethTeam\nCrack by @VAXMG\nNeed a cert? Dm @eth4dmin\nNew Main Channel: https://t.me/SultanModsiOS",
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/65/e7/95/65e795a8-f5ef-5743-cda8-00cc67f00452/AppIcon-0-0-1x_U007emarketing-0-8-0-P3-85-220.png/512x512bb.jpg",
+      "versions": [
+        {
+          "version": "3.3.4",
+          "date": "2025-02-11",
+          "size": 64125647,
+          "downloadURL": "https://repo.ethsign.fyi/bf146983-e06d-44de-ab11-371e78bdab74/xyz.lijun.www.AudioPlayer-3.3.4_patched_nofix.ipa",
+          "localizedDescription": "One Player - Offline Music 3.3.4\n- One Player - Offline Music 3.3.4\n- Info: Premium Unlocked\n- \ud83c\udfb5 Advanced Music Player: \n\u2022 Supports APE, OGG,OPUS,WMA, & more  \n\u2022 Unlimited playlists & songs  \n\u2022 Edit covers, titles & lyrics (LRC)  \n\u2022 Vinyl-style UI & folder playback  \n\u2022 CarPlay (TrollStore Only) & Siri Shortcuts support  \n\u2022 Custom EQ & 20+ app icons  \n\u2022 Home screen widgets)\n\nMade by ethTeam\nCrack by @VAXMG\nNeed a cert? Dm @eth4dmin\nNew Main Channel: https://t.me/SultanModsiOS"
+        }
+      ],
+      "appPermissions": {
+        "entitlements": [],
+        "privacy": {}
+      }
+    },
+    {
+      "name": "Find Air",
+      "developerName": "ethMods",
+      "bundleIdentifier": "co.airapps.finderbot",
+      "localizedDescription": "\ud83d\udcf1 Find Air - My Device Tracker\n\n\ud83c\udd94 Bundle ID: \nco.airapps.finderbot\n\ud83d\udcca Version: 3.7.0\n\ud83d\udc68\u200d\ud83d\udcbb Developer: Air Apps Systems\n\ud83c\udff7 Category: Utilities\n\ud83d\udd27 Minimum iOS: 13.0\n\n\ud83d\udc8e Modifier: Subscription Unlocked\n\n\ud83d\udcdd Note: \nNo Additional Notes\n\n\ud83d\udd04 Tweaked by @blatants\n\nKo-Fi \u2615\ufe0f | Crypto \ud83d\udc7e | IPAs \ud83d\udce5",
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/90/55/ad/9055ad75-2983-4136-3bac-be921db12006/AppIcon-0-0-1x_U007emarketing-0-7-0-0-85-220.png/512x512bb.jpg",
+      "versions": [
+        {
+          "version": "3.6.1",
+          "date": "2025-02-10",
+          "size": 43209268,
+          "downloadURL": "https://repo.ethsign.fyi/ea13824b-8128-4ca7-b4b3-1641843d4e43/Find_Air_My_Device_Tracker_v3_7_0_Subscription_Unlocked_blatant.ipa",
+          "localizedDescription": "\ud83d\udcf1 Find Air - My Device Tracker\n\n\ud83c\udd94 Bundle ID: \nco.airapps.finderbot\n\ud83d\udcca Version: 3.7.0\n\ud83d\udc68\u200d\ud83d\udcbb Developer: Air Apps Systems\n\ud83c\udff7 Category: Utilities\n\ud83d\udd27 Minimum iOS: 13.0\n\n\ud83d\udc8e Modifier: Subscription Unlocked\n\n\ud83d\udcdd Note: \nNo Additional Notes\n\n\ud83d\udd04 Tweaked by @blatants\n\nKo-Fi \u2615\ufe0f | Crypto \ud83d\udc7e | IPAs \ud83d\udce5"
+        }
+      ],
+      "appPermissions": {
+        "entitlements": [],
+        "privacy": {}
+      }
+    },
+    {
+      "name": "Lifesum",
+      "developerName": "ethMods",
+      "bundleIdentifier": "com.sillens.iShape",
+      "localizedDescription": "Lifesum Premium 20.3.0\n- Lifesum 20.3.0\n- Health Tracking App\n- Info: Premium Unlocked\n\nMade by ethTeam\nCrack by @VAXMG\nNeed a cert? Dm @eth4dmin or @SultanIPAs\nNew Main Channel: https://t.me/SultanModsiOS",
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/4e/94/39/4e9439d9-ed5a-bb8c-f691-738bf572af55/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/512x512bb.jpg",
+      "versions": [
+        {
+          "version": "20.3.0",
+          "date": "2025-02-10",
+          "size": 97389936,
+          "downloadURL": "https://repo.ethsign.fyi/22c4d001-5bca-4f9a-b5c3-a764ea0fcb09/com.sillens.iShape-20.3.0.ipa",
+          "localizedDescription": "Lifesum Premium 20.3.0\n- Lifesum 20.3.0\n- Health Tracking App\n- Info: Premium Unlocked\n\nMade by ethTeam\nCrack by @VAXMG\nNeed a cert? Dm @eth4dmin or @SultanIPAs\nNew Main Channel: https://t.me/SultanModsiOS"
+        }
+      ],
+      "appPermissions": {
+        "entitlements": [],
+        "privacy": {}
+      }
+    },
+    {
+      "name": "Alarm Clock HD",
+      "developerName": "ethMods",
+      "bundleIdentifier": "com.alarmclockcompany.alarmclockhdfree",
+      "localizedDescription": "Alarm Clock 4.3.41\n- Alarm Clock 4.3.41\n- Cool Alarm App\n- Info: Premium Unlocked\n\nMade by ethTeam\nCrack by @VAXMG\nNeed a cert? Dm @eth4dmin or @SultanIPAs\nNew Main Channel: https://t.me/SultanModsiOS",
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/1b/98/94/1b989446-0bf1-4262-b13e-609642d92d02/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/512x512bb.jpg",
+      "versions": [
+        {
+          "version": "4.3.41",
+          "date": "2025-02-09",
+          "size": 93224967,
+          "downloadURL": "https://repo.ethsign.fyi/86c8df10-9f74-4857-a1a5-04ae4dd0f016/com.alarmclockcompany.alarmclockhdfree-4.3.41.ipa",
+          "localizedDescription": "Alarm Clock 4.3.41\n- Alarm Clock 4.3.41\n- Cool Alarm App\n- Info: Premium Unlocked\n\nMade by ethTeam\nCrack by @VAXMG\nNeed a cert? Dm @eth4dmin or @SultanIPAs\nNew Main Channel: https://t.me/SultanModsiOS"
+        }
+      ],
+      "appPermissions": {
+        "entitlements": [],
+        "privacy": {}
+      }
+    },
+    {
+      "name": "\u200eWhatsApp",
+      "developerName": "ethMods",
+      "bundleIdentifier": "fyi.zxcvbn.appdupe.d827257a75",
+      "localizedDescription": "WhatsApp 25.2.79 Watusi Cracked \n\nUse this if you want 2 WhatsApp at once \n\nNotifications WILL NOT work using this ipa",
+      "iconURL": "https://paradoxtime.tk/img/pdt_logo_nobg_shadow.png",
+      "versions": [
+        {
+          "version": "25.2.79",
+          "date": "2025-02-08",
+          "size": 151622484,
+          "downloadURL": "https://repo.ethsign.fyi/4b641094-969a-42e5-bb79-8c6a0b5f051f/WhatsApp_25.2.79WatusiCrackedDupe-SultanMods.ipa",
+          "localizedDescription": "WhatsApp 25.2.79 Watusi Cracked \n\nUse this if you want 2 WhatsApp at once \n\nNotifications WILL NOT work using this ipa"
+        }
+      ],
+      "appPermissions": {
+        "entitlements": [],
+        "privacy": {}
+      }
+    },
+    {
+      "name": "Code by SMS",
+      "developerName": "ethMods",
+      "bundleIdentifier": "com.codebysms",
+      "localizedDescription": "Code by SMS Pro 1.0\n- Code by SMS 1.0\n- Get phone numbers for various social media \n- Info: Speed Up Ads\n- Get coins by watching ads, ads are sped up \n- In app purchases not cracked \n\nMade by @SultanIPAS\nCrack by @dpixel\nNeed a cert? Contact @SultanIPAS or @eth4dmin\nNew Main Channel: https://t.me/SultanModsiOS",
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/3d/3b/77/3d3b77bd-4eab-0c66-62aa-e592d121bd2f/AppIcon-0-0-1x_U007ephone-0-1-0-85-220.png/512x512bb.jpg",
+      "versions": [
+        {
+          "version": "1.0",
+          "date": "2025-02-07",
+          "size": 5884646,
+          "downloadURL": "https://repo.ethsign.fyi/68098163-a10a-45e3-b9a7-6bb7ce2fe4eb/CodebySMS-1.0Pro-SultanMods.ipa",
+          "localizedDescription": "Code by SMS Pro 1.0\n- Code by SMS 1.0\n- Get phone numbers for various social media \n- Info: Speed Up Ads\n- Get coins by watching ads, ads are sped up \n- In app purchases not cracked \n\nMade by @SultanIPAS\nCrack by @dpixel\nNeed a cert? Contact @SultanIPAS or @eth4dmin\nNew Main Channel: https://t.me/SultanModsiOS"
+        }
+      ],
+      "appPermissions": {
+        "entitlements": [],
+        "privacy": {}
+      }
+    },
+    {
+      "name": "VidSaver+",
+      "developerName": "ethMods",
+      "bundleIdentifier": "au.com.webmelbourne.streamlify",
+      "localizedDescription": "VidSaver+ Pro 2.0\n- VidSaver+ 2.0\n- Download YouTube videos \n- Info: Satella Added\n- Tap buy then cancel \n- Downloading may work \n\nMade by @VAXMG\nNeed a cert? Contact @SultanIPAS or @eth4dmin\nNew Main Channel: https://t.me/SultanModsiOS",
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/be/ea/9c/beea9c79-d7f2-e6f0-e89d-5d4d11c234d3/AppIcon-0-0-1x_U007epad-0-1-85-220.png/512x512bb.jpg",
+      "versions": [
+        {
+          "version": "2.0",
+          "date": "2025-02-07",
+          "size": 26105579,
+          "downloadURL": "https://repo.ethsign.fyi/539348ab-ff82-496d-ac2d-fd15eb68bde6/VideoSaverPlus-2.0Pro-SultanMods.ipa",
+          "localizedDescription": "VidSaver+ Pro 2.0\n- VidSaver+ 2.0\n- Download YouTube videos \n- Info: Satella Added\n- Tap buy then cancel \n- Downloading may work \n\nMade by @VAXMG\nNeed a cert? Contact @SultanIPAS or @eth4dmin\nNew Main Channel: https://t.me/SultanModsiOS"
+        }
+      ],
+      "appPermissions": {
+        "entitlements": [],
+        "privacy": {}
+      }
+    },
+    {
+      "name": "WaterMinder",
+      "developerName": "ethMods",
+      "bundleIdentifier": "com.waterminder.waterminder",
+      "localizedDescription": "\ud83d\udcf1 Water Tracker by WaterMinder\u00ae\n\n\ud83c\udd94 Bundle ID: \ncom.waterminder.waterminder\n\ud83d\udcca Version: 6.8.6\n\ud83d\udc68\u200d\ud83d\udcbb Developer: Funn Media, LLC\n\ud83c\udff7 Category: Health & Fitness\n\ud83d\udd27 Minimum iOS: 15.0\n\n\ud83d\udc8e Modifier: Subscription Unlocked\n\n\ud83d\udcdd Note: \nIgnore purchase page.\nTo make the widgets work with certificates > Read.\n\n\ud83d\udd04 Tweaked by @blatants\n\nKo-Fi \u2615\ufe0f | Crypto \ud83d\udc7e | IPAs \ud83d\udce5",
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/be/c6/c3/bec6c3d0-109c-3776-9603-35ee24328647/AppIcon-0-1x_U007epad-0-0-0-1-0-0-sRGB-85-220-0.png/512x512bb.jpg",
+      "versions": [
+        {
+          "version": "6.8.6",
+          "date": "2025-02-06",
+          "size": 213866603,
+          "downloadURL": "https://repo.ethsign.fyi/c2725d32-10fc-47c6-81d2-578bcdf0868d/Water_Tracker_by_WaterMinder%C2%AE_v6_8_6_Subscription_Unlocked_blatant.ipa",
+          "localizedDescription": "\ud83d\udcf1 Water Tracker by WaterMinder\u00ae\n\n\ud83c\udd94 Bundle ID: \ncom.waterminder.waterminder\n\ud83d\udcca Version: 6.8.6\n\ud83d\udc68\u200d\ud83d\udcbb Developer: Funn Media, LLC\n\ud83c\udff7 Category: Health & Fitness\n\ud83d\udd27 Minimum iOS: 15.0\n\n\ud83d\udc8e Modifier: Subscription Unlocked\n\n\ud83d\udcdd Note: \nIgnore purchase page.\nTo make the widgets work with certificates > Read.\n\n\ud83d\udd04 Tweaked by @blatants\n\nKo-Fi \u2615\ufe0f | Crypto \ud83d\udc7e | IPAs \ud83d\udce5"
+        }
+      ],
+      "appPermissions": {
+        "entitlements": [],
+        "privacy": {}
+      }
+    },
+    {
+      "name": "Speak & Translate",
+      "developerName": "ethMods",
+      "bundleIdentifier": "com.appicfun.translatorfree",
+      "localizedDescription": "\ud83d\udcf1 Speak & Translate - Translator\n\n\ud83c\udd94 Bundle ID: \ncom.appicfun.translatorfree\n\ud83d\udcca Version: 6.0.32\n\ud83d\udc68\u200d\ud83d\udcbb Developer: Easy Tiger Apps, LLC.\n\ud83c\udff7 Category: Productivity\n\ud83d\udd27 Minimum iOS: 14.0\n\n\ud83d\udc8e Modifier: Subscription Unlocked\n\n\ud83d\udcdd Note: \nRestart app if Subscriptions isn't activated.\n\n\ud83d\udd04 Tweaked by @blatants\n\nKo-Fi \u2615\ufe0f | Crypto \ud83d\udc7e | IPAs \ud83d\udce5",
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/b1/ff/9f/b1ff9f59-cd8b-8c84-0350-42a36d0a256c/AppIcon-0-0-1x_U007emarketing-0-7-0-sRGB-85-220.png/512x512bb.jpg",
+      "versions": [
+        {
+          "version": "6.0.32",
+          "date": "2025-02-06",
+          "size": 47609769,
+          "downloadURL": "https://repo.ethsign.fyi/e5ea84ec-f2c6-40d2-a7e1-7b0c2a55f07f/Speak_&_Translate_Translator_v6_0_32_Subscription_Unlocked_blatant.ipa",
+          "localizedDescription": "\ud83d\udcf1 Speak & Translate - Translator\n\n\ud83c\udd94 Bundle ID: \ncom.appicfun.translatorfree\n\ud83d\udcca Version: 6.0.32\n\ud83d\udc68\u200d\ud83d\udcbb Developer: Easy Tiger Apps, LLC.\n\ud83c\udff7 Category: Productivity\n\ud83d\udd27 Minimum iOS: 14.0\n\n\ud83d\udc8e Modifier: Subscription Unlocked\n\n\ud83d\udcdd Note: \nRestart app if Subscriptions isn't activated.\n\n\ud83d\udd04 Tweaked by @blatants\n\nKo-Fi \u2615\ufe0f | Crypto \ud83d\udc7e | IPAs \ud83d\udce5"
+        }
+      ],
+      "appPermissions": {
+        "entitlements": [],
+        "privacy": {}
+      }
+    },
+    {
+      "name": "Bullet Force",
+      "developerName": "ethMods",
+      "bundleIdentifier": "com.blayzegames.iosfps",
+      "localizedDescription": "Bullet Force v1.102.7 | iOSGods ViP Cracked\n\n\ud83c\uddf7\ud83c\uddfa Bullet Force \u2014 \u043c\u043d\u043e\u0433\u043e\u043f\u043e\u043b\u044c\u0437\u043e\u0432\u0430\u0442\u0435\u043b\u044c\u0441\u043a\u0438\u0439 \u0448\u0443\u0442\u0435\u0440 \u0441 \u0440\u0430\u0437\u043b\u0438\u0447\u043d\u044b\u043c\u0438 \u0440\u0435\u0436\u0438\u043c\u0430\u043c\u0438 \u0438 \u043e\u0440\u0443\u0436\u0438\u0435\u043c.  \n\u2014 ViP Pro \u0430\u043a\u0442\u0438\u0432\u0438\u0440\u043e\u0432\u0430\u043d  \n\u2014 \u0424\u0443\u043d\u043a\u0446\u0438\u0438 \u0447\u0438\u0442\u0430: \u0441\u0441\u044b\u043b\u043a\u0430\n\u00a9 \u0421\u043e\u0437\u0434\u0430\u043d\u043e: GLESign\n\n\ud83c\uddfa\ud83c\uddf8 Bullet Force \u2014 a multiplayer shooter with various modes and weapons.  \n\u2014 ViP Pro activated  \n\u2014 Cheat features: link\n\u00a9 Created: GLESign",
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/66/25/71/6625713b-61ec-0fa6-e26a-9e1a4e20f61c/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/512x512bb.jpg",
+      "versions": [
+        {
+          "version": "1.102.7",
+          "date": "2025-02-06",
+          "size": 669497836,
+          "downloadURL": "https://repo.ethsign.fyi/f3fab018-a598-404b-8ca7-c6ed6910b37a/Bullet%20Force%20v1.102.7%5Btg@glesign%5D.ipa",
+          "localizedDescription": "Bullet Force v1.102.7 | iOSGods ViP Cracked\n\n\ud83c\uddf7\ud83c\uddfa Bullet Force \u2014 \u043c\u043d\u043e\u0433\u043e\u043f\u043e\u043b\u044c\u0437\u043e\u0432\u0430\u0442\u0435\u043b\u044c\u0441\u043a\u0438\u0439 \u0448\u0443\u0442\u0435\u0440 \u0441 \u0440\u0430\u0437\u043b\u0438\u0447\u043d\u044b\u043c\u0438 \u0440\u0435\u0436\u0438\u043c\u0430\u043c\u0438 \u0438 \u043e\u0440\u0443\u0436\u0438\u0435\u043c.  \n\u2014 ViP Pro \u0430\u043a\u0442\u0438\u0432\u0438\u0440\u043e\u0432\u0430\u043d  \n\u2014 \u0424\u0443\u043d\u043a\u0446\u0438\u0438 \u0447\u0438\u0442\u0430: \u0441\u0441\u044b\u043b\u043a\u0430\n\u00a9 \u0421\u043e\u0437\u0434\u0430\u043d\u043e: GLESign\n\n\ud83c\uddfa\ud83c\uddf8 Bullet Force \u2014 a multiplayer shooter with various modes and weapons.  \n\u2014 ViP Pro activated  \n\u2014 Cheat features: link\n\u00a9 Created: GLESign"
+        }
+      ],
+      "appPermissions": {
+        "entitlements": [],
+        "privacy": {}
+      }
+    },
+    {
+      "name": "Headway",
+      "developerName": "ethMods",
+      "bundleIdentifier": "com.headway.books",
+      "localizedDescription": "\ud83d\udcf1 Headway: Daily Book Summaries\n\n\ud83c\udd94 Bundle ID: \ncom.headway.books\n\ud83d\udcca Version: 316.0\n\ud83d\udc68\u200d\ud83d\udcbb Developer: GTHW App Limited\n\ud83c\udff7 Category: Education\n\ud83d\udd27 Minimum iOS: 15.0\n\n\ud83d\udc8e Modifier: Subscription Unlocked\n\n\ud83d\udcdd Note: \nNo Additional Notes\n\n\ud83d\udd04 Tweaked by @blatants\n\nKo-Fi \u2615\ufe0f | Crypto \ud83d\udc7e | IPAs \ud83d\udce5",
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/f5/1a/d7/f51ad781-62bb-2968-8470-053b8b0366c3/AppIcon-0-0-1x_U007emarketing-0-11-0-85-220-0.png/512x512bb.jpg",
+      "versions": [
+        {
+          "version": "316.0",
+          "date": "2025-02-06",
+          "size": 144511713,
+          "downloadURL": "https://repo.ethsign.fyi/84cf63c9-afc6-41c8-8c94-04d76b7873bf/Headway_Daily_Book_Summaries_v316_0_Subscription_Unlocked_blatant.ipa",
+          "localizedDescription": "\ud83d\udcf1 Headway: Daily Book Summaries\n\n\ud83c\udd94 Bundle ID: \ncom.headway.books\n\ud83d\udcca Version: 316.0\n\ud83d\udc68\u200d\ud83d\udcbb Developer: GTHW App Limited\n\ud83c\udff7 Category: Education\n\ud83d\udd27 Minimum iOS: 15.0\n\n\ud83d\udc8e Modifier: Subscription Unlocked\n\n\ud83d\udcdd Note: \nNo Additional Notes\n\n\ud83d\udd04 Tweaked by @blatants\n\nKo-Fi \u2615\ufe0f | Crypto \ud83d\udc7e | IPAs \ud83d\udce5"
+        }
+      ],
+      "appPermissions": {
+        "entitlements": [],
+        "privacy": {}
+      }
+    },
+    {
+      "name": "I.RULE",
+      "developerName": "ethMods",
+      "bundleIdentifier": "com.TDMbest(toncho_).Irule",
+      "localizedDescription": "I.RULE Ported to IOS\n- toncho_\u2019s I.RULE android version ported to iOS\n- Requested port\n- Supports sav data transfer from PC\n- I.RULE\u2019s Discord\n- I.RULE\u2019s Itch.io page",
+      "iconURL": "https://paradoxtime.tk/img/pdt_logo_nobg_shadow.png",
+      "versions": [
+        {
+          "version": "2.0.77",
+          "date": "2025-02-06",
+          "size": 22526443,
+          "downloadURL": "https://repo.ethsign.fyi/bacee4c1-ca45-474d-a602-fdaa73bf99d0/I.RULE-toncho_TDMbest%E2%80%99d.ipa",
+          "localizedDescription": "I.RULE Ported to IOS\n- toncho_\u2019s I.RULE android version ported to iOS\n- Requested port\n- Supports sav data transfer from PC\n- I.RULE\u2019s Discord\n- I.RULE\u2019s Itch.io page"
+        }
+      ],
+      "appPermissions": {
+        "entitlements": [],
+        "privacy": {}
+      }
+    },
+    {
+      "name": "Widgetsmith",
+      "developerName": "ethMods",
+      "bundleIdentifier": "com.crossforward.WidgetSmith",
+      "localizedDescription": "\ud83d\udcf1 Widgetsmith\n\n\ud83c\udd94 Bundle ID: \ncom.crossforward.WidgetSmith\n\ud83d\udcca Version: 7.1\n\ud83d\udc68\u200d\ud83d\udcbb Developer: Cross Forward Consulting, LLC\n\ud83c\udff7 Category: Productivity\n\ud83d\udd27 Minimum iOS: 15.0\n\n\ud83d\udc8e Modifier: Subscription Unlocked\n\n\ud83d\udcdd Note: \nTo make the widgets work with certificates > Read.\n\n\ud83d\udd04 Tweaked by @blatants\n\nKo-Fi \u2615\ufe0f | Crypto \ud83d\udc7e | IPAs \ud83d\udce5",
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/d1/8b/d9/d18bd9bf-3b7d-b7b2-46fc-e66648049ad6/AppIcon-0-1x_U007epad-0-0-0-6-0-0-P3-85-220-0.png/512x512bb.jpg",
+      "versions": [
+        {
+          "version": "7.1",
+          "date": "2025-02-04",
+          "size": 140672480,
+          "downloadURL": "https://repo.ethsign.fyi/b9517b55-8816-48f2-a01c-8e57ad454c53/Widgetsmith%20v7.1%20Subscription%20Unlocked%20blatant.ipa",
+          "localizedDescription": "\ud83d\udcf1 Widgetsmith\n\n\ud83c\udd94 Bundle ID: \ncom.crossforward.WidgetSmith\n\ud83d\udcca Version: 7.1\n\ud83d\udc68\u200d\ud83d\udcbb Developer: Cross Forward Consulting, LLC\n\ud83c\udff7 Category: Productivity\n\ud83d\udd27 Minimum iOS: 15.0\n\n\ud83d\udc8e Modifier: Subscription Unlocked\n\n\ud83d\udcdd Note: \nTo make the widgets work with certificates > Read.\n\n\ud83d\udd04 Tweaked by @blatants\n\nKo-Fi \u2615\ufe0f | Crypto \ud83d\udc7e | IPAs \ud83d\udce5"
+        },
+        {
+          "version": "7.0.4",
+          "date": "2024-12-14",
+          "size": 139775137,
+          "downloadURL": "https://repo.ethsign.fyi/4d5ddf6e-d3de-45b1-9e40-b89db755f0e8/com.crossforward.WidgetSmith-7.0.4.ipa",
+          "localizedDescription": "Widgetsmith 7.0.4\n- Widgetsmith 7.0.4\n- Widget & Theme App\n- Info: Subscription Unlocked\n- Widget Requires AppGroup Entitlement\n\nzxcvbn AutoRc injected"
+        }
+      ],
+      "appPermissions": {
+        "entitlements": [],
+        "privacy": {}
+      }
+    },
+    {
+      "name": "Alarm Clock for Me",
+      "developerName": "ethMods",
+      "bundleIdentifier": "com.apalonapps.alarmclockfree",
+      "localizedDescription": "\ud83d\udcf1 Alarm Clock for Me - Wake Up!\n\n\ud83c\udd94 Bundle ID: \ncom.apalonapps.alarmclockfree\n\ud83d\udcca Version: 3.19.16\n\ud83d\udc68\u200d\ud83d\udcbb Developer: Easy Tiger Apps, LLC.\n\ud83c\udff7 Category: Utilities\n\ud83d\udd27 Minimum iOS: 13\n\n\ud83d\udc8e Modifier: Pro Unlocked\n\n\ud83d\udcdd Note: \nRestart app if Subscriptions isn't activated.\n\n\ud83d\udd04 Tweaked by @blatants\n\nKo-Fi \u2615\ufe0f | Crypto \ud83d\udc7e | IPAs \ud83d\udce5",
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/76/62/40/76624003-2f29-78f1-2378-0425e044e346/AppIcon-0-0-1x_U007emarketing-0-10-0-85-220.png/512x512bb.jpg",
+      "versions": [
+        {
+          "version": "3.19.16",
+          "date": "2025-02-04",
+          "size": 68720079,
+          "downloadURL": "https://repo.ethsign.fyi/62913f22-746b-496d-95c5-75d1376cac20/Alarm_Clock_for_Me_Wake_Up!_v3_19_16_Pro_Unlocked_blatant.ipa",
+          "localizedDescription": "\ud83d\udcf1 Alarm Clock for Me - Wake Up!\n\n\ud83c\udd94 Bundle ID: \ncom.apalonapps.alarmclockfree\n\ud83d\udcca Version: 3.19.16\n\ud83d\udc68\u200d\ud83d\udcbb Developer: Easy Tiger Apps, LLC.\n\ud83c\udff7 Category: Utilities\n\ud83d\udd27 Minimum iOS: 13\n\n\ud83d\udc8e Modifier: Pro Unlocked\n\n\ud83d\udcdd Note: \nRestart app if Subscriptions isn't activated.\n\n\ud83d\udd04 Tweaked by @blatants\n\nKo-Fi \u2615\ufe0f | Crypto \ud83d\udc7e | IPAs \ud83d\udce5"
+        }
+      ],
+      "appPermissions": {
+        "entitlements": [],
+        "privacy": {}
+      }
+    },
+    {
+      "name": "Diamond Finder",
+      "developerName": "ethMods",
+      "bundleIdentifier": "com.mcdiamondfinder.app",
+      "localizedDescription": "\ud83d\udcf1 Diamond Finder for Minecraft +\n\n\ud83c\udd94 Bundle ID: \ncom.mcdiamondfinder.app\n\ud83d\udcca Version: 1.5.7\n\ud83d\udc68\u200d\ud83d\udcbb Developer: Digital App Group GmbH\n\ud83c\udff7 Category: Entertainment\n\ud83d\udd27 Minimum iOS: 14.0\n\n\ud83d\udc8e Modifier: Pro Unlocked\n\n\ud83d\udcdd Note: \nNo Additional Notes\n\n\ud83d\udd04 Tweaked by @blatants\n\nKo-Fi \u2615\ufe0f | Crypto \ud83d\udc7e | IPAs \ud83d\udce5",
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/bf/49/c0/bf49c0b4-c34a-ff51-d5e7-0042bb854bc7/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/512x512bb.jpg",
+      "versions": [
+        {
+          "version": "3.0.6",
+          "date": "2025-02-03",
+          "size": 35129787,
+          "downloadURL": "https://repo.ethsign.fyi/9cb8030f-2298-4a24-9314-1d6a69f65abf/Diamond%20Finder%20for%20Minecraft%20+%20v1.5.7%20Pro%20Unlocked%20blatant.ipa",
+          "localizedDescription": "\ud83d\udcf1 Diamond Finder for Minecraft +\n\n\ud83c\udd94 Bundle ID: \ncom.mcdiamondfinder.app\n\ud83d\udcca Version: 1.5.7\n\ud83d\udc68\u200d\ud83d\udcbb Developer: Digital App Group GmbH\n\ud83c\udff7 Category: Entertainment\n\ud83d\udd27 Minimum iOS: 14.0\n\n\ud83d\udc8e Modifier: Pro Unlocked\n\n\ud83d\udcdd Note: \nNo Additional Notes\n\n\ud83d\udd04 Tweaked by @blatants\n\nKo-Fi \u2615\ufe0f | Crypto \ud83d\udc7e | IPAs \ud83d\udce5"
+        }
+      ],
+      "appPermissions": {
+        "entitlements": [],
+        "privacy": {}
+      }
+    },
+    {
+      "name": "BiometricKitUITestApp",
+      "developerName": "ethMods",
+      "bundleIdentifier": "com.apple.BiometricKitUITestApp",
+      "localizedDescription": "Touch ID Test App 1.0\n\nhttps://fxtwitter.com/little_34306/status/1886080741530050911?\n\nThanks to Lmaoohdhd on twitter",
+      "iconURL": "https://paradoxtime.tk/img/pdt_logo_nobg_shadow.png",
+      "versions": [
+        {
+          "version": "1.0",
+          "date": "2025-02-03",
+          "size": 52742,
+          "downloadURL": "https://repo.ethsign.fyi/d8bf1518-4723-41dc-9d8d-b10bb8f16627/biometric.ipa",
+          "localizedDescription": "Touch ID Test App 1.0\n\nhttps://fxtwitter.com/little_34306/status/1886080741530050911?\n\nThanks to Lmaoohdhd on twitter"
+        }
+      ],
+      "appPermissions": {
+        "entitlements": [],
+        "privacy": {}
+      }
+    },
+    {
+      "name": "SNOW",
+      "developerName": "ethMods",
+      "bundleIdentifier": "com.campmobile.snow",
+      "localizedDescription": "SnowAi VIP 14.0.2\n- SnowAI 14.0.2\n- AI Beauty Camera App\n- Info: VIP Unlocked\n\nMade by ethTeam\nCrack by @VAXMG\nNeed a cert? Message @eth4dmin or @SultanIPAs",
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/52/ba/cc/52bacc06-3d59-a12b-0d3c-82296f42f418/AppIcon-0-0-1x_U007ephone-0-1-0-sRGB-85-220.png/512x512bb.jpg",
+      "versions": [
+        {
+          "version": "14.0.2",
+          "date": "2025-02-03",
+          "size": 127791392,
+          "downloadURL": "https://repo.ethsign.fyi/2b09e6cd-5701-499f-ac3c-38324fa9410d/com.campmobile.snow-14.0.2.ipa",
+          "localizedDescription": "SnowAi VIP 14.0.2\n- SnowAI 14.0.2\n- AI Beauty Camera App\n- Info: VIP Unlocked\n\nMade by ethTeam\nCrack by @VAXMG\nNeed a cert? Message @eth4dmin or @SultanIPAs"
+        },
+        {
+          "version": "14.0.0",
+          "date": "2025-01-22",
+          "size": 128000886,
+          "downloadURL": "https://repo.ethsign.fyi/f6503792-9ace-413c-8973-628e7dadd7c3/com.campmobile.snow-14.0.0.ipa",
+          "localizedDescription": "SnowAi VIP 14.0.0\n- SnowAI 14.0.0\n- AI Beauty Camera App\n- Info: VIP Unlocked\n\nMade by ethTeam\nCrack by @VAXMG\nNeed a cert? Message @eth4dmin or @SultanIPAs"
+        },
+        {
+          "version": "13.6.11",
+          "date": "2025-01-07",
+          "size": 126774976,
+          "downloadURL": "https://repo.ethsign.fyi/827a9633-bd82-4e33-b6f5-04487118c976/com.campmobile.snow-13.6.11.ipa",
+          "localizedDescription": "SnowAi VIP 13.6.11\n- SnowAI 13.6.11\n- AI Beauty Camera App\n- Info: VIP Unlocked\n\nMade by ethTeam\nCrack by @VAXMG\nNeed a cert? Dm @SultanIPAs"
+        }
+      ],
+      "appPermissions": {
+        "entitlements": [],
+        "privacy": {}
+      }
+    },
+    {
+      "name": "1Blocker",
+      "developerName": "ethMods",
+      "bundleIdentifier": "com.khanov.BlockerX",
+      "localizedDescription": "\ud83d\udcf1 1Blocker - Ad Blocker\n\n\ud83c\udd94 Bundle ID: \ncom.khanov.BlockerX\n\ud83d\udcca Version: 6.0.5\n\ud83d\udc68\u200d\ud83d\udcbb Developer: 1Blocker LLC\n\ud83c\udff7 Category: Utilities\n\ud83d\udd27 Minimum iOS: 16.0\n\n\ud83d\udc8e Modifier: Subscription Unlocked\n\n\ud83d\udcdd Note: \n\u26a0\ufe0f To make the app work with certificates patch the iPA > Read.\n\n\ud83d\udd04 Tweaked by @blatants\n\nKo-Fi \u2615 | AppStore \ud83d\udcf1 | IPAs \ud83d\udce5",
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/48/02/b7/4802b7b8-479b-92ac-e1fc-317a4881dd7f/AppIcon-Blocker-0-0-1x_U007epad-0-1-0-sRGB-85-220.png/512x512bb.jpg",
+      "versions": [
+        {
+          "version": "6.0.5",
+          "date": "2025-02-02",
+          "size": 34561534,
+          "downloadURL": "https://repo.ethsign.fyi/72ecf527-9ade-46c4-ab99-aab20963076c/1Blocker%20v6.0.5%20Subscription%20Unlocked%20blatant.ipa",
+          "localizedDescription": "\ud83d\udcf1 1Blocker - Ad Blocker\n\n\ud83c\udd94 Bundle ID: \ncom.khanov.BlockerX\n\ud83d\udcca Version: 6.0.5\n\ud83d\udc68\u200d\ud83d\udcbb Developer: 1Blocker LLC\n\ud83c\udff7 Category: Utilities\n\ud83d\udd27 Minimum iOS: 16.0\n\n\ud83d\udc8e Modifier: Subscription Unlocked\n\n\ud83d\udcdd Note: \n\u26a0\ufe0f To make the app work with certificates patch the iPA > Read.\n\n\ud83d\udd04 Tweaked by @blatants\n\nKo-Fi \u2615 | AppStore \ud83d\udcf1 | IPAs \ud83d\udce5"
+        }
+      ],
+      "appPermissions": {
+        "entitlements": [],
+        "privacy": {}
+      }
+    },
+    {
+      "name": "audiomack",
+      "developerName": "ethMods",
+      "bundleIdentifier": "com.audiomack.iphone",
+      "localizedDescription": "\ud83d\udcf1 Audiomack - Play Music Offline\n\n\ud83c\udd94 Bundle ID: \ncom.audiomack.iphone\n\ud83d\udcca Version: 7.8.0\n\ud83d\udc68\u200d\ud83d\udcbb Developer: Audiomack, Inc.\n\ud83c\udff7 Category: Music\n\ud83d\udd27 Minimum iOS: 14.0\n\n\ud83d\udc8e Modifier: Subscription Unlocked\n\n\ud83d\udcdd Note: \nNo Additional Notes\n\n\ud83d\udd04 Tweaked by @blatants\n\nKo-Fi \u2615\ufe0f | Crypto \ud83d\udc7e | IPAs \ud83d\udce5",
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/bf/e7/55/bfe75553-3fe2-5a43-e234-9c0f284c0b59/AppIcon-1-0-0-1x_U007emarketing-0-6-0-85-220.png/512x512bb.jpg",
+      "versions": [
+        {
+          "version": "7.8.0",
+          "date": "2025-02-02",
+          "size": 158841421,
+          "downloadURL": "https://repo.ethsign.fyi/1b88be01-f455-4329-a9ad-1c2b60e33c0d/Audiomack_Play_Music_Offline_v7_8_0_Subscription_Unlocked_blatant.ipa",
+          "localizedDescription": "\ud83d\udcf1 Audiomack - Play Music Offline\n\n\ud83c\udd94 Bundle ID: \ncom.audiomack.iphone\n\ud83d\udcca Version: 7.8.0\n\ud83d\udc68\u200d\ud83d\udcbb Developer: Audiomack, Inc.\n\ud83c\udff7 Category: Music\n\ud83d\udd27 Minimum iOS: 14.0\n\n\ud83d\udc8e Modifier: Subscription Unlocked\n\n\ud83d\udcdd Note: \nNo Additional Notes\n\n\ud83d\udd04 Tweaked by @blatants\n\nKo-Fi \u2615\ufe0f | Crypto \ud83d\udc7e | IPAs \ud83d\udce5"
+        },
+        {
+          "version": "7.6.0",
+          "date": "2024-12-20",
+          "size": 153752990,
+          "downloadURL": "https://repo.ethsign.fyi/fcc3ca9b-0aec-4a80-83eb-d25c67b73a7e/com.audiomack.iphone-7.6.0.ipa",
+          "localizedDescription": "Audiomack 7.6.0\n- Audiomack 7.6.0\n- Music Streaming App\n- Info: Subscription Unlocked\n- Widget works but it Requires Cert With AppGroups entitlement\n\nzxcvbn AutoRc injected\nMade by @VAXMG"
+        }
+      ],
+      "appPermissions": {
+        "entitlements": [],
+        "privacy": {}
+      }
+    },
+    {
+      "name": "Translate Now",
+      "developerName": "ethMods",
+      "bundleIdentifier": "solutions.wzp.translator",
+      "localizedDescription": "\ud83d\udcf1 Translate Now - AI Translator\n\n\ud83c\udd94 Bundle ID: \nsolutions.wzp.translator\n\ud83d\udcca Version: 8.11.0\n\ud83d\udc68\u200d\ud83d\udcbb Developer: Air Apps Systems\n\ud83c\udff7 Category: Reference\n\ud83d\udd27 Minimum iOS: 13.0\n\n\ud83d\udc8e Modifier: Subscription Unlocked\n\n\ud83d\udcdd Note: \nTo make the keyboard work with certificates > Read.\n\n\ud83d\udd04 Tweaked by @blatants\n\nKo-Fi \u2615\ufe0f | Crypto \ud83d\udc7e | IPAs \ud83d\udce5",
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/59/b6/36/59b6365d-ed15-50fc-c310-def0b767bf32/AppIcon-0-0-1x_U007epad-0-1-0-sRGB-0-85-220.png/512x512bb.jpg",
+      "versions": [
+        {
+          "version": "8.11.0",
+          "date": "2025-02-02",
+          "size": 115094421,
+          "downloadURL": "https://repo.ethsign.fyi/629d59a1-58b1-4d17-8d86-e3e614de0d15/Translate_Now_AI_Translator_v8_11_0_Subscription_Unlocked_blatant.ipa",
+          "localizedDescription": "\ud83d\udcf1 Translate Now - AI Translator\n\n\ud83c\udd94 Bundle ID: \nsolutions.wzp.translator\n\ud83d\udcca Version: 8.11.0\n\ud83d\udc68\u200d\ud83d\udcbb Developer: Air Apps Systems\n\ud83c\udff7 Category: Reference\n\ud83d\udd27 Minimum iOS: 13.0\n\n\ud83d\udc8e Modifier: Subscription Unlocked\n\n\ud83d\udcdd Note: \nTo make the keyboard work with certificates > Read.\n\n\ud83d\udd04 Tweaked by @blatants\n\nKo-Fi \u2615\ufe0f | Crypto \ud83d\udc7e | IPAs \ud83d\udce5"
+        }
+      ],
+      "appPermissions": {
+        "entitlements": [],
+        "privacy": {}
+      }
+    },
+    {
+      "name": "Rogue Legacy",
+      "developerName": "ethMods",
+      "bundleIdentifier": "com.cellardoorgames.rogue-legacy",
+      "localizedDescription": "Rogue Legacy v1.0.5  \n\n\ud83c\uddf7\ud83c\uddfa \u0420\u043e\u0433\u0430\u043b\u0438\u043a, \u0432 \u043a\u043e\u0442\u043e\u0440\u043e\u043c \u043a\u0430\u0436\u0434\u044b\u0439 \u043f\u0435\u0440\u0441\u043e\u043d\u0430\u0436 \u043e\u0431\u043b\u0430\u0434\u0430\u0435\u0442 \u0443\u043d\u0438\u043a\u0430\u043b\u044c\u043d\u044b\u043c\u0438 \u0441\u043f\u043e\u0441\u043e\u0431\u043d\u043e\u0441\u0442\u044f\u043c\u0438, \u0430 \u0432\u044b \u0438\u0441\u0441\u043b\u0435\u0434\u0443\u0435\u0442\u0435 \u043f\u043e\u0434\u0437\u0435\u043c\u0435\u043b\u044c\u044f, \u0441\u0440\u0430\u0436\u0430\u044f\u0441\u044c \u0441 \u043c\u043e\u043d\u0441\u0442\u0440\u0430\u043c\u0438.  \n\u2014 \u041f\u043b\u0430\u0442\u043d\u043e\u0435 \u043f\u0440\u0438\u043b\u043e\u0436\u0435\u043d\u0438\u0435 \u0438\u0437 AppStore  \n\u00a9 \u0421\u043e\u0437\u0434\u0430\u043d\u043e: GLESign\n\n\ud83c\uddfa\ud83c\uddf8 A roguelike where each character has unique abilities, and you explore dungeons, fighting monsters.  \n\u2014 Paid app from AppStore  \n\u00a9 Created: GLESign",
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple115/v4/b5/7e/77/b57e778c-03a5-940d-5c93-821b1f5619ee/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/512x512bb.jpg",
+      "versions": [
+        {
+          "version": "1.0.5",
+          "date": "2025-02-02",
+          "size": 122232920,
+          "downloadURL": "https://repo.ethsign.fyi/dfe98c23-5f64-4b31-a02f-d02d6a55246b/Rogue%20Legacy%20v1.0.5%5Btg@glesign%5D.ipa",
+          "localizedDescription": "Rogue Legacy v1.0.5  \n\n\ud83c\uddf7\ud83c\uddfa \u0420\u043e\u0433\u0430\u043b\u0438\u043a, \u0432 \u043a\u043e\u0442\u043e\u0440\u043e\u043c \u043a\u0430\u0436\u0434\u044b\u0439 \u043f\u0435\u0440\u0441\u043e\u043d\u0430\u0436 \u043e\u0431\u043b\u0430\u0434\u0430\u0435\u0442 \u0443\u043d\u0438\u043a\u0430\u043b\u044c\u043d\u044b\u043c\u0438 \u0441\u043f\u043e\u0441\u043e\u0431\u043d\u043e\u0441\u0442\u044f\u043c\u0438, \u0430 \u0432\u044b \u0438\u0441\u0441\u043b\u0435\u0434\u0443\u0435\u0442\u0435 \u043f\u043e\u0434\u0437\u0435\u043c\u0435\u043b\u044c\u044f, \u0441\u0440\u0430\u0436\u0430\u044f\u0441\u044c \u0441 \u043c\u043e\u043d\u0441\u0442\u0440\u0430\u043c\u0438.  \n\u2014 \u041f\u043b\u0430\u0442\u043d\u043e\u0435 \u043f\u0440\u0438\u043b\u043e\u0436\u0435\u043d\u0438\u0435 \u0438\u0437 AppStore  \n\u00a9 \u0421\u043e\u0437\u0434\u0430\u043d\u043e: GLESign\n\n\ud83c\uddfa\ud83c\uddf8 A roguelike where each character has unique abilities, and you explore dungeons, fighting monsters.  \n\u2014 Paid app from AppStore  \n\u00a9 Created: GLESign"
+        }
+      ],
+      "appPermissions": {
+        "entitlements": [],
+        "privacy": {}
+      }
+    },
+    {
+      "name": "EnhanceFox",
+      "developerName": "ethMods",
+      "bundleIdentifier": "com.risingcabbage.enhancefox",
+      "localizedDescription": "EnhanceFox Pro 7.4.0\n- EnhanceFox 7.4.0\n- Photo Enhancer\n- Info: All features have been successfully unlocked except Enhance Video and Animate Face\n\nMade by @eth4dmin\nDecrypted by @eeveedecrypterbot",
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/ef/00/bb/ef00bb3b-be2a-cf20-6064-c59b69b8d391/AppIcon-0-1x_U007emarketing-0-7-0-0-85-220-0.png/512x512bb.jpg",
+      "versions": [
+        {
+          "version": "7.4.0",
+          "date": "2025-02-01",
+          "size": 189594809,
+          "downloadURL": "https://repo.ethsign.fyi/b0290995-bc99-4f67-ae65-9e347eadeb9f/EnhanceFox-v7.4.0-Pro-SultanMods.ipa",
+          "localizedDescription": "EnhanceFox Pro 7.4.0\n- EnhanceFox 7.4.0\n- Photo Enhancer\n- Info: All features have been successfully unlocked except Enhance Video and Animate Face\n\nMade by @eth4dmin\nDecrypted by @eeveedecrypterbot"
+        }
+      ],
+      "appPermissions": {
+        "entitlements": [],
+        "privacy": {}
+      }
+    },
+    {
+      "name": "Angry Birds",
+      "developerName": "ethMods",
+      "bundleIdentifier": "com.rovio.angrybirdsrio",
+      "localizedDescription": "Angry Birds Rio 2.6.13\n- Removed From AppStore\n- Support Iphone Devices Only\n- Works on arm64 and arm64e\n\nDecrypted by @VAXMG",
+      "iconURL": "https://paradoxtime.tk/img/pdt_logo_nobg_shadow.png",
+      "versions": [
+        {
+          "version": "2.6.13",
+          "date": "2025-01-28",
+          "size": 60857248,
+          "downloadURL": "https://repo.ethsign.fyi/952a81ab-9921-4629-9a31-0974640255c6/Angry%20Birds%20Rio%20%282.6.13%29.ipa",
+          "localizedDescription": "Angry Birds Rio 2.6.13\n- Removed From AppStore\n- Support Iphone Devices Only\n- Works on arm64 and arm64e\n\nDecrypted by @VAXMG"
+        }
+      ],
+      "appPermissions": {
+        "entitlements": [],
+        "privacy": {}
+      }
+    },
+    {
+      "name": "Forza Football",
+      "developerName": "ethMods",
+      "bundleIdentifier": "com.footballaddicts.livescoreaddicts",
+      "localizedDescription": "Forza Football Pro 6.11.5\n- Forza Football 6.11.5\n- Track European football \n- Info: Pro Unlocked\n\nMade by @SultanIPAS\nNeed a cert? Contact @SultanIPAS or @eth4dmin\nNew Main Channel: https://t.me/SultanModsiOS",
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/73/6f/ba/736fbaf4-742c-ab29-7233-e4c880a94736/AppIcon-0-0-1x_U007epad-0-0-0-1-0-0-sRGB-85-220.png/512x512bb.jpg",
+      "versions": [
+        {
+          "version": "6.11.5",
+          "date": "2025-01-27",
+          "size": 71028341,
+          "downloadURL": "https://repo.ethsign.fyi/cefbc67f-5b28-4bd4-a334-917cdcbe1438/com.footballaddicts.livescoreaddicts-6.11.5-78428_patched.ipa",
+          "localizedDescription": "Forza Football Pro 6.11.5\n- Forza Football 6.11.5\n- Track European football \n- Info: Pro Unlocked\n\nMade by @SultanIPAS\nNeed a cert? Contact @SultanIPAS or @eth4dmin\nNew Main Channel: https://t.me/SultanModsiOS"
+        }
+      ],
+      "appPermissions": {
+        "entitlements": [],
+        "privacy": {}
+      }
+    },
+    {
+      "name": "Rest",
+      "developerName": "ethMods",
+      "bundleIdentifier": "com.evolve.helm",
+      "localizedDescription": "\ud83d\udcf1 Rest: Fix Your Sleep For Good\n\n\ud83c\udd94 Bundle ID: \ncom.evolve.helm\n\ud83d\udcca Version: 3.117.0\n\ud83d\udc68\u200d\ud83d\udcbb Developer: Evolve Global, Inc.\n\ud83c\udff7 Category: Health & Fitness\n\ud83d\udd27 Minimum iOS: 15.0\n\n\ud83d\udc8e Modifier: Subscription Unlocked\n\n\ud83d\udcdd Note: \nNo Additional Notes\n\n\ud83d\udd04 Tweaked by @blatants\n\nKo-Fi \u2615 | AppStore \ud83d\udcf1 | IPAs \ud83d\udce5",
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/35/c5/ba/35c5ba92-859c-af2d-07fd-e9aa342d4e74/AppIcon-0-0-1x_U007emarketing-0-11-0-sRGB-85-220.png/512x512bb.jpg",
+      "versions": [
+        {
+          "version": "3.117.0",
+          "date": "2025-01-27",
+          "size": 121863236,
+          "downloadURL": "https://repo.ethsign.fyi/0a8d32fb-561b-47b1-90d6-5115a290f563/helm%20v3.117.0%20Subscription%20Unlocked%20blatant.ipa",
+          "localizedDescription": "\ud83d\udcf1 Rest: Fix Your Sleep For Good\n\n\ud83c\udd94 Bundle ID: \ncom.evolve.helm\n\ud83d\udcca Version: 3.117.0\n\ud83d\udc68\u200d\ud83d\udcbb Developer: Evolve Global, Inc.\n\ud83c\udff7 Category: Health & Fitness\n\ud83d\udd27 Minimum iOS: 15.0\n\n\ud83d\udc8e Modifier: Subscription Unlocked\n\n\ud83d\udcdd Note: \nNo Additional Notes\n\n\ud83d\udd04 Tweaked by @blatants\n\nKo-Fi \u2615 | AppStore \ud83d\udcf1 | IPAs \ud83d\udce5"
+        }
+      ],
+      "appPermissions": {
+        "entitlements": [],
+        "privacy": {}
+      }
+    },
+    {
+      "name": "Wolfram|Alpha",
+      "developerName": "ethMods",
+      "bundleIdentifier": "com.wolframalpha.wolframalphaviewer",
+      "localizedDescription": "\ud83d\udcf1 WolframAlpha\n\n\ud83c\udd94 Bundle ID: \ncom.wolframalpha.wolframalphaviewer\n\ud83d\udcca Version: 2.5.1\n\ud83d\udc68\u200d\ud83d\udcbb Developer: Wolfram Group LLC\n\ud83c\udff7 Category: Education\n\ud83d\udd27 Minimum iOS: 16.0\n\n\ud83d\udc8e Modifier: Pro Unlocked\n\n\ud83d\udcdd Note: \nLogin to activate \"Pro\"\n\n\ud83d\udd04 Tweaked by @blatants\n\nKo-Fi \u2615 | AppStore \ud83d\udcf1 | IPAs \ud83d\udce5",
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/b4/98/49/b49849c7-e582-dfa2-1a6d-333262b8622c/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/512x512bb.jpg",
+      "versions": [
+        {
+          "version": "2.5.1",
+          "date": "2025-01-26",
+          "size": 169929602,
+          "downloadURL": "https://repo.ethsign.fyi/c8eb8889-83e2-4ed0-8dfe-293509571c17/WolframAlpha%20v2.5.1%20Pro%20Unlocked%20blatant.ipa",
+          "localizedDescription": "\ud83d\udcf1 WolframAlpha\n\n\ud83c\udd94 Bundle ID: \ncom.wolframalpha.wolframalphaviewer\n\ud83d\udcca Version: 2.5.1\n\ud83d\udc68\u200d\ud83d\udcbb Developer: Wolfram Group LLC\n\ud83c\udff7 Category: Education\n\ud83d\udd27 Minimum iOS: 16.0\n\n\ud83d\udc8e Modifier: Pro Unlocked\n\n\ud83d\udcdd Note: \nLogin to activate \"Pro\"\n\n\ud83d\udd04 Tweaked by @blatants\n\nKo-Fi \u2615 | AppStore \ud83d\udcf1 | IPAs \ud83d\udce5"
+        }
+      ],
+      "appPermissions": {
+        "entitlements": [],
+        "privacy": {}
+      }
+    },
+    {
+      "name": "FujiXWeekly",
+      "developerName": "ethMods",
+      "bundleIdentifier": "com.fujixweekly.fujixweeklyrecipes",
+      "localizedDescription": "\ud83d\udcf1 Fuji X Weekly \u2014\u00a0Film Recipes\n\n\ud83c\udd94 Bundle ID: \ncom.fujixweekly.fujixweeklyrecipes\n\ud83d\udcca Version: 1.8.0\n\ud83d\udc68\u200d\ud83d\udcbb Developer: Ritchie Roesch\n\ud83c\udff7 Category: Photo & Video\n\ud83d\udd27 Minimum iOS: 16.1\n\n\ud83d\udc8e Modifier: Pro Unlocked\n\n\ud83d\udcdd Note: \nNo Additional Notes\n\n\ud83d\udd04 Tweaked by @blatants\n\nKo-Fi \u2615 | AppStore \ud83d\udcf1 | IPAs \ud83d\udce5",
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/fb/19/2c/fb192c4d-e435-5918-876f-7566cbd10070/AppIcon-0-0-1x_U007epad-0-1-85-220.png/512x512bb.jpg",
+      "versions": [
+        {
+          "version": "1.8.0",
+          "date": "2025-01-26",
+          "size": 5907068,
+          "downloadURL": "https://repo.ethsign.fyi/7062bae1-4db9-4198-acfb-f2b818008239/FujiXWeekly%20v1.8.0%20Pro%20Unlocked%20blatant.ipa",
+          "localizedDescription": "\ud83d\udcf1 Fuji X Weekly \u2014\u00a0Film Recipes\n\n\ud83c\udd94 Bundle ID: \ncom.fujixweekly.fujixweeklyrecipes\n\ud83d\udcca Version: 1.8.0\n\ud83d\udc68\u200d\ud83d\udcbb Developer: Ritchie Roesch\n\ud83c\udff7 Category: Photo & Video\n\ud83d\udd27 Minimum iOS: 16.1\n\n\ud83d\udc8e Modifier: Pro Unlocked\n\n\ud83d\udcdd Note: \nNo Additional Notes\n\n\ud83d\udd04 Tweaked by @blatants\n\nKo-Fi \u2615 | AppStore \ud83d\udcf1 | IPAs \ud83d\udce5"
+        }
+      ],
+      "appPermissions": {
+        "entitlements": [],
+        "privacy": {}
+      }
+    },
+    {
+      "name": "AmazingSpiderMan",
+      "developerName": "ethMods",
+      "bundleIdentifier": "com.gameloft.AmazingSpiderMan",
+      "localizedDescription": "Amazing Spider-Man v1.0.5\n\n\ud83c\uddf7\ud83c\uddfa \u0412\u043e\u043f\u043b\u043e\u0442\u0438\u0442\u0435\u0441\u044c \u0432 \u0440\u043e\u043b\u044c \u0427\u0435\u043b\u043e\u0432\u0435\u043a\u0430-\u043f\u0430\u0443\u043a\u0430 \u0438 \u0441\u043f\u0430\u0441\u0430\u0439\u0442\u0435 \u041d\u044c\u044e-\u0419\u043e\u0440\u043a \u043e\u0442 \u0437\u043b\u043e\u0434\u0435\u0435\u0432 \u0432 \u044d\u0442\u043e\u043c \u0437\u0430\u0445\u0432\u0430\u0442\u044b\u0432\u0430\u044e\u0449\u0435\u043c \u044d\u043a\u0448\u043d-\u043f\u0440\u0438\u043a\u043b\u044e\u0447\u0435\u043d\u0438\u0438!  \n\u2014 \u041f\u043b\u0430\u0442\u043d\u043e\u0435 \u043f\u0440\u0438\u043b\u043e\u0436\u0435\u043d\u0438\u0435 \u0438\u0437 AppStore  \n\u00a9 \u0421\u043e\u0437\u0434\u0430\u043d\u043e: GLESign\n\n\ud83c\uddfa\ud83c\uddf8 Step into the role of Spider-Man and save New York from villains in this thrilling action adventure!  \n\u2014 Paid app from AppStore  \n\u00a9 Created: GLESign",
+      "iconURL": "https://paradoxtime.tk/img/pdt_logo_nobg_shadow.png",
+      "versions": [
+        {
+          "version": "1.0.5",
+          "date": "2025-01-26",
+          "size": 1109443111,
+          "downloadURL": "https://repo.ethsign.fyi/ad839e99-388b-49b4-9247-8d33eff8cf6c/AmazingSpiderMan%20v1.0.5%5Btg@glesign%5D.ipa",
+          "localizedDescription": "Amazing Spider-Man v1.0.5\n\n\ud83c\uddf7\ud83c\uddfa \u0412\u043e\u043f\u043b\u043e\u0442\u0438\u0442\u0435\u0441\u044c \u0432 \u0440\u043e\u043b\u044c \u0427\u0435\u043b\u043e\u0432\u0435\u043a\u0430-\u043f\u0430\u0443\u043a\u0430 \u0438 \u0441\u043f\u0430\u0441\u0430\u0439\u0442\u0435 \u041d\u044c\u044e-\u0419\u043e\u0440\u043a \u043e\u0442 \u0437\u043b\u043e\u0434\u0435\u0435\u0432 \u0432 \u044d\u0442\u043e\u043c \u0437\u0430\u0445\u0432\u0430\u0442\u044b\u0432\u0430\u044e\u0449\u0435\u043c \u044d\u043a\u0448\u043d-\u043f\u0440\u0438\u043a\u043b\u044e\u0447\u0435\u043d\u0438\u0438!  \n\u2014 \u041f\u043b\u0430\u0442\u043d\u043e\u0435 \u043f\u0440\u0438\u043b\u043e\u0436\u0435\u043d\u0438\u0435 \u0438\u0437 AppStore  \n\u00a9 \u0421\u043e\u0437\u0434\u0430\u043d\u043e: GLESign\n\n\ud83c\uddfa\ud83c\uddf8 Step into the role of Spider-Man and save New York from villains in this thrilling action adventure!  \n\u2014 Paid app from AppStore  \n\u00a9 Created: GLESign"
+        }
+      ],
+      "appPermissions": {
+        "entitlements": [],
+        "privacy": {}
+      }
+    },
+    {
+      "name": "DreamLeague",
+      "developerName": "ethMods",
+      "bundleIdentifier": "com.firsttouch.dts",
+      "localizedDescription": "- Removed From The AppStore\n- Decrypted By @VAXMG",
+      "iconURL": "https://paradoxtime.tk/img/pdt_logo_nobg_shadow.png",
+      "versions": [
+        {
+          "version": "2.10",
+          "date": "2025-01-26",
+          "size": 141846923,
+          "downloadURL": "https://repo.ethsign.fyi/023dcd88-9bfa-47f7-9d71-da6926e960fe/Dream%20League%20Soccer%20Classic%20%282.10%29.ipa",
+          "localizedDescription": "- Removed From The AppStore\n- Decrypted By @VAXMG"
+        }
+      ],
+      "appPermissions": {
+        "entitlements": [],
+        "privacy": {}
+      }
+    },
+    {
+      "name": "Suicide Squad: Special Ops",
+      "developerName": "ethMods",
+      "bundleIdentifier": "com.wb.suicidesquad.so",
+      "localizedDescription": "- Removed From AppStore\n- Decrypted by @VAXMG",
+      "iconURL": "https://paradoxtime.tk/img/pdt_logo_nobg_shadow.png",
+      "versions": [
+        {
+          "version": "1.1.2",
+          "date": "2025-01-26",
+          "size": 173194338,
+          "downloadURL": "https://repo.ethsign.fyi/7ebe7a76-825c-4874-89de-425526aeb266/Suicide%20Squad:%20Special%20Ops%20%281.1.2%29.ipa",
+          "localizedDescription": "- Removed From AppStore\n- Decrypted by @VAXMG"
+        }
+      ],
+      "appPermissions": {
+        "entitlements": [],
+        "privacy": {}
+      }
+    },
+    {
+      "name": "Home workouts",
+      "developerName": "ethMods",
+      "bundleIdentifier": "com.abishkking.maleworkout",
+      "localizedDescription": "\ud83d\udcf1 Home Workout - No Equipments\n\n\ud83c\udd94 Bundle ID: \ncom.abishkking.maleworkout\n\ud83d\udcca Version: 1.31.0\n\ud83d\udc68\u200d\ud83d\udcbb Developer: Leap Health\n\ud83c\udff7 Category: Health & Fitness\n\ud83d\udd27 Minimum iOS: 12.0\n\n\ud83d\udc8e Modifier: Subscription Unlocked\n\n\ud83d\udcdd Note: \nNo Additional Notes\n\n\ud83d\udd04 Tweaked by @blatants\n\nKo-Fi \u2615 | AppStore \ud83d\udcf1 | IPAs \ud83d\udce5",
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/04/e9/b3/04e9b335-9659-61ea-8c3e-45f9bfbd2f2a/AppIcon-0-0-1x_U007epad-0-5-0-0-sRGB-85-220.png/512x512bb.jpg",
+      "versions": [
+        {
+          "version": "1.31.0",
+          "date": "2025-01-25",
+          "size": 385313696,
+          "downloadURL": "https://repo.ethsign.fyi/fe262c8d-9c33-4416-893a-ec1998b6160c/homeworkout%20v1.31.0%20Subscription%20Unlocked%20blatant.ipa",
+          "localizedDescription": "\ud83d\udcf1 Home Workout - No Equipments\n\n\ud83c\udd94 Bundle ID: \ncom.abishkking.maleworkout\n\ud83d\udcca Version: 1.31.0\n\ud83d\udc68\u200d\ud83d\udcbb Developer: Leap Health\n\ud83c\udff7 Category: Health & Fitness\n\ud83d\udd27 Minimum iOS: 12.0\n\n\ud83d\udc8e Modifier: Subscription Unlocked\n\n\ud83d\udcdd Note: \nNo Additional Notes\n\n\ud83d\udd04 Tweaked by @blatants\n\nKo-Fi \u2615 | AppStore \ud83d\udcf1 | IPAs \ud83d\udce5"
+        }
+      ],
+      "appPermissions": {
+        "entitlements": [],
+        "privacy": {}
+      }
+    },
+    {
+      "name": "Dualgram",
+      "developerName": "ethMods",
+      "bundleIdentifier": "com.just2us.dualgram",
+      "localizedDescription": "Dualgram Pro 1.27\n- Dualgram 1.27\n- Record on multiple cameras at once \n- Info: Pro Unlocked\n- iOS 15 min\n\nMade by @SultanIPAS\nNeed a cert? Contact @SultanIPAS or @eth4dmin",
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/c9/fe/9f/c9fe9f65-171e-dee0-69b1-d3074bdc066f/AppIcon-1x_U007emarketing-0-7-0-85-220.jpeg/512x512bb.jpg",
+      "versions": [
+        {
+          "version": "1.27",
+          "date": "2025-01-24",
+          "size": 5237372,
+          "downloadURL": "https://repo.ethsign.fyi/90d09107-7a43-4cf6-bbc4-d345bcaa909c/Dualgram-1.27Pro-SultanMods.ipa",
+          "localizedDescription": "Dualgram Pro 1.27\n- Dualgram 1.27\n- Record on multiple cameras at once \n- Info: Pro Unlocked\n- iOS 15 min\n\nMade by @SultanIPAS\nNeed a cert? Contact @SultanIPAS or @eth4dmin"
+        }
+      ],
+      "appPermissions": {
+        "entitlements": [],
+        "privacy": {}
+      }
+    },
+    {
+      "name": "IMDb",
+      "developerName": "ethMods",
+      "bundleIdentifier": "com.imdb.imdb",
+      "localizedDescription": "IMDB No Ads 15.3\n- IMDB 15.3\n- Track tv shows \n- Info: Ads removed \n- iOS 17 min\n\nMade by @SultanIPAS\nNeed a cert? Contact @SultanIPAS or @eth4dmin",
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/89/b6/9c/89b69cee-5049-80eb-e293-11e4f52c622f/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/512x512bb.jpg",
+      "versions": [
+        {
+          "version": "15.3",
+          "date": "2025-01-23",
+          "size": 41010680,
+          "downloadURL": "https://repo.ethsign.fyi/06825d5b-ac3b-45be-8879-6d1e7ac8c20c/imdb-15.3NoAds-SultanMods.ipa",
+          "localizedDescription": "IMDB No Ads 15.3\n- IMDB 15.3\n- Track tv shows \n- Info: Ads removed \n- iOS 17 min\n\nMade by @SultanIPAS\nNeed a cert? Contact @SultanIPAS or @eth4dmin"
+        }
+      ],
+      "appPermissions": {
+        "entitlements": [],
+        "privacy": {}
+      }
+    },
+    {
+      "name": "Fotorama",
+      "developerName": "ethMods",
+      "bundleIdentifier": "co.appnation.aiphotostudio",
+      "localizedDescription": "Fotorama Pro 3.2.6\n- Fotorama 3.2.6\n- Ai Photo App\n- Info: Pro Unlocked\n- Tap Buy then cancel \n- You will need to buy Pro every time you force close the app\n- To stop Apple Sign in Prompt read here\n- Plugin Patch included \n\nMade by @SultanIPAS\nNeed a cert? Contact @SultanIPAS or @eth4dmin",
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/8e/88/98/8e88980d-54db-2d41-6133-2b7ba61e68f8/AppIcon-0-0-1x_U007epad-0-0-85-220.jpeg/512x512bb.jpg",
+      "versions": [
+        {
+          "version": "3.2.6",
+          "date": "2025-01-22",
+          "size": 113193533,
+          "downloadURL": "https://repo.ethsign.fyi/e726788b-12b4-4516-8e82-694c7af28f35/Fotorama-3.2.6Pro-SultanMods.ipa",
+          "localizedDescription": "Fotorama Pro 3.2.6\n- Fotorama 3.2.6\n- Ai Photo App\n- Info: Pro Unlocked\n- Tap Buy then cancel \n- You will need to buy Pro every time you force close the app\n- To stop Apple Sign in Prompt read here\n- Plugin Patch included \n\nMade by @SultanIPAS\nNeed a cert? Contact @SultanIPAS or @eth4dmin"
+        }
+      ],
+      "appPermissions": {
+        "entitlements": [],
+        "privacy": {}
+      }
+    },
+    {
+      "name": "Logo Maker",
+      "developerName": "ethMods",
+      "bundleIdentifier": "com.contentarcade.LogoMaker",
+      "localizedDescription": "Logo Maker Pro 11.2.7\n- Logo Maker 11.2.7\n- Design Logos\n- Info: Pro unlocked\n\nMade by ethTeam\nCrack by @VAXMG\nNeed a cert? Message @eth4dmin or @SultanIPAs",
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/03/0c/58/030c585c-c103-a8a6-f2fa-ebe417f17aea/AppIcon-0-0-1x_U007emarketing-0-11-0-85-220.png/512x512bb.jpg",
+      "versions": [
+        {
+          "version": "11.2.7",
+          "date": "2025-01-22",
+          "size": 256209776,
+          "downloadURL": "https://repo.ethsign.fyi/05e7bed0-d585-4424-8e4d-fe74ac26be13/com.contentarcade.LogoMaker-11.2.7.ipa",
+          "localizedDescription": "Logo Maker Pro 11.2.7\n- Logo Maker 11.2.7\n- Design Logos\n- Info: Pro unlocked\n\nMade by ethTeam\nCrack by @VAXMG\nNeed a cert? Message @eth4dmin or @SultanIPAs"
+        },
+        {
+          "version": "11.2.5",
+          "date": "2024-12-31",
+          "size": 342419495,
+          "downloadURL": "https://repo.ethsign.fyi/448d1a7e-d02c-4311-aec1-974689eaefb4/Logo%20Maker_11.2.5Pro-SultanMods.ipa",
+          "localizedDescription": "Logo Maker Pro 11.2.5\n- Logo Maker 11.2.5\n- Design Logos\n- Info: Pro unlocked\n\nMade by ethTeam\nCrack by @VAXMG\nNeed a cert? Dm @SultanIPAS or @eth4dmin"
+        },
+        {
+          "version": "11.2.4",
+          "date": "2024-12-16",
+          "size": 320978533,
+          "downloadURL": "https://repo.ethsign.fyi/b8a71b1f-e660-4a0d-9069-59afabeb36bb/com.contentarcade.LogoMaker-11.2.4.ipa",
+          "localizedDescription": "Logo Maker Pro 11.2.4\n- Logo Maker 11.2.4\n- Design Logos\n- Info: Pro unlocked\n\nMade by ethTeam\nCrack by @VAXMG\nNeed a cert? Message @eth4dmin"
+        }
+      ],
+      "appPermissions": {
+        "entitlements": [],
+        "privacy": {}
+      }
+    },
+    {
+      "name": "80 Days",
+      "developerName": "ethMods",
+      "bundleIdentifier": "com.inkle.80days",
+      "localizedDescription": "New App 80 Days\nPaid Game $6.99\nDecrypted by SultanMods",
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple118/v4/56/4e/d8/564ed858-41ca-3cb2-e3ec-1620679f3cb8/AppIcon-1x_U007emarketing-85-220-6.png/512x512bb.jpg",
+      "versions": [
+        {
+          "version": "1.27",
+          "date": "2025-01-21",
+          "size": 159127110,
+          "downloadURL": "https://repo.ethsign.fyi/97331e02-b0ce-4889-b3cf-60a5c75bbfbe/80%20Days_1.27_decrypted.ipa",
+          "localizedDescription": "New App 80 Days\nPaid Game $6.99\nDecrypted by SultanMods"
+        }
+      ],
+      "appPermissions": {
+        "entitlements": [],
+        "privacy": {}
+      }
+    },
+    {
+      "name": "Fruit Merge: Match Game",
+      "developerName": "ethMods",
+      "bundleIdentifier": "com.puzzle.merge.fruits.watermelon.drop",
+      "localizedDescription": "Fruit Merge No Ads 6.2\n- Fruit Merge 6.2 \n- Match fruit together \n- Info: No Ads \n\nMade by @SultanIPAS\nNeed a cert? Contact @SultanIPAS or @eth4dmin",
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/ed/c9/e8/edc9e86e-8a23-dd09-9f4f-8a9462e51f30/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/512x512bb.jpg",
+      "versions": [
+        {
+          "version": "6.2",
+          "date": "2025-01-21",
+          "size": 98376046,
+          "downloadURL": "https://repo.ethsign.fyi/ee8d6357-62e2-4102-8dab-4f15e9ef4bb0/FruitsMerge-6.2NoAds-SultanMods.ipa",
+          "localizedDescription": "Fruit Merge No Ads 6.2\n- Fruit Merge 6.2 \n- Match fruit together \n- Info: No Ads \n\nMade by @SultanIPAS\nNeed a cert? Contact @SultanIPAS or @eth4dmin"
+        }
+      ],
+      "appPermissions": {
+        "entitlements": [],
+        "privacy": {}
+      }
+    },
+    {
+      "name": "Fasting",
+      "developerName": "ethMods",
+      "bundleIdentifier": "com.leapfitness.fasting",
+      "localizedDescription": "Fasting Pro 1.9.7\n- Fasting 1.9.7\n- Track your Fasting goals\n- Info: Premium Unlocked\n- Widget Require AppGroup Entitlement\n\nMade by @SultanIPAs\nCrack by @VAXMG\nNeed a cert? Contact @SultanIPAS or @eth4dmin",
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/cc/98/13/cc98131c-bc90-cb4c-9d3c-1224c744a416/AppIcon-0-0-1x_U007emarketing-0-7-0-0-85-220.png/512x512bb.jpg",
+      "versions": [
+        {
+          "version": "1.9.7",
+          "date": "2025-01-21",
+          "size": 309588068,
+          "downloadURL": "https://repo.ethsign.fyi/fd4abb63-3a3a-45f6-b666-53bf0ebc0064/com.leapfitness.fasting-1.9.7_patched_nofix.ipa",
+          "localizedDescription": "Fasting Pro 1.9.7\n- Fasting 1.9.7\n- Track your Fasting goals\n- Info: Premium Unlocked\n- Widget Require AppGroup Entitlement\n\nMade by @SultanIPAs\nCrack by @VAXMG\nNeed a cert? Contact @SultanIPAS or @eth4dmin"
+        },
+        {
+          "version": "1.9.5",
+          "date": "2025-01-05",
+          "size": 302232144,
+          "downloadURL": "https://repo.ethsign.fyi/1a5e8a94-80c1-4a76-91a1-3b5e8afa4639/com.leapfitness.fasting-1.9.5-82356_patched.ipa",
+          "localizedDescription": "Fasting Pro 1.9.5\n- Fasting 1.9.5\n- Track your Fasting goals\n- Info: Premium Unlocked\n- Widget Require AppGroup Entitlement\n\nMade by @SultanIPAs\nCrack by @VAXMG\nNeed a cert? Contact @SultanIPAS"
+        },
+        {
+          "version": "1.9.3",
+          "date": "2024-12-14",
+          "size": 301147659,
+          "downloadURL": "https://repo.ethsign.fyi/f519b8dc-13e5-4d63-913b-3aa23cc03067/com.leapfitness.fasting-1.9.3.ipa",
+          "localizedDescription": "Fasting Pro 1.9.3\n- Fasting 1.9.3\n- Track your Fasting goals\n- Info: Premium Unlocked\n- Widget Require AppGroup Entitlement\n \nMade by ethTeam\nCrack by @VAXMG\nNeed a cert? Message @eth4dmin"
+        }
+      ],
+      "appPermissions": {
+        "entitlements": [],
+        "privacy": {}
+      }
+    },
+    {
+      "name": "HDrezka",
+      "developerName": "ethMods",
+      "bundleIdentifier": "me.keet.HDRezka",
+      "localizedDescription": "HDRezka v1.5.2b540\n\n\ud83c\uddf7\ud83c\uddfa \u041d\u0435\u043e\u0444\u0438\u0446\u0438\u0430\u043b\u044c\u043d\u043e\u0435 \u043f\u0440\u0438\u043b\u043e\u0436\u0435\u043d\u0438\u0435 \u0434\u043b\u044f \u043f\u0440\u043e\u0441\u043c\u043e\u0442\u0440\u0430 \u043a\u043e\u043d\u0442\u0435\u043d\u0442\u0430 \u0441 \u0441\u0430\u0439\u0442\u0430 rezka.ag\n\u2014 \u0442\u0440\u0435\u0431\u0443\u0435\u0442\u0441\u044f iOS 16.0\n\u00a9 \u0421\u043e\u0437\u0434\u0430\u043d\u043e: HDrezka iOS\n\n\ud83c\uddfa\ud83c\uddf8 An unofficial application for viewing content from a website rezka.ag\n\u2014 Requires iOS 16.0\n\u00a9 Created by: HDrezka iOS",
+      "iconURL": "https://paradoxtime.tk/img/pdt_logo_nobg_shadow.png",
+      "versions": [
+        {
+          "version": "1.5.2",
+          "date": "2025-01-20",
+          "size": 4542818,
+          "downloadURL": "https://repo.ethsign.fyi/1541601f-9816-490d-b97b-a36cc8c0c8b1/HDRezka%20v1.5.2b540%5Btg@glesign%5D.ipa",
+          "localizedDescription": "HDRezka v1.5.2b540\n\n\ud83c\uddf7\ud83c\uddfa \u041d\u0435\u043e\u0444\u0438\u0446\u0438\u0430\u043b\u044c\u043d\u043e\u0435 \u043f\u0440\u0438\u043b\u043e\u0436\u0435\u043d\u0438\u0435 \u0434\u043b\u044f \u043f\u0440\u043e\u0441\u043c\u043e\u0442\u0440\u0430 \u043a\u043e\u043d\u0442\u0435\u043d\u0442\u0430 \u0441 \u0441\u0430\u0439\u0442\u0430 rezka.ag\n\u2014 \u0442\u0440\u0435\u0431\u0443\u0435\u0442\u0441\u044f iOS 16.0\n\u00a9 \u0421\u043e\u0437\u0434\u0430\u043d\u043e: HDrezka iOS\n\n\ud83c\uddfa\ud83c\uddf8 An unofficial application for viewing content from a website rezka.ag\n\u2014 Requires iOS 16.0\n\u00a9 Created by: HDrezka iOS"
+        }
+      ],
+      "appPermissions": {
+        "entitlements": [],
+        "privacy": {}
+      }
+    },
+    {
+      "name": "VPN",
+      "developerName": "ethMods",
+      "bundleIdentifier": "net.dreamdownloader.vpn",
+      "localizedDescription": "VPN Pro 2.2.8\n- VPN 2.2.8\n- VPN app\n- Requires Paid Cert/Trollstore\n- Use for TikTok ban \n\nMade by @SultanIPAs\nNeed a cert? Contact @SultanIPAS",
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/76/45/35/764535a0-fde1-b270-7459-f075c4f4b4fd/AppIcon-0-1x_U007emarketing-0-7-0-85-220.png/512x512bb.jpg",
+      "versions": [
+        {
+          "version": "2.2.8",
+          "date": "2025-01-19",
+          "size": 13204359,
+          "downloadURL": "https://repo.ethsign.fyi/c5734656-1b68-4333-8797-dc444ad74392/VPN-2.2.8Pro-SultanMods.ipa",
+          "localizedDescription": "VPN Pro 2.2.8\n- VPN 2.2.8\n- VPN app\n- Requires Paid Cert/Trollstore\n- Use for TikTok ban \n\nMade by @SultanIPAs\nNeed a cert? Contact @SultanIPAS"
+        },
+        {
+          "version": "2.2.8",
+          "date": "2025-01-07",
+          "size": 13204359,
+          "downloadURL": "https://repo.ethsign.fyi/14d09310-d140-4ffa-8010-e83c15c8eca3/net.dreamdownloader.vpn-2.2.8-83051_patched.ipa",
+          "localizedDescription": "VPN Pro 2.2.8\n- VPN 2.2.8\n- VPN app\n- Requires Paid Cert/Trollstore\n\nMade by @SultanIPAs\nNeed a cert? Contact @SultanIPAS"
+        }
+      ],
+      "appPermissions": {
+        "entitlements": [],
+        "privacy": {}
+      }
+    },
+    {
+      "name": "Apollo",
+      "developerName": "ethMods",
+      "bundleIdentifier": "com.christianselig.Apollo",
+      "localizedDescription": "Apollo Custom API 1.2.2\n- Apollo 1.15.11\n- The best Reddit client \n- Apollo Custom API 1.2.2\n- Requires your own Reddit API\n\nMade by @SultanIPAS",
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/a1/d8/a6/a1d8a63c-1534-2a04-b0fe-3de6e9c800b9/AppIcon-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-85-220.png/512x512bb.jpg",
+      "versions": [
+        {
+          "version": "1.15.11",
+          "date": "2025-01-17",
+          "size": 96312920,
+          "downloadURL": "https://repo.ethsign.fyi/284c57b3-5f3f-4595-8e14-3d1922836f33/ApolloICAPI-1.2.2-SultanMods.ipa",
+          "localizedDescription": "Apollo Custom API 1.2.2\n- Apollo 1.15.11\n- The best Reddit client \n- Apollo Custom API 1.2.2\n- Requires your own Reddit API\n\nMade by @SultanIPAS"
+        },
+        {
+          "version": "1.15.11",
+          "date": "2024-12-20",
+          "size": 108561124,
+          "downloadURL": "https://repo.ethsign.fyi/69104052-f9fb-49f9-b81d-2a858d7baa59/com.christianselig.Apollo-1.15.11-78653_patched_nofix.ipa",
+          "localizedDescription": "Apollo Custom API 1.2.1\n- Apollo 1.15.11\n- The best Reddit client \n- Apollo Custom API 1.2.1\n- Requires your own Reddit API\n\nMade by @SultanIPAs"
+        },
+        {
+          "version": "1.15.11",
+          "date": "2024-12-20",
+          "size": 108560931,
+          "downloadURL": "https://repo.ethsign.fyi/3b833894-bb70-44fe-8877-d5f5b8eaa012/com.christianselig.Apollo-1.15.11-78644_patched_nofix.ipa",
+          "localizedDescription": "Apollo Custom API 1.2.0\n- Apollo 1.15.11\n- The best Reddit client \n- Apollo Custom API 1.2.0\n- Requires your own Reddit API\n\nMade by @SultanIPAs"
+        }
+      ],
+      "appPermissions": {
+        "entitlements": [],
+        "privacy": {}
+      }
+    },
+    {
+      "name": "Sandbox",
+      "developerName": "ethMods",
+      "bundleIdentifier": "art.sandbox.app",
+      "localizedDescription": "Sandbox Pro 1.8.14\n- Sandbox 1.8.14 \n- Pixel Art \n- Info: Pro Unlocked\n\nMade by ethTeam\nCrack by @VAXMG",
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple122/v4/79/fd/f3/79fdf3bb-f0fd-f14e-6813-1b55af86478c/AppIcon-1x_U007emarketing-0-7-0-85-220.png/512x512bb.jpg",
+      "versions": [
+        {
+          "version": "1.8.14",
+          "date": "2025-01-12",
+          "size": 9180731,
+          "downloadURL": "https://repo.ethsign.fyi/38d638dc-b203-480a-b0a4-da9045d2c8b4/Sandbox-1.8.14Pro-SultanMods.ipa",
+          "localizedDescription": "Sandbox Pro 1.8.14\n- Sandbox 1.8.14 \n- Pixel Art \n- Info: Pro Unlocked\n\nMade by ethTeam\nCrack by @VAXMG"
+        }
+      ],
+      "appPermissions": {
+        "entitlements": [],
+        "privacy": {}
+      }
+    },
+    {
+      "name": "Egern",
+      "developerName": "ethMods",
+      "bundleIdentifier": "com.bytecrossing.Egern",
+      "localizedDescription": "Egern 1.28.1\n- Egern 1.28.1\n- VPN to hack apps\n- Paid App $4.99\n- Egern Scripts\n\n\u26a0\ufe0fTrollStore Only & iOS 16 min\u26a0\ufe0f\n\nDecrypted by Anon",
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/96/85/3e/96853ef1-051d-e18a-70e0-31fc7b2f9554/AppIcon-0-0-1x_U007epad-0-1-85-220.png/512x512bb.jpg",
+      "versions": [
+        {
+          "version": "1.28.0",
+          "date": "2025-01-11",
+          "size": 18652362,
+          "downloadURL": "https://repo.ethsign.fyi/95fe0986-8a2f-4206-aa15-5e133059f2ae/Egern-1.28.1-SultanMods_patched.ipa",
+          "localizedDescription": "Egern 1.28.1\n- Egern 1.28.1\n- VPN to hack apps\n- Paid App $4.99\n- Egern Scripts\n\n\u26a0\ufe0fTrollStore Only & iOS 16 min\u26a0\ufe0f\n\nDecrypted by Anon"
+        },
+        {
+          "version": "1.28.0",
+          "date": "2025-01-10",
+          "size": 18652362,
+          "downloadURL": "https://repo.ethsign.fyi/1cedbe78-cd19-4583-994f-a70369b65456/1616105820_patched.ipa",
+          "localizedDescription": "Egern 1.28.0\n- Egern 1.28.0\n- VPN to hack apps\n- Paid App $4.99\n- Egern Scripts\n\n\u26a0\ufe0fTrollStore Only & iOS 16 min\u26a0\ufe0f\n\nDecrypted by Anon"
+        },
+        {
+          "version": "1.27.0",
+          "date": "2025-01-08",
+          "size": 18667810,
+          "downloadURL": "https://repo.ethsign.fyi/7e14d292-6e8f-42f3-aac2-e82a0719d372/Egern-1.27.0-SultanMods.ipa",
+          "localizedDescription": "Egern 1.27.0\n- Egern 1.27.0\n- VPN to hack apps\n- Paid App $4.99\n- Egern Scripts\n\n\u26a0\ufe0fTrollStore Only & iOS 16 min\u26a0\ufe0f\n\nDecrypted by Anon"
+        }
+      ],
+      "appPermissions": {
+        "entitlements": [],
+        "privacy": {}
+      }
+    },
+    {
+      "name": "Madari Client",
+      "developerName": "ethMods",
+      "bundleIdentifier": "media.madari.madariClient",
+      "localizedDescription": "Madari Client 1.0.2\n- Madari Client 1.0.2\n- Vidi/Stremio FOSS alternative \n- Requires Real-Debrid account \n- Stremio-Addons\n- Discord Link\n\nMade by @madari_oss\nNeed a cert? Contact @eth4dmin",
+      "iconURL": "https://paradoxtime.tk/img/pdt_logo_nobg_shadow.png",
+      "versions": [
+        {
+          "version": "1.0.2",
+          "date": "2025-01-11",
+          "size": 46332404,
+          "downloadURL": "https://repo.ethsign.fyi/f4cba192-fa9f-40aa-af12-da4879569db0/MadariClient_1.0.2-5.ipa",
+          "localizedDescription": "Madari Client 1.0.2\n- Madari Client 1.0.2\n- Vidi/Stremio FOSS alternative \n- Requires Real-Debrid account \n- Stremio-Addons\n- Discord Link\n\nMade by @madari_oss\nNeed a cert? Contact @eth4dmin"
+        },
+        {
+          "version": "1.0.2",
+          "date": "2025-01-06",
+          "size": 41690479,
+          "downloadURL": "https://repo.ethsign.fyi/d16d04d4-8fc5-4ed5-ab21-f42d60050b2b/MadariClient-1.0.2-Flayce1.ipa",
+          "localizedDescription": "Madari Client 1.0.2\n- Madari Client 1.0.2\n- Vidi/Stremio FOSS alternative \n- Requires Real-Debrid account \n- Stremio-Addons\n- May have bugs \n\nThank you @Flayce1 for sharing the ipa\nNeed a cert? Contact @SultanIPAS"
+        }
+      ],
+      "appPermissions": {
+        "entitlements": [],
+        "privacy": {}
+      }
+    },
+    {
+      "name": "Firsty",
+      "developerName": "ethMods",
+      "bundleIdentifier": "com.firsty.app",
+      "localizedDescription": "Firsty No Ads 1.4.4\n- Firsty 1.4.4\n- Free eSIM with data (130mb daily) (tap to get data)\n- AutoClicker added\n- Ads removed \n\nMade by @eth4dmin",
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/16/69/2f/16692f37-cbd7-5ee5-3287-cadcd88fbfb5/AppIcon-0-0-1x_U007emarketing-0-11-0-85-220.png/512x512bb.jpg",
+      "versions": [
+        {
+          "version": "1.4.4",
+          "date": "2025-01-10",
+          "size": 77355089,
+          "downloadURL": "https://repo.ethsign.fyi/a3e7b60b-68b1-42aa-bb64-d6390f0af09a/Firstly-1.4.4Pro-SultanMods.ipa",
+          "localizedDescription": "Firsty No Ads 1.4.4\n- Firsty 1.4.4\n- Free eSIM with data (130mb daily) (tap to get data)\n- AutoClicker added\n- Ads removed \n\nMade by @eth4dmin"
+        }
+      ],
+      "appPermissions": {
+        "entitlements": [],
+        "privacy": {}
+      }
+    },
+    {
+      "name": "AllianceAliveHD",
+      "developerName": "ethMods",
+      "bundleIdentifier": "ww.asw.alliace-alive.dis",
+      "localizedDescription": "Alliance Alive HD Remastered 1.0.1\n- Alliance Alive HD Remastered 1.0.1\n- Paid Game $14.99\n- Classic turn based JRPG\n\n@SultanModsIPAs Exclusive\nDecrypted by @VAXMG",
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/3a/01/47/3a014792-f2b4-8b7c-0601-3028f305e56e/AppIcon-1x_U007emarketing-0-7-0-85-220.png/512x512bb.jpg",
+      "versions": [
+        {
+          "version": "1.0.1",
+          "date": "2025-01-10",
+          "size": 3248244951,
+          "downloadURL": "https://repo.ethsign.fyi/281e85eb-2cc2-4011-865f-d4d5ca18b1b0/ww.asw.alliace-alive.dis-1.0.1.ipa",
+          "localizedDescription": "Alliance Alive HD Remastered 1.0.1\n- Alliance Alive HD Remastered 1.0.1\n- Paid Game $14.99\n- Classic turn based JRPG\n\n@SultanModsIPAs Exclusive\nDecrypted by @VAXMG"
+        }
+      ],
+      "appPermissions": {
+        "entitlements": [],
+        "privacy": {}
+      }
+    },
+    {
+      "name": "Unmatched",
+      "developerName": "ethMods",
+      "bundleIdentifier": "com.acram.Unmatched",
+      "localizedDescription": "unmatched digital edition 1.2.1\n- unmatched digital edition 1.2.1\n- Piad Game $7.99\n- Strategy-tactics mix\n- Satella injected\n\n@SultanModsIPAs Exclusive \nDecrypted by @VAXMG",
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/05/64/53/056453d1-0b5d-a17e-aceb-072657b402d1/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/512x512bb.jpg",
+      "versions": [
+        {
+          "version": "1.2.1",
+          "date": "2025-01-08",
+          "size": 159310967,
+          "downloadURL": "https://repo.ethsign.fyi/e21df9ed-df59-48d8-ac4a-14c83f3a6983/com.acram.Unmatched-1.2.1.ipa",
+          "localizedDescription": "unmatched digital edition 1.2.1\n- unmatched digital edition 1.2.1\n- Piad Game $7.99\n- Strategy-tactics mix\n- Satella injected\n\n@SultanModsIPAs Exclusive \nDecrypted by @VAXMG"
+        }
+      ],
+      "appPermissions": {
+        "entitlements": [],
+        "privacy": {}
+      }
+    },
+    {
+      "name": "Dr. Kegel",
+      "developerName": "ethMods",
+      "bundleIdentifier": "com.appercut.kegel",
+      "localizedDescription": "Kegel Pro 2.53\n- Kegel 2.53\n- Improve Men\u2019s Health\n- Info: Pro Unlocked \n\nMade by @SultanIPAs\nCrack by @VAXMG\nNeed a cert? Contact @SultanIPAS",
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/a3/65/11/a365118c-eabd-80e5-4f72-3e9b4472d755/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/512x512bb.jpg",
+      "versions": [
+        {
+          "version": "2.53",
+          "date": "2025-01-08",
+          "size": 192169458,
+          "downloadURL": "https://repo.ethsign.fyi/4cc39334-0b5c-45a9-9488-51374efcd916/com.appercut.kegel-2.53-83364_patched.ipa",
+          "localizedDescription": "Kegel Pro 2.53\n- Kegel 2.53\n- Improve Men\u2019s Health\n- Info: Pro Unlocked \n\nMade by @SultanIPAs\nCrack by @VAXMG\nNeed a cert? Contact @SultanIPAS"
+        }
+      ],
+      "appPermissions": {
+        "entitlements": [],
+        "privacy": {}
+      }
+    },
+    {
+      "name": "Make America Kittens Again",
+      "developerName": "ethMods",
+      "bundleIdentifier": "com.tomroyal.maka",
+      "localizedDescription": "Make America Kittens Again 2.1.0\n- Make America Kittens Again 2.1.0\n- Replaces images of Donald Trump with kittens (Safari Extension)\n- Paid App $0.99\n- Requires Trollstore/Paid Cert\n\nDecrypted by @SultanIPAS\nNeed a cert? Contact @SultanIPAS",
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/b7/62/58/b76258b3-2aac-2cb6-62b0-559099a61b70/AppIcon-0-0-1x_U007ephone-0-1-85-220.png/512x512bb.jpg",
+      "versions": [
+        {
+          "version": "2.1.0",
+          "date": "2025-01-07",
+          "size": 9974670,
+          "downloadURL": "https://repo.ethsign.fyi/39f33ec6-45f8-4566-b54d-a013ad1f2938/Make%20America%20Kittens%20Again_2.1.0_patched.ipa",
+          "localizedDescription": "Make America Kittens Again 2.1.0\n- Make America Kittens Again 2.1.0\n- Replaces images of Donald Trump with kittens (Safari Extension)\n- Paid App $0.99\n- Requires Trollstore/Paid Cert\n\nDecrypted by @SultanIPAS\nNeed a cert? Contact @SultanIPAS"
+        }
+      ],
+      "appPermissions": {
+        "entitlements": [],
+        "privacy": {}
+      }
+    },
+    {
+      "name": "Suret",
+      "developerName": "ethMods",
+      "bundleIdentifier": "com.idevtal.Wallpapers",
+      "localizedDescription": "Suret Pro 5.5.7\n- Suret 5.5.7\n- AI Image Generator \n- Info: Pro Unlocked\n\nzxcvbn AutoRc injected\nMade by @VAXMG",
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/df/6e/80/df6e80bd-0748-4740-f77b-cb9ad268f17c/AppIcon-0-0-1x_U007epad-0-1-0-sRGB-85-220.png/512x512bb.jpg",
+      "versions": [
+        {
+          "version": "5.5.7",
+          "date": "2025-01-07",
+          "size": 55189424,
+          "downloadURL": "https://repo.ethsign.fyi/78e9f228-b646-4265-8e01-c30ca21fe604/com.idevtal.Wallpapers-5.5.7.ipa",
+          "localizedDescription": "Suret Pro 5.5.7\n- Suret 5.5.7\n- AI Image Generator \n- Info: Pro Unlocked\n\nzxcvbn AutoRc injected\nMade by @VAXMG"
+        }
+      ],
+      "appPermissions": {
+        "entitlements": [],
+        "privacy": {}
+      }
+    },
+    {
+      "name": "BeReal.",
+      "developerName": "ethMods",
+      "bundleIdentifier": "AlexisBarreyat.BeReal",
+      "localizedDescription": "BeReal 4.2.0\n- BeReal 4.2.0\n- Photo Sharing Social Media\n- Bea 1.3.8 \n\nMade by @SultanIPAs\nNeed a cert? Contact @SultanIPAS",
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/d0/1b/d5/d01bd5ee-17e8-61d8-c2a2-7ab37eb948e0/AppIcon-0-0-1x_U007emarketing-0-5-0-85-220.png/512x512bb.jpg",
+      "versions": [
+        {
+          "version": "4.2.0",
+          "date": "2025-01-07",
+          "size": 83458964,
+          "downloadURL": "https://repo.ethsign.fyi/2761bdd1-fecc-4abf-8f0f-5ff80cdd8bb1/AlexisBarreyat.BeReal-4.2.0-83063_patched_nofix.ipa",
+          "localizedDescription": "BeReal 4.2.0\n- BeReal 4.2.0\n- Photo Sharing Social Media\n- Bea 1.3.8 \n\nMade by @SultanIPAs\nNeed a cert? Contact @SultanIPAS"
+        }
+      ],
+      "appPermissions": {
+        "entitlements": [],
+        "privacy": {}
+      }
+    },
+    {
+      "name": "HabitKit",
+      "developerName": "ethMods",
+      "bundleIdentifier": "com.roehl.habitkit",
+      "localizedDescription": "HabitKit Pro 1.10.1\n- HabitKit 1.10.1\n- Track your habits \n- Info: Pro Unlocked \n\nMade by @SultanIPAs\nNeed a cert? Contact @SultanIPAS",
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/8f/8d/e6/8f8de6b5-b77f-05a1-bf6c-0811ae1b8bc6/AppIcon-0-0-1x_U007emarketing-0-11-0-85-220.png/512x512bb.jpg",
+      "versions": [
+        {
+          "version": "1.10.1",
+          "date": "2025-01-07",
+          "size": 41474634,
+          "downloadURL": "https://repo.ethsign.fyi/1777453a-40f1-4b7e-abcd-aa03d7199ca6/com.roehl.habitkit-1.10.1-78428_patched_nofix.ipa",
+          "localizedDescription": "HabitKit Pro 1.10.1\n- HabitKit 1.10.1\n- Track your habits \n- Info: Pro Unlocked \n\nMade by @SultanIPAs\nNeed a cert? Contact @SultanIPAS"
+        }
+      ],
+      "appPermissions": {
+        "entitlements": [],
+        "privacy": {}
+      }
+    },
+    {
+      "name": "Device Monitor\u00b2",
+      "developerName": "ethMods",
+      "bundleIdentifier": "org.fastdevsproject.altervista.Device-Monitor",
+      "localizedDescription": "Device Monitor Pro 10.2.0 \n- Device Monitor 10.2.0\n- Monitor your device\n- Info: Pro Unlocked  \n- Widget Requires Cert with AppGroups entitlement\n\nMade by ethTeam\nCrack by @VAXMG\nNeed a cert? Dm @eth4dmin or @SultanIPAs",
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/03/c6/54/03c6549e-cf4b-8f29-0692-8c5b09612bac/AppIcon-0-0-1x_U007epad-0-0-0-1-0-0-85-220.png/512x512bb.jpg",
+      "versions": [
+        {
+          "version": "10.2.0",
+          "date": "2025-01-07",
+          "size": 26028151,
+          "downloadURL": "https://repo.ethsign.fyi/39e2f7c4-b7c9-431a-9c5d-1ddeb578e3ef/Device_org_fastdevsproject_altervista_Device_Monitor_10_2_0_patched.ipa",
+          "localizedDescription": "Device Monitor Pro 10.2.0 \n- Device Monitor 10.2.0\n- Monitor your device\n- Info: Pro Unlocked  \n- Widget Requires Cert with AppGroups entitlement\n\nMade by ethTeam\nCrack by @VAXMG\nNeed a cert? Dm @eth4dmin or @SultanIPAs"
+        },
+        {
+          "version": "10.1.1",
+          "date": "2024-12-18",
+          "size": 24092565,
+          "downloadURL": "https://repo.ethsign.fyi/9e2b57c3-7c97-4598-a9b5-05597bb9554f/org.fastdevsproject.altervista.Device-Monitor-10.1.1.ipa",
+          "localizedDescription": "Device Monitor Pro 10.1.1 \n- Device Monitor 10.1.1\n- Monitor your device\n- Info: Pro Unlocked  \n- Widget Requires Cert with AppGroups entitlement\n\nMade by ethTeam\nCrack by @VAXMG\nNeed a cert? Dm @eth4dmin"
+        },
+        {
+          "version": "10.1.0",
+          "date": "2024-11-30",
+          "size": 25036650,
+          "downloadURL": "https://repo.ethsign.fyi/faaff1a8-d73d-4293-b9b9-2adb81e473ee/Device%20Monitor%C2%B2_10.1.0_SultanMods.ipa",
+          "localizedDescription": "Device Monitor Pro 10.1.0  \n- Device Monitor 10.1.0\n- Monitor your device\n- Info: Pro Unlocked  \n- Widget Works (It requires a certificate that includes the AppGroup entitlement)  \n\nCrack by @VAXMG"
+        }
+      ],
+      "appPermissions": {
+        "entitlements": [],
+        "privacy": {}
+      }
+    },
+    {
+      "name": "Pycopaste",
+      "developerName": "ethMods",
+      "bundleIdentifier": "com.foxfort.pycopaste",
+      "localizedDescription": "Pycopaste Clipboard Manager Pro 1.42\n- Pycopaste Clipboard Manager 1.42 \n- Clipboard Manager\n- Info: Pro Unlocked\n\nMade by @SultanIPAs\nNeed a cert? Contact @SultanIPAS",
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/df/50/4e/df504e8b-2d31-d402-7716-9a643c0ef159/AppIcon-0-0-1x_U007epad-0-1-sRGB-85-220.png/512x512bb.jpg",
+      "versions": [
+        {
+          "version": "1.42",
+          "date": "2025-01-05",
+          "size": 15065457,
+          "downloadURL": "https://repo.ethsign.fyi/72b1142c-f4ca-47a7-81e6-2e23d8bb60ec/com.foxfort.pycopaste-1.42-78428_patched_nofix.ipa",
+          "localizedDescription": "Pycopaste Clipboard Manager Pro 1.42\n- Pycopaste Clipboard Manager 1.42 \n- Clipboard Manager\n- Info: Pro Unlocked\n\nMade by @SultanIPAs\nNeed a cert? Contact @SultanIPAS"
+        }
+      ],
+      "appPermissions": {
+        "entitlements": [],
+        "privacy": {}
+      }
+    },
+    {
+      "name": "Spark Camera",
+      "developerName": "ethMods",
+      "bundleIdentifier": "com.butterfly.sparkpro",
+      "localizedDescription": "Spark Camera Pro 3.8.8\n- Spark Camera 3.8.8\n- Cool camera app\n- Info: Pro Unlocked\n\nMade by @SultanIPAs\nNeed a cert? Contact @SultanIPAS",
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple124/v4/d6/1c/af/d61caf7a-86f8-f5e6-07fc-e9dd6b006231/AppIcon-0-0-1x_U007emarketing-0-0-0-6-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/512x512bb.jpg",
+      "versions": [
+        {
+          "version": "3.8.8",
+          "date": "2025-01-05",
+          "size": 136305919,
+          "downloadURL": "https://repo.ethsign.fyi/bafe2f07-2ba9-46c3-8674-3b5eea7bed95/com.butterfly.sparkpro-3.8.8-78428_patched_nofix.ipa",
+          "localizedDescription": "Spark Camera Pro 3.8.8\n- Spark Camera 3.8.8\n- Cool camera app\n- Info: Pro Unlocked\n\nMade by @SultanIPAs\nNeed a cert? Contact @SultanIPAS"
+        },
+        {
+          "version": "3.8.8",
+          "date": "2024-12-05",
+          "size": 139393563,
+          "downloadURL": "https://repo.ethsign.fyi/b51532cd-8e03-4b78-83e5-e66a45c1ce7c/com.butterfly.sparkpro-3.8.8.ipa",
+          "localizedDescription": "Spark Camera 3.8.8\n- Spark Camera 3.8.8\n- Camera App\n- Info: Subscription Unlocked\n\nChocolateFluffy AutoRc injected\nMade by @VAXMG"
+        }
+      ],
+      "appPermissions": {
+        "entitlements": [],
+        "privacy": {}
+      }
+    },
+    {
+      "name": "Shadow Boxing",
+      "developerName": "ethMods",
+      "bundleIdentifier": "com.marcgg.boxing",
+      "localizedDescription": "Shadow Boxing Pro 2.12.1\n- Shadow Boxing 2.12.1\n- Train your boxing skills\n- Info: Pro Unlocked\n\nMade by @SultanIPAs\nNeed a cert? Contact @SultanIPAS",
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/44/d9/7d/44d97d6c-37a6-c47d-cbf9-6c9a09b56233/AppIcon-0-0-1x_U007emarketing-0-11-0-85-220.png/512x512bb.jpg",
+      "versions": [
+        {
+          "version": "2.12.1",
+          "date": "2025-01-05",
+          "size": 68203371,
+          "downloadURL": "https://repo.ethsign.fyi/e4b13762-d88a-42cf-ad33-9b10658cdb9b/com.marcgg.boxing-2.12.1-78428_patched_nofix.ipa",
+          "localizedDescription": "Shadow Boxing Pro 2.12.1\n- Shadow Boxing 2.12.1\n- Train your boxing skills\n- Info: Pro Unlocked\n\nMade by @SultanIPAs\nNeed a cert? Contact @SultanIPAS"
+        }
+      ],
+      "appPermissions": {
+        "entitlements": [],
+        "privacy": {}
+      }
+    },
+    {
+      "name": "Brite",
+      "developerName": "ethMods",
+      "bundleIdentifier": "io.konveier.timo",
+      "localizedDescription": "Brite Pro 24.1.5\n- Brite 24.1.5\n- Todo list app\n- Info: Pro Unlocked\n\nMade by @SultanIPAs\nNeed a cert? Contact @SultanIPAS",
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/06/fb/46/06fb4618-357c-074d-474f-c59448e99a91/AppIcon-0-0-1x_U007emarketing-0-10-0-0-0-85-220.png/512x512bb.jpg",
+      "versions": [
+        {
+          "version": "24.1.5",
+          "date": "2025-01-05",
+          "size": 25209434,
+          "downloadURL": "https://repo.ethsign.fyi/04979588-85b8-47f0-ac92-f0744571ebdd/io.konveier.timo-24.1.5-78428_patched_nofix.ipa",
+          "localizedDescription": "Brite Pro 24.1.5\n- Brite 24.1.5\n- Todo list app\n- Info: Pro Unlocked\n\nMade by @SultanIPAs\nNeed a cert? Contact @SultanIPAS"
+        }
+      ],
+      "appPermissions": {
+        "entitlements": [],
+        "privacy": {}
+      }
+    },
+    {
+      "name": "Retouch",
+      "developerName": "ethMods",
+      "bundleIdentifier": "com.advasoft.touchretouch",
+      "localizedDescription": "Touch Retouch Pro 5.3.4\n- Touch Retouch 5.3.4\n- Edit your photos \n- Info: Pro Unlocked\n\nMade by @SultanIPAs\nNeed a cert? Contact @SultanIPAS",
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/ed/17/42/ed174270-8d34-29da-e44b-c0ef8cd0ecd7/AppIconBasic-0-1x_U007emarketing-0-11-0-85-220-0.png/512x512bb.jpg",
+      "versions": [
+        {
+          "version": "5.3.4",
+          "date": "2025-01-05",
+          "size": 501486557,
+          "downloadURL": "https://repo.ethsign.fyi/3525fb5e-566e-4151-b816-81091f05b620/com.advasoft.touchretouch-5.3.4-78428_patched_nofix.ipa",
+          "localizedDescription": "Touch Retouch Pro 5.3.4\n- Touch Retouch 5.3.4\n- Edit your photos \n- Info: Pro Unlocked\n\nMade by @SultanIPAs\nNeed a cert? Contact @SultanIPAS"
+        }
+      ],
+      "appPermissions": {
+        "entitlements": [],
+        "privacy": {}
+      }
+    },
+    {
+      "name": "Scanner Pro",
+      "developerName": "ethMods",
+      "bundleIdentifier": "com.readdle.Scanner",
+      "localizedDescription": "CamScanner Pro 8.25.2\n- CamScanner 8.25.2 \n- Scan documents on your phone\n- Info: Pro Unlocked\n\nMade by @SultanIPAs\nNeed a cert? Contact @SultanIPAS",
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/d9/fc/8e/d9fc8eae-6a7a-51d9-02c3-7c424d50f75b/ScannerPro-0-0-1x_U007epad-0-1-0-sRGB-0-85-220.png/512x512bb.jpg",
+      "versions": [
+        {
+          "version": "8.25.2",
+          "date": "2025-01-05",
+          "size": 189694040,
+          "downloadURL": "https://repo.ethsign.fyi/1e990550-d052-4a2a-9eb8-8887596224ee/com.readdle.Scanner-8.25.2-78428_patched_nofix.ipa",
+          "localizedDescription": "CamScanner Pro 8.25.2\n- CamScanner 8.25.2 \n- Scan documents on your phone\n- Info: Pro Unlocked\n\nMade by @SultanIPAs\nNeed a cert? Contact @SultanIPAS"
+        }
+      ],
+      "appPermissions": {
+        "entitlements": [],
+        "privacy": {}
+      }
+    },
+    {
+      "name": "Pillow",
+      "developerName": "ethMods",
+      "bundleIdentifier": "com.neybox.Pillow",
+      "localizedDescription": "Pillow Pro 5.8.1\n- Pillow 5.8.1\n- Sleep Tracker \n- Info: Pro Unlocked\n- Go through setup close app and open again | pro unlocked \n\nMade by @SultanIPAs\nNeed a cert? Contact @SultanIPAS",
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/76/f9/73/76f97314-22cc-86c5-cdde-ae4427992372/AppIcon-v5-0-0-1x_U007epad-0-1-0-P3-85-220.png/512x512bb.jpg",
+      "versions": [
+        {
+          "version": "5.8.1",
+          "date": "2025-01-03",
+          "size": 519251947,
+          "downloadURL": "https://repo.ethsign.fyi/c3df380d-01df-42f9-aedc-55dfe7d8e4c3/com.neybox.Pillow-5.8.1-78428_patched_nofix.ipa",
+          "localizedDescription": "Pillow Pro 5.8.1\n- Pillow 5.8.1\n- Sleep Tracker \n- Info: Pro Unlocked\n- Go through setup close app and open again | pro unlocked \n\nMade by @SultanIPAs\nNeed a cert? Contact @SultanIPAS"
+        },
+        {
+          "version": "5.7",
+          "date": "2024-12-12",
+          "size": 497098120,
+          "downloadURL": "https://repo.ethsign.fyi/03d8f9a9-1ea9-4033-b20e-76021a10da92/com.neybox.Pillow-5.7-72292.ipa",
+          "localizedDescription": "Pillow Pro 5.7\n- Pillow 5.7\n- Sleep Tracker \n- Info: Pro Unlocked\n- Go through setup close app and open again | pro unlocked \n\nMade by ethTeam"
+        }
+      ],
+      "appPermissions": {
+        "entitlements": [],
+        "privacy": {}
+      }
+    },
+    {
+      "name": "Days Since",
+      "developerName": "ethMods",
+      "bundleIdentifier": "npetrova.DaysSince",
+      "localizedDescription": "Days Since 3.0.2\n- Days Since 3.0.2\n- Habit Tracker App\n- Info: Subscription Unlocked\n- Widget Requires certificate with AppGroups Entitlement\n\nzxcvbn AutoRc injected\nMade by @VAXMG",
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/95/57/8f/95578f8d-6160-8d42-8d42-2c7b54bcc733/AppIcon-0-1x_U007ephone-0-0-sRGB-85-220-0.png/512x512bb.jpg",
+      "versions": [
+        {
+          "version": "3.0.2",
+          "date": "2024-12-27",
+          "size": 27420151,
+          "downloadURL": "https://repo.ethsign.fyi/93ecb881-199b-4941-a9bb-b3220a2db043/npetrova.DaysSince-3.0.2.ipa",
+          "localizedDescription": "Days Since 3.0.2\n- Days Since 3.0.2\n- Habit Tracker App\n- Info: Subscription Unlocked\n- Widget Requires certificate with AppGroups Entitlement\n\nzxcvbn AutoRc injected\nMade by @VAXMG"
+        }
+      ],
+      "appPermissions": {
+        "entitlements": [],
+        "privacy": {}
+      }
+    },
+    {
+      "name": "Spark",
+      "developerName": "ethMods",
+      "bundleIdentifier": "com.readdle.smartemail",
+      "localizedDescription": "Spark Mail Ai 3.12.1\n- Spark Mail Ai 3.12.1\n- Ai Mail App\n- Info: Subscription Unlocked\n- Widget Requires Cert With AppGroups Entitlement\n\nzxcvbn AutoRc injected\nMade by @VAXMG",
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/7c/52/68/7c526826-a2cf-8eb5-3ac0-96ddee096227/AppIcon-0-0-1x_U007epad-0-11-0-0-85-220.png/512x512bb.jpg",
+      "versions": [
+        {
+          "version": "3.12.1",
+          "date": "2024-12-27",
+          "size": 201198072,
+          "downloadURL": "https://repo.ethsign.fyi/cb8e5d94-b6ab-45dc-aa56-f4901a429d7c/com.readdle.smartemail-3.12.1.ipa",
+          "localizedDescription": "Spark Mail Ai 3.12.1\n- Spark Mail Ai 3.12.1\n- Ai Mail App\n- Info: Subscription Unlocked\n- Widget Requires Cert With AppGroups Entitlement\n\nzxcvbn AutoRc injected\nMade by @VAXMG"
+        }
+      ],
+      "appPermissions": {
+        "entitlements": [],
+        "privacy": {}
+      }
+    },
+    {
+      "name": "NEW throne",
+      "developerName": "ethMods",
+      "bundleIdentifier": "com.TDMbest.NEWthrone ",
+      "localizedDescription": "",
+      "iconURL": "https://paradoxtime.tk/img/pdt_logo_nobg_shadow.png",
+      "versions": [
+        {
+          "version": "1.0.0",
+          "date": "2024-12-26",
+          "size": 123179560,
+          "downloadURL": "https://repo.ethsign.fyi/5a31e05a-fee7-4c13-8c8c-2507279019d5/%28fixed%29%20NEW%20Nuclear%20throne%20-%20TDMbest%20%28toncho_%29.ipa",
+          "localizedDescription": ""
+        },
+        {
+          "version": "1.0.0",
+          "date": "2024-12-07",
+          "size": 127457191,
+          "downloadURL": "https://repo.ethsign.fyi/dfbe52a7-b23b-418a-9acd-1a4aa2b0a712/NEW%20Nuclear%20throne%20-%20TDMbest%20%28toncho_%29.ipa",
+          "localizedDescription": ""
+        }
+      ],
+      "appPermissions": {
+        "entitlements": [],
+        "privacy": {}
+      }
+    },
+    {
+      "name": "Uncanny Cat Golf",
+      "developerName": "ethMods",
+      "bundleIdentifier": "con.TDMbest.UCG",
+      "localizedDescription": "Info:Uncanny cat golf ported to iOS\nFact:mobile port made by fog waves game made by slappyhappy2000 \n\nThis kept haunting my reels it had me geeked Ngl. First godot port I\u2019m not sure what to do next might set up a request here message. Join their discord ig.\n\nhttps://slappyhappy2000.itch.io/uncanny-cat-golf\n\nhttps://discord.gg/bkZM7cUwNq",
+      "iconURL": "https://paradoxtime.tk/img/pdt_logo_nobg_shadow.png",
+      "versions": [
+        {
+          "version": "1.0.0",
+          "date": "2024-12-26",
+          "size": 130090145,
+          "downloadURL": "https://repo.ethsign.fyi/8d6d29e0-240f-42a8-ab0f-55a2b140494b/UCG-TDMbest%E2%80%99d.ipa",
+          "localizedDescription": "Info:Uncanny cat golf ported to iOS\nFact:mobile port made by fog waves game made by slappyhappy2000 \n\nThis kept haunting my reels it had me geeked Ngl. First godot port I\u2019m not sure what to do next might set up a request here message. Join their discord ig.\n\nhttps://slappyhappy2000.itch.io/uncanny-cat-golf\n\nhttps://discord.gg/bkZM7cUwNq"
+        }
+      ],
+      "appPermissions": {
+        "entitlements": [],
+        "privacy": {}
+      }
+    },
+    {
+      "name": "AlfredCamera",
+      "developerName": "ethMods",
+      "bundleIdentifier": "com.kalavision.alfred",
+      "localizedDescription": "Alfred Camera 2024.26.0\n- Alfred Camera 2024.26.0\n- CCTV Camera App\n- Info: Premium Unlocked\n\nzxcvbn AutoRc injected\nMade by @VAXMG",
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/aa/93/9f/aa939f34-5127-d442-80f4-b412694b41ef/AppIcon-0-0-1x_U007emarketing-0-7-0-0-85-220.png/512x512bb.jpg",
+      "versions": [
+        {
+          "version": "2024.26.0",
+          "date": "2024-12-24",
+          "size": 141493597,
+          "downloadURL": "https://repo.ethsign.fyi/3e365edb-a1ec-41fb-829b-9ce264f80f89/com.kalavision.alfred-2024.26.0.ipa",
+          "localizedDescription": "Alfred Camera 2024.26.0\n- Alfred Camera 2024.26.0\n- CCTV Camera App\n- Info: Premium Unlocked\n\nzxcvbn AutoRc injected\nMade by @VAXMG"
+        }
+      ],
+      "appPermissions": {
+        "entitlements": [],
+        "privacy": {}
+      }
+    },
+    {
+      "name": "Barbearian",
+      "developerName": "ethMods",
+      "bundleIdentifier": "fi.gimblll.raid",
+      "localizedDescription": "Barbearian 1.0.12\n- Barbearian 1.0.12\n- Paid Game 8.99$\n- Top down Action Hack & Slash with RTS Elements\n\nDecrypted by @VAXMG",
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/a0/73/e7/a073e79e-5667-3f66-1757-a29930b93313/AppIcon-iOS-0-0-1x_U007emarketing-0-0-0-4-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/512x512bb.jpg",
+      "versions": [
+        {
+          "version": "1.0.12",
+          "date": "2024-12-22",
+          "size": 143645826,
+          "downloadURL": "https://repo.ethsign.fyi/11dd4d68-1e85-48cc-8aa3-3d9f6a9bcd40/fi.gimblll.raid-1.0.12.ipa",
+          "localizedDescription": "Barbearian 1.0.12\n- Barbearian 1.0.12\n- Paid Game 8.99$\n- Top down Action Hack & Slash with RTS Elements\n\nDecrypted by @VAXMG"
+        }
+      ],
+      "appPermissions": {
+        "entitlements": [],
+        "privacy": {}
+      }
+    },
+    {
+      "name": "Sports Alerts",
+      "developerName": "ethMods",
+      "bundleIdentifier": "lunosoftware.sportsalerts",
+      "localizedDescription": "Sports Alert No Ads 4.8.2\n- Sports Alert 4.8.2\n- Track sport scores \n- Info: No Ads\n\nMade by @SultanIPAs",
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/f0/58/a0/f058a020-b49e-f734-a25c-5e7f164f67fc/AppIcon-0-0-1x_U007epad-0-1-85-220.png/512x512bb.jpg",
+      "versions": [
+        {
+          "version": "4.8.2",
+          "date": "2024-12-22",
+          "size": 36033687,
+          "downloadURL": "https://repo.ethsign.fyi/af9da61a-7ab7-4cfd-987d-2b7a2a1c7db7/lunosoftware.sportsalerts-4.8.2-42021_patched.ipa",
+          "localizedDescription": "Sports Alert No Ads 4.8.2\n- Sports Alert 4.8.2\n- Track sport scores \n- Info: No Ads\n\nMade by @SultanIPAs"
+        }
+      ],
+      "appPermissions": {
+        "entitlements": [],
+        "privacy": {}
+      }
+    },
+    {
+      "name": "Fall Guys",
+      "developerName": "ethMods",
+      "bundleIdentifier": "uk.co.mediatonic.fallguys",
+      "localizedDescription": "Fall Guys v11.5.0\n\n\ud83c\uddf7\ud83c\uddfa\u0422\u0435 \u0441\u0430\u043c\u044b\u0435 \u0436\u0435\u043b\u0435\u0439\u043d\u044b\u0435 \u0447\u0435\u043b\u043e\u0432\u0435\u0447\u043a\u0438 \u0442\u0435\u043f\u0435\u0440\u044c \u0438 \u043d\u0430 iOS \n\u2014 \u041f\u0440\u0438\u043b\u043e\u0436\u0435\u043d\u0438\u0435 \u0438\u0437 \u043c\u0430\u0440\u043a\u0435\u0442\u0430 Epic Games\n\u2014 \u0422\u0440\u0435\u0431\u0443\u0435\u0442\u0441\u044f iOS 16+\n\u00a9 \u0421\u043e\u0437\u0434\u0430\u043d\u043e: GLESign\n\n\ud83c\uddfa\ud83c\uddf8 Those jelly men are now available on iOS \n\u2014 An application from the Epic Games market\n\u2014 Requires iOS 16+\n\u00a9 Created by: GLESign",
+      "iconURL": "https://paradoxtime.tk/img/pdt_logo_nobg_shadow.png",
+      "versions": [
+        {
+          "version": "11.5.0",
+          "date": "2024-12-21",
+          "size": 1957886314,
+          "downloadURL": "https://repo.ethsign.fyi/88d70533-9a01-41e9-a700-4ed68347dcca/Fall%20Guys%20v11.5.0%5Btg@glesign%5D.ipa",
+          "localizedDescription": "Fall Guys v11.5.0\n\n\ud83c\uddf7\ud83c\uddfa\u0422\u0435 \u0441\u0430\u043c\u044b\u0435 \u0436\u0435\u043b\u0435\u0439\u043d\u044b\u0435 \u0447\u0435\u043b\u043e\u0432\u0435\u0447\u043a\u0438 \u0442\u0435\u043f\u0435\u0440\u044c \u0438 \u043d\u0430 iOS \n\u2014 \u041f\u0440\u0438\u043b\u043e\u0436\u0435\u043d\u0438\u0435 \u0438\u0437 \u043c\u0430\u0440\u043a\u0435\u0442\u0430 Epic Games\n\u2014 \u0422\u0440\u0435\u0431\u0443\u0435\u0442\u0441\u044f iOS 16+\n\u00a9 \u0421\u043e\u0437\u0434\u0430\u043d\u043e: GLESign\n\n\ud83c\uddfa\ud83c\uddf8 Those jelly men are now available on iOS \n\u2014 An application from the Epic Games market\n\u2014 Requires iOS 16+\n\u00a9 Created by: GLESign"
+        },
+        {
+          "version": "11.5.0",
+          "date": "2024-12-13",
+          "size": 1957885899,
+          "downloadURL": "https://repo.ethsign.fyi/4017f366-acf0-4222-9640-e0a7f52b6e32/FallGuys-11.5.0.ipa",
+          "localizedDescription": "Fall Guys 11.5.0\n- Fall Guys 11.5.0\n- Stumble Guys but real\n- iOS 17.4 minimum\n\nMade by appleipa"
+        }
+      ],
+      "appPermissions": {
+        "entitlements": [],
+        "privacy": {}
+      }
+    },
+    {
+      "name": "remoteMouse",
+      "developerName": "ethMods",
+      "bundleIdentifier": "com.remotemouse.remotemouse4free",
+      "localizedDescription": "Remote Mouse 5.300\n- Remote Mouse 5.300\n- Turn your device into a wireless mouse, trackpad, and keyboard.\n- Info: Pro Unlocked\n\nzxcvbn AutoRc injected\nMade by @VAXMG",
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/eb/41/45/eb414556-0e24-fc98-c9c0-db4f7bb81f68/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/512x512bb.jpg",
+      "versions": [
+        {
+          "version": "5.300",
+          "date": "2024-12-20",
+          "size": 38890592,
+          "downloadURL": "https://repo.ethsign.fyi/f71546d1-a53a-4d48-b72a-061fb079cc7e/com.remotemouse.remotemouse4free-5.300.ipa",
+          "localizedDescription": "Remote Mouse 5.300\n- Remote Mouse 5.300\n- Turn your device into a wireless mouse, trackpad, and keyboard.\n- Info: Pro Unlocked\n\nzxcvbn AutoRc injected\nMade by @VAXMG"
+        }
+      ],
+      "appPermissions": {
+        "entitlements": [],
+        "privacy": {}
+      }
+    },
+    {
+      "name": "NOAA Radar",
+      "developerName": "ethMods",
+      "bundleIdentifier": "com.itwcalculator.worldradarfree",
+      "localizedDescription": "Weather Radar Pro 5.10.2\n- Weather Radar 5.10.2\n- Weather alerts \n- Info: Pro Unlocked\n- Widget requires Cert With AppGroups Entitlement\n\nMade by ethTeam\nCrack by @VAXMG",
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/ef/52/59/ef5259ae-5a59-f2cb-7ff2-35b3d9ce3367/AppIcon_free-0-0-1x_U007epad-0-1-0-85-220.png/512x512bb.jpg",
+      "versions": [
+        {
+          "version": "5.10.2",
+          "date": "2024-12-20",
+          "size": 290790129,
+          "downloadURL": "https://repo.ethsign.fyi/5635b060-99e5-4e2b-941e-fad8b2944dee/com.itwcalculator.worldradarfree-5.10.2.ipa",
+          "localizedDescription": "Weather Radar Pro 5.10.2\n- Weather Radar 5.10.2\n- Weather alerts \n- Info: Pro Unlocked\n- Widget requires Cert With AppGroups Entitlement\n\nMade by ethTeam\nCrack by @VAXMG"
+        },
+        {
+          "version": "5.10.1",
+          "date": "2024-12-08",
+          "size": 286100224,
+          "downloadURL": "https://repo.ethsign.fyi/1f5914d8-9136-4e53-b838-2dfeb3fdcca9/com.itwcalculator.worldradarfree-5.10.1.ipa",
+          "localizedDescription": "Weather Radar Pro 5.10.1\n- Weather Radar 5.10.1\n- Weather alerts \n- Info: Pro Unlocked\n- Widget requires Cert With AppGroup Entitlement\n\nMade by ethTeam\nCrack by @VAXMG"
+        },
+        {
+          "version": "5.10.0",
+          "date": "2024-12-01",
+          "size": 288517420,
+          "downloadURL": "https://repo.ethsign.fyi/57bc77dd-167a-4f4f-b011-37f48f7b90d3/com.itwcalculator.worldradarfree-5.10.0.ipa",
+          "localizedDescription": "Weather Radar Pro 5.10.0\n- Weather Radar 5.10.0\n- Weather alerts \n- Info: Pro Unlocked\n- Widget Works (It requires a paid certificate that includes the AppGroup entitlement)\n\nMade by ethTeam\nCrack by @VAXMG"
+        }
+      ],
+      "appPermissions": {
+        "entitlements": [],
+        "privacy": {}
+      }
+    },
+    {
+      "name": "The Weather",
+      "developerName": "ethMods",
+      "bundleIdentifier": "com.impalastudios.theweatherfree",
+      "localizedDescription": "Weather Live Pro 2.0.9\n- Weather Live 2.0.9\n- Cool Weather App\n- Info: Pro unlocked \n- Go thru setup, open settings and tap restore purchases, close app & open again | pro unlocked \n\nMade by ethTeam\nCrack by @VAXMG",
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/a1/87/d1/a187d11c-84b7-02a3-f713-598aa2c74b72/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/512x512bb.jpg",
+      "versions": [
+        {
+          "version": "2.0.9",
+          "date": "2024-12-20",
+          "size": 149220047,
+          "downloadURL": "https://repo.ethsign.fyi/549faae7-a80c-4a0d-9a08-bc9d6bc4ca97/com.impalastudios.theweatherfree-2.0.9Pro-SultanMods.ipa",
+          "localizedDescription": "Weather Live Pro 2.0.9\n- Weather Live 2.0.9\n- Cool Weather App\n- Info: Pro unlocked \n- Go thru setup, open settings and tap restore purchases, close app & open again | pro unlocked \n\nMade by ethTeam\nCrack by @VAXMG"
+        }
+      ],
+      "appPermissions": {
+        "entitlements": [],
+        "privacy": {}
+      }
+    },
+    {
+      "name": "Video2Mp3",
+      "developerName": "ethMods",
+      "bundleIdentifier": "com.hemin.mp42mp3",
+      "localizedDescription": "MP3 Converter 5.15\n- MP3 Converter 5.15\n- Media Converter\n- Info: VIP Unlocked\n\nMade by ethTeam\nCrack by @VAXMG",
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/c3/37/77/c3377790-5260-0f24-4768-a8b5d37464fc/AppIcon-0-0-1x_U007emarketing-0-7-0-0-sRGB-85-220.png/512x512bb.jpg",
+      "versions": [
+        {
+          "version": "5.15",
+          "date": "2024-12-20",
+          "size": 87104485,
+          "downloadURL": "https://repo.ethsign.fyi/beb52fc4-7e28-4f8f-8e04-01afd65cf0f2/com.hemin.mp42mp3-5.15.ipa",
+          "localizedDescription": "MP3 Converter 5.15\n- MP3 Converter 5.15\n- Media Converter\n- Info: VIP Unlocked\n\nMade by ethTeam\nCrack by @VAXMG"
+        },
+        {
+          "version": "5.12",
+          "date": "2024-11-27",
+          "size": 85489249,
+          "downloadURL": "https://repo.ethsign.fyi/74f32f1b-3af6-4c68-b564-56aa93fabc51/Video2Mp3-5.12pro-SultanMods.ipa",
+          "localizedDescription": "Video2MP3 Pro 3.5.12 \n- Video2MP3 3.5.12\n- Convert Video to MP3\n- Info: Pro Unlocked\n- Ignore Upgrade button in settings you\u2019re already VIP \n\nMade by @SultanModsIPAs\nCrack by @VAXMG"
+        }
+      ],
+      "appPermissions": {
+        "entitlements": [],
+        "privacy": {}
+      }
+    },
+    {
+      "name": "Plant Guru",
+      "developerName": "ethMods",
+      "bundleIdentifier": "com.aiby.plantguru",
+      "localizedDescription": "Plant Guru Pro 1.13\n- Plant Guru 1.13\n- Identify Plants\n- Info: Pro Unlocked\n\nMade by ethTeam\nCrack by @VAXMG",
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/4a/c5/2b/4ac52bea-cdd9-85dd-e60b-bbc613776b3f/AppIcon-0-0-1x_U007ephone-0-1-0-85-220.png/512x512bb.jpg",
+      "versions": [
+        {
+          "version": "1.13",
+          "date": "2024-12-20",
+          "size": 35428927,
+          "downloadURL": "https://repo.ethsign.fyi/8243744f-7f67-41de-b0d5-53fe66e8367b/com.aiby.plantguru-1.13.ipa",
+          "localizedDescription": "Plant Guru Pro 1.13\n- Plant Guru 1.13\n- Identify Plants\n- Info: Pro Unlocked\n\nMade by ethTeam\nCrack by @VAXMG"
+        },
+        {
+          "version": "1.12",
+          "date": "2024-11-27",
+          "size": 35289326,
+          "downloadURL": "https://repo.ethsign.fyi/9df4a938-5d16-4219-b442-602f9da1a3d8/PlantGuru-1.12pro-SultanMods.ipa",
+          "localizedDescription": "Plant Guru Pro 1.12\n- Plant Guru 1.12\n- Identify Plants\n- Info: Pro Unlocked\n\nMade by @NatlusTeam\nCrack by @VAXMG"
+        }
+      ],
+      "appPermissions": {
+        "entitlements": [],
+        "privacy": {}
+      }
+    },
+    {
+      "name": "VEED Captions",
+      "developerName": "ethMods",
+      "bundleIdentifier": "io.veed.appstore",
+      "localizedDescription": "VEED Pro 5.1.0\n- VEED 5.1.0\n- Video captions generator \n- Info: Pro unlocked \n\nzxcvbn AutoRc injected\nMade by @VAXMG",
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/51/cb/c6/51cbc67f-5032-7693-1b76-542918a61434/AppIcon-0-0-1x_U007ephone-0-1-0-85-220.png/512x512bb.jpg",
+      "versions": [
+        {
+          "version": "5.1.0",
+          "date": "2024-12-20",
+          "size": 52442308,
+          "downloadURL": "https://repo.ethsign.fyi/b3e5e272-0829-41ee-8df3-423e893fc3a1/io.veed.appstore-5.1.0.ipa",
+          "localizedDescription": "VEED Pro 5.1.0\n- VEED 5.1.0\n- Video captions generator \n- Info: Pro unlocked \n\nzxcvbn AutoRc injected\nMade by @VAXMG"
+        }
+      ],
+      "appPermissions": {
+        "entitlements": [],
+        "privacy": {}
+      }
+    },
+    {
+      "name": "ESign",
+      "developerName": "ethMods",
+      "bundleIdentifier": "nologs.xyz.yyyue.esign",
+      "localizedDescription": "Esign No Logs 5.0\n- Esign 5.0\n- No Logs 1.1\n- All telemetry & logging removed \n- App Repo Code v3\n\nMade by @asdfzxcvbn0",
+      "iconURL": "https://paradoxtime.tk/img/pdt_logo_nobg_shadow.png",
+      "versions": [
+        {
+          "version": "5.0.0",
+          "date": "2024-12-16",
+          "size": 14003752,
+          "downloadURL": "https://repo.ethsign.fyi/5dd3c412-4149-4300-9a39-04c53e3190dc/Esign-5.0NoLogs-1.1-zx.ipa",
+          "localizedDescription": "Esign No Logs 5.0\n- Esign 5.0\n- No Logs 1.1\n- All telemetry & logging removed \n- App Repo Code v3\n\nMade by @asdfzxcvbn0"
+        }
+      ],
+      "appPermissions": {
+        "entitlements": [],
+        "privacy": {}
+      }
+    },
+    {
+      "name": "StepUp",
+      "developerName": "ethMods",
+      "bundleIdentifier": "com.pratikstephen.StepUp",
+      "localizedDescription": "StepUp No Ads 3.1.6\n- StepUp 3.1.6\n- Track your steps and compete against friends\n- Info: Ads Removed\n- Sign in with Apple Works \n\nMade by ethTeam\nNeed a cert? Message @eth4dmin",
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/8a/25/78/8a25780f-0765-9177-5639-6e260cb7a1ee/AppIcon-0-0-1x_U007emarketing-0-6-0-85-220.png/512x512bb.jpg",
+      "versions": [
+        {
+          "version": "3.1.6",
+          "date": "2024-12-15",
+          "size": 6509352,
+          "downloadURL": "https://repo.ethsign.fyi/3ff4eec1-19b5-4858-b88a-d6edc87601e0/com.pratikstephen.StepUp-3.1.6-42021_patched_nofix.ipa",
+          "localizedDescription": "StepUp No Ads 3.1.6\n- StepUp 3.1.6\n- Track your steps and compete against friends\n- Info: Ads Removed\n- Sign in with Apple Works \n\nMade by ethTeam\nNeed a cert? Message @eth4dmin"
+        }
+      ],
+      "appPermissions": {
+        "entitlements": [],
+        "privacy": {}
+      }
+    },
+    {
+      "name": "",
+      "developerName": "ethMods",
+      "bundleIdentifier": "com.choco",
+      "localizedDescription": "AppGroups Checker\nSign, install, and open this app to see if your cert is correctly configured with AppGroups!\n\nOur certificates are correctly configured, but you can check yourself\n\nCredits to @brits8882",
+      "iconURL": "https://paradoxtime.tk/img/pdt_logo_nobg_shadow.png",
+      "versions": [
+        {
+          "version": "",
+          "date": "2024-12-15",
+          "size": 561986,
+          "downloadURL": "https://repo.ethsign.fyi/89decdfd-9cba-413c-ab46-473ca784fc5a/AppGroupCheck.ipa",
+          "localizedDescription": "AppGroups Checker\nSign, install, and open this app to see if your cert is correctly configured with AppGroups!\n\nOur certificates are correctly configured, but you can check yourself\n\nCredits to @brits8882"
+        }
+      ],
+      "appPermissions": {
+        "entitlements": [],
+        "privacy": {}
+      }
+    },
+    {
+      "name": "TapeACall Pro",
+      "developerName": "ethMods",
+      "bundleIdentifier": "com.epicenterprises.tapeacall.pro",
+      "localizedDescription": "TapeACallPro 5.11 unlimited plan cracked\n--app store link\n-injected with expires in Dec 4000 patch\n-injected with keychainsideload fix\n-pluginfix already injected\n-unlike apples built in call recording, this won't let the other party know your recording\n\nMade by @moeotf, decrypted by anyipa.me If you need a cert dm @eth4dmin",
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/61/3d/36/613d3654-92ff-9e7f-8003-8b051284b38b/AppIcon-0-0-1x_U007emarketing-0-2-0-sRGB-85-220.png/512x512bb.jpg",
+      "versions": [
+        {
+          "version": "5.11.11",
+          "date": "2024-12-13",
+          "size": 49371764,
+          "downloadURL": "https://repo.ethsign.fyi/fa6503d9-e370-4b7d-aca2-6719d669d938/TapeACallProCallRecorderpatchedmoe.ipa",
+          "localizedDescription": "TapeACallPro 5.11 unlimited plan cracked\n--app store link\n-injected with expires in Dec 4000 patch\n-injected with keychainsideload fix\n-pluginfix already injected\n-unlike apples built in call recording, this won't let the other party know your recording\n\nMade by @moeotf, decrypted by anyipa.me If you need a cert dm @eth4dmin"
+        }
+      ],
+      "appPermissions": {
+        "entitlements": [],
+        "privacy": {}
+      }
+    },
+    {
+      "name": "Clony AI",
+      "developerName": "ethMods",
+      "bundleIdentifier": "com.voicecopy.app",
+      "localizedDescription": "Clony V73 AI voice and face changer unlocked unlimited tokens. \n\nRequires a cert that has the entitlements for the widget plugin fix to work properly\n-App store link build 73\n-speech to speech now available make your voice sound like whatever you want \n-clone any face or voice etc\n-can change your voice with AI to whatever you want select from a list or upload a file\n-should look like this if you installed it with the correct entitlements\n-https://tinyurl.com/4axzm8pa\n\nMade by @moeotf, tweak is made by binnichtaktivs bot, then i updated it and fixed it not showing unlimited anymore but make sure your cert supports the plugin fix\nDecrypted by anyipa.me need a cert? Dm @eth4dmin",
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/1d/a6/bd/1da6bdc2-98f0-19c3-0cdc-939603e314f0/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/512x512bb.jpg",
+      "versions": [
+        {
+          "version": "73",
+          "date": "2024-12-12",
+          "size": 34433435,
+          "downloadURL": "https://repo.ethsign.fyi/3eca96c4-025a-4504-b516-bc60e9d7ea7b/ClonyAIV73moepro.ipa",
+          "localizedDescription": "Clony V73 AI voice and face changer unlocked unlimited tokens. \n\nRequires a cert that has the entitlements for the widget plugin fix to work properly\n-App store link build 73\n-speech to speech now available make your voice sound like whatever you want \n-clone any face or voice etc\n-can change your voice with AI to whatever you want select from a list or upload a file\n-should look like this if you installed it with the correct entitlements\n-https://tinyurl.com/4axzm8pa\n\nMade by @moeotf, tweak is made by binnichtaktivs bot, then i updated it and fixed it not showing unlimited anymore but make sure your cert supports the plugin fix\nDecrypted by anyipa.me need a cert? Dm @eth4dmin"
+        }
+      ],
+      "appPermissions": {
+        "entitlements": [],
+        "privacy": {}
+      }
+    },
+    {
+      "name": "World Clock",
+      "developerName": "ethMods",
+      "bundleIdentifier": "com.overdesigned.WorldClock",
+      "localizedDescription": "World Clock 1.22.3\n- World Clock 1.22.3\n- Clock Widget App\n- Info: Subscription Unlocked\n- Widget Requires Cert with AppGroup Entitlement or TS\n- Close The App, Open it Again | Premium Unlocked\n\nzxcvbn AutoRc injected\nMade by @VAXMG",
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/f0/3b/22/f03b226c-a82b-1ebd-f785-f6f13bcc3096/AppIcon-0-1x_U007epad-0-0-0-1-0-0-sRGB-0-85-220-0.png/512x512bb.jpg",
+      "versions": [
+        {
+          "version": "1.22.3",
+          "date": "2024-12-12",
+          "size": 69653488,
+          "downloadURL": "https://repo.ethsign.fyi/9029c27b-b87d-47dc-85b6-272687f8f265/com.overdesigned.WorldClock-1.22.3.ipa",
+          "localizedDescription": "World Clock 1.22.3\n- World Clock 1.22.3\n- Clock Widget App\n- Info: Subscription Unlocked\n- Widget Requires Cert with AppGroup Entitlement or TS\n- Close The App, Open it Again | Premium Unlocked\n\nzxcvbn AutoRc injected\nMade by @VAXMG"
+        },
+        {
+          "version": "1.22.1",
+          "date": "2024-12-07",
+          "size": 69755079,
+          "downloadURL": "https://repo.ethsign.fyi/8489032a-d71b-4302-8be2-26343f51d85b/com.overdesigned.WorldClock-1.22.1.ipa",
+          "localizedDescription": "World Clock 1.22.1\n- World Clock 1.22.1\n- Clock Widget App\n- Info: Subscription Unlocked\n- Widget Requires Cert with AppGroup Entitlement Or TS\n- Close The App, Open it Again | Premium Unlocked\n\nzxcvbn AutoRc injected\nMade by @VAXMG"
+        }
+      ],
+      "appPermissions": {
+        "entitlements": [],
+        "privacy": {}
+      }
+    },
+    {
+      "name": "Drafts",
+      "developerName": "ethMods",
+      "bundleIdentifier": "com.agiletortoise.Drafts5",
+      "localizedDescription": "Drafts\n\nPro features unlocked\n\nTap on restore purchase if pro is not unlocked directly\n\nTweak made by Blatant\n\nminimum OS version 15.6",
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/28/22/84/282284f0-9abf-28ac-5429-92e0dfa00337/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/512x512bb.jpg",
+      "versions": [
+        {
+          "version": "46.0",
+          "date": "2024-12-11",
+          "size": 34046897,
+          "downloadURL": "https://repo.ethsign.fyi/011818d4-6f9a-415d-9e78-3eed0bc92b46/Drafts%20Pro%2046.0_patched.ipa",
+          "localizedDescription": "Drafts\n\nPro features unlocked\n\nTap on restore purchase if pro is not unlocked directly\n\nTweak made by Blatant\n\nminimum OS version 15.6"
+        }
+      ],
+      "appPermissions": {
+        "entitlements": [],
+        "privacy": {}
+      }
+    },
+    {
+      "name": "Miniatures",
+      "developerName": "ethMods",
+      "bundleIdentifier": "com.othertalesinteractive.miniatures",
+      "localizedDescription": "Miniatures A Story Collection 1.02\n- Miniatures A Story Collection 1.02\n- Paid Game 3.99$\n\n@SultanModsIPAs Exclusive\nDecrypted by @VAXMG",
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/1f/03/46/1f0346c8-5681-424d-e519-4ee6feef47ec/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/512x512bb.jpg",
+      "versions": [
+        {
+          "version": "1.0.23",
+          "date": "2024-12-11",
+          "size": 715615697,
+          "downloadURL": "https://repo.ethsign.fyi/18c7b998-ac83-4a8a-931f-7113f940f623/com.othertalesinteractive.miniatures-1.0.23.ipa",
+          "localizedDescription": "Miniatures A Story Collection 1.02\n- Miniatures A Story Collection 1.02\n- Paid Game 3.99$\n\n@SultanModsIPAs Exclusive\nDecrypted by @VAXMG"
+        }
+      ],
+      "appPermissions": {
+        "entitlements": [],
+        "privacy": {}
+      }
+    },
+    {
+      "name": "Balatro",
+      "developerName": "ethMods",
+      "bundleIdentifier": "com.playstack.balatropremium",
+      "localizedDescription": "Balatro 1.1.6\n- Balatro 1.1.6\n- Card game \n- Paid App $12.99\n- Added SideloadFix | Thanks zx\n\nDecrypted by Anon",
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/54/30/7c/54307cfd-1fd0-12da-9f4c-e1dbde0addf7/iOS_AppIcon_Premium-0-0-1x_U007epad-0-85-220.png/512x512bb.jpg",
+      "versions": [
+        {
+          "version": "1.0.8",
+          "date": "2024-12-10",
+          "size": 60188758,
+          "downloadURL": "https://repo.ethsign.fyi/8c718e85-1c3a-430f-96d4-3600cc4ac4ad/com.playstack.balatropremium-1.0.8-75969_patched_nofix.ipa",
+          "localizedDescription": "Balatro 1.1.6\n- Balatro 1.1.6\n- Card game \n- Paid App $12.99\n- Added SideloadFix | Thanks zx\n\nDecrypted by Anon"
+        },
+        {
+          "version": "1.0.8",
+          "date": "2024-11-28",
+          "size": 60081703,
+          "downloadURL": "https://repo.ethsign.fyi/0c1edec0-98b3-4e99-87e0-9734eac779f0/com.playstack.balatropremium-1.0.8-42018.ipa",
+          "localizedDescription": "Balatro 1.1.6\n- Balatro 1.1.6\n- Card game \n- Paid App $12.99\n- Added SideloadFix | Thanks zx\n\nDecrypted by Anon"
+        }
+      ],
+      "appPermissions": {
+        "entitlements": [],
+        "privacy": {}
+      }
+    },
+    {
+      "name": "Sudoku",
+      "developerName": "ethMods",
+      "bundleIdentifier": "com.mindthefrog.sudoku",
+      "localizedDescription": "Sudoku 3.9.7\n- Sudoku 3.9.7\n- Paid Game 1.99$\n\n@SultanModsIPAs Exclusive\nDecrypted by @VAXMG",
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/52/34/13/523413d0-65d6-d78d-8db2-b0b8cd5a53e0/AppIcon-0-1x_U007emarketing-0-8-0-85-220-0.png/512x512bb.jpg",
+      "versions": [
+        {
+          "version": "3.9.7",
+          "date": "2024-12-09",
+          "size": 783866,
+          "downloadURL": "https://repo.ethsign.fyi/22d4564e-086d-4628-90d5-6594bdfb7f9d/com.mindthefrog.sudoku-3.9.7.ipa",
+          "localizedDescription": "Sudoku 3.9.7\n- Sudoku 3.9.7\n- Paid Game 1.99$\n\n@SultanModsIPAs Exclusive\nDecrypted by @VAXMG"
+        }
+      ],
+      "appPermissions": {
+        "entitlements": [],
+        "privacy": {}
+      }
+    },
+    {
+      "name": "Hex of Steel",
+      "developerName": "ethMods",
+      "bundleIdentifier": "com.valentinstudio.operationcitadelforios",
+      "localizedDescription": "Hex of Steel 7.7.2.2\n- Hex of Steel 7.7.2.2\n- Paid Game 4.99$\n\n@SultanModsIPAs Exclusive\nDecrypted by @VAXMG",
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/04/68/79/04687993-17e5-23d3-6a81-aaef823bbe76/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/512x512bb.jpg",
+      "versions": [
+        {
+          "version": "7.7.22",
+          "date": "2024-12-09",
+          "size": 479548433,
+          "downloadURL": "https://repo.ethsign.fyi/5896505e-ac3c-4ac6-8493-7a6c7f1de6a1/com.valentinstudio.operationcitadelforios-7.7.22.ipa",
+          "localizedDescription": "Hex of Steel 7.7.2.2\n- Hex of Steel 7.7.2.2\n- Paid Game 4.99$\n\n@SultanModsIPAs Exclusive\nDecrypted by @VAXMG"
+        }
+      ],
+      "appPermissions": {
+        "entitlements": [],
+        "privacy": {}
+      }
+    },
+    {
+      "name": "Solo",
+      "developerName": "ethMods",
+      "bundleIdentifier": "com.solotrainerapp.solo",
+      "localizedDescription": "Solo - Fretboard Visualisation 2.1.0\n- Solo - Fretboard Visualisation 2.1.0\n- Learn How To Play Guitar\n- Paid App 14.99$\n\n@SultanModsIPAs Exclusive\nDecrypted by @VAXMG",
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/f5/82/ec/f582ecc0-293a-2ae4-e929-f0b757c70983/AppIcon-1-0-0-1x_U007emarketing-0-0-0-7-0-0-85-220.png/512x512bb.jpg",
+      "versions": [
+        {
+          "version": "2.1.0",
+          "date": "2024-12-09",
+          "size": 270721024,
+          "downloadURL": "https://repo.ethsign.fyi/9c71fd94-89d5-48bd-bdf5-ed649330a427/com.solotrainerapp.solo-2.1.0.ipa",
+          "localizedDescription": "Solo - Fretboard Visualisation 2.1.0\n- Solo - Fretboard Visualisation 2.1.0\n- Learn How To Play Guitar\n- Paid App 14.99$\n\n@SultanModsIPAs Exclusive\nDecrypted by @VAXMG"
+        }
+      ],
+      "appPermissions": {
+        "entitlements": [],
+        "privacy": {}
+      }
+    },
+    {
+      "name": "Real Drift",
+      "developerName": "ethMods",
+      "bundleIdentifier": "com.realdrift.sipon",
+      "localizedDescription": "Real Drift Car Racing 5.0.7\n- Real Drift Car Racing 5.0.7\n- Paid Game 0.99$\n- Drifting Game\n- Satella Added\n\nDecrypted by @VAXMG",
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple113/v4/d6/72/df/d672dfeb-4ebb-e52f-e704-dd90d1be2261/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-85-220.png/512x512bb.jpg",
+      "versions": [
+        {
+          "version": "5.0.7",
+          "date": "2024-12-09",
+          "size": 317645392,
+          "downloadURL": "https://repo.ethsign.fyi/7f3a05f2-4201-41fb-9319-c22b281cb47a/com.realdrift.sipon-5.0.7.ipa",
+          "localizedDescription": "Real Drift Car Racing 5.0.7\n- Real Drift Car Racing 5.0.7\n- Paid Game 0.99$\n- Drifting Game\n- Satella Added\n\nDecrypted by @VAXMG"
+        }
+      ],
+      "appPermissions": {
+        "entitlements": [],
+        "privacy": {}
+      }
+    },
+    {
+      "name": "Caves of Lore",
+      "developerName": "ethMods",
+      "bundleIdentifier": "com.redplume.cavesoflore",
+      "localizedDescription": "Caves of Lore 1.7.1\n- Caves of Lore 1.7.1\n- Paid Game $7.99\n- Updated To The Latest Version \n\n@SultanModsIPAs Exclusive\nDecrypted by @VAXMG",
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/13/e5/3f/13e53f18-5773-4c01-112a-2f5ecc6e810e/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/512x512bb.jpg",
+      "versions": [
+        {
+          "version": "1.7.1",
+          "date": "2024-12-09",
+          "size": 133744372,
+          "downloadURL": "https://repo.ethsign.fyi/08e3053c-4013-4fa2-b540-6ce5617df9e3/com.redplume.cavesoflore-1.7.1.ipa",
+          "localizedDescription": "Caves of Lore 1.7.1\n- Caves of Lore 1.7.1\n- Paid Game $7.99\n- Updated To The Latest Version \n\n@SultanModsIPAs Exclusive\nDecrypted by @VAXMG"
+        }
+      ],
+      "appPermissions": {
+        "entitlements": [],
+        "privacy": {}
+      }
+    },
+    {
+      "name": "Sonic Jump",
+      "developerName": "ethMods",
+      "bundleIdentifier": "com.sega.sjump",
+      "localizedDescription": "Sonic Jump 2.4.1\n- Sonic Jump 2.4.1\n- Paid Game 2.99$\n- Updated To The Latest Version\n\n@SultanModsIPAs Exclusive\nDecrypted by @VAXMG",
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/da/0c/8f/da0c8f70-72ae-be57-d3ad-a7e86a6fa726/AppIcon-0-0-1x_U007emarketing-0-10-0-85-220.png/512x512bb.jpg",
+      "versions": [
+        {
+          "version": "2.4.1",
+          "date": "2024-12-09",
+          "size": 96943106,
+          "downloadURL": "https://repo.ethsign.fyi/6e0719a9-1487-4c75-bcdf-4c8d6ddee1f2/com.sega.sjump-2.4.1.ipa",
+          "localizedDescription": "Sonic Jump 2.4.1\n- Sonic Jump 2.4.1\n- Paid Game 2.99$\n- Updated To The Latest Version\n\n@SultanModsIPAs Exclusive\nDecrypted by @VAXMG"
+        }
+      ],
+      "appPermissions": {
+        "entitlements": [],
+        "privacy": {}
+      }
+    },
+    {
+      "name": "OLD throne",
+      "developerName": "ethMods",
+      "bundleIdentifier": "com.TDMbest.nucleaurthrone ",
+      "localizedDescription": "Info: Nuclear Throne ported to iOS!\nFact: I ported toncho_\u2019s android port and ported to iOS.\n\nIf you want to transfer data or mods nuclear throne will appear in files\n\nOLDER: is older has local network multiplayer\n\nNEWER: is newer does NOT have local network multiplayer\n\nhttps://toncho.itch.io/nuclear-throne-mobile\n\nhttps://store.steampowered.com/app/242680/Nuclear_Throne/",
+      "iconURL": "https://paradoxtime.tk/img/pdt_logo_nobg_shadow.png",
+      "versions": [
+        {
+          "version": "1.0.0",
+          "date": "2024-12-07",
+          "size": 118968041,
+          "downloadURL": "https://repo.ethsign.fyi/c6062d20-8cff-42dd-ab60-5eb8f8a73a13/%28fixed%29%20OLD%20Nuclear%20throne%20-%20TDMbest%20%28toncho_%29.ipa",
+          "localizedDescription": "Info: Nuclear Throne ported to iOS!\nFact: I ported toncho_\u2019s android port and ported to iOS.\n\nIf you want to transfer data or mods nuclear throne will appear in files\n\nOLDER: is older has local network multiplayer\n\nNEWER: is newer does NOT have local network multiplayer\n\nhttps://toncho.itch.io/nuclear-throne-mobile\n\nhttps://store.steampowered.com/app/242680/Nuclear_Throne/"
+        },
+        {
+          "version": "1.0.0",
+          "date": "2024-12-07",
+          "size": 123245672,
+          "downloadURL": "https://repo.ethsign.fyi/62d127a2-1ab9-4032-bb95-462685310922/OLD%20Nuclear%20throne%20-%20TDMbest%20%28toncho_%29.ipa",
+          "localizedDescription": "Info: Nuclear Throne ported to iOS!\nFact: I ported toncho_\u2019s android port and ported to iOS.\n\nIf you want to transfer data or mods nuclear throne will appear in files\n\nOLDER: is older has local network multiplayer\n\nNEWER: is newer does NOT have local network multiplayer\n\nhttps://toncho.itch.io/nuclear-throne-mobile\n\nhttps://store.steampowered.com/app/242680/Nuclear_Throne/"
+        }
+      ],
+      "appPermissions": {
+        "entitlements": [],
+        "privacy": {}
+      }
+    },
+    {
+      "name": "8 Ball Pool",
+      "developerName": "ethMods",
+      "bundleIdentifier": "com.miniclip.8ballpoolmult",
+      "localizedDescription": "8Ball Pool Hacked 55.6.1\n- 8Ball Pool 55.6.1\n- Funny Pool Game\n- Info: Extended Guidelines\n- Install via Trollstore\n\n\u26a0\ufe0f TrollStore Only \u26a0\ufe0f\n\nMade by @SultanLR\nDecrypted by @AppleTesters\nCrack provided by @Reactz_dude",
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/fa/ef/63/faef63bc-9db0-c6ab-e11d-d7592ef1a1f7/AppIcon-0-0-1x_U007emarketing-0-7-0-0-85-220.png/512x512bb.jpg",
+      "versions": [
+        {
+          "version": "55.6.1",
+          "date": "2024-12-07",
+          "size": 77248111,
+          "downloadURL": "https://repo.ethsign.fyi/b4035498-170c-4a1e-bcf4-796bf7881171/8BallPoolHacked-55.6.1-SultanMods.ipa",
+          "localizedDescription": "8Ball Pool Hacked 55.6.1\n- 8Ball Pool 55.6.1\n- Funny Pool Game\n- Info: Extended Guidelines\n- Install via Trollstore\n\n\u26a0\ufe0f TrollStore Only \u26a0\ufe0f\n\nMade by @SultanLR\nDecrypted by @AppleTesters\nCrack provided by @Reactz_dude"
+        }
+      ],
+      "appPermissions": {
+        "entitlements": [],
+        "privacy": {}
+      }
+    },
+    {
+      "name": "DT2",
+      "developerName": "ethMods",
+      "bundleIdentifier": "com.TDMbest.DT2",
+      "localizedDescription": "Info: DT2 port Updated!\nFact:It now appears in files so you can easily transfer data without needing to backup and import\n\nI messaged the guy that made this. He didn\u2019t want it on his itchio cause if something went wrong it would go under him instead of me.\n\nhttps://dragonrod342.itch.io/digital-tamers-reborn\n\nhttps://dragonrod342.itch.io/digital-tamers-2\n\nhttps://discord.gg/3x36UrRPR4",
+      "iconURL": "https://paradoxtime.tk/img/pdt_logo_nobg_shadow.png",
+      "versions": [
+        {
+          "version": "1.0.0",
+          "date": "2024-12-05",
+          "size": 234871300,
+          "downloadURL": "https://repo.ethsign.fyi/34ffb74b-0123-4584-bc8e-aec1a62fecdf/DT2%201.4-TDMbest%E2%80%99d.ipa",
+          "localizedDescription": "Info: DT2 port Updated!\nFact:It now appears in files so you can easily transfer data without needing to backup and import\n\nI messaged the guy that made this. He didn\u2019t want it on his itchio cause if something went wrong it would go under him instead of me.\n\nhttps://dragonrod342.itch.io/digital-tamers-reborn\n\nhttps://dragonrod342.itch.io/digital-tamers-2\n\nhttps://discord.gg/3x36UrRPR4"
+        }
+      ],
+      "appPermissions": {
+        "entitlements": [],
+        "privacy": {}
+      }
+    },
+    {
+      "name": "DT1",
+      "developerName": "ethMods",
+      "bundleIdentifier": "com.tdmbest.DT1",
+      "localizedDescription": "",
+      "iconURL": "https://paradoxtime.tk/img/pdt_logo_nobg_shadow.png",
+      "versions": [
+        {
+          "version": "1.0.0",
+          "date": "2024-12-05",
+          "size": 217267197,
+          "downloadURL": "https://repo.ethsign.fyi/49f00cca-4ae0-4db2-a34f-f81b0cfc462b/DT1-TDMbest%E2%80%99d.ipa",
+          "localizedDescription": ""
+        }
+      ],
+      "appPermissions": {
+        "entitlements": [],
+        "privacy": {}
+      }
+    },
+    {
+      "name": "Aloha VPN",
+      "developerName": "ethMods",
+      "bundleIdentifier": "com.alohabrowser.vpn",
+      "localizedDescription": "AlohaVPN Premium 2.4.1\n- AlohaVPN 2.4.1\n- VPN \n- Info: Premium unlocked \n- Sign in to unlock Premium\n- Requires Paid Cert/TS\n\nMade by ethTeam\nCrack by @VAXMG",
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/f9/df/07/f9df071b-14b6-bed1-a444-009b961bcb97/AppIcon-0-0-1x_U007emarketing-0-11-0-85-220.png/512x512bb.jpg",
+      "versions": [
+        {
+          "version": "2.4.1",
+          "date": "2024-12-04",
+          "size": 161398694,
+          "downloadURL": "https://repo.ethsign.fyi/5d60e46b-5113-4362-82af-2fd688a5cbb9/com.alohabrowser.vpn-2.4.1.ipa",
+          "localizedDescription": "AlohaVPN Premium 2.4.1\n- AlohaVPN 2.4.1\n- VPN \n- Info: Premium unlocked \n- Sign in to unlock Premium\n- Requires Paid Cert/TS\n\nMade by ethTeam\nCrack by @VAXMG"
+        }
+      ],
+      "appPermissions": {
+        "entitlements": [],
+        "privacy": {}
+      }
+    },
+    {
+      "name": "FaceApp",
+      "developerName": "ethMods",
+      "bundleIdentifier": "io.faceapp.ios",
+      "localizedDescription": "Honestly doubt this works \n\nGo through app setup \n\nRestore purchases if opening and closing doesn\u2019t work \n\nMight be TS only",
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/47/94/53/479453e7-5a49-94bf-ec30-d61f4f6411db/AppIcon-0-1x_U007epad-0-11-0-85-220-0.png/512x512bb.jpg",
+      "versions": [
+        {
+          "version": "12.8.0",
+          "date": "2024-12-03",
+          "size": 113311476,
+          "downloadURL": "https://repo.ethsign.fyi/2fbfb6c3-fd12-40ae-8adc-82fe5d24799b/io.faceapp.ios-12.8.0-72292.ipa",
+          "localizedDescription": "Honestly doubt this works \n\nGo through app setup \n\nRestore purchases if opening and closing doesn\u2019t work \n\nMight be TS only"
+        }
+      ],
+      "appPermissions": {
+        "entitlements": [],
+        "privacy": {}
+      }
+    },
+    {
+      "name": "Jungle Crash",
+      "developerName": "ethMods",
+      "bundleIdentifier": "com.donutgames.junglecrashland",
+      "localizedDescription": "Jungle Crash Land 1.35\n- Jungle Crash Land 1.35\n- Paid game $1.99\n\nDecrypted by ethTeam",
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple123/v4/40/41/c8/4041c8d9-a436-6705-1c34-f471733c8ef1/AppIcon012-1x_U007emarketing-0-4-85-220.png/512x512bb.jpg",
+      "versions": [
+        {
+          "version": "1.35",
+          "date": "2024-12-01",
+          "size": 4280173,
+          "downloadURL": "https://repo.ethsign.fyi/fbb4e106-9a8e-40aa-ae8d-42ee3a3d9f9d/Jungle-Crash-1.35-ethTeam.ipa",
+          "localizedDescription": "Jungle Crash Land 1.35\n- Jungle Crash Land 1.35\n- Paid game $1.99\n\nDecrypted by ethTeam"
+        }
+      ],
+      "appPermissions": {
+        "entitlements": [],
+        "privacy": {}
+      }
+    },
+    {
+      "name": "ARMCPUZ",
+      "developerName": "ethMods",
+      "bundleIdentifier": "com.benchu.ARMCPUZ",
+      "localizedDescription": "ARMCPUZ 1.7.3\n- ARMCPUZ 1.7.3 \n- Info: Premium unlocked\n\nMade by @Jacks_Apps0510\nDecrypted by @eeveedecrypterbot",
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/44/27/55/4427558f-5b9d-77ba-4be0-3432fc9dfe3a/AppIcon-0-1x_U007emarketing-0-11-0-85-220-0.png/512x512bb.jpg",
+      "versions": [
+        {
+          "version": "1.7.3",
+          "date": "2024-12-01",
+          "size": 8564421,
+          "downloadURL": "https://repo.ethsign.fyi/8c6b2cbe-fa5f-4b7a-9c4c-887be40d46c5/ARMCPUZ_Premium_1.7.3_ethTeam.ipa",
+          "localizedDescription": "ARMCPUZ 1.7.3\n- ARMCPUZ 1.7.3 \n- Info: Premium unlocked\n\nMade by @Jacks_Apps0510\nDecrypted by @eeveedecrypterbot"
+        }
+      ],
+      "appPermissions": {
+        "entitlements": [],
+        "privacy": {}
+      }
+    },
+    {
+      "name": "Wallcraft",
+      "developerName": "ethMods",
+      "bundleIdentifier": "com.wallpaperscraft.wallpapers",
+      "localizedDescription": "Wallcraft 3.22\n- Wallcraft 3.22\n- Info: Premium unlocked\n\nMade by @Jacks_Apps0510\nDecrypted by @eeveedecrypterbot",
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/2c/19/4e/2c194ee2-a636-1b6b-18fa-cfffec06e20b/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/512x512bb.jpg",
+      "versions": [
+        {
+          "version": "3.22",
+          "date": "2024-12-01",
+          "size": 94306116,
+          "downloadURL": "https://repo.ethsign.fyi/6f43b94c-6cdb-47ee-9b33-8564bd7b1aac/Wallcraft_Premium_3.22_ethTeam.ipa",
+          "localizedDescription": "Wallcraft 3.22\n- Wallcraft 3.22\n- Info: Premium unlocked\n\nMade by @Jacks_Apps0510\nDecrypted by @eeveedecrypterbot"
+        }
+      ],
+      "appPermissions": {
+        "entitlements": [],
+        "privacy": {}
+      }
+    },
+    {
+      "name": "Loon",
+      "developerName": "ethMods",
+      "bundleIdentifier": "com.ruikq.decar",
+      "localizedDescription": "Loon 3.2.4\n- Loon 3.2.4\n- Paid App 5.99$\n- Requires a Paid Certificate with\nVPN Entitlement or TrollStore\n\nDecrypted by @VAXMG",
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/8d/00/7f/8d007fd0-b64c-3983-73f0-645f75c56855/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/512x512bb.jpg",
+      "versions": [
+        {
+          "version": "3.2.4",
+          "date": "2024-12-01",
+          "size": 21769612,
+          "downloadURL": "https://repo.ethsign.fyi/79bd60f9-bdd9-4180-9be3-0f52855beb44/com.ruikq.decar-3.2.4.ipa",
+          "localizedDescription": "Loon 3.2.4\n- Loon 3.2.4\n- Paid App 5.99$\n- Requires a Paid Certificate with\nVPN Entitlement or TrollStore\n\nDecrypted by @VAXMG"
+        }
+      ],
+      "appPermissions": {
+        "entitlements": [],
+        "privacy": {}
+      }
+    },
+    {
+      "name": "Loon Lite",
+      "developerName": "ethMods",
+      "bundleIdentifier": "com.loon.LoonLite",
+      "localizedDescription": "Loon Lite 1.0.9\n- Loon lite 1.0.9\n- Paid App 0.99$\n- Requires a Paid Certificate with\nVPN Entitlement or TrollStore\n\nDecrypted by @VAXMG",
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/76/5c/ad/765cada9-e0cb-dbc8-b081-974a0102274c/AppIcon-0-1x_U007emarketing-0-7-0-85-220-0.png/512x512bb.jpg",
+      "versions": [
+        {
+          "version": "1.0.9",
+          "date": "2024-12-01",
+          "size": 12577345,
+          "downloadURL": "https://repo.ethsign.fyi/bd0ec436-d099-4b2f-9a7d-90b10612e10f/com.loon.LoonLite-1.0.9.ipa",
+          "localizedDescription": "Loon Lite 1.0.9\n- Loon lite 1.0.9\n- Paid App 0.99$\n- Requires a Paid Certificate with\nVPN Entitlement or TrollStore\n\nDecrypted by @VAXMG"
+        }
+      ],
+      "appPermissions": {
+        "entitlements": [],
+        "privacy": {}
+      }
+    },
+    {
+      "name": "Reverso Context",
+      "developerName": "ethMods",
+      "bundleIdentifier": "com.softissimo.ReversoContext",
+      "localizedDescription": "Reverso Context Pro 14.1.1\n- Reverso Context 14.1.1\n- Translation Coaching \n- Info: Pro unlocked \n- Enable within satella these settings, receipt & observer\n- Tap buy then cancel \n\nMade by @prohibiting",
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/35/3a/21/353a2176-1024-ae9d-10c6-df0c09f208b7/AppIcon-0-0-1x_U007epad-0-0-0-85-220.png/512x512bb.jpg",
+      "versions": [
+        {
+          "version": "14.1.1",
+          "date": "2024-11-29",
+          "size": 159264212,
+          "downloadURL": "https://repo.ethsign.fyi/dc3ea910-6be3-436a-9334-96a93d4a901c/com.softissimo.ReversoContext-14.1.1-54890.ipa",
+          "localizedDescription": "Reverso Context Pro 14.1.1\n- Reverso Context 14.1.1\n- Translation Coaching \n- Info: Pro unlocked \n- Enable within satella these settings, receipt & observer\n- Tap buy then cancel \n\nMade by @prohibiting"
+        }
+      ],
+      "appPermissions": {
+        "entitlements": [],
+        "privacy": {}
+      }
+    },
+    {
+      "name": "iTorrent",
+      "developerName": "ethMods",
+      "bundleIdentifier": "com.xitrix.iTorrent2",
+      "localizedDescription": "Updated iTorrent to V2.0.14-1\n- Updated iTorrent to V2.0.14-1\nChangelog below \n-Background downloading crash fix and performance improvements\n-Fixed rare crash in torrent trackers list\nMade by @xitrix posted by @moeotf",
+      "iconURL": "https://paradoxtime.tk/img/pdt_logo_nobg_shadow.png",
+      "versions": [
+        {
+          "version": "2.0.14",
+          "date": "2024-11-29",
+          "size": 7027297,
+          "downloadURL": "https://repo.ethsign.fyi/26014d8c-6b56-46fc-9a30-a75e3223d725/iTorrent2.0.14.ipa",
+          "localizedDescription": "Updated iTorrent to V2.0.14-1\n- Updated iTorrent to V2.0.14-1\nChangelog below \n-Background downloading crash fix and performance improvements\n-Fixed rare crash in torrent trackers list\nMade by @xitrix posted by @moeotf"
+        }
+      ],
+      "appPermissions": {
+        "entitlements": [],
+        "privacy": {}
+      }
+    },
+    {
+      "name": "Ule",
+      "developerName": "ethMods",
+      "bundleIdentifier": "com.basenji.lingvo",
+      "localizedDescription": "Ule Pro 2.30.0\n- Ule 2.30.0\n- Learn English \n- Info: Pro Unlocked \n\nMade by @NatlusTeam\nCrack by @VAXMG",
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/f8/25/5e/f8255e0d-b236-ebd4-fba9-aa401039b733/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/512x512bb.jpg",
+      "versions": [
+        {
+          "version": "2.30.0",
+          "date": "2024-11-27",
+          "size": 124377571,
+          "downloadURL": "https://repo.ethsign.fyi/51dbe286-266d-4c26-bfcd-444a8a8aaf27/Ule-2.30.0pro-SultanMods.ipa",
+          "localizedDescription": "Ule Pro 2.30.0\n- Ule 2.30.0\n- Learn English \n- Info: Pro Unlocked \n\nMade by @NatlusTeam\nCrack by @VAXMG"
+        }
+      ],
+      "appPermissions": {
+        "entitlements": [],
+        "privacy": {}
+      }
+    },
+    {
+      "name": "NIIMBOT",
+      "developerName": "ethMods",
+      "bundleIdentifier": "com.suofang.jcbqdy",
+      "localizedDescription": "NiimBot Pro 6.1.9\n- NiimBot 6.1.9\n- AI label printer \n- Info: Pro unlocked \n\nMade by @NatlusTeam\nCrack by @VAXMG",
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/32/09/61/3209619a-7641-523f-ccdd-a135946d3636/AppIcon-0-0-1x_U007emarketing-0-7-0-0-0-85-220.png/512x512bb.jpg",
+      "versions": [
+        {
+          "version": "6.1.9",
+          "date": "2024-11-27",
+          "size": 102283272,
+          "downloadURL": "https://repo.ethsign.fyi/856b69ca-daf0-4390-bbd3-7d4124bbdcb8/com.suofang.jcbqdy-6.1.9pro-SultanMods.ipa",
+          "localizedDescription": "NiimBot Pro 6.1.9\n- NiimBot 6.1.9\n- AI label printer \n- Info: Pro unlocked \n\nMade by @NatlusTeam\nCrack by @VAXMG"
+        }
+      ],
+      "appPermissions": {
+        "entitlements": [],
+        "privacy": {}
+      }
+    },
+    {
+      "name": "Bass Booster",
+      "developerName": "ethMods",
+      "bundleIdentifier": "com.prettyview.bassbooster",
+      "localizedDescription": "Bass Booster Pro 10.2\n- Bass Booster 10.2\n- Bass Boost your Volume\n- Info: Pro Unlocked\n\nMade by @NatlusTeam\nCrack by @VAXMG",
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/3d/05/fa/3d05faa8-5889-1b75-2cdf-43689b147486/AppIcon-0-0-1x_U007epad-0-0-0-85-220.png/512x512bb.jpg",
+      "versions": [
+        {
+          "version": "10.1",
+          "date": "2024-11-27",
+          "size": 76395163,
+          "downloadURL": "https://repo.ethsign.fyi/de3b39c9-6247-41f4-9008-ad4f8ea2c6ab/BassBooster-10.2Pro-SultanMods.ipa",
+          "localizedDescription": "Bass Booster Pro 10.2\n- Bass Booster 10.2\n- Bass Boost your Volume\n- Info: Pro Unlocked\n\nMade by @NatlusTeam\nCrack by @VAXMG"
+        }
+      ],
+      "appPermissions": {
+        "entitlements": [],
+        "privacy": {}
+      }
+    },
+    {
+      "name": "Code Editor",
+      "developerName": "ethMods",
+      "bundleIdentifier": "com.rhmsoft.icode",
+      "localizedDescription": "Code Editor Pro 1.1.0\n- Code Editor 1.1.0\n- Coding Complier & IDE\n- Info: Pro Unlocked \n\nMade by @NatlusTeam\nCrack by @VAXMG",
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/eb/3b/f2/eb3bf253-50ac-af93-fd6c-9ef1226e6598/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/512x512bb.jpg",
+      "versions": [
+        {
+          "version": "1.1.0",
+          "date": "2024-11-27",
+          "size": 16550344,
+          "downloadURL": "https://repo.ethsign.fyi/eb3033ff-45d5-4ee6-8769-e3567eca86b5/CodeEditor-1.1.0Pro-SultanMods.ipa",
+          "localizedDescription": "Code Editor Pro 1.1.0\n- Code Editor 1.1.0\n- Coding Complier & IDE\n- Info: Pro Unlocked \n\nMade by @NatlusTeam\nCrack by @VAXMG"
+        },
+        {
+          "version": "1.1.0",
+          "date": "2024-11-27",
+          "size": 16550344,
+          "downloadURL": "https://repo.ethsign.fyi/d4f243a2-a8d6-4e20-b1c8-aa6f90c10c60/CodeEditor-1.1.0Pro-SultanMods.ipa",
+          "localizedDescription": "Code Editor Pro 1.1.0\n- Code Editor 1.1.0\n- Coding Complier & IDE\n- Info: Pro Unlocked \n\nMade by @NatlusTeam\nCrack by @VAXMG"
+        }
+      ],
+      "appPermissions": {
+        "entitlements": [],
+        "privacy": {}
+      }
+    },
+    {
+      "name": "Fddb",
+      "developerName": "ethMods",
+      "bundleIdentifier": "fddb.mobile.ios",
+      "localizedDescription": "Fddb Pro 3.2.1 \n- Fddb 3.2.1\n- Weight loss App\n- Info: Pro Unlocked\n\nMade by @NatlusTeam\nCrack by @VAXMG",
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/4f/0a/d1/4f0ad1f4-f9d1-8c9c-46fe-bd333fb30a9b/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/512x512bb.jpg",
+      "versions": [
+        {
+          "version": "3.2.1",
+          "date": "2024-11-27",
+          "size": 26019455,
+          "downloadURL": "https://repo.ethsign.fyi/52491e28-8e84-4f89-bda0-e306787dd89a/Fddb-3.2.1pro-SultanMods.ipa",
+          "localizedDescription": "Fddb Pro 3.2.1 \n- Fddb 3.2.1\n- Weight loss App\n- Info: Pro Unlocked\n\nMade by @NatlusTeam\nCrack by @VAXMG"
+        }
+      ],
+      "appPermissions": {
+        "entitlements": [],
+        "privacy": {}
+      }
+    },
+    {
+      "name": "Poppy Playtime: Chapter 3",
+      "developerName": "ethMods",
+      "bundleIdentifier": "com.MobEntertainment.PoppyPlaytimeChapter3",
+      "localizedDescription": "Poppy Playtime Chapter 3\n- Poppy Playtime Chapter 3 1.0.000000\n- Paid Game 4.99$\n- Adventure, Puzzle\n\n@SultanModsIPAs Exclusive\nDecrypted by @VAXMG",
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/89/65/46/89654670-d145-f19a-f3e8-18cc87bb4293/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/512x512bb.jpg",
+      "versions": [
+        {
+          "version": "1.0.000000",
+          "date": "2024-11-27",
+          "size": 2569153335,
+          "downloadURL": "https://repo.ethsign.fyi/d8017820-8515-4686-b803-6c8089f2e628/Poppy%20Playtime_%20Chapter%203%20%281.0.000000%29.ipa",
+          "localizedDescription": "Poppy Playtime Chapter 3\n- Poppy Playtime Chapter 3 1.0.000000\n- Paid Game 4.99$\n- Adventure, Puzzle\n\n@SultanModsIPAs Exclusive\nDecrypted by @VAXMG"
+        }
+      ],
+      "appPermissions": {
+        "entitlements": [],
+        "privacy": {}
+      }
+    },
+    {
+      "name": "Magic Tiles 3",
+      "developerName": "ethMods",
+      "bundleIdentifier": "com.amanotes.magictiles",
+      "localizedDescription": "Magic Tiles 3: Piano Game\n\nVip features unlocked\n\nTweak made by Dell\n\nminimum OS version 13.0\n\nAppStore link | Donate | Get your own signing cert",
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/0f/b2/73/0fb27330-d67a-3a11-0565-8063ee44f382/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/512x512bb.jpg",
+      "versions": [
+        {
+          "version": "11.111.014",
+          "date": "2024-11-26",
+          "size": 179638305,
+          "downloadURL": "https://repo.ethsign.fyi/90e38a89-2920-44c8-993f-3cf0bbefcc53/Magic%20Tiles%203%20Vip%2011.111.014.ipa",
+          "localizedDescription": "Magic Tiles 3: Piano Game\n\nVip features unlocked\n\nTweak made by Dell\n\nminimum OS version 13.0\n\nAppStore link | Donate | Get your own signing cert"
+        }
+      ],
+      "appPermissions": {
+        "entitlements": [],
+        "privacy": {}
+      }
+    }
+  ],
+  "name": "ParadoxTime Repo | Ethmod Part 3"
+}
