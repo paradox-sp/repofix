@@ -29,8 +29,8 @@ jobs:
           response = requests.get(url)
           data = response.json()
 
-          data["name"] = "paradoxtime repo v1"
-          data["identifier"] = "tk.paradoxtime.aio"
+          data["name"] = "ParadoxTime Repo | Spry"
+          data["identifier"] = "aiorepo.paradoxtime.tk"
           data["iconURL"] = "https://paradoxtime.tk/img/pdt_logo_nobg_shadow.png"
           data["subtitle"] = "Fixes"
           data["description"] = "Paradoxtime Repo — fetches IPAs from zx's AIO repo and fixes duplicate issues."
