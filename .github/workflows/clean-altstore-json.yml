@@ -16,12 +16,14 @@ jobs:
           python-version: '3.10'
 
       - name: Install dependencies
-        run: pip install requests
+        run: pip install requests packaging
 
-      - name: Download and clean JSON
+      - name: Download, clean and sort JSON
         run: |
           python <<EOF
-          import json, requests
+          import json
+          import requests
+          from packaging import version
 
           url = "https://aio.zxcvbn.fyi/r/repo.altstore.json"
           response = requests.get(url)
@@ -58,12 +60,20 @@ jobs:
                           key = (bundle_id, v["version"])
                   seen_versions_global.add(key)
                   cleaned_versions.append(v)
+
+              def version_key(ver_obj):
+                  try:
+                      return version.parse(ver_obj.get("version"))
+                  except:
+                      return version.parse("0")
+
+              cleaned_versions.sort(key=version_key, reverse=True)
               app["versions"] = cleaned_versions
               cleaned_apps.append(app)
 
           data["apps"] = cleaned_apps
 
-          with open("repo-cleaned.json", "w") as f:
+          with open("repo-source.json", "w") as f:
               json.dump(data, f, indent=2)
           EOF
 
@@ -72,5 +82,5 @@ jobs:
           git config user.name "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
           git add repo-source.json
-          git commit -m "Auto-cleaned and updated metadata" || echo "No changes to commit"
+          git commit -m "Auto-cleaned, sorted and updated metadata" || echo "No changes to commit"
           git push
