@@ -51,7 +51,7 @@ jobs:
 
           # Transform to SideStore format
           output = {
-              "name": ""ParadoxTime Repo | Ethmod",
+              "name": "ParadoxTime Repo | Ethmod",
               "identifier": REPO_IDENTIFIER,
               "sourceURL": YOUR_REPO_URL,
               "iconURL": DEFAULT_ICON,
