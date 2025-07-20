@@ -19,13 +19,15 @@ jobs:
           python-version: '3.10'
 
       - name: Install dependencies
-        run: pip install requests
+        run: pip install requests packaging
 
       - name: Fetch, convert, and save EthSign repo JSON as AltStore format
         run: |
           python <<EOF
           import requests
           import json
+          from collections import defaultdict
+          from packaging.version import Version, InvalidVersion
 
           url = "https://repo.ethsign.fyi/"
           r = requests.get(url)
@@ -41,27 +43,64 @@ jobs:
               "apps": []
           }
 
+          apps_by_bundle = defaultdict(list)
+
           for app in src.get("apps", []):
-              converted["apps"].append({
-                  "name": app.get("name", "Unnamed App"),
-                  "developerName": app.get("developerName", "Unknown"),
-                  "bundleIdentifier": app.get("bundleIdentifier"),
-                  "localizedDescription": app.get("localizedDescription", ""),
-                  "iconURL": app.get("iconURL", ""),
-                  "versions": [
-                      {
-                          "version": app.get("version", "0.0"),
-                          "date": app.get("versionDate", "2025-01-01"),
-                          "size": app.get("size", 0),
-                          "downloadURL": app.get("downloadURL"),
-                          "localizedDescription": app.get("localizedDescription", "")
+              bundle_id = app.get("bundleIdentifier")
+              apps_by_bundle[bundle_id].append(app)
+
+          def parse_version(ver_str):
+              try:
+                  return Version(ver_str)
+              except InvalidVersion:
+                  return Version("0.0.0")
+
+          for bundle_id, app_versions in apps_by_bundle.items():
+              versions_by_dev = defaultdict(list)
+              for v in app_versions:
+                  dev = v.get("developerName", "Unknown")
+                  versions_by_dev[dev].append(v)
+
+              filtered_versions = []
+              app_info_sample = None
+
+              for dev, dev_versions in versions_by_dev.items():
+                  dev_versions.sort(key=lambda x: parse_version(x.get("version", "0.0.0")), reverse=True)
+                  keep_versions = dev_versions[:3]
+                  filtered_versions.extend(keep_versions)
+
+              filtered_versions.sort(key=lambda x: parse_version(x.get("version", "0.0.0")), reverse=True)
+
+              if filtered_versions:
+                  app_info_sample = filtered_versions[0]
+
+              icon_url = app_info_sample.get("iconURL", "") if app_info_sample else ""
+              if icon_url == "https://repo.ethsign.fyi/icon.jpg":
+                  icon_url = "https://paradoxtime.tk/img/pdt_logo_nobg_shadow.png"
+
+              altstore_versions = []
+              for v in filtered_versions:
+                  altstore_versions.append({
+                      "version": v.get("version", "0.0"),
+                      "date": v.get("versionDate", "2025-01-01"),
+                      "size": v.get("size", 0),
+                      "downloadURL": v.get("downloadURL"),
+                      "localizedDescription": v.get("localizedDescription", "")
+                  })
+
+              if app_info_sample:
+                  converted["apps"].append({
+                      "name": app_info_sample.get("name", "Unnamed App"),
+                      "developerName": app_info_sample.get("developerName", "Unknown"),
+                      "bundleIdentifier": bundle_id,
+                      "localizedDescription": app_info_sample.get("localizedDescription", ""),
+                      "iconURL": icon_url,
+                      "versions": altstore_versions,
+                      "appPermissions": {
+                          "entitlements": [],
+                          "privacy": {}
                       }
-                  ],
-                  "appPermissions": {
-                      "entitlements": [],
-                      "privacy": {}
-                  }
-              })
+                  })
 
           with open("ethsign-repo-fix.json", "w") as f:
               json.dump(converted, f, indent=2)
@@ -72,5 +111,5 @@ jobs:
           git config user.name "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
           git add ethsign-repo-fix.json
-          git commit -m "Auto-convert EthSign repo to AltStore format" || echo "No changes to commit"
+          git commit -m "Auto-convert EthSign repo to AltStore format with version sorting" || echo "No changes to commit"
           git push
