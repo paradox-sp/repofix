@@ -1,5 +1,4 @@
 {
-  "name": "ParadoxTime Repo | Ethmod",
   "identifier": "ethmod.paradoxtime.tk",
   "iconURL": "https://paradoxtime.tk/img/pdt_logo_nobg_shadow.png",
   "subtitle": "From EthSign repo, fixed for AltStore/SideStore",
@@ -9786,5 +9785,6 @@
         "privacy": {}
       }
     }
-  ]
+  ],
+  "name": "ParadoxTime Repo | Ethmod Full"
 }
