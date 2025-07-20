@@ -33,6 +33,7 @@ jobs:
           SOURCE_URL = "https://repo.ethsign.fyi/"
           DEFAULT_ICON = "https://paradoxtime.tk/img/pdt_logo_nobg_shadow.png"
           DEFAULT_TINT = "#FF6B6B"
+          REPO_IDENTIFIER = "ethsign.altstore"  # Added identifier
 
           # Fetch source
           print("🔄 Fetching EthSign repo...")
@@ -47,6 +48,7 @@ jobs:
           # Transform to AltStore format
           output = {
               "name": "EthSign Apps",
+              "identifier": REPO_IDENTIFIER,  # Added required identifier
               "subtitle": "Apps from EthSign repository",
               "description": "Collection of modified apps from EthSign",
               "iconURL": DEFAULT_ICON,
@@ -59,20 +61,9 @@ jobs:
 
           # Process apps
           for app in src_data.get("apps", []):
-              # Skip invalid entries
               if not all(k in app for k in ["name", "bundleIdentifier", "version", "downloadURL"]):
                   continue
 
-              # Build version entry
-              version_entry = {
-                  "version": app["version"],
-                  "date": app.get("versionDate", datetime.now().strftime("%Y-%m-%d")),
-                  "downloadURL": app["downloadURL"],
-                  "size": app.get("size", 10000000),
-                  "localizedDescription": app.get("localizedDescription", "Modified app from EthSign")
-              }
-
-              # Build app entry
               output["apps"].append({
                   "name": app["name"],
                   "bundleIdentifier": app["bundleIdentifier"],
@@ -82,14 +73,19 @@ jobs:
                   "iconURL": app.get("iconURL", DEFAULT_ICON),
                   "tintColor": DEFAULT_TINT,
                   "category": "other",
-                  "versions": [version_entry],
+                  "versions": [{
+                      "version": app["version"],
+                      "date": app.get("versionDate", datetime.now().strftime("%Y-%m-%d")),
+                      "downloadURL": app["downloadURL"],
+                      "size": app.get("size", 10000000),
+                      "localizedDescription": app.get("localizedDescription", "Modified app from EthSign")
+                  }],
                   "appPermissions": {
                       "entitlements": [],
                       "privacy": {}
                   }
               })
 
-          # Save output
           with open("altstore-source.json", "w") as f:
               json.dump(output, f, indent=2)
           print(f"✅ Successfully converted {len(output['apps'])} apps")
@@ -97,17 +93,29 @@ jobs:
 
       - name: Validate JSON
         run: |
+          # Basic JSON validation
           if ! jq empty altstore-source.json; then
             echo "❌ Invalid JSON structure"
             exit 1
           fi
           echo "✅ Valid JSON structure"
 
-          # Check required AltStore fields
-          if ! jq -e '.name and .identifier and .apps[].name and .apps[].bundleIdentifier and .apps[].versions[].downloadURL' altstore-source.json >/dev/null; then
-            echo "❌ Missing required AltStore fields"
-            exit 1
-          fi
+          # AltStore-specific validation
+          REQUIRED_FIELDS=(
+            '.name'
+            '.identifier'
+            '.apps[].name'
+            '.apps[].bundleIdentifier'
+            '.apps[].versions[].downloadURL'
+            '.apps[].versions[].version'
+          )
+          
+          for field in "${REQUIRED_FIELDS[@]}"; do
+            if ! jq -e "$field" altstore-source.json >/dev/null; then
+              echo "❌ Missing required field: $field"
+              exit 1
+            fi
+          done
           echo "✅ All required fields present"
 
       - name: Commit changes
