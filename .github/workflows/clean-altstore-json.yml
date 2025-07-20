@@ -16,14 +16,12 @@ jobs:
           python-version: '3.10'
 
       - name: Install dependencies
-        run: pip install requests packaging
+        run: pip install requests
 
-      - name: Download, clean, and sort JSON
+      - name: Download and clean JSON
         run: |
           python <<EOF
-          import json
-          import requests
-          from packaging import version
+          import json, requests
 
           url = "https://aio.zxcvbn.fyi/r/repo.altstore.json"
           response = requests.get(url)
@@ -60,16 +58,6 @@ jobs:
                           key = (bundle_id, v["version"])
                   seen_versions_global.add(key)
                   cleaned_versions.append(v)
-
-              def version_key(x):
-                  try:
-                      base_ver = x["version"].split("-alt")[0]
-                      return version.parse(base_ver)
-                  except Exception:
-                      return version.parse("0")
-
-              cleaned_versions.sort(key=version_key, reverse=True)
-
               app["versions"] = cleaned_versions
               cleaned_apps.append(app)
 
