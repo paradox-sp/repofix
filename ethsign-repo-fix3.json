@@ -1,16 +1,15 @@
 {
-  "name": "ParadoxTime Repo | Ethmod Part 3",
   "identifier": "ethmod.paradoxtime.tk",
   "iconURL": "https://paradoxtime.tk/img/pdt_logo_nobg_shadow.png",
   "subtitle": "From EthSign repo, fixed for AltStore/SideStore",
-  "description": "Paradoxtime Repo \u2014 fetches IPAs from EthSign repo and fixes json format for altstore.",
+  "description": "ParadoxTime Repo \u2014 fetches IPAs from EthSign repo and fixes json format for altstore.",
   "apps": [
     {
       "name": "B612",
       "developerName": "ethMods",
       "bundleIdentifier": "com.linecorp.b612",
       "localizedDescription": "B612 Unlocked 14.0.16\n- B612 14.0.16\n- Camera App\n- Info: VIP Unlocked \n\nMade by ethTeam\nCrack by @VAXMG\nNeed a cert? Message @eth4dmin\nNew Main Channel: https://t.me/SultanModsiOS",
-      "iconURL": "https://paradoxtime.tk/img/pdt_logo_nobg_shadow.png",
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/74/54/2c/74542ca8-6df2-bea5-0a55-6c25321fe436/AppIcon-0-0-1x_U007epad-0-1-0-sRGB-85-220.png/512x512bb.jpg",
       "versions": [
         {
           "version": "14.0.16",
@@ -44,7 +43,7 @@
       "developerName": "ethMods",
       "bundleIdentifier": "com.Team17.TheEscapists2",
       "localizedDescription": "The Escapists 2: Pocket Breakout v1.10.635486\n\n\ud83c\uddf7\ud83c\uddfa The Escapists 2: Pocket Breakout \u2014 \u0441\u043f\u043b\u0430\u043d\u0438\u0440\u0443\u0439\u0442\u0435 \u043f\u043e\u0431\u0435\u0433 \u0438\u0437 \u0440\u0430\u0437\u043b\u0438\u0447\u043d\u044b\u0445 \u0442\u044e\u0440\u0435\u043c, \u0438\u0441\u043f\u043e\u043b\u044c\u0437\u0443\u044f \u043a\u0440\u0430\u0444\u0442, \u0441\u043a\u0440\u044b\u0442\u043d\u043e\u0441\u0442\u044c \u0438 \u0441\u043c\u0435\u043a\u0430\u043b\u043a\u0443.  \n\u2014 \u041f\u043b\u0430\u0442\u043d\u043e\u0435 \u043f\u0440\u0438\u043b\u043e\u0436\u0435\u043d\u0438\u0435 \u0438\u0437 AppStore  \n\u00a9 \u0421\u043e\u0437\u0434\u0430\u043d\u043e: GLESign\n\n\ud83c\uddfa\ud83c\uddf8 The Escapists 2: Pocket Breakout challenges you to plan escapes from multiple prisons using crafting, stealth, and wit.  \n\u2014 Paid app from the App Store  \n\u00a9 Created: GLESign",
-      "iconURL": "https://paradoxtime.tk/img/pdt_logo_nobg_shadow.png",
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple113/v4/a5/17/fe/a517fe3f-20e2-5acb-cba9-eab4d604cf16/AppIcon-0-1x_U007emarketing-0-0-GLES2_U002c0-512MB-sRGB-0-0-0-85-220-0-0-0-6.png/512x512bb.jpg",
       "versions": [
         {
           "version": "1.10.635486",
@@ -64,7 +63,7 @@
       "developerName": "ethMods",
       "bundleIdentifier": "com.team17.escapists",
       "localizedDescription": "The Escapists v1.1.8\n\n\ud83c\uddf7\ud83c\uddfa The Escapists \u2014 \u043e\u0440\u0438\u0433\u0438\u043d\u0430\u043b\u044c\u043d\u044b\u0439 \u0441\u0438\u043c\u0443\u043b\u044f\u0442\u043e\u0440 \u043f\u043e\u0431\u0435\u0433\u0430 \u0438\u0437 \u0442\u044e\u0440\u044c\u043c\u044b: \u0434\u043e\u0431\u044b\u0432\u0430\u0439\u0442\u0435 \u0438\u043d\u0441\u0442\u0440\u0443\u043c\u0435\u043d\u0442\u044b, \u043f\u043b\u0430\u043d\u0438\u0440\u0443\u0439\u0442\u0435 \u0438 \u043e\u0441\u0443\u0449\u0435\u0441\u0442\u0432\u043b\u044f\u0439\u0442\u0435 \u0441\u0432\u043e\u0439 \u043f\u043e\u0431\u0435\u0433.  \n\u2014 \u041f\u043b\u0430\u0442\u043d\u043e\u0435 \u043f\u0440\u0438\u043b\u043e\u0436\u0435\u043d\u0438\u0435 \u0438\u0437 AppStore  \n\u00a9 \u0421\u043e\u0437\u0434\u0430\u043d\u043e: GLESign\n\n\ud83c\uddfa\ud83c\uddf8 The Escapists is the original prison-break simulator: gather tools, plan your strategy, and make your escape.  \n\u2014 Paid app from the App Store  \n\u00a9 Created: GLESign",
-      "iconURL": "https://paradoxtime.tk/img/pdt_logo_nobg_shadow.png",
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple123/v4/29/b6/0b/29b60ba2-956f-a181-8e2f-c2c191d82b7d/AppIcon-0-1x_U007emarketing-0-85-220-0-7.png/512x512bb.jpg",
       "versions": [
         {
           "version": "1.1.8",
@@ -84,7 +83,7 @@
       "developerName": "ethMods",
       "bundleIdentifier": "com.lensdistortions.Lens-Distortions",
       "localizedDescription": "LD - Photo & Video Finishing 6.9.1\n- LD - Photo & Video Finishing 6.9.1\n- Photo & Video editing App\n- Info: Subscription Unlocked\n\nMade by ethTeam\nCrack by @VAXMG\nNeed a cert? Dm @eth4dmin\nNew Main Channel: https://t.me/SultanModsiOS",
-      "iconURL": "https://paradoxtime.tk/img/pdt_logo_nobg_shadow.png",
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/f0/9d/d9/f09dd901-3f64-a1f0-2498-407dd7e63285/AppIcon-0-0-1x_U007emarketing-0-6-0-85-220.png/512x512bb.jpg",
       "versions": [
         {
           "version": "6.9.1",
@@ -104,7 +103,7 @@
       "developerName": "ethMods",
       "bundleIdentifier": "com.marmalade.monopoly",
       "localizedDescription": "Monopoly v1.14.4\n\n\ud83c\uddf7\ud83c\uddfa \u041a\u043b\u0430\u0441\u0441\u0438\u0447\u0435\u0441\u043a\u0430\u044f \u043d\u0430\u0441\u0442\u043e\u043b\u044c\u043d\u0430\u044f \u0438\u0433\u0440\u0430 \u043d\u0430 \u0432\u0430\u0448\u0435\u043c \u0442\u0435\u043b\u0435\u0444\u043e\u043d\u0435! \u0421\u0442\u0440\u043e\u0439\u0442\u0435 \u0441\u0432\u043e\u044e \u0438\u043c\u043f\u0435\u0440\u0438\u044e \u0438 \u0432\u044b\u0438\u0433\u0440\u044b\u0432\u0430\u0439\u0442\u0435 \u0432 \u043c\u043e\u043d\u043e\u043f\u043e\u043b\u0438\u044e.  \n\u2014 \u041f\u043b\u0430\u0442\u043d\u043e\u0435 \u043f\u0440\u0438\u043b\u043e\u0436\u0435\u043d\u0438\u0435 \u0438\u0437 AppStore  \n\u00a9 \u0421\u043e\u0437\u0434\u0430\u043d\u043e: GLESign\n\n\ud83c\uddfa\ud83c\uddf8 The classic board game on your phone! Build your empire and win at Monopoly.  \n\u2014 Paid app from AppStore  \n\u00a9 Created: GLESign",
-      "iconURL": "https://paradoxtime.tk/img/pdt_logo_nobg_shadow.png",
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/e2/2f/56/e22f56bf-ac08-b949-a6f6-49c1ce5fa4c0/AppIcon-1x_U007emarketing-0-7-0-85-220-0.png/512x512bb.jpg",
       "versions": [
         {
           "version": "1.14.4",
@@ -151,7 +150,7 @@
       "developerName": "ethMods",
       "bundleIdentifier": "com.Kleientertainment.dontstarveshipwrecked",
       "localizedDescription": "Shipwrecked v1.84  \n\n\ud83c\uddf7\ud83c\uddfa \u041f\u0440\u0438\u043a\u043b\u044e\u0447\u0435\u043d\u0447\u0435\u0441\u043a\u0430\u044f \u0438\u0433\u0440\u0430, \u0433\u0434\u0435 \u0432\u0430\u043c \u043f\u0440\u0435\u0434\u0441\u0442\u043e\u0438\u0442 \u0432\u044b\u0436\u0438\u0432\u0430\u0442\u044c \u043d\u0430 \u043e\u0441\u0442\u0440\u043e\u0432\u0435 \u0438 \u0438\u0441\u0441\u043b\u0435\u0434\u043e\u0432\u0430\u0442\u044c \u0435\u0433\u043e \u0441\u0435\u043a\u0440\u0435\u0442\u044b.  \n\u2014 \u041f\u043b\u0430\u0442\u043d\u043e\u0435 \u043f\u0440\u0438\u043b\u043e\u0436\u0435\u043d\u0438\u0435 \u0438\u0437 AppStore  \n\u00a9 \u0421\u043e\u0437\u0434\u0430\u043d\u043e: GLESign  \n\n\ud83c\uddfa\ud83c\uddf8 An adventure game where you survive on an island and explore its secrets.  \n\u2014 Paid app from AppStore  \n\u00a9 Created: GLESign",
-      "iconURL": "https://paradoxtime.tk/img/pdt_logo_nobg_shadow.png",
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple112/v4/50/c3/2f/50c32f11-b48c-7176-a546-c400127ee431/AppIcon-1x_U007emarketing-0-10-85-220.png/512x512bb.jpg",
       "versions": [
         {
           "version": "1.84",
@@ -171,7 +170,7 @@
       "developerName": "ethMods",
       "bundleIdentifier": "com.fungames.battleroyale",
       "localizedDescription": "Zooba v4.69.2 | iOSGods ViP Cracked\n\n\ud83c\uddf7\ud83c\uddfa Zooba \u2014 \u0432\u0435\u0441\u0435\u043b\u0430\u044f \u0430\u0440\u043a\u0430\u0434\u043d\u0430\u044f \u0438\u0433\u0440\u0430 \u0441 \u044d\u043b\u0435\u043c\u0435\u043d\u0442\u0430\u043c\u0438 \u0431\u043e\u044f, \u0432 \u043a\u043e\u0442\u043e\u0440\u043e\u0439 \u0432\u044b \u0441\u0440\u0430\u0436\u0430\u0435\u0442\u0435\u0441\u044c \u0432 \u0431\u043e\u0435\u0432\u044b\u0445 \u0430\u0440\u0435\u043d\u0430\u0445.  \n\u2014 ViP Pro \u0430\u043a\u0442\u0438\u0432\u0438\u0440\u043e\u0432\u0430\u043d  \n\u2014 \u0424\u0443\u043d\u043a\u0446\u0438\u0438 \u0447\u0438\u0442\u0430: \u0441\u0441\u044b\u043b\u043a\u0430\n\u00a9 \u0421\u043e\u0437\u0434\u0430\u043d\u043e: GLESign\n\n\ud83c\uddfa\ud83c\uddf8 Zooba \u2014 a fun arcade game with combat elements where you fight in battle arenas.  \n\u2014 ViP Pro activated  \n\u2014 Cheat features: link\n\u00a9 Created: GLESign",
-      "iconURL": "https://paradoxtime.tk/img/pdt_logo_nobg_shadow.png",
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/c9/6a/2d/c96a2d41-a266-1672-4e91-824c6713f37f/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/512x512bb.jpg",
       "versions": [
         {
           "version": "4.69.2",
@@ -191,7 +190,7 @@
       "developerName": "ethMods",
       "bundleIdentifier": "net.Foddy.GettingOverIt",
       "localizedDescription": "Getting Over It v1.14\n\n\ud83c\uddf7\ud83c\uddfa \u041d\u0435\u0432\u0435\u0440\u043e\u044f\u0442\u043d\u043e \u0441\u043b\u043e\u0436\u043d\u0430\u044f \u0438 \u0437\u0430\u0431\u0430\u0432\u043d\u0430\u044f \u0438\u0433\u0440\u0430, \u0432 \u043a\u043e\u0442\u043e\u0440\u043e\u0439 \u0432\u044b \u0443\u043f\u0440\u0430\u0432\u043b\u044f\u0435\u0442\u0435 \u043f\u0435\u0440\u0441\u043e\u043d\u0430\u0436\u0435\u043c, \u043f\u044b\u0442\u0430\u044e\u0449\u0438\u043c\u0441\u044f \u043f\u043e\u0434\u043d\u044f\u0442\u044c\u0441\u044f \u043d\u0430 \u0432\u0435\u0440\u0448\u0438\u043d\u0443, \u043f\u0440\u0435\u043e\u0434\u043e\u043b\u0435\u0432\u0430\u044f \u0442\u0440\u0443\u0434\u043d\u044b\u0435 \u043f\u0440\u0435\u043f\u044f\u0442\u0441\u0442\u0432\u0438\u044f.  \n\u2014 \u041f\u043b\u0430\u0442\u043d\u043e\u0435 \u043f\u0440\u0438\u043b\u043e\u0436\u0435\u043d\u0438\u0435 \u0438\u0437 AppStore  \n\u00a9 \u0421\u043e\u0437\u0434\u0430\u043d\u043e: GLESign\n\n\ud83c\uddfa\ud83c\uddf8 An incredibly difficult and fun game where you control a character trying to climb to the top, overcoming tough obstacles.  \n\u2014 Paid app from AppStore  \n\u00a9 Created: GLESign",
-      "iconURL": "https://paradoxtime.tk/img/pdt_logo_nobg_shadow.png",
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple115/v4/5e/1e/40/5e1e40d4-45fc-94d8-fbc6-f35f4fbf6fb7/AppIcon-1x_U007emarketing-0-7-0-85-220.png/512x512bb.jpg",
       "versions": [
         {
           "version": "1.14",
@@ -251,7 +250,7 @@
       "developerName": "ethMods",
       "bundleIdentifier": "com.offlinemusic",
       "localizedDescription": "\ud83d\udcf1 Offline Music Player\n\n\ud83c\udd94 Bundle ID: \ncom.offlinemusic\n\ud83d\udcca Version: 3.4.8\n\ud83d\udc68\u200d\ud83d\udcbb Developer: Md Zakir Hossain\n\ud83c\udff7 Category: Music\n\ud83d\udd27 Minimum iOS: 15.0\n\n\ud83d\udc8e Modifier: Pro Unlocked\n\n\ud83d\udcdd Note: \nNo Additional Notes\n\n\ud83d\udd04 Tweaked by @blatants\n\nKo-Fi \u2615\ufe0f | Crypto \ud83d\udc7e | IPAs \ud83d\udce5",
-      "iconURL": "https://paradoxtime.tk/img/pdt_logo_nobg_shadow.png",
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/3c/71/7f/3c717f59-6ce8-8ad0-3c35-bce056478b5d/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/512x512bb.jpg",
       "versions": [
         {
           "version": "3.4.8",
@@ -271,7 +270,7 @@
       "developerName": "ethMods",
       "bundleIdentifier": "com.iPwners.Plonkan",
       "localizedDescription": "\ud83d\udcf1 Buddy: Budget Planner App\n\n\ud83c\udd94 Bundle ID: \ncom.iPwners.Plonkan\n\ud83d\udcca Version: 12.37\n\ud83d\udc68\u200d\ud83d\udcbb Developer: Buddy Budgeting AB\n\ud83c\udff7 Category: Finance\n\ud83d\udd27 Minimum iOS: 16.0\n\n\ud83d\udc8e Modifier: Premium Unlocked\n\n\ud83d\udcdd Note: \nNo Additional Notes\n\n\ud83d\udd04 Tweaked by @blatants\n\nKo-Fi \u2615\ufe0f | Crypto \ud83d\udc7e | IPAs \ud83d\udce5",
-      "iconURL": "https://paradoxtime.tk/img/pdt_logo_nobg_shadow.png",
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/42/aa/0c/42aa0c0d-99cf-8b10-d786-9e7361aab938/AppIcon-0-1x_U007epad-0-1-0-85-220-0.png/512x512bb.jpg",
       "versions": [
         {
           "version": "12.37",
@@ -291,7 +290,7 @@
       "developerName": "ethMods",
       "bundleIdentifier": "rr.carbon",
       "localizedDescription": "Carbon B&W Filters and Effects 14.2\n- Carbon B&W Filters and Effects 14.2\n- Photo editor with cool filters, effects, and a great looking UI.\n- Info: Subscription Unlocked\n\nMade by ethTeam\nCrack by @VAXMG\nNeed a cert? Dm @eth4dmin\nNew Main Channel: https://t.me/SultanModsiOS",
-      "iconURL": "https://paradoxtime.tk/img/pdt_logo_nobg_shadow.png",
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/16/e8/aa/16e8aa60-f479-0cb5-56c2-5985f2d1f5ce/AppIcon-Release-0-0-1x_U007emarketing-0-7-0-85-220.jpeg/512x512bb.jpg",
       "versions": [
         {
           "version": "14.2",
@@ -311,7 +310,7 @@
       "developerName": "ethMods",
       "bundleIdentifier": "xyz.lijun.www.AudioPlayer",
       "localizedDescription": "One Player - Offline Music 3.3.4\n- One Player - Offline Music 3.3.4\n- Info: Premium Unlocked\n- \ud83c\udfb5 Advanced Music Player: \n\u2022 Supports APE, OGG,OPUS,WMA, & more  \n\u2022 Unlimited playlists & songs  \n\u2022 Edit covers, titles & lyrics (LRC)  \n\u2022 Vinyl-style UI & folder playback  \n\u2022 CarPlay (TrollStore Only) & Siri Shortcuts support  \n\u2022 Custom EQ & 20+ app icons  \n\u2022 Home screen widgets)\n\nMade by ethTeam\nCrack by @VAXMG\nNeed a cert? Dm @eth4dmin\nNew Main Channel: https://t.me/SultanModsiOS",
-      "iconURL": "https://paradoxtime.tk/img/pdt_logo_nobg_shadow.png",
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/65/e7/95/65e795a8-f5ef-5743-cda8-00cc67f00452/AppIcon-0-0-1x_U007emarketing-0-8-0-P3-85-220.png/512x512bb.jpg",
       "versions": [
         {
           "version": "3.3.4",
@@ -331,7 +330,7 @@
       "developerName": "ethMods",
       "bundleIdentifier": "co.airapps.finderbot",
       "localizedDescription": "\ud83d\udcf1 Find Air - My Device Tracker\n\n\ud83c\udd94 Bundle ID: \nco.airapps.finderbot\n\ud83d\udcca Version: 3.7.0\n\ud83d\udc68\u200d\ud83d\udcbb Developer: Air Apps Systems\n\ud83c\udff7 Category: Utilities\n\ud83d\udd27 Minimum iOS: 13.0\n\n\ud83d\udc8e Modifier: Subscription Unlocked\n\n\ud83d\udcdd Note: \nNo Additional Notes\n\n\ud83d\udd04 Tweaked by @blatants\n\nKo-Fi \u2615\ufe0f | Crypto \ud83d\udc7e | IPAs \ud83d\udce5",
-      "iconURL": "https://paradoxtime.tk/img/pdt_logo_nobg_shadow.png",
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/90/55/ad/9055ad75-2983-4136-3bac-be921db12006/AppIcon-0-0-1x_U007emarketing-0-7-0-0-85-220.png/512x512bb.jpg",
       "versions": [
         {
           "version": "3.6.1",
@@ -351,7 +350,7 @@
       "developerName": "ethMods",
       "bundleIdentifier": "com.sillens.iShape",
       "localizedDescription": "Lifesum Premium 20.3.0\n- Lifesum 20.3.0\n- Health Tracking App\n- Info: Premium Unlocked\n\nMade by ethTeam\nCrack by @VAXMG\nNeed a cert? Dm @eth4dmin or @SultanIPAs\nNew Main Channel: https://t.me/SultanModsiOS",
-      "iconURL": "https://paradoxtime.tk/img/pdt_logo_nobg_shadow.png",
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/4e/94/39/4e9439d9-ed5a-bb8c-f691-738bf572af55/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/512x512bb.jpg",
       "versions": [
         {
           "version": "20.3.0",
@@ -371,7 +370,7 @@
       "developerName": "ethMods",
       "bundleIdentifier": "com.alarmclockcompany.alarmclockhdfree",
       "localizedDescription": "Alarm Clock 4.3.41\n- Alarm Clock 4.3.41\n- Cool Alarm App\n- Info: Premium Unlocked\n\nMade by ethTeam\nCrack by @VAXMG\nNeed a cert? Dm @eth4dmin or @SultanIPAs\nNew Main Channel: https://t.me/SultanModsiOS",
-      "iconURL": "https://paradoxtime.tk/img/pdt_logo_nobg_shadow.png",
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/1b/98/94/1b989446-0bf1-4262-b13e-609642d92d02/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/512x512bb.jpg",
       "versions": [
         {
           "version": "4.3.41",
@@ -411,7 +410,7 @@
       "developerName": "ethMods",
       "bundleIdentifier": "com.codebysms",
       "localizedDescription": "Code by SMS Pro 1.0\n- Code by SMS 1.0\n- Get phone numbers for various social media \n- Info: Speed Up Ads\n- Get coins by watching ads, ads are sped up \n- In app purchases not cracked \n\nMade by @SultanIPAS\nCrack by @dpixel\nNeed a cert? Contact @SultanIPAS or @eth4dmin\nNew Main Channel: https://t.me/SultanModsiOS",
-      "iconURL": "https://paradoxtime.tk/img/pdt_logo_nobg_shadow.png",
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/3d/3b/77/3d3b77bd-4eab-0c66-62aa-e592d121bd2f/AppIcon-0-0-1x_U007ephone-0-1-0-85-220.png/512x512bb.jpg",
       "versions": [
         {
           "version": "1.0",
@@ -431,7 +430,7 @@
       "developerName": "ethMods",
       "bundleIdentifier": "au.com.webmelbourne.streamlify",
       "localizedDescription": "VidSaver+ Pro 2.0\n- VidSaver+ 2.0\n- Download YouTube videos \n- Info: Satella Added\n- Tap buy then cancel \n- Downloading may work \n\nMade by @VAXMG\nNeed a cert? Contact @SultanIPAS or @eth4dmin\nNew Main Channel: https://t.me/SultanModsiOS",
-      "iconURL": "https://paradoxtime.tk/img/pdt_logo_nobg_shadow.png",
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/be/ea/9c/beea9c79-d7f2-e6f0-e89d-5d4d11c234d3/AppIcon-0-0-1x_U007epad-0-1-85-220.png/512x512bb.jpg",
       "versions": [
         {
           "version": "2.0",
@@ -451,7 +450,7 @@
       "developerName": "ethMods",
       "bundleIdentifier": "com.waterminder.waterminder",
       "localizedDescription": "\ud83d\udcf1 Water Tracker by WaterMinder\u00ae\n\n\ud83c\udd94 Bundle ID: \ncom.waterminder.waterminder\n\ud83d\udcca Version: 6.8.6\n\ud83d\udc68\u200d\ud83d\udcbb Developer: Funn Media, LLC\n\ud83c\udff7 Category: Health & Fitness\n\ud83d\udd27 Minimum iOS: 15.0\n\n\ud83d\udc8e Modifier: Subscription Unlocked\n\n\ud83d\udcdd Note: \nIgnore purchase page.\nTo make the widgets work with certificates > Read.\n\n\ud83d\udd04 Tweaked by @blatants\n\nKo-Fi \u2615\ufe0f | Crypto \ud83d\udc7e | IPAs \ud83d\udce5",
-      "iconURL": "https://paradoxtime.tk/img/pdt_logo_nobg_shadow.png",
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/be/c6/c3/bec6c3d0-109c-3776-9603-35ee24328647/AppIcon-0-1x_U007epad-0-0-0-1-0-0-sRGB-85-220-0.png/512x512bb.jpg",
       "versions": [
         {
           "version": "6.8.6",
@@ -471,7 +470,7 @@
       "developerName": "ethMods",
       "bundleIdentifier": "com.appicfun.translatorfree",
       "localizedDescription": "\ud83d\udcf1 Speak & Translate - Translator\n\n\ud83c\udd94 Bundle ID: \ncom.appicfun.translatorfree\n\ud83d\udcca Version: 6.0.32\n\ud83d\udc68\u200d\ud83d\udcbb Developer: Easy Tiger Apps, LLC.\n\ud83c\udff7 Category: Productivity\n\ud83d\udd27 Minimum iOS: 14.0\n\n\ud83d\udc8e Modifier: Subscription Unlocked\n\n\ud83d\udcdd Note: \nRestart app if Subscriptions isn't activated.\n\n\ud83d\udd04 Tweaked by @blatants\n\nKo-Fi \u2615\ufe0f | Crypto \ud83d\udc7e | IPAs \ud83d\udce5",
-      "iconURL": "https://paradoxtime.tk/img/pdt_logo_nobg_shadow.png",
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/b1/ff/9f/b1ff9f59-cd8b-8c84-0350-42a36d0a256c/AppIcon-0-0-1x_U007emarketing-0-7-0-sRGB-85-220.png/512x512bb.jpg",
       "versions": [
         {
           "version": "6.0.32",
@@ -491,7 +490,7 @@
       "developerName": "ethMods",
       "bundleIdentifier": "com.blayzegames.iosfps",
       "localizedDescription": "Bullet Force v1.102.7 | iOSGods ViP Cracked\n\n\ud83c\uddf7\ud83c\uddfa Bullet Force \u2014 \u043c\u043d\u043e\u0433\u043e\u043f\u043e\u043b\u044c\u0437\u043e\u0432\u0430\u0442\u0435\u043b\u044c\u0441\u043a\u0438\u0439 \u0448\u0443\u0442\u0435\u0440 \u0441 \u0440\u0430\u0437\u043b\u0438\u0447\u043d\u044b\u043c\u0438 \u0440\u0435\u0436\u0438\u043c\u0430\u043c\u0438 \u0438 \u043e\u0440\u0443\u0436\u0438\u0435\u043c.  \n\u2014 ViP Pro \u0430\u043a\u0442\u0438\u0432\u0438\u0440\u043e\u0432\u0430\u043d  \n\u2014 \u0424\u0443\u043d\u043a\u0446\u0438\u0438 \u0447\u0438\u0442\u0430: \u0441\u0441\u044b\u043b\u043a\u0430\n\u00a9 \u0421\u043e\u0437\u0434\u0430\u043d\u043e: GLESign\n\n\ud83c\uddfa\ud83c\uddf8 Bullet Force \u2014 a multiplayer shooter with various modes and weapons.  \n\u2014 ViP Pro activated  \n\u2014 Cheat features: link\n\u00a9 Created: GLESign",
-      "iconURL": "https://paradoxtime.tk/img/pdt_logo_nobg_shadow.png",
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/66/25/71/6625713b-61ec-0fa6-e26a-9e1a4e20f61c/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/512x512bb.jpg",
       "versions": [
         {
           "version": "1.102.7",
@@ -511,7 +510,7 @@
       "developerName": "ethMods",
       "bundleIdentifier": "com.headway.books",
       "localizedDescription": "\ud83d\udcf1 Headway: Daily Book Summaries\n\n\ud83c\udd94 Bundle ID: \ncom.headway.books\n\ud83d\udcca Version: 316.0\n\ud83d\udc68\u200d\ud83d\udcbb Developer: GTHW App Limited\n\ud83c\udff7 Category: Education\n\ud83d\udd27 Minimum iOS: 15.0\n\n\ud83d\udc8e Modifier: Subscription Unlocked\n\n\ud83d\udcdd Note: \nNo Additional Notes\n\n\ud83d\udd04 Tweaked by @blatants\n\nKo-Fi \u2615\ufe0f | Crypto \ud83d\udc7e | IPAs \ud83d\udce5",
-      "iconURL": "https://paradoxtime.tk/img/pdt_logo_nobg_shadow.png",
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/f5/1a/d7/f51ad781-62bb-2968-8470-053b8b0366c3/AppIcon-0-0-1x_U007emarketing-0-11-0-85-220-0.png/512x512bb.jpg",
       "versions": [
         {
           "version": "316.0",
@@ -551,7 +550,7 @@
       "developerName": "ethMods",
       "bundleIdentifier": "com.crossforward.WidgetSmith",
       "localizedDescription": "\ud83d\udcf1 Widgetsmith\n\n\ud83c\udd94 Bundle ID: \ncom.crossforward.WidgetSmith\n\ud83d\udcca Version: 7.1\n\ud83d\udc68\u200d\ud83d\udcbb Developer: Cross Forward Consulting, LLC\n\ud83c\udff7 Category: Productivity\n\ud83d\udd27 Minimum iOS: 15.0\n\n\ud83d\udc8e Modifier: Subscription Unlocked\n\n\ud83d\udcdd Note: \nTo make the widgets work with certificates > Read.\n\n\ud83d\udd04 Tweaked by @blatants\n\nKo-Fi \u2615\ufe0f | Crypto \ud83d\udc7e | IPAs \ud83d\udce5",
-      "iconURL": "https://paradoxtime.tk/img/pdt_logo_nobg_shadow.png",
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/d1/8b/d9/d18bd9bf-3b7d-b7b2-46fc-e66648049ad6/AppIcon-0-1x_U007epad-0-0-0-6-0-0-P3-85-220-0.png/512x512bb.jpg",
       "versions": [
         {
           "version": "7.1",
@@ -578,7 +577,7 @@
       "developerName": "ethMods",
       "bundleIdentifier": "com.apalonapps.alarmclockfree",
       "localizedDescription": "\ud83d\udcf1 Alarm Clock for Me - Wake Up!\n\n\ud83c\udd94 Bundle ID: \ncom.apalonapps.alarmclockfree\n\ud83d\udcca Version: 3.19.16\n\ud83d\udc68\u200d\ud83d\udcbb Developer: Easy Tiger Apps, LLC.\n\ud83c\udff7 Category: Utilities\n\ud83d\udd27 Minimum iOS: 13\n\n\ud83d\udc8e Modifier: Pro Unlocked\n\n\ud83d\udcdd Note: \nRestart app if Subscriptions isn't activated.\n\n\ud83d\udd04 Tweaked by @blatants\n\nKo-Fi \u2615\ufe0f | Crypto \ud83d\udc7e | IPAs \ud83d\udce5",
-      "iconURL": "https://paradoxtime.tk/img/pdt_logo_nobg_shadow.png",
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/76/62/40/76624003-2f29-78f1-2378-0425e044e346/AppIcon-0-0-1x_U007emarketing-0-10-0-85-220.png/512x512bb.jpg",
       "versions": [
         {
           "version": "3.19.16",
@@ -598,7 +597,7 @@
       "developerName": "ethMods",
       "bundleIdentifier": "com.mcdiamondfinder.app",
       "localizedDescription": "\ud83d\udcf1 Diamond Finder for Minecraft +\n\n\ud83c\udd94 Bundle ID: \ncom.mcdiamondfinder.app\n\ud83d\udcca Version: 1.5.7\n\ud83d\udc68\u200d\ud83d\udcbb Developer: Digital App Group GmbH\n\ud83c\udff7 Category: Entertainment\n\ud83d\udd27 Minimum iOS: 14.0\n\n\ud83d\udc8e Modifier: Pro Unlocked\n\n\ud83d\udcdd Note: \nNo Additional Notes\n\n\ud83d\udd04 Tweaked by @blatants\n\nKo-Fi \u2615\ufe0f | Crypto \ud83d\udc7e | IPAs \ud83d\udce5",
-      "iconURL": "https://paradoxtime.tk/img/pdt_logo_nobg_shadow.png",
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/bf/49/c0/bf49c0b4-c34a-ff51-d5e7-0042bb854bc7/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/512x512bb.jpg",
       "versions": [
         {
           "version": "3.0.6",
@@ -638,7 +637,7 @@
       "developerName": "ethMods",
       "bundleIdentifier": "com.campmobile.snow",
       "localizedDescription": "SnowAi VIP 14.0.2\n- SnowAI 14.0.2\n- AI Beauty Camera App\n- Info: VIP Unlocked\n\nMade by ethTeam\nCrack by @VAXMG\nNeed a cert? Message @eth4dmin or @SultanIPAs",
-      "iconURL": "https://paradoxtime.tk/img/pdt_logo_nobg_shadow.png",
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/52/ba/cc/52bacc06-3d59-a12b-0d3c-82296f42f418/AppIcon-0-0-1x_U007ephone-0-1-0-sRGB-85-220.png/512x512bb.jpg",
       "versions": [
         {
           "version": "14.0.2",
@@ -672,7 +671,7 @@
       "developerName": "ethMods",
       "bundleIdentifier": "com.khanov.BlockerX",
       "localizedDescription": "\ud83d\udcf1 1Blocker - Ad Blocker\n\n\ud83c\udd94 Bundle ID: \ncom.khanov.BlockerX\n\ud83d\udcca Version: 6.0.5\n\ud83d\udc68\u200d\ud83d\udcbb Developer: 1Blocker LLC\n\ud83c\udff7 Category: Utilities\n\ud83d\udd27 Minimum iOS: 16.0\n\n\ud83d\udc8e Modifier: Subscription Unlocked\n\n\ud83d\udcdd Note: \n\u26a0\ufe0f To make the app work with certificates patch the iPA > Read.\n\n\ud83d\udd04 Tweaked by @blatants\n\nKo-Fi \u2615 | AppStore \ud83d\udcf1 | IPAs \ud83d\udce5",
-      "iconURL": "https://paradoxtime.tk/img/pdt_logo_nobg_shadow.png",
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/48/02/b7/4802b7b8-479b-92ac-e1fc-317a4881dd7f/AppIcon-Blocker-0-0-1x_U007epad-0-1-0-sRGB-85-220.png/512x512bb.jpg",
       "versions": [
         {
           "version": "6.0.5",
@@ -692,7 +691,7 @@
       "developerName": "ethMods",
       "bundleIdentifier": "com.audiomack.iphone",
       "localizedDescription": "\ud83d\udcf1 Audiomack - Play Music Offline\n\n\ud83c\udd94 Bundle ID: \ncom.audiomack.iphone\n\ud83d\udcca Version: 7.8.0\n\ud83d\udc68\u200d\ud83d\udcbb Developer: Audiomack, Inc.\n\ud83c\udff7 Category: Music\n\ud83d\udd27 Minimum iOS: 14.0\n\n\ud83d\udc8e Modifier: Subscription Unlocked\n\n\ud83d\udcdd Note: \nNo Additional Notes\n\n\ud83d\udd04 Tweaked by @blatants\n\nKo-Fi \u2615\ufe0f | Crypto \ud83d\udc7e | IPAs \ud83d\udce5",
-      "iconURL": "https://paradoxtime.tk/img/pdt_logo_nobg_shadow.png",
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/bf/e7/55/bfe75553-3fe2-5a43-e234-9c0f284c0b59/AppIcon-1-0-0-1x_U007emarketing-0-6-0-85-220.png/512x512bb.jpg",
       "versions": [
         {
           "version": "7.8.0",
@@ -719,7 +718,7 @@
       "developerName": "ethMods",
       "bundleIdentifier": "solutions.wzp.translator",
       "localizedDescription": "\ud83d\udcf1 Translate Now - AI Translator\n\n\ud83c\udd94 Bundle ID: \nsolutions.wzp.translator\n\ud83d\udcca Version: 8.11.0\n\ud83d\udc68\u200d\ud83d\udcbb Developer: Air Apps Systems\n\ud83c\udff7 Category: Reference\n\ud83d\udd27 Minimum iOS: 13.0\n\n\ud83d\udc8e Modifier: Subscription Unlocked\n\n\ud83d\udcdd Note: \nTo make the keyboard work with certificates > Read.\n\n\ud83d\udd04 Tweaked by @blatants\n\nKo-Fi \u2615\ufe0f | Crypto \ud83d\udc7e | IPAs \ud83d\udce5",
-      "iconURL": "https://paradoxtime.tk/img/pdt_logo_nobg_shadow.png",
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/59/b6/36/59b6365d-ed15-50fc-c310-def0b767bf32/AppIcon-0-0-1x_U007epad-0-1-0-sRGB-0-85-220.png/512x512bb.jpg",
       "versions": [
         {
           "version": "8.11.0",
@@ -739,7 +738,7 @@
       "developerName": "ethMods",
       "bundleIdentifier": "com.cellardoorgames.rogue-legacy",
       "localizedDescription": "Rogue Legacy v1.0.5  \n\n\ud83c\uddf7\ud83c\uddfa \u0420\u043e\u0433\u0430\u043b\u0438\u043a, \u0432 \u043a\u043e\u0442\u043e\u0440\u043e\u043c \u043a\u0430\u0436\u0434\u044b\u0439 \u043f\u0435\u0440\u0441\u043e\u043d\u0430\u0436 \u043e\u0431\u043b\u0430\u0434\u0430\u0435\u0442 \u0443\u043d\u0438\u043a\u0430\u043b\u044c\u043d\u044b\u043c\u0438 \u0441\u043f\u043e\u0441\u043e\u0431\u043d\u043e\u0441\u0442\u044f\u043c\u0438, \u0430 \u0432\u044b \u0438\u0441\u0441\u043b\u0435\u0434\u0443\u0435\u0442\u0435 \u043f\u043e\u0434\u0437\u0435\u043c\u0435\u043b\u044c\u044f, \u0441\u0440\u0430\u0436\u0430\u044f\u0441\u044c \u0441 \u043c\u043e\u043d\u0441\u0442\u0440\u0430\u043c\u0438.  \n\u2014 \u041f\u043b\u0430\u0442\u043d\u043e\u0435 \u043f\u0440\u0438\u043b\u043e\u0436\u0435\u043d\u0438\u0435 \u0438\u0437 AppStore  \n\u00a9 \u0421\u043e\u0437\u0434\u0430\u043d\u043e: GLESign\n\n\ud83c\uddfa\ud83c\uddf8 A roguelike where each character has unique abilities, and you explore dungeons, fighting monsters.  \n\u2014 Paid app from AppStore  \n\u00a9 Created: GLESign",
-      "iconURL": "https://paradoxtime.tk/img/pdt_logo_nobg_shadow.png",
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple115/v4/b5/7e/77/b57e778c-03a5-940d-5c93-821b1f5619ee/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/512x512bb.jpg",
       "versions": [
         {
           "version": "1.0.5",
@@ -759,7 +758,7 @@
       "developerName": "ethMods",
       "bundleIdentifier": "com.risingcabbage.enhancefox",
       "localizedDescription": "EnhanceFox Pro 7.4.0\n- EnhanceFox 7.4.0\n- Photo Enhancer\n- Info: All features have been successfully unlocked except Enhance Video and Animate Face\n\nMade by @eth4dmin\nDecrypted by @eeveedecrypterbot",
-      "iconURL": "https://paradoxtime.tk/img/pdt_logo_nobg_shadow.png",
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/ef/00/bb/ef00bb3b-be2a-cf20-6064-c59b69b8d391/AppIcon-0-1x_U007emarketing-0-7-0-0-85-220-0.png/512x512bb.jpg",
       "versions": [
         {
           "version": "7.4.0",
@@ -799,7 +798,7 @@
       "developerName": "ethMods",
       "bundleIdentifier": "com.footballaddicts.livescoreaddicts",
       "localizedDescription": "Forza Football Pro 6.11.5\n- Forza Football 6.11.5\n- Track European football \n- Info: Pro Unlocked\n\nMade by @SultanIPAS\nNeed a cert? Contact @SultanIPAS or @eth4dmin\nNew Main Channel: https://t.me/SultanModsiOS",
-      "iconURL": "https://paradoxtime.tk/img/pdt_logo_nobg_shadow.png",
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/73/6f/ba/736fbaf4-742c-ab29-7233-e4c880a94736/AppIcon-0-0-1x_U007epad-0-0-0-1-0-0-sRGB-85-220.png/512x512bb.jpg",
       "versions": [
         {
           "version": "6.11.5",
@@ -819,7 +818,7 @@
       "developerName": "ethMods",
       "bundleIdentifier": "com.evolve.helm",
       "localizedDescription": "\ud83d\udcf1 Rest: Fix Your Sleep For Good\n\n\ud83c\udd94 Bundle ID: \ncom.evolve.helm\n\ud83d\udcca Version: 3.117.0\n\ud83d\udc68\u200d\ud83d\udcbb Developer: Evolve Global, Inc.\n\ud83c\udff7 Category: Health & Fitness\n\ud83d\udd27 Minimum iOS: 15.0\n\n\ud83d\udc8e Modifier: Subscription Unlocked\n\n\ud83d\udcdd Note: \nNo Additional Notes\n\n\ud83d\udd04 Tweaked by @blatants\n\nKo-Fi \u2615 | AppStore \ud83d\udcf1 | IPAs \ud83d\udce5",
-      "iconURL": "https://paradoxtime.tk/img/pdt_logo_nobg_shadow.png",
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/35/c5/ba/35c5ba92-859c-af2d-07fd-e9aa342d4e74/AppIcon-0-0-1x_U007emarketing-0-11-0-sRGB-85-220.png/512x512bb.jpg",
       "versions": [
         {
           "version": "3.117.0",
@@ -839,7 +838,7 @@
       "developerName": "ethMods",
       "bundleIdentifier": "com.wolframalpha.wolframalphaviewer",
       "localizedDescription": "\ud83d\udcf1 WolframAlpha\n\n\ud83c\udd94 Bundle ID: \ncom.wolframalpha.wolframalphaviewer\n\ud83d\udcca Version: 2.5.1\n\ud83d\udc68\u200d\ud83d\udcbb Developer: Wolfram Group LLC\n\ud83c\udff7 Category: Education\n\ud83d\udd27 Minimum iOS: 16.0\n\n\ud83d\udc8e Modifier: Pro Unlocked\n\n\ud83d\udcdd Note: \nLogin to activate \"Pro\"\n\n\ud83d\udd04 Tweaked by @blatants\n\nKo-Fi \u2615 | AppStore \ud83d\udcf1 | IPAs \ud83d\udce5",
-      "iconURL": "https://paradoxtime.tk/img/pdt_logo_nobg_shadow.png",
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/b4/98/49/b49849c7-e582-dfa2-1a6d-333262b8622c/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/512x512bb.jpg",
       "versions": [
         {
           "version": "2.5.1",
@@ -859,7 +858,7 @@
       "developerName": "ethMods",
       "bundleIdentifier": "com.fujixweekly.fujixweeklyrecipes",
       "localizedDescription": "\ud83d\udcf1 Fuji X Weekly \u2014\u00a0Film Recipes\n\n\ud83c\udd94 Bundle ID: \ncom.fujixweekly.fujixweeklyrecipes\n\ud83d\udcca Version: 1.8.0\n\ud83d\udc68\u200d\ud83d\udcbb Developer: Ritchie Roesch\n\ud83c\udff7 Category: Photo & Video\n\ud83d\udd27 Minimum iOS: 16.1\n\n\ud83d\udc8e Modifier: Pro Unlocked\n\n\ud83d\udcdd Note: \nNo Additional Notes\n\n\ud83d\udd04 Tweaked by @blatants\n\nKo-Fi \u2615 | AppStore \ud83d\udcf1 | IPAs \ud83d\udce5",
-      "iconURL": "https://paradoxtime.tk/img/pdt_logo_nobg_shadow.png",
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/fb/19/2c/fb192c4d-e435-5918-876f-7566cbd10070/AppIcon-0-0-1x_U007epad-0-1-85-220.png/512x512bb.jpg",
       "versions": [
         {
           "version": "1.8.0",
@@ -939,7 +938,7 @@
       "developerName": "ethMods",
       "bundleIdentifier": "com.abishkking.maleworkout",
       "localizedDescription": "\ud83d\udcf1 Home Workout - No Equipments\n\n\ud83c\udd94 Bundle ID: \ncom.abishkking.maleworkout\n\ud83d\udcca Version: 1.31.0\n\ud83d\udc68\u200d\ud83d\udcbb Developer: Leap Health\n\ud83c\udff7 Category: Health & Fitness\n\ud83d\udd27 Minimum iOS: 12.0\n\n\ud83d\udc8e Modifier: Subscription Unlocked\n\n\ud83d\udcdd Note: \nNo Additional Notes\n\n\ud83d\udd04 Tweaked by @blatants\n\nKo-Fi \u2615 | AppStore \ud83d\udcf1 | IPAs \ud83d\udce5",
-      "iconURL": "https://paradoxtime.tk/img/pdt_logo_nobg_shadow.png",
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/04/e9/b3/04e9b335-9659-61ea-8c3e-45f9bfbd2f2a/AppIcon-0-0-1x_U007epad-0-5-0-0-sRGB-85-220.png/512x512bb.jpg",
       "versions": [
         {
           "version": "1.31.0",
@@ -959,7 +958,7 @@
       "developerName": "ethMods",
       "bundleIdentifier": "com.just2us.dualgram",
       "localizedDescription": "Dualgram Pro 1.27\n- Dualgram 1.27\n- Record on multiple cameras at once \n- Info: Pro Unlocked\n- iOS 15 min\n\nMade by @SultanIPAS\nNeed a cert? Contact @SultanIPAS or @eth4dmin",
-      "iconURL": "https://paradoxtime.tk/img/pdt_logo_nobg_shadow.png",
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/c9/fe/9f/c9fe9f65-171e-dee0-69b1-d3074bdc066f/AppIcon-1x_U007emarketing-0-7-0-85-220.jpeg/512x512bb.jpg",
       "versions": [
         {
           "version": "1.27",
@@ -979,7 +978,7 @@
       "developerName": "ethMods",
       "bundleIdentifier": "com.imdb.imdb",
       "localizedDescription": "IMDB No Ads 15.3\n- IMDB 15.3\n- Track tv shows \n- Info: Ads removed \n- iOS 17 min\n\nMade by @SultanIPAS\nNeed a cert? Contact @SultanIPAS or @eth4dmin",
-      "iconURL": "https://paradoxtime.tk/img/pdt_logo_nobg_shadow.png",
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/89/b6/9c/89b69cee-5049-80eb-e293-11e4f52c622f/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/512x512bb.jpg",
       "versions": [
         {
           "version": "15.3",
@@ -999,7 +998,7 @@
       "developerName": "ethMods",
       "bundleIdentifier": "co.appnation.aiphotostudio",
       "localizedDescription": "Fotorama Pro 3.2.6\n- Fotorama 3.2.6\n- Ai Photo App\n- Info: Pro Unlocked\n- Tap Buy then cancel \n- You will need to buy Pro every time you force close the app\n- To stop Apple Sign in Prompt read here\n- Plugin Patch included \n\nMade by @SultanIPAS\nNeed a cert? Contact @SultanIPAS or @eth4dmin",
-      "iconURL": "https://paradoxtime.tk/img/pdt_logo_nobg_shadow.png",
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/8e/88/98/8e88980d-54db-2d41-6133-2b7ba61e68f8/AppIcon-0-0-1x_U007epad-0-0-85-220.jpeg/512x512bb.jpg",
       "versions": [
         {
           "version": "3.2.6",
@@ -1019,7 +1018,7 @@
       "developerName": "ethMods",
       "bundleIdentifier": "com.contentarcade.LogoMaker",
       "localizedDescription": "Logo Maker Pro 11.2.7\n- Logo Maker 11.2.7\n- Design Logos\n- Info: Pro unlocked\n\nMade by ethTeam\nCrack by @VAXMG\nNeed a cert? Message @eth4dmin or @SultanIPAs",
-      "iconURL": "https://paradoxtime.tk/img/pdt_logo_nobg_shadow.png",
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/03/0c/58/030c585c-c103-a8a6-f2fa-ebe417f17aea/AppIcon-0-0-1x_U007emarketing-0-11-0-85-220.png/512x512bb.jpg",
       "versions": [
         {
           "version": "11.2.7",
@@ -1053,7 +1052,7 @@
       "developerName": "ethMods",
       "bundleIdentifier": "com.inkle.80days",
       "localizedDescription": "New App 80 Days\nPaid Game $6.99\nDecrypted by SultanMods",
-      "iconURL": "https://paradoxtime.tk/img/pdt_logo_nobg_shadow.png",
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple118/v4/56/4e/d8/564ed858-41ca-3cb2-e3ec-1620679f3cb8/AppIcon-1x_U007emarketing-85-220-6.png/512x512bb.jpg",
       "versions": [
         {
           "version": "1.27",
@@ -1073,7 +1072,7 @@
       "developerName": "ethMods",
       "bundleIdentifier": "com.puzzle.merge.fruits.watermelon.drop",
       "localizedDescription": "Fruit Merge No Ads 6.2\n- Fruit Merge 6.2 \n- Match fruit together \n- Info: No Ads \n\nMade by @SultanIPAS\nNeed a cert? Contact @SultanIPAS or @eth4dmin",
-      "iconURL": "https://paradoxtime.tk/img/pdt_logo_nobg_shadow.png",
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/ed/c9/e8/edc9e86e-8a23-dd09-9f4f-8a9462e51f30/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/512x512bb.jpg",
       "versions": [
         {
           "version": "6.2",
@@ -1093,7 +1092,7 @@
       "developerName": "ethMods",
       "bundleIdentifier": "com.leapfitness.fasting",
       "localizedDescription": "Fasting Pro 1.9.7\n- Fasting 1.9.7\n- Track your Fasting goals\n- Info: Premium Unlocked\n- Widget Require AppGroup Entitlement\n\nMade by @SultanIPAs\nCrack by @VAXMG\nNeed a cert? Contact @SultanIPAS or @eth4dmin",
-      "iconURL": "https://paradoxtime.tk/img/pdt_logo_nobg_shadow.png",
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/cc/98/13/cc98131c-bc90-cb4c-9d3c-1224c744a416/AppIcon-0-0-1x_U007emarketing-0-7-0-0-85-220.png/512x512bb.jpg",
       "versions": [
         {
           "version": "1.9.7",
@@ -1147,7 +1146,7 @@
       "developerName": "ethMods",
       "bundleIdentifier": "net.dreamdownloader.vpn",
       "localizedDescription": "VPN Pro 2.2.8\n- VPN 2.2.8\n- VPN app\n- Requires Paid Cert/Trollstore\n- Use for TikTok ban \n\nMade by @SultanIPAs\nNeed a cert? Contact @SultanIPAS",
-      "iconURL": "https://paradoxtime.tk/img/pdt_logo_nobg_shadow.png",
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/76/45/35/764535a0-fde1-b270-7459-f075c4f4b4fd/AppIcon-0-1x_U007emarketing-0-7-0-85-220.png/512x512bb.jpg",
       "versions": [
         {
           "version": "2.2.8",
@@ -1174,7 +1173,7 @@
       "developerName": "ethMods",
       "bundleIdentifier": "com.christianselig.Apollo",
       "localizedDescription": "Apollo Custom API 1.2.2\n- Apollo 1.15.11\n- The best Reddit client \n- Apollo Custom API 1.2.2\n- Requires your own Reddit API\n\nMade by @SultanIPAS",
-      "iconURL": "https://paradoxtime.tk/img/pdt_logo_nobg_shadow.png",
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/a1/d8/a6/a1d8a63c-1534-2a04-b0fe-3de6e9c800b9/AppIcon-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-85-220.png/512x512bb.jpg",
       "versions": [
         {
           "version": "1.15.11",
@@ -1208,7 +1207,7 @@
       "developerName": "ethMods",
       "bundleIdentifier": "art.sandbox.app",
       "localizedDescription": "Sandbox Pro 1.8.14\n- Sandbox 1.8.14 \n- Pixel Art \n- Info: Pro Unlocked\n\nMade by ethTeam\nCrack by @VAXMG",
-      "iconURL": "https://paradoxtime.tk/img/pdt_logo_nobg_shadow.png",
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple122/v4/79/fd/f3/79fdf3bb-f0fd-f14e-6813-1b55af86478c/AppIcon-1x_U007emarketing-0-7-0-85-220.png/512x512bb.jpg",
       "versions": [
         {
           "version": "1.8.14",
@@ -1228,7 +1227,7 @@
       "developerName": "ethMods",
       "bundleIdentifier": "com.bytecrossing.Egern",
       "localizedDescription": "Egern 1.28.1\n- Egern 1.28.1\n- VPN to hack apps\n- Paid App $4.99\n- Egern Scripts\n\n\u26a0\ufe0fTrollStore Only & iOS 16 min\u26a0\ufe0f\n\nDecrypted by Anon",
-      "iconURL": "https://paradoxtime.tk/img/pdt_logo_nobg_shadow.png",
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/96/85/3e/96853ef1-051d-e18a-70e0-31fc7b2f9554/AppIcon-0-0-1x_U007epad-0-1-85-220.png/512x512bb.jpg",
       "versions": [
         {
           "version": "1.28.0",
@@ -1289,7 +1288,7 @@
       "developerName": "ethMods",
       "bundleIdentifier": "com.firsty.app",
       "localizedDescription": "Firsty No Ads 1.4.4\n- Firsty 1.4.4\n- Free eSIM with data (130mb daily) (tap to get data)\n- AutoClicker added\n- Ads removed \n\nMade by @eth4dmin",
-      "iconURL": "https://paradoxtime.tk/img/pdt_logo_nobg_shadow.png",
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/16/69/2f/16692f37-cbd7-5ee5-3287-cadcd88fbfb5/AppIcon-0-0-1x_U007emarketing-0-11-0-85-220.png/512x512bb.jpg",
       "versions": [
         {
           "version": "1.4.4",
@@ -1309,7 +1308,7 @@
       "developerName": "ethMods",
       "bundleIdentifier": "ww.asw.alliace-alive.dis",
       "localizedDescription": "Alliance Alive HD Remastered 1.0.1\n- Alliance Alive HD Remastered 1.0.1\n- Paid Game $14.99\n- Classic turn based JRPG\n\n@SultanModsIPAs Exclusive\nDecrypted by @VAXMG",
-      "iconURL": "https://paradoxtime.tk/img/pdt_logo_nobg_shadow.png",
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/3a/01/47/3a014792-f2b4-8b7c-0601-3028f305e56e/AppIcon-1x_U007emarketing-0-7-0-85-220.png/512x512bb.jpg",
       "versions": [
         {
           "version": "1.0.1",
@@ -1329,7 +1328,7 @@
       "developerName": "ethMods",
       "bundleIdentifier": "com.acram.Unmatched",
       "localizedDescription": "unmatched digital edition 1.2.1\n- unmatched digital edition 1.2.1\n- Piad Game $7.99\n- Strategy-tactics mix\n- Satella injected\n\n@SultanModsIPAs Exclusive \nDecrypted by @VAXMG",
-      "iconURL": "https://paradoxtime.tk/img/pdt_logo_nobg_shadow.png",
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/05/64/53/056453d1-0b5d-a17e-aceb-072657b402d1/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/512x512bb.jpg",
       "versions": [
         {
           "version": "1.2.1",
@@ -1349,7 +1348,7 @@
       "developerName": "ethMods",
       "bundleIdentifier": "com.appercut.kegel",
       "localizedDescription": "Kegel Pro 2.53\n- Kegel 2.53\n- Improve Men\u2019s Health\n- Info: Pro Unlocked \n\nMade by @SultanIPAs\nCrack by @VAXMG\nNeed a cert? Contact @SultanIPAS",
-      "iconURL": "https://paradoxtime.tk/img/pdt_logo_nobg_shadow.png",
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/a3/65/11/a365118c-eabd-80e5-4f72-3e9b4472d755/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/512x512bb.jpg",
       "versions": [
         {
           "version": "2.53",
@@ -1369,7 +1368,7 @@
       "developerName": "ethMods",
       "bundleIdentifier": "com.tomroyal.maka",
       "localizedDescription": "Make America Kittens Again 2.1.0\n- Make America Kittens Again 2.1.0\n- Replaces images of Donald Trump with kittens (Safari Extension)\n- Paid App $0.99\n- Requires Trollstore/Paid Cert\n\nDecrypted by @SultanIPAS\nNeed a cert? Contact @SultanIPAS",
-      "iconURL": "https://paradoxtime.tk/img/pdt_logo_nobg_shadow.png",
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/b7/62/58/b76258b3-2aac-2cb6-62b0-559099a61b70/AppIcon-0-0-1x_U007ephone-0-1-85-220.png/512x512bb.jpg",
       "versions": [
         {
           "version": "2.1.0",
@@ -1389,7 +1388,7 @@
       "developerName": "ethMods",
       "bundleIdentifier": "com.idevtal.Wallpapers",
       "localizedDescription": "Suret Pro 5.5.7\n- Suret 5.5.7\n- AI Image Generator \n- Info: Pro Unlocked\n\nzxcvbn AutoRc injected\nMade by @VAXMG",
-      "iconURL": "https://paradoxtime.tk/img/pdt_logo_nobg_shadow.png",
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/df/6e/80/df6e80bd-0748-4740-f77b-cb9ad268f17c/AppIcon-0-0-1x_U007epad-0-1-0-sRGB-85-220.png/512x512bb.jpg",
       "versions": [
         {
           "version": "5.5.7",
@@ -1409,7 +1408,7 @@
       "developerName": "ethMods",
       "bundleIdentifier": "AlexisBarreyat.BeReal",
       "localizedDescription": "BeReal 4.2.0\n- BeReal 4.2.0\n- Photo Sharing Social Media\n- Bea 1.3.8 \n\nMade by @SultanIPAs\nNeed a cert? Contact @SultanIPAS",
-      "iconURL": "https://paradoxtime.tk/img/pdt_logo_nobg_shadow.png",
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/d0/1b/d5/d01bd5ee-17e8-61d8-c2a2-7ab37eb948e0/AppIcon-0-0-1x_U007emarketing-0-5-0-85-220.png/512x512bb.jpg",
       "versions": [
         {
           "version": "4.2.0",
@@ -1429,7 +1428,7 @@
       "developerName": "ethMods",
       "bundleIdentifier": "com.roehl.habitkit",
       "localizedDescription": "HabitKit Pro 1.10.1\n- HabitKit 1.10.1\n- Track your habits \n- Info: Pro Unlocked \n\nMade by @SultanIPAs\nNeed a cert? Contact @SultanIPAS",
-      "iconURL": "https://paradoxtime.tk/img/pdt_logo_nobg_shadow.png",
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/8f/8d/e6/8f8de6b5-b77f-05a1-bf6c-0811ae1b8bc6/AppIcon-0-0-1x_U007emarketing-0-11-0-85-220.png/512x512bb.jpg",
       "versions": [
         {
           "version": "1.10.1",
@@ -1449,7 +1448,7 @@
       "developerName": "ethMods",
       "bundleIdentifier": "org.fastdevsproject.altervista.Device-Monitor",
       "localizedDescription": "Device Monitor Pro 10.2.0 \n- Device Monitor 10.2.0\n- Monitor your device\n- Info: Pro Unlocked  \n- Widget Requires Cert with AppGroups entitlement\n\nMade by ethTeam\nCrack by @VAXMG\nNeed a cert? Dm @eth4dmin or @SultanIPAs",
-      "iconURL": "https://paradoxtime.tk/img/pdt_logo_nobg_shadow.png",
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/03/c6/54/03c6549e-cf4b-8f29-0692-8c5b09612bac/AppIcon-0-0-1x_U007epad-0-0-0-1-0-0-85-220.png/512x512bb.jpg",
       "versions": [
         {
           "version": "10.2.0",
@@ -1483,7 +1482,7 @@
       "developerName": "ethMods",
       "bundleIdentifier": "com.foxfort.pycopaste",
       "localizedDescription": "Pycopaste Clipboard Manager Pro 1.42\n- Pycopaste Clipboard Manager 1.42 \n- Clipboard Manager\n- Info: Pro Unlocked\n\nMade by @SultanIPAs\nNeed a cert? Contact @SultanIPAS",
-      "iconURL": "https://paradoxtime.tk/img/pdt_logo_nobg_shadow.png",
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/df/50/4e/df504e8b-2d31-d402-7716-9a643c0ef159/AppIcon-0-0-1x_U007epad-0-1-sRGB-85-220.png/512x512bb.jpg",
       "versions": [
         {
           "version": "1.42",
@@ -1503,7 +1502,7 @@
       "developerName": "ethMods",
       "bundleIdentifier": "com.butterfly.sparkpro",
       "localizedDescription": "Spark Camera Pro 3.8.8\n- Spark Camera 3.8.8\n- Cool camera app\n- Info: Pro Unlocked\n\nMade by @SultanIPAs\nNeed a cert? Contact @SultanIPAS",
-      "iconURL": "https://paradoxtime.tk/img/pdt_logo_nobg_shadow.png",
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple124/v4/d6/1c/af/d61caf7a-86f8-f5e6-07fc-e9dd6b006231/AppIcon-0-0-1x_U007emarketing-0-0-0-6-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/512x512bb.jpg",
       "versions": [
         {
           "version": "3.8.8",
@@ -1530,7 +1529,7 @@
       "developerName": "ethMods",
       "bundleIdentifier": "com.marcgg.boxing",
       "localizedDescription": "Shadow Boxing Pro 2.12.1\n- Shadow Boxing 2.12.1\n- Train your boxing skills\n- Info: Pro Unlocked\n\nMade by @SultanIPAs\nNeed a cert? Contact @SultanIPAS",
-      "iconURL": "https://paradoxtime.tk/img/pdt_logo_nobg_shadow.png",
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/44/d9/7d/44d97d6c-37a6-c47d-cbf9-6c9a09b56233/AppIcon-0-0-1x_U007emarketing-0-11-0-85-220.png/512x512bb.jpg",
       "versions": [
         {
           "version": "2.12.1",
@@ -1550,7 +1549,7 @@
       "developerName": "ethMods",
       "bundleIdentifier": "io.konveier.timo",
       "localizedDescription": "Brite Pro 24.1.5\n- Brite 24.1.5\n- Todo list app\n- Info: Pro Unlocked\n\nMade by @SultanIPAs\nNeed a cert? Contact @SultanIPAS",
-      "iconURL": "https://paradoxtime.tk/img/pdt_logo_nobg_shadow.png",
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/06/fb/46/06fb4618-357c-074d-474f-c59448e99a91/AppIcon-0-0-1x_U007emarketing-0-10-0-0-0-85-220.png/512x512bb.jpg",
       "versions": [
         {
           "version": "24.1.5",
@@ -1570,7 +1569,7 @@
       "developerName": "ethMods",
       "bundleIdentifier": "com.advasoft.touchretouch",
       "localizedDescription": "Touch Retouch Pro 5.3.4\n- Touch Retouch 5.3.4\n- Edit your photos \n- Info: Pro Unlocked\n\nMade by @SultanIPAs\nNeed a cert? Contact @SultanIPAS",
-      "iconURL": "https://paradoxtime.tk/img/pdt_logo_nobg_shadow.png",
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/ed/17/42/ed174270-8d34-29da-e44b-c0ef8cd0ecd7/AppIconBasic-0-1x_U007emarketing-0-11-0-85-220-0.png/512x512bb.jpg",
       "versions": [
         {
           "version": "5.3.4",
@@ -1590,7 +1589,7 @@
       "developerName": "ethMods",
       "bundleIdentifier": "com.readdle.Scanner",
       "localizedDescription": "CamScanner Pro 8.25.2\n- CamScanner 8.25.2 \n- Scan documents on your phone\n- Info: Pro Unlocked\n\nMade by @SultanIPAs\nNeed a cert? Contact @SultanIPAS",
-      "iconURL": "https://paradoxtime.tk/img/pdt_logo_nobg_shadow.png",
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/d9/fc/8e/d9fc8eae-6a7a-51d9-02c3-7c424d50f75b/ScannerPro-0-0-1x_U007epad-0-1-0-sRGB-0-85-220.png/512x512bb.jpg",
       "versions": [
         {
           "version": "8.25.2",
@@ -1610,7 +1609,7 @@
       "developerName": "ethMods",
       "bundleIdentifier": "com.neybox.Pillow",
       "localizedDescription": "Pillow Pro 5.8.1\n- Pillow 5.8.1\n- Sleep Tracker \n- Info: Pro Unlocked\n- Go through setup close app and open again | pro unlocked \n\nMade by @SultanIPAs\nNeed a cert? Contact @SultanIPAS",
-      "iconURL": "https://paradoxtime.tk/img/pdt_logo_nobg_shadow.png",
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/76/f9/73/76f97314-22cc-86c5-cdde-ae4427992372/AppIcon-v5-0-0-1x_U007epad-0-1-0-P3-85-220.png/512x512bb.jpg",
       "versions": [
         {
           "version": "5.8.1",
@@ -1637,7 +1636,7 @@
       "developerName": "ethMods",
       "bundleIdentifier": "npetrova.DaysSince",
       "localizedDescription": "Days Since 3.0.2\n- Days Since 3.0.2\n- Habit Tracker App\n- Info: Subscription Unlocked\n- Widget Requires certificate with AppGroups Entitlement\n\nzxcvbn AutoRc injected\nMade by @VAXMG",
-      "iconURL": "https://paradoxtime.tk/img/pdt_logo_nobg_shadow.png",
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/95/57/8f/95578f8d-6160-8d42-8d42-2c7b54bcc733/AppIcon-0-1x_U007ephone-0-0-sRGB-85-220-0.png/512x512bb.jpg",
       "versions": [
         {
           "version": "3.0.2",
@@ -1657,7 +1656,7 @@
       "developerName": "ethMods",
       "bundleIdentifier": "com.readdle.smartemail",
       "localizedDescription": "Spark Mail Ai 3.12.1\n- Spark Mail Ai 3.12.1\n- Ai Mail App\n- Info: Subscription Unlocked\n- Widget Requires Cert With AppGroups Entitlement\n\nzxcvbn AutoRc injected\nMade by @VAXMG",
-      "iconURL": "https://paradoxtime.tk/img/pdt_logo_nobg_shadow.png",
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/7c/52/68/7c526826-a2cf-8eb5-3ac0-96ddee096227/AppIcon-0-0-1x_U007epad-0-11-0-0-85-220.png/512x512bb.jpg",
       "versions": [
         {
           "version": "3.12.1",
@@ -1724,7 +1723,7 @@
       "developerName": "ethMods",
       "bundleIdentifier": "com.kalavision.alfred",
       "localizedDescription": "Alfred Camera 2024.26.0\n- Alfred Camera 2024.26.0\n- CCTV Camera App\n- Info: Premium Unlocked\n\nzxcvbn AutoRc injected\nMade by @VAXMG",
-      "iconURL": "https://paradoxtime.tk/img/pdt_logo_nobg_shadow.png",
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/aa/93/9f/aa939f34-5127-d442-80f4-b412694b41ef/AppIcon-0-0-1x_U007emarketing-0-7-0-0-85-220.png/512x512bb.jpg",
       "versions": [
         {
           "version": "2024.26.0",
@@ -1744,7 +1743,7 @@
       "developerName": "ethMods",
       "bundleIdentifier": "fi.gimblll.raid",
       "localizedDescription": "Barbearian 1.0.12\n- Barbearian 1.0.12\n- Paid Game 8.99$\n- Top down Action Hack & Slash with RTS Elements\n\nDecrypted by @VAXMG",
-      "iconURL": "https://paradoxtime.tk/img/pdt_logo_nobg_shadow.png",
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/a0/73/e7/a073e79e-5667-3f66-1757-a29930b93313/AppIcon-iOS-0-0-1x_U007emarketing-0-0-0-4-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/512x512bb.jpg",
       "versions": [
         {
           "version": "1.0.12",
@@ -1764,7 +1763,7 @@
       "developerName": "ethMods",
       "bundleIdentifier": "lunosoftware.sportsalerts",
       "localizedDescription": "Sports Alert No Ads 4.8.2\n- Sports Alert 4.8.2\n- Track sport scores \n- Info: No Ads\n\nMade by @SultanIPAs",
-      "iconURL": "https://paradoxtime.tk/img/pdt_logo_nobg_shadow.png",
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/f0/58/a0/f058a020-b49e-f734-a25c-5e7f164f67fc/AppIcon-0-0-1x_U007epad-0-1-85-220.png/512x512bb.jpg",
       "versions": [
         {
           "version": "4.8.2",
@@ -1811,7 +1810,7 @@
       "developerName": "ethMods",
       "bundleIdentifier": "com.remotemouse.remotemouse4free",
       "localizedDescription": "Remote Mouse 5.300\n- Remote Mouse 5.300\n- Turn your device into a wireless mouse, trackpad, and keyboard.\n- Info: Pro Unlocked\n\nzxcvbn AutoRc injected\nMade by @VAXMG",
-      "iconURL": "https://paradoxtime.tk/img/pdt_logo_nobg_shadow.png",
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/eb/41/45/eb414556-0e24-fc98-c9c0-db4f7bb81f68/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/512x512bb.jpg",
       "versions": [
         {
           "version": "5.300",
@@ -1831,7 +1830,7 @@
       "developerName": "ethMods",
       "bundleIdentifier": "com.itwcalculator.worldradarfree",
       "localizedDescription": "Weather Radar Pro 5.10.2\n- Weather Radar 5.10.2\n- Weather alerts \n- Info: Pro Unlocked\n- Widget requires Cert With AppGroups Entitlement\n\nMade by ethTeam\nCrack by @VAXMG",
-      "iconURL": "https://paradoxtime.tk/img/pdt_logo_nobg_shadow.png",
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/ef/52/59/ef5259ae-5a59-f2cb-7ff2-35b3d9ce3367/AppIcon_free-0-0-1x_U007epad-0-1-0-85-220.png/512x512bb.jpg",
       "versions": [
         {
           "version": "5.10.2",
@@ -1865,7 +1864,7 @@
       "developerName": "ethMods",
       "bundleIdentifier": "com.impalastudios.theweatherfree",
       "localizedDescription": "Weather Live Pro 2.0.9\n- Weather Live 2.0.9\n- Cool Weather App\n- Info: Pro unlocked \n- Go thru setup, open settings and tap restore purchases, close app & open again | pro unlocked \n\nMade by ethTeam\nCrack by @VAXMG",
-      "iconURL": "https://paradoxtime.tk/img/pdt_logo_nobg_shadow.png",
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/a1/87/d1/a187d11c-84b7-02a3-f713-598aa2c74b72/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/512x512bb.jpg",
       "versions": [
         {
           "version": "2.0.9",
@@ -1885,7 +1884,7 @@
       "developerName": "ethMods",
       "bundleIdentifier": "com.hemin.mp42mp3",
       "localizedDescription": "MP3 Converter 5.15\n- MP3 Converter 5.15\n- Media Converter\n- Info: VIP Unlocked\n\nMade by ethTeam\nCrack by @VAXMG",
-      "iconURL": "https://paradoxtime.tk/img/pdt_logo_nobg_shadow.png",
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/c3/37/77/c3377790-5260-0f24-4768-a8b5d37464fc/AppIcon-0-0-1x_U007emarketing-0-7-0-0-sRGB-85-220.png/512x512bb.jpg",
       "versions": [
         {
           "version": "5.15",
@@ -1912,7 +1911,7 @@
       "developerName": "ethMods",
       "bundleIdentifier": "com.aiby.plantguru",
       "localizedDescription": "Plant Guru Pro 1.13\n- Plant Guru 1.13\n- Identify Plants\n- Info: Pro Unlocked\n\nMade by ethTeam\nCrack by @VAXMG",
-      "iconURL": "https://paradoxtime.tk/img/pdt_logo_nobg_shadow.png",
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/4a/c5/2b/4ac52bea-cdd9-85dd-e60b-bbc613776b3f/AppIcon-0-0-1x_U007ephone-0-1-0-85-220.png/512x512bb.jpg",
       "versions": [
         {
           "version": "1.13",
@@ -1939,7 +1938,7 @@
       "developerName": "ethMods",
       "bundleIdentifier": "io.veed.appstore",
       "localizedDescription": "VEED Pro 5.1.0\n- VEED 5.1.0\n- Video captions generator \n- Info: Pro unlocked \n\nzxcvbn AutoRc injected\nMade by @VAXMG",
-      "iconURL": "https://paradoxtime.tk/img/pdt_logo_nobg_shadow.png",
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/51/cb/c6/51cbc67f-5032-7693-1b76-542918a61434/AppIcon-0-0-1x_U007ephone-0-1-0-85-220.png/512x512bb.jpg",
       "versions": [
         {
           "version": "5.1.0",
@@ -1979,7 +1978,7 @@
       "developerName": "ethMods",
       "bundleIdentifier": "com.pratikstephen.StepUp",
       "localizedDescription": "StepUp No Ads 3.1.6\n- StepUp 3.1.6\n- Track your steps and compete against friends\n- Info: Ads Removed\n- Sign in with Apple Works \n\nMade by ethTeam\nNeed a cert? Message @eth4dmin",
-      "iconURL": "https://paradoxtime.tk/img/pdt_logo_nobg_shadow.png",
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/8a/25/78/8a25780f-0765-9177-5639-6e260cb7a1ee/AppIcon-0-0-1x_U007emarketing-0-6-0-85-220.png/512x512bb.jpg",
       "versions": [
         {
           "version": "3.1.6",
@@ -2019,7 +2018,7 @@
       "developerName": "ethMods",
       "bundleIdentifier": "com.epicenterprises.tapeacall.pro",
       "localizedDescription": "TapeACallPro 5.11 unlimited plan cracked\n--app store link\n-injected with expires in Dec 4000 patch\n-injected with keychainsideload fix\n-pluginfix already injected\n-unlike apples built in call recording, this won't let the other party know your recording\n\nMade by @moeotf, decrypted by anyipa.me If you need a cert dm @eth4dmin",
-      "iconURL": "https://paradoxtime.tk/img/pdt_logo_nobg_shadow.png",
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/61/3d/36/613d3654-92ff-9e7f-8003-8b051284b38b/AppIcon-0-0-1x_U007emarketing-0-2-0-sRGB-85-220.png/512x512bb.jpg",
       "versions": [
         {
           "version": "5.11.11",
@@ -2039,7 +2038,7 @@
       "developerName": "ethMods",
       "bundleIdentifier": "com.voicecopy.app",
       "localizedDescription": "Clony V73 AI voice and face changer unlocked unlimited tokens. \n\nRequires a cert that has the entitlements for the widget plugin fix to work properly\n-App store link build 73\n-speech to speech now available make your voice sound like whatever you want \n-clone any face or voice etc\n-can change your voice with AI to whatever you want select from a list or upload a file\n-should look like this if you installed it with the correct entitlements\n-https://tinyurl.com/4axzm8pa\n\nMade by @moeotf, tweak is made by binnichtaktivs bot, then i updated it and fixed it not showing unlimited anymore but make sure your cert supports the plugin fix\nDecrypted by anyipa.me need a cert? Dm @eth4dmin",
-      "iconURL": "https://paradoxtime.tk/img/pdt_logo_nobg_shadow.png",
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/1d/a6/bd/1da6bdc2-98f0-19c3-0cdc-939603e314f0/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/512x512bb.jpg",
       "versions": [
         {
           "version": "73",
@@ -2059,7 +2058,7 @@
       "developerName": "ethMods",
       "bundleIdentifier": "com.overdesigned.WorldClock",
       "localizedDescription": "World Clock 1.22.3\n- World Clock 1.22.3\n- Clock Widget App\n- Info: Subscription Unlocked\n- Widget Requires Cert with AppGroup Entitlement or TS\n- Close The App, Open it Again | Premium Unlocked\n\nzxcvbn AutoRc injected\nMade by @VAXMG",
-      "iconURL": "https://paradoxtime.tk/img/pdt_logo_nobg_shadow.png",
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/f0/3b/22/f03b226c-a82b-1ebd-f785-f6f13bcc3096/AppIcon-0-1x_U007epad-0-0-0-1-0-0-sRGB-0-85-220-0.png/512x512bb.jpg",
       "versions": [
         {
           "version": "1.22.3",
@@ -2086,7 +2085,7 @@
       "developerName": "ethMods",
       "bundleIdentifier": "com.agiletortoise.Drafts5",
       "localizedDescription": "Drafts\n\nPro features unlocked\n\nTap on restore purchase if pro is not unlocked directly\n\nTweak made by Blatant\n\nminimum OS version 15.6",
-      "iconURL": "https://paradoxtime.tk/img/pdt_logo_nobg_shadow.png",
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/28/22/84/282284f0-9abf-28ac-5429-92e0dfa00337/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/512x512bb.jpg",
       "versions": [
         {
           "version": "46.0",
@@ -2106,7 +2105,7 @@
       "developerName": "ethMods",
       "bundleIdentifier": "com.othertalesinteractive.miniatures",
       "localizedDescription": "Miniatures A Story Collection 1.02\n- Miniatures A Story Collection 1.02\n- Paid Game 3.99$\n\n@SultanModsIPAs Exclusive\nDecrypted by @VAXMG",
-      "iconURL": "https://paradoxtime.tk/img/pdt_logo_nobg_shadow.png",
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/1f/03/46/1f0346c8-5681-424d-e519-4ee6feef47ec/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/512x512bb.jpg",
       "versions": [
         {
           "version": "1.0.23",
@@ -2126,7 +2125,7 @@
       "developerName": "ethMods",
       "bundleIdentifier": "com.playstack.balatropremium",
       "localizedDescription": "Balatro 1.1.6\n- Balatro 1.1.6\n- Card game \n- Paid App $12.99\n- Added SideloadFix | Thanks zx\n\nDecrypted by Anon",
-      "iconURL": "https://paradoxtime.tk/img/pdt_logo_nobg_shadow.png",
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/54/30/7c/54307cfd-1fd0-12da-9f4c-e1dbde0addf7/iOS_AppIcon_Premium-0-0-1x_U007epad-0-85-220.png/512x512bb.jpg",
       "versions": [
         {
           "version": "1.0.8",
@@ -2153,7 +2152,7 @@
       "developerName": "ethMods",
       "bundleIdentifier": "com.mindthefrog.sudoku",
       "localizedDescription": "Sudoku 3.9.7\n- Sudoku 3.9.7\n- Paid Game 1.99$\n\n@SultanModsIPAs Exclusive\nDecrypted by @VAXMG",
-      "iconURL": "https://paradoxtime.tk/img/pdt_logo_nobg_shadow.png",
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/52/34/13/523413d0-65d6-d78d-8db2-b0b8cd5a53e0/AppIcon-0-1x_U007emarketing-0-8-0-85-220-0.png/512x512bb.jpg",
       "versions": [
         {
           "version": "3.9.7",
@@ -2173,7 +2172,7 @@
       "developerName": "ethMods",
       "bundleIdentifier": "com.valentinstudio.operationcitadelforios",
       "localizedDescription": "Hex of Steel 7.7.2.2\n- Hex of Steel 7.7.2.2\n- Paid Game 4.99$\n\n@SultanModsIPAs Exclusive\nDecrypted by @VAXMG",
-      "iconURL": "https://paradoxtime.tk/img/pdt_logo_nobg_shadow.png",
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/04/68/79/04687993-17e5-23d3-6a81-aaef823bbe76/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/512x512bb.jpg",
       "versions": [
         {
           "version": "7.7.22",
@@ -2193,7 +2192,7 @@
       "developerName": "ethMods",
       "bundleIdentifier": "com.solotrainerapp.solo",
       "localizedDescription": "Solo - Fretboard Visualisation 2.1.0\n- Solo - Fretboard Visualisation 2.1.0\n- Learn How To Play Guitar\n- Paid App 14.99$\n\n@SultanModsIPAs Exclusive\nDecrypted by @VAXMG",
-      "iconURL": "https://paradoxtime.tk/img/pdt_logo_nobg_shadow.png",
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/f5/82/ec/f582ecc0-293a-2ae4-e929-f0b757c70983/AppIcon-1-0-0-1x_U007emarketing-0-0-0-7-0-0-85-220.png/512x512bb.jpg",
       "versions": [
         {
           "version": "2.1.0",
@@ -2213,7 +2212,7 @@
       "developerName": "ethMods",
       "bundleIdentifier": "com.realdrift.sipon",
       "localizedDescription": "Real Drift Car Racing 5.0.7\n- Real Drift Car Racing 5.0.7\n- Paid Game 0.99$\n- Drifting Game\n- Satella Added\n\nDecrypted by @VAXMG",
-      "iconURL": "https://paradoxtime.tk/img/pdt_logo_nobg_shadow.png",
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple113/v4/d6/72/df/d672dfeb-4ebb-e52f-e704-dd90d1be2261/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-85-220.png/512x512bb.jpg",
       "versions": [
         {
           "version": "5.0.7",
@@ -2233,7 +2232,7 @@
       "developerName": "ethMods",
       "bundleIdentifier": "com.redplume.cavesoflore",
       "localizedDescription": "Caves of Lore 1.7.1\n- Caves of Lore 1.7.1\n- Paid Game $7.99\n- Updated To The Latest Version \n\n@SultanModsIPAs Exclusive\nDecrypted by @VAXMG",
-      "iconURL": "https://paradoxtime.tk/img/pdt_logo_nobg_shadow.png",
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/13/e5/3f/13e53f18-5773-4c01-112a-2f5ecc6e810e/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/512x512bb.jpg",
       "versions": [
         {
           "version": "1.7.1",
@@ -2253,7 +2252,7 @@
       "developerName": "ethMods",
       "bundleIdentifier": "com.sega.sjump",
       "localizedDescription": "Sonic Jump 2.4.1\n- Sonic Jump 2.4.1\n- Paid Game 2.99$\n- Updated To The Latest Version\n\n@SultanModsIPAs Exclusive\nDecrypted by @VAXMG",
-      "iconURL": "https://paradoxtime.tk/img/pdt_logo_nobg_shadow.png",
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/da/0c/8f/da0c8f70-72ae-be57-d3ad-a7e86a6fa726/AppIcon-0-0-1x_U007emarketing-0-10-0-85-220.png/512x512bb.jpg",
       "versions": [
         {
           "version": "2.4.1",
@@ -2261,26 +2260,6 @@
           "size": 96943106,
           "downloadURL": "https://repo.ethsign.fyi/6e0719a9-1487-4c75-bcdf-4c8d6ddee1f2/com.sega.sjump-2.4.1.ipa",
           "localizedDescription": "Sonic Jump 2.4.1\n- Sonic Jump 2.4.1\n- Paid Game 2.99$\n- Updated To The Latest Version\n\n@SultanModsIPAs Exclusive\nDecrypted by @VAXMG"
-        }
-      ],
-      "appPermissions": {
-        "entitlements": [],
-        "privacy": {}
-      }
-    },
-    {
-      "name": "ACTikTok",
-      "developerName": "ethMods",
-      "bundleIdentifier": "com.zhiliaoapp.musically",
-      "localizedDescription": "TIKTOK 37.5.0 official ipa AC 2.0\n\nWhat's new in 2.0? \n-- The tool has been completely rebuilt from scratch \n-Add country change\n-Add automatic compression to broadcast\n-Add hide user interface\n- One of the Best tiktok tweaks in terms of stability. no \"maximum attempts (unless your using a vpn or try too many times) or search bar not working etc.\n-liking a video and search bar actually work etc unlike most recent TikTok tweaks\n-everything should work including following and all normal TikTok functions\n-updated TikTok to latest version\n- For a list of all features check out the link showing features below. \n-pics of settings https://shorturl.at/xecbP\n-set bundle id and name to whatever you want but stock settings are preferred when signing\n-for AC settings to appear, login then restart TikTok about 1-2 times. Settings will be under normal TikTok settings.\n-added Open in TikTok from safari extension injected\n-keychain injected with sideload fix injected\n-you might have login issues if you run it through a plugin widget injector\n-Posted and and made by @moeotf",
-      "iconURL": "https://paradoxtime.tk/img/pdt_logo_nobg_shadow.png",
-      "versions": [
-        {
-          "version": "37.5.0",
-          "date": "2024-12-08",
-          "size": 304092661,
-          "downloadURL": "https://repo.ethsign.fyi/dafccbb9-31ab-42fe-bdd5-b164045070b2/ACTikTokv2.0TikTok_v37.5.0OS.ipa",
-          "localizedDescription": "TIKTOK 37.5.0 official ipa AC 2.0\n\nWhat's new in 2.0? \n-- The tool has been completely rebuilt from scratch \n-Add country change\n-Add automatic compression to broadcast\n-Add hide user interface\n- One of the Best tiktok tweaks in terms of stability. no \"maximum attempts (unless your using a vpn or try too many times) or search bar not working etc.\n-liking a video and search bar actually work etc unlike most recent TikTok tweaks\n-everything should work including following and all normal TikTok functions\n-updated TikTok to latest version\n- For a list of all features check out the link showing features below. \n-pics of settings https://shorturl.at/xecbP\n-set bundle id and name to whatever you want but stock settings are preferred when signing\n-for AC settings to appear, login then restart TikTok about 1-2 times. Settings will be under normal TikTok settings.\n-added Open in TikTok from safari extension injected\n-keychain injected with sideload fix injected\n-you might have login issues if you run it through a plugin widget injector\n-Posted and and made by @moeotf"
         }
       ],
       "appPermissions": {
@@ -2320,7 +2299,7 @@
       "developerName": "ethMods",
       "bundleIdentifier": "com.miniclip.8ballpoolmult",
       "localizedDescription": "8Ball Pool Hacked 55.6.1\n- 8Ball Pool 55.6.1\n- Funny Pool Game\n- Info: Extended Guidelines\n- Install via Trollstore\n\n\u26a0\ufe0f TrollStore Only \u26a0\ufe0f\n\nMade by @SultanLR\nDecrypted by @AppleTesters\nCrack provided by @Reactz_dude",
-      "iconURL": "https://paradoxtime.tk/img/pdt_logo_nobg_shadow.png",
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/fa/ef/63/faef63bc-9db0-c6ab-e11d-d7592ef1a1f7/AppIcon-0-0-1x_U007emarketing-0-7-0-0-85-220.png/512x512bb.jpg",
       "versions": [
         {
           "version": "55.6.1",
@@ -2380,7 +2359,7 @@
       "developerName": "ethMods",
       "bundleIdentifier": "com.alohabrowser.vpn",
       "localizedDescription": "AlohaVPN Premium 2.4.1\n- AlohaVPN 2.4.1\n- VPN \n- Info: Premium unlocked \n- Sign in to unlock Premium\n- Requires Paid Cert/TS\n\nMade by ethTeam\nCrack by @VAXMG",
-      "iconURL": "https://paradoxtime.tk/img/pdt_logo_nobg_shadow.png",
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/f9/df/07/f9df071b-14b6-bed1-a444-009b961bcb97/AppIcon-0-0-1x_U007emarketing-0-11-0-85-220.png/512x512bb.jpg",
       "versions": [
         {
           "version": "2.4.1",
@@ -2400,7 +2379,7 @@
       "developerName": "ethMods",
       "bundleIdentifier": "io.faceapp.ios",
       "localizedDescription": "Honestly doubt this works \n\nGo through app setup \n\nRestore purchases if opening and closing doesn\u2019t work \n\nMight be TS only",
-      "iconURL": "https://paradoxtime.tk/img/pdt_logo_nobg_shadow.png",
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/47/94/53/479453e7-5a49-94bf-ec30-d61f4f6411db/AppIcon-0-1x_U007epad-0-11-0-85-220-0.png/512x512bb.jpg",
       "versions": [
         {
           "version": "12.8.0",
@@ -2420,7 +2399,7 @@
       "developerName": "ethMods",
       "bundleIdentifier": "com.donutgames.junglecrashland",
       "localizedDescription": "Jungle Crash Land 1.35\n- Jungle Crash Land 1.35\n- Paid game $1.99\n\nDecrypted by ethTeam",
-      "iconURL": "https://paradoxtime.tk/img/pdt_logo_nobg_shadow.png",
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple123/v4/40/41/c8/4041c8d9-a436-6705-1c34-f471733c8ef1/AppIcon012-1x_U007emarketing-0-4-85-220.png/512x512bb.jpg",
       "versions": [
         {
           "version": "1.35",
@@ -2440,7 +2419,7 @@
       "developerName": "ethMods",
       "bundleIdentifier": "com.benchu.ARMCPUZ",
       "localizedDescription": "ARMCPUZ 1.7.3\n- ARMCPUZ 1.7.3 \n- Info: Premium unlocked\n\nMade by @Jacks_Apps0510\nDecrypted by @eeveedecrypterbot",
-      "iconURL": "https://paradoxtime.tk/img/pdt_logo_nobg_shadow.png",
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/44/27/55/4427558f-5b9d-77ba-4be0-3432fc9dfe3a/AppIcon-0-1x_U007emarketing-0-11-0-85-220-0.png/512x512bb.jpg",
       "versions": [
         {
           "version": "1.7.3",
@@ -2460,7 +2439,7 @@
       "developerName": "ethMods",
       "bundleIdentifier": "com.wallpaperscraft.wallpapers",
       "localizedDescription": "Wallcraft 3.22\n- Wallcraft 3.22\n- Info: Premium unlocked\n\nMade by @Jacks_Apps0510\nDecrypted by @eeveedecrypterbot",
-      "iconURL": "https://paradoxtime.tk/img/pdt_logo_nobg_shadow.png",
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/2c/19/4e/2c194ee2-a636-1b6b-18fa-cfffec06e20b/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/512x512bb.jpg",
       "versions": [
         {
           "version": "3.22",
@@ -2480,7 +2459,7 @@
       "developerName": "ethMods",
       "bundleIdentifier": "com.ruikq.decar",
       "localizedDescription": "Loon 3.2.4\n- Loon 3.2.4\n- Paid App 5.99$\n- Requires a Paid Certificate with\nVPN Entitlement or TrollStore\n\nDecrypted by @VAXMG",
-      "iconURL": "https://paradoxtime.tk/img/pdt_logo_nobg_shadow.png",
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/8d/00/7f/8d007fd0-b64c-3983-73f0-645f75c56855/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/512x512bb.jpg",
       "versions": [
         {
           "version": "3.2.4",
@@ -2500,7 +2479,7 @@
       "developerName": "ethMods",
       "bundleIdentifier": "com.loon.LoonLite",
       "localizedDescription": "Loon Lite 1.0.9\n- Loon lite 1.0.9\n- Paid App 0.99$\n- Requires a Paid Certificate with\nVPN Entitlement or TrollStore\n\nDecrypted by @VAXMG",
-      "iconURL": "https://paradoxtime.tk/img/pdt_logo_nobg_shadow.png",
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/76/5c/ad/765cada9-e0cb-dbc8-b081-974a0102274c/AppIcon-0-1x_U007emarketing-0-7-0-85-220-0.png/512x512bb.jpg",
       "versions": [
         {
           "version": "1.0.9",
@@ -2520,7 +2499,7 @@
       "developerName": "ethMods",
       "bundleIdentifier": "com.softissimo.ReversoContext",
       "localizedDescription": "Reverso Context Pro 14.1.1\n- Reverso Context 14.1.1\n- Translation Coaching \n- Info: Pro unlocked \n- Enable within satella these settings, receipt & observer\n- Tap buy then cancel \n\nMade by @prohibiting",
-      "iconURL": "https://paradoxtime.tk/img/pdt_logo_nobg_shadow.png",
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/35/3a/21/353a2176-1024-ae9d-10c6-df0c09f208b7/AppIcon-0-0-1x_U007epad-0-0-0-85-220.png/512x512bb.jpg",
       "versions": [
         {
           "version": "14.1.1",
@@ -2560,7 +2539,7 @@
       "developerName": "ethMods",
       "bundleIdentifier": "com.basenji.lingvo",
       "localizedDescription": "Ule Pro 2.30.0\n- Ule 2.30.0\n- Learn English \n- Info: Pro Unlocked \n\nMade by @NatlusTeam\nCrack by @VAXMG",
-      "iconURL": "https://paradoxtime.tk/img/pdt_logo_nobg_shadow.png",
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/f8/25/5e/f8255e0d-b236-ebd4-fba9-aa401039b733/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/512x512bb.jpg",
       "versions": [
         {
           "version": "2.30.0",
@@ -2580,7 +2559,7 @@
       "developerName": "ethMods",
       "bundleIdentifier": "com.suofang.jcbqdy",
       "localizedDescription": "NiimBot Pro 6.1.9\n- NiimBot 6.1.9\n- AI label printer \n- Info: Pro unlocked \n\nMade by @NatlusTeam\nCrack by @VAXMG",
-      "iconURL": "https://paradoxtime.tk/img/pdt_logo_nobg_shadow.png",
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/32/09/61/3209619a-7641-523f-ccdd-a135946d3636/AppIcon-0-0-1x_U007emarketing-0-7-0-0-0-85-220.png/512x512bb.jpg",
       "versions": [
         {
           "version": "6.1.9",
@@ -2600,7 +2579,7 @@
       "developerName": "ethMods",
       "bundleIdentifier": "com.prettyview.bassbooster",
       "localizedDescription": "Bass Booster Pro 10.2\n- Bass Booster 10.2\n- Bass Boost your Volume\n- Info: Pro Unlocked\n\nMade by @NatlusTeam\nCrack by @VAXMG",
-      "iconURL": "https://paradoxtime.tk/img/pdt_logo_nobg_shadow.png",
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/3d/05/fa/3d05faa8-5889-1b75-2cdf-43689b147486/AppIcon-0-0-1x_U007epad-0-0-0-85-220.png/512x512bb.jpg",
       "versions": [
         {
           "version": "10.1",
@@ -2620,7 +2599,7 @@
       "developerName": "ethMods",
       "bundleIdentifier": "com.rhmsoft.icode",
       "localizedDescription": "Code Editor Pro 1.1.0\n- Code Editor 1.1.0\n- Coding Complier & IDE\n- Info: Pro Unlocked \n\nMade by @NatlusTeam\nCrack by @VAXMG",
-      "iconURL": "https://paradoxtime.tk/img/pdt_logo_nobg_shadow.png",
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/eb/3b/f2/eb3bf253-50ac-af93-fd6c-9ef1226e6598/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/512x512bb.jpg",
       "versions": [
         {
           "version": "1.1.0",
@@ -2647,7 +2626,7 @@
       "developerName": "ethMods",
       "bundleIdentifier": "fddb.mobile.ios",
       "localizedDescription": "Fddb Pro 3.2.1 \n- Fddb 3.2.1\n- Weight loss App\n- Info: Pro Unlocked\n\nMade by @NatlusTeam\nCrack by @VAXMG",
-      "iconURL": "https://paradoxtime.tk/img/pdt_logo_nobg_shadow.png",
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/4f/0a/d1/4f0ad1f4-f9d1-8c9c-46fe-bd333fb30a9b/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/512x512bb.jpg",
       "versions": [
         {
           "version": "3.2.1",
@@ -2667,7 +2646,7 @@
       "developerName": "ethMods",
       "bundleIdentifier": "com.MobEntertainment.PoppyPlaytimeChapter3",
       "localizedDescription": "Poppy Playtime Chapter 3\n- Poppy Playtime Chapter 3 1.0.000000\n- Paid Game 4.99$\n- Adventure, Puzzle\n\n@SultanModsIPAs Exclusive\nDecrypted by @VAXMG",
-      "iconURL": "https://paradoxtime.tk/img/pdt_logo_nobg_shadow.png",
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/89/65/46/89654670-d145-f19a-f3e8-18cc87bb4293/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/512x512bb.jpg",
       "versions": [
         {
           "version": "1.0.000000",
@@ -2687,7 +2666,7 @@
       "developerName": "ethMods",
       "bundleIdentifier": "com.amanotes.magictiles",
       "localizedDescription": "Magic Tiles 3: Piano Game\n\nVip features unlocked\n\nTweak made by Dell\n\nminimum OS version 13.0\n\nAppStore link | Donate | Get your own signing cert",
-      "iconURL": "https://paradoxtime.tk/img/pdt_logo_nobg_shadow.png",
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/0f/b2/73/0fb27330-d67a-3a11-0565-8063ee44f382/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/512x512bb.jpg",
       "versions": [
         {
           "version": "11.111.014",
@@ -2702,5 +2681,6 @@
         "privacy": {}
       }
     }
-  ]
+  ],
+  "name": "ParadoxTime Repo | Ethmod Part 3"
 }

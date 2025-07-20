@@ -1,57 +1,15 @@
 {
-  "name": "ParadoxTime Repo | Ethmod Part 2",
   "identifier": "ethmod.paradoxtime.tk",
   "iconURL": "https://paradoxtime.tk/img/pdt_logo_nobg_shadow.png",
   "subtitle": "From EthSign repo, fixed for AltStore/SideStore",
-  "description": "Paradoxtime Repo \u2014 fetches IPAs from EthSign repo and fixes json format for altstore.",
+  "description": "ParadoxTime Repo \u2014 fetches IPAs from EthSign repo and fixes json format for altstore.",
   "apps": [
-    {
-      "name": "Discord",
-      "developerName": "SultanMods",
-      "bundleIdentifier": "com.hammerandchisel.discord",
-      "localizedDescription": "Discord 281.0 | Unbound | NoTrack\n- Updated Discord to 281.0\n- Added Unbound (Enmity) v1.4.0\n- OpenDiscordSafari Extension\n- DiscordNoTrack\n- Unbound Discord channel link for themes and plugins \n- Patch Included\n\n- Uninstall / Reinstall if you are using a different tweak than Unbound or have the Official Discord app installed.\n- You might have to wait 1-2 minutes after opening and logging into Discord for cache to build up before being able to use the app.\n\nTweak by @castdrian\nUnbound GitHub\nMade by @YouGottaBillieve decrypted by @eeveedecrypterbot\nNew channel: https://t.me/ethMods\nEthMods Repo: https://repo.ethsign.fyi\nneed a cert dm @eth4dmin\nprepatched already thanks to @asdfzxcvbn0 ipapatch bot found here",
-      "iconURL": "https://paradoxtime.tk/img/pdt_logo_nobg_shadow.png",
-      "versions": [
-        {
-          "version": "281.0",
-          "date": "2025-05-27",
-          "size": 99128263,
-          "downloadURL": "https://repo.ethsign.fyi/b2b306db-4d20-478b-9ba7-b3d868ff70a3/Discord_v281-Unbound_v1.4.0-NoTrack-Billieve.ipa",
-          "localizedDescription": "Discord 281.0 | Unbound | NoTrack\n- Updated Discord to 281.0\n- Added Unbound (Enmity) v1.4.0\n- OpenDiscordSafari Extension\n- DiscordNoTrack\n- Unbound Discord channel link for themes and plugins \n- Patch Included\n\n- Uninstall / Reinstall if you are using a different tweak than Unbound or have the Official Discord app installed.\n- You might have to wait 1-2 minutes after opening and logging into Discord for cache to build up before being able to use the app.\n\nTweak by @castdrian\nUnbound GitHub\nMade by @YouGottaBillieve decrypted by @eeveedecrypterbot\nNew channel: https://t.me/ethMods\nEthMods Repo: https://repo.ethsign.fyi\nneed a cert dm @eth4dmin\nprepatched already thanks to @asdfzxcvbn0 ipapatch bot found here"
-        },
-        {
-          "version": "281.0",
-          "date": "2025-05-27",
-          "size": 99004420,
-          "downloadURL": "https://repo.ethsign.fyi/84926f0f-2fb7-465d-82ff-e7cd8b812bb3/Discord_v281-BoundTweak_v0.8.1-NoTrack-Billieve.ipa",
-          "localizedDescription": "Discord 281.0 | BoundTweak | NoTrack\n- Updated Discord to 281.0\n- BoundTweak (Revenge) v0.8.1\n- OpenDiscordSafari Extension\n- DiscordNoTrack\n- Revenge Discord channel link for themes and plugins \n- Patch Included\n\nTweak by @cloudysn0w\nMade by @YouGottaBillieve decrypted by @eeveedecrypterbot\nNew channel: https://t.me/ethMods\nEthMods Repo: https://repo.ethsign.fyi\nneed a cert dm @eth4dmin"
-        },
-        {
-          "version": "280.0",
-          "date": "2025-05-21",
-          "size": 99543060,
-          "downloadURL": "https://repo.ethsign.fyi/786942e3-87f9-4c7e-bb73-794baa5c7601/Discord_v280-BoundTweak_v0.8.1-NoTrack-Billieve.ipa",
-          "localizedDescription": "Discord 280.0 | BoundTweak | NoTrack\n- Updated Discord to 280.0\n- Added BoundTweak (Revenge) v0.8.1\n- OpenDiscordSafari Extension\n- DiscordNoTrack\n- Revenge Discord channel link for themes and plugins \n- Patch Included\n\nMade by @YouGottaBillieve decrypted by @eeveedecrypterbot\nNew channel: https://t.me/ethMods\nEthMods Repo: https://repo.ethsign.fyi\nneed a cert dm @eth4dmin"
-        },
-        {
-          "version": "267.1",
-          "date": "2025-02-21",
-          "size": 93166418,
-          "downloadURL": "https://repo.ethsign.fyi/65f9c8de-8407-4980-9369-8ce264e23705/Discord%20Bunny%20267.1.ipa",
-          "localizedDescription": "Discord Bunny\n\nA mod for Discord's mobile apps, a fork of Vendetta.\n\nminimum OS version 15.1\n\nAppStore link | Donate | Get your own signing cert"
-        }
-      ],
-      "appPermissions": {
-        "entitlements": [],
-        "privacy": {}
-      }
-    },
     {
       "name": "InShot",
       "developerName": "SultanMods",
       "bundleIdentifier": "com.camerasideas.InstaShot",
       "localizedDescription": "InShot - Video Editor 1.87.0\n- AppStore Link\n- Photos & Videos Editor\n- Subscription Unlocked\n- Minimum iOS/iPadOS 15.0\n\nCreated by ethTeam\nCrack by @VAXMG\nRequest Apps Here\nNeed a certificate? Contact @eth4dmin\nNew main channel: https://t.me/ethMods\nethSign Repo: https://repo.ethsign.fyi",
-      "iconURL": "https://paradoxtime.tk/img/pdt_logo_nobg_shadow.png",
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/63/48/1a/63481ad6-26d8-b08e-3cb4-231b6de6220f/AppIcon-0-0-1x_U007epad-0-1-0-sRGB-85-220.png/512x512bb.jpg",
       "versions": [
         {
           "version": "1.87.0",
@@ -78,7 +36,7 @@
       "developerName": "SultanMods",
       "bundleIdentifier": "com.glidetalk.glideapp",
       "localizedDescription": "LIoyd - Your AI SuperPower 18.124\n- AppStore Link\n- AI Chatbot\n- Minimum iOS/IPadOS 15.4\n- Subscription Unlocked\n\nCreated by ethTeam\nCrack by @VAXMG\nRequest Apps Here\nNeed a certificate? Contact @eth4dmin\nNew main channel: https://t.me/ethMods\nethSign Repo: https://repo.ethsign.fyi",
-      "iconURL": "https://paradoxtime.tk/img/pdt_logo_nobg_shadow.png",
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/16/76/e6/1676e603-a811-bb3e-ab5e-4cee941fa9c9/AppIcon-0-1x_U007epad-0-1-0-85-220-0.png/512x512bb.jpg",
       "versions": [
         {
           "version": "18.124",
@@ -86,6 +44,20 @@
           "size": 55606291,
           "downloadURL": "https://repo.ethsign.fyi/a668ffc4-a027-4c76-b923-4d3a415e5bb0/com.glidetalk.glideapp-18.124-patched.ipa",
           "localizedDescription": "LIoyd - Your AI SuperPower 18.124\n- AppStore Link\n- AI Chatbot\n- Minimum iOS/IPadOS 15.4\n- Subscription Unlocked\n\nCreated by ethTeam\nCrack by @VAXMG\nRequest Apps Here\nNeed a certificate? Contact @eth4dmin\nNew main channel: https://t.me/ethMods\nethSign Repo: https://repo.ethsign.fyi"
+        },
+        {
+          "version": "18.121",
+          "date": "2025-03-15",
+          "size": 61140015,
+          "downloadURL": "https://repo.ethsign.fyi/1024d9e4-7fc2-42b3-8829-3e408f44c9cf/com.glidetalk.glideapp-18.121.ipa",
+          "localizedDescription": "LIoyd - Your AI Super Power 18.121\n- AppStore Link\n- An AI chatbot with realtime video analysis using visual AI\n- Minimum iOS/IPadOS 15.4\n- Subscription Unlocked\n\nChangelog 18.121:\n\u2022 Access Claude Sonnet 3.7 and ChatGPT-4.5! Get access to the latest AI models.  \n\u2022 Use Lloyd during phone calls \u2014 Get AI assistance even while on a call.  \n\u2022 Silent mode starts with text \u2014 Now you can begin interactions without sound.\n\nCreated by ethTeam\nCrack by @VAXMG\nNeed a certificate? Contact @eth4dmin\nNew main channel: https://t.me/ethMods\nethSign Repo: https://repo.ethsign.fyi"
+        },
+        {
+          "version": "18.119",
+          "date": "2025-03-06",
+          "size": 61094837,
+          "downloadURL": "https://repo.ethsign.fyi/4e06998a-e008-410d-82b3-1ca258400b35/com.glidetalk.glideapp-18.119_.ipa",
+          "localizedDescription": "LIoyd - Your AI Super Power 18.119\n- AppStore Link\n- An AI chatbot with realtime video analysis using visual AI\n- Minimum iOS/IPadOS 15.4\n- Subscription Unlocked\n\nChangelog 18.119:\n- Use Lloyd during phone calls Get Al assistance even while on a call.\n- Silent mode starts with text Now you can begin interactions without sound.\n- Performance improvements & bug fixes A smoother, more reliable experience. \n\nCreated by ethTeam\nCrack by @VAXMG\nNeed a certificate? Contact @eth4dmin\nNew main channel: https://t.me/ethMods\nethSign Repo: https://repo.ethsign.fyi"
         }
       ],
       "appPermissions": {
@@ -98,7 +70,7 @@
       "developerName": "SultanMods",
       "bundleIdentifier": "com.vitastudio.mahjong",
       "localizedDescription": "Vita Mahjong 2.43.0 NoAds\n- No Ads\n- Classic Mahjong Solitaire \u2013 Traditional tile-matching game with modern twists!\n- Large, Clear Tiles \u2013 Reduce eye strain with senior-friendly design (no squinting!).\n- Brain-Training Mode \u2013 Improve memory & focus with special cognitive puzzles!\n- Play Offline, Anywhere \u2013 No Wi-Fi? No problem! Perfect for travel or relaxing at home.\n- Daily Brain Exercises \u2013 New puzzles every day to keep your mind sharp!\n- Hints & Undo \u2013 Stuck? Use smart tools to solve tough levels stress-free. \nMade by @yougottabillieve decrypted by @eeveedecryptorbot\nNew channel: https://t.me/ethMods\nEthMods Repo: https://repo.ethsign.fyi\nneed a cert dm @eth4dmin",
-      "iconURL": "https://paradoxtime.tk/img/pdt_logo_nobg_shadow.png",
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/6c/51/97/6c519766-8cae-7317-0e2d-550618446d7c/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/512x512bb.jpg",
       "versions": [
         {
           "version": "2.43.0",
@@ -118,7 +90,7 @@
       "developerName": "SultanMods",
       "bundleIdentifier": "droom.sleepIfUCanFree",
       "localizedDescription": "Alarmy: Loud Alarm Clock, Sleep 25.23.1\n- AppStore Link\n- Subscription Unlocked, Ignore Purchase Page\n- Minimum iOS/iPadOS 16.0\n\nTo make the widget work with cert you need to have the AppGroups entitlement configured in your cert. You can check this using this app\n\nCreated by ethTeam\nCrack by @VAXMG\nRequest Apps Here\nNeed a certificate? Contact @eth4dmin\nNew main channel: https://t.me/ethMods\nethSign Repo: https://repo.ethsign.fyi",
-      "iconURL": "https://paradoxtime.tk/img/pdt_logo_nobg_shadow.png",
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/dc/b6/ed/dcb6edd2-3153-ab87-46e7-085014a59a78/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/512x512bb.jpg",
       "versions": [
         {
           "version": "25.23.1",
@@ -138,7 +110,7 @@
       "developerName": "SultanMods",
       "bundleIdentifier": "com.grailr.CARROTweather",
       "localizedDescription": "Carrot Weather Ultra 6.2.2 pro (already patched)(ethteam crack)\n\nTo stop it from crashing on open you need a certificate and to follow this guide\n\nhttps://t.me/ethModsChat/67356\n- Carrot Weather 6.2.2 \n- Best weather app \n- Info: Ultra Unlocked\n- Plugins Patch already included\nCompiled by @moeotf \nNeed a certificate? Contact @eth4dmin\nNew channel: https://t.me/ethMods\nEthMods Repo: https://repo.ethsign.fyi",
-      "iconURL": "https://paradoxtime.tk/img/pdt_logo_nobg_shadow.png",
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/87/d0/89/87d0893a-c88b-6cd8-a950-4e0850e9ae9f/AppIcon-0-0-1x_U007epad-0-0-0-1-0-0-sRGB-0-85-220.png/512x512bb.jpg",
       "versions": [
         {
           "version": "6.2.2",
@@ -172,7 +144,7 @@
       "developerName": "SultanMods",
       "bundleIdentifier": "eu.livesport.FlashScore-com",
       "localizedDescription": "Flashscore: Live Scores & News 25.5.0\n- AppStore Link\n- Sports \n- Subscription Unlocked\n- Minimum iOS/iPadOS 16.0\n\nTo make the widget work with cert you need to have the AppGroups entitlement configured in your cert. You can check this using this app\n\nCreated by ethTeam\nCrack by @VAXMG\nRequest Apps Here\nNeed a certificate? Contact @eth4dmin\nNew main channel: https://t.me/ethMods\nethSign Repo: https://repo.ethsign.fyi",
-      "iconURL": "https://paradoxtime.tk/img/pdt_logo_nobg_shadow.png",
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/a2/cc/fa/a2ccfac9-1e42-8402-ec83-3e5e9ab8eece/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/512x512bb.jpg",
       "versions": [
         {
           "version": "25.5.0",
@@ -219,7 +191,7 @@
       "developerName": "SultanMods",
       "bundleIdentifier": "camp.user.penbook",
       "localizedDescription": "Pencil Notes: Penbook 6.8.17\n- AppStore Link\n- Note Taking App\n- Subscription Unlocked\n- Minimum iOS/iPadOS 17.0\n\nCreated by ethTeam\nCrack by @VAXMG\nRequest Apps Here\nNeed a certificate? Contact @eth4dmin\nNew main channel: https://t.me/ethMods\nethSign Repo: https://repo.ethsign.fyi",
-      "iconURL": "https://paradoxtime.tk/img/pdt_logo_nobg_shadow.png",
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/63/b6/c9/63b6c99e-8fc8-14e6-9f66-983d11a1a7fa/AppIcon-0-0-1x_U007emarketing-0-0-0-8-0-0-85-220.png/512x512bb.jpg",
       "versions": [
         {
           "version": "6.8.17",
@@ -239,7 +211,7 @@
       "developerName": "SultanMods",
       "bundleIdentifier": "com.ahmetserdarkaradeniz.Phocus",
       "localizedDescription": "Phocus Portrait 2.5.0 Pro patched\n- Updated Phocus to 2.5.0 pro\n-another photo editing app that a user requested appstore link is here\n- Info: pro, open the app, click apply on satella, restart the app a couple times youll see pro status\n-keychain and sideload fix and autorevenuecat and pluginsfix injected\n-this does require a appgroup/plugin supported cert\n\nMade by @moeotf \ud83d\udc4c\ud83c\udffb\ndecrypted by @eeveedecrypterbot \nNeed a certificate? Contact @eth4dmin\nNew channel: https://t.me/ethMods\nEthMods Repo: https://repo.ethsign.fyi\nprepatched already thanks to @asdfzxcvbn0 ipapatch bot found here",
-      "iconURL": "https://paradoxtime.tk/img/pdt_logo_nobg_shadow.png",
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/33/80/7a/33807afc-d48b-1f49-4905-61d0497f7c02/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/512x512bb.jpg",
       "versions": [
         {
           "version": "2.5.0",
@@ -266,7 +238,7 @@
       "developerName": "SultanMods",
       "bundleIdentifier": "com.cocologics.ProCamera",
       "localizedDescription": "ProCamera 18.3.5 Pro with in app purchases unlocked and already patched\n\nAll apps will be prepatched now thanks to @asdfzxcvbn0 ipapatch bot found here\n- updated ProCamera to 18.3.5 PRO ($30 app and $70 IAP unlocked)\n-one of the best camera apps according to the appstore description\n- injected with pro everything \n-everything's unlocked including in app purchases\n-injected with keychain and sideload fix and patch for iaps\n-Appstore link\n\nChangelog\n\nMade by @moeotf decrypted by anyipa.me\nNeed a certificate? Contact @eth4dmin\nNew channel: https://t.me/ethMods\nEthMods Repo: https://repo.ethsign.fyi",
-      "iconURL": "https://paradoxtime.tk/img/pdt_logo_nobg_shadow.png",
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/4d/b8/97/4db89707-6a3e-0adb-ec96-6c59180086ab/AppIcon-0-1x_U007epad-0-0-0-1-0-0-85-220-0.png/512x512bb.jpg",
       "versions": [
         {
           "version": "18.3.5",
@@ -307,7 +279,7 @@
       "developerName": "SultanMods",
       "bundleIdentifier": "com.limepresso.logomaker",
       "localizedDescription": "Logo Maker Shop: AI Creator 2.3.13\n- AppStore Link\n- Ai Logo Maker\n- Subscription Unlocked (Restart the app if the subscription is not activated)\n- Minimum iOS/iPadOS/15.0\n\nCreated by ethTeam\nCrack by @VAXMG\nNeed a certificate? Contact @eth4dmin\nNew main channel: https://t.me/ethMods\nethSign Repo: https://repo.ethsign.fyi",
-      "iconURL": "https://paradoxtime.tk/img/pdt_logo_nobg_shadow.png",
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/1c/6f/0b/1c6f0ba7-f60b-d9be-b2a1-680f63bf782d/AppIcon-1x_U007epad-0-1-0-85-220-0.png/512x512bb.jpg",
       "versions": [
         {
           "version": "2.3.13",
@@ -334,7 +306,7 @@
       "developerName": "SultanMods",
       "bundleIdentifier": "com.FenderDigital.Play",
       "localizedDescription": "Fender Play: Songs & Lessons 7.3.3\n- AppStore Link\n- Music Learning App\n- Subscription Unlocked\n- Some Features aren't Working\n\nCreated by ethTeam\nCrack by @VAXMG\nNeed a certificate? Contact @eth4dmin\nNew main channel: https://t.me/ethMods\nethSign Repo: https://repo.ethsign.fyi",
-      "iconURL": "https://paradoxtime.tk/img/pdt_logo_nobg_shadow.png",
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/6d/03/9a/6d039a1a-134b-28f9-b44d-b1271552ef23/AppIcon-0-1x_U007emarketing-0-8-0-85-220-0.png/512x512bb.jpg",
       "versions": [
         {
           "version": "7.3.3",
@@ -381,7 +353,7 @@
       "developerName": "SultanMods",
       "bundleIdentifier": "de.komoot.berlinbikeapp",
       "localizedDescription": "Komoot - hike, bike & run 2025.20.1\n- AppStore Link\n- Health & Fitness\n- Subscription Unlocked\n- Minimum iOS/iPadOS 15.0\n\nCreated by ethTeam\nCrack by @VAXMG\nRequest Apps Here\nNeed a certificate? Contact @eth4dmin\nNew main channel: https://t.me/ethMods\nethSign Repo: https://repo.ethsign.fyi",
-      "iconURL": "https://paradoxtime.tk/img/pdt_logo_nobg_shadow.png",
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/17/05/fe/1705fedc-01e5-94e1-8b5c-4da2b236def3/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/512x512bb.jpg",
       "versions": [
         {
           "version": "2025.20.1",
@@ -401,7 +373,7 @@
       "developerName": "SultanMods",
       "bundleIdentifier": "tv.twitch",
       "localizedDescription": "Twitch Adfree 24.4\n- Updated Twitch to 24.4\n-updated adfree to 0.1.5 (settings are now displayed properly) \n- Video game streaming \n-added bundle id to fix missing text\n- adfree \n-Injected AdBlock by level3tjg\n-injected open in safari extension\n-fixed ads, there should be 0 ads. if you still have any, delete the old ipa and reinstall.\n\nMade by @moeotf, adfree tweak by level3tjg decrypted by anyipa.me\nNeed a certificate? Contact @eth4dmin\nNew channel: https://t.me/ethMods\nEthMods Repo: https://repo.ethsign.fyi",
-      "iconURL": "https://paradoxtime.tk/img/pdt_logo_nobg_shadow.png",
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/37/7a/e9/377ae9d3-1356-0337-55cd-b01b7404fe73/TwitchAppIcon-0-0-1x_U007epad-0-1-0-0-0-0-85-220.png/512x512bb.jpg",
       "versions": [
         {
           "version": "24.4",
@@ -437,6 +409,13 @@
           "size": 118883661,
           "downloadURL": "https://repo.ethsign.fyi/17d0d097-df51-4609-b052-2474b8b21df4/Twitch23.2AdfreeMoeAlreadyPatched.ipa",
           "localizedDescription": "Twitch Adfree 23.2\n- Updated Twitch to 23.2\n- Video game streaming \n- adfree \n-Injected AdBlock by level3tjg\n-injected open in safari extension\n-injected pluginwidgetsfix (don't put this app into the bot again or you will break the adblock) \n-if you still have ads turn on the proxy under settings\n-fixed ads, there should be 0 ads. if you still have any, delete the old ipa and reinstall.\n\nMade by @moeotf, tweak by level3tjg decrypted by anyipa.me need a cert dm @eth4dmin\nnew main channel linked below\nhttps://t.me/SultanModsiOS"
+        },
+        {
+          "version": "23.0",
+          "date": "2025-02-03",
+          "size": 103252178,
+          "downloadURL": "https://repo.ethsign.fyi/43b37dff-6548-4adb-9509-79f4775992e6/Twitch23.0AdfreeMoe-ALREADYPATCHED.ipa",
+          "localizedDescription": "Twitch Adfree 23.0 \n- Updated Twitch to 23.0 moe\n- Video game streaming \n- adfree \n-Injected AdBlock by level3tjg\n-injected open in safari extension\n-injected pluginwidgetsfix (don't put this app into the bot again or you will break the adblock) \n-if you still have ads turn on the proxy under settings\n-fixed ads, there should be 0 ads. if you still have any, delete the old ipa and reinstall.\n\nMade by @moeotf, tweak by level3tjg decrypted by anyipa.me need a cert dm @eth4dmin or @sultanipas\nnew main channel linked below\nhttps://t.me/SultanModsiOS"
         }
       ],
       "appPermissions": {
@@ -449,7 +428,7 @@
       "developerName": "SultanMods",
       "bundleIdentifier": "com.facebook.Messenger",
       "localizedDescription": "Facebook Messenger v506 | SNMessenger v1.0.1\n- Updated Facebook Messenger to v506\n- Added the SNMessenger v1.0.1 Tweak\n- Patch Included\n\nSNMesseger v1.0.1 Features\n- No ads (Completely remove ads from Messenger)\n- Show the eye button (Quickly enable/disable read receipts)\n- Always send HD photos (Only if HD option appears in image picker)\n- Audio / Video call confirmation\n- Disable long press to change theme\n- Disable read receipts\n- Disable typing indicator\n- Hide notif badges in chat top bar\n- Keyboard state after entering chat\n- Can save friends\u2019 stories - Disable this one or the settings cog in stories breaks.\n- Disable stories preview\n- Disable story seen receipts\n- Extend story video upload length (Up to 10 minutes)\n- Hide status bar when viewing story (Only for iOS 12 devices)\n- Never replay story after reacting\n- Hide people tab\n- Hide stories tab\n- Hide notes row\n- Hide search bar\n- Hide suggested contacts in search\n\nDisclaimer\n- To open SNMessenger settings, select the \u2019menu\u2019 tab, then \u2019settings\u2019, then select the \u2019chat\u2019 bar, finally, select the \u2019menu\u2019 tab again. Now the SNMessenger settings cog should appear in the upper left corner of the screen.\n- Once SNMessenger settings are open, uncheck, \u2019save friends\u2019 stories\u2019, as this is broken and will cause the app to crash when settings is opened while viewing a story.\n- When installing in ESign, select, \u2019auto modify jailbreak dependencies\u2019.\n- Finally, this tweak was built primarily for jailbroken devices, as such, every function may not work as intended on jailed devices.\n\nMade by @yougottabillieve decrypted by @eeveedecryptorbot\nNew channel: https://t.me/ethMods\nEthMods Repo: https://repo.ethsign.fyi\nneed a cert dm @eth4dmin",
-      "iconURL": "https://paradoxtime.tk/img/pdt_logo_nobg_shadow.png",
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/6e/3d/bb/6e3dbb53-6335-0a24-2288-b8375a6b9091/AppIcon-0-0-1x_U007epad-0-1-0-sRGB-85-220.png/512x512bb.jpg",
       "versions": [
         {
           "version": "506.0.0",
@@ -476,7 +455,7 @@
       "developerName": "SultanMods",
       "bundleIdentifier": "com.adobe.photoshop.ios",
       "localizedDescription": "Photoshop 6.1.1 (Premium)\n- Create a new document, select the purple and white \u2019crown\u2019, subscribe for a penny (not charged with Satella)\n- AI credits are limited to 10 and server sided.\n\nMade by @YouGottaBillieve decrypted by @eeveedecrypterbot\nNew channel: https://t.me/ethMods\nEthMods Repo: https://repo.ethsign.fyi\nneed a cert dm @eth4dmin",
-      "iconURL": "https://paradoxtime.tk/img/pdt_logo_nobg_shadow.png",
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/48/3c/77/483c778f-a274-79e6-2d21-d2e74dc31ccc/AppIcon-0-0-1x_U007epad-0-1-0-0-85-220.png/512x512bb.jpg",
       "versions": [
         {
           "version": "6.1.1",
@@ -503,7 +482,7 @@
       "developerName": "SultanMods",
       "bundleIdentifier": "com.tradingview.tradingviewapp",
       "localizedDescription": "\ud83d\udc40 App: \u200eTradingView: Track All Markets\n\ud83c\udf0d Country: United States \ud83c\uddfa\ud83c\uddf8\n\ud83c\udd94 Bundle ID: com.tradingview.tradingviewapp\n\u2b50\ufe0f Rating Count List: 1\u2605: 3942, 2\u2605: 1474, 3\u2605: 4126, 4\u2605: 15020, 5\u2605: 273571\n\ud83c\udf81 External Version ID: 874420377\n\ud83d\udcdd Subtitle: From stocks to crypto\n\ud83d\udcaf Version: 2.107.0\n\ud83d\udccb What's New: We're continuously working to improve our app. In this update:\n\u2022 Added the ability to check the market status directly on your Symbol screen \u2014 just tap your ticker name in the upper-left corner\n\ud83d\udcc5 Current Version Release Date: May 6, 2025\n\ud83d\udc68\u200d\ud83d\udcbb Developer: TradingView\n\ud83c\udfc6 Top Charts: #38 in Finance\n\u2b50\ufe0f Rating & Reviews: 4.9 \u2022 298.1K Ratings\n\ud83c\udf10 Developer Website: https://www.tradingview.com/about/\n\ud83c\udfe2 Provider: TradingView, Inc.\n\ud83d\udce6 Size: 125.1 MB\n\ud83d\udd04 Compatibility:\n- iPhone: Requires iOS 16.0 or later.\n\u00a9\ufe0f Copyright: \u00a9 2005 TradingView, Inc.\n\ud83d\udcfa Note:  Works on all environments, Unlock Premium\n\u2615\ufe0f Coffee | \ud83d\udec2 Appstore |\ud83d\udcd7Repo | \ud83d\udd14Github | \ud83c\udccfX |\ud83d\ude3d Chat",
-      "iconURL": "https://paradoxtime.tk/img/pdt_logo_nobg_shadow.png",
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/a9/39/6f/a9396f59-b057-002d-8ff5-988cb2e982d2/AppIcon-0-0-1x_U007epad-0-11-0-0-0-0-85-220.png/512x512bb.jpg",
       "versions": [
         {
           "version": "2.107.0",
@@ -544,7 +523,7 @@
       "developerName": "SultanMods",
       "bundleIdentifier": "com.yourcompany.TestWithCustomTabs",
       "localizedDescription": "AccuWeather: Weather Updates 20.0.16\n- AppStore Link\n- Weather App\n- Subscription Unlocked\n- Minimum iOS/iPadOS 15.0\n\nTo make the widget work with cert you need to have the AppGroups entitlement configured in your cert. You can check this using this app\n\nCreated by ethTeam\nCrack by @VAXMG\nNeed a certificate? Contact @eth4dmin\nNew main channel: https://t.me/ethMods\nethSign Repo: https://repo.ethsign.fyi",
-      "iconURL": "https://paradoxtime.tk/img/pdt_logo_nobg_shadow.png",
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/8a/e5/91/8ae59198-2cda-cb1b-0d51-e0b1712a9c41/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/512x512bb.jpg",
       "versions": [
         {
           "version": "20.0.16",
@@ -564,7 +543,7 @@
       "developerName": "SultanMods",
       "bundleIdentifier": "com.burakeraykayis.faptracker",
       "localizedDescription": "No Nut: Quit P*rn Addiction 8.8.6\n- AppStore Link\n- Quit watching Corn\n- Tap Restore purchase To Activate Subscription\n- Minimum iOS/iPadOS 15.0\n\nCreated by ethTeam\nCrack by @VAXMG\nNeed a certificate? Contact @eth4dmin\nNew main channel: https://t.me/ethMods\nethSign Repo: https://repo.ethsign.fyi",
-      "iconURL": "https://paradoxtime.tk/img/pdt_logo_nobg_shadow.png",
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/a2/49/cb/a249cbf1-7474-569b-5aae-0f821062a887/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/512x512bb.jpg",
       "versions": [
         {
           "version": "8.8.6",
@@ -611,7 +590,7 @@
       "developerName": "SultanMods",
       "bundleIdentifier": "com.autodesk.autocadws",
       "localizedDescription": "AutoCAD 6.17.0\n- AppStore Link\n- Login to Activate Subscription\n- Minimum iOS/iPadOS 16.0\n\nCreated by ethTeam\nCrack by @VAXMG\nNeed a certificate? Contact @eth4dmin\nNew main channel: https://t.me/ethMods\nethSign Repo: https://repo.ethsign.fyi",
-      "iconURL": "https://paradoxtime.tk/img/pdt_logo_nobg_shadow.png",
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/76/0b/57/760b5709-7631-5949-1b4c-908ae924fab7/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/512x512bb.jpg",
       "versions": [
         {
           "version": "6.17.0",
@@ -631,7 +610,7 @@
       "developerName": "SultanMods",
       "bundleIdentifier": "com.untitledinbrackets.untitled-ios",
       "localizedDescription": "[untitled] v1.12.2 | Decrypted\n- Uploaded decrypted app. Expect it to be removed from the app store soon. You can upload and record music, create albums, and share them with people. Currently being used for unreleased leaks and sharing songs.\n\n- Upload music from Airdrop, Files, iMessage, etc.\n- Organize tracks into folders/projects synced across iPhone and Web\n- Offline mode for listening, editing, and organizing\n- Shareable links with access            management and listener tracking\n- Edit pitch and speed of tracks\n- AI stem separation from tracks\n- Record audio directly within the app\n- Patch Included\n\nMade by @YouGottaBillieve decrypted by @eeveedecrypterbot\nNew channel: https://t.me/ethMods\nEthMods Repo: https://repo.ethsign.fyi\nneed a cert dm @eth4dmin",
-      "iconURL": "https://paradoxtime.tk/img/pdt_logo_nobg_shadow.png",
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/5d/e4/e0/5de4e083-3330-364a-e2e0-f575f5c26dc4/AppIcon-0-1x_U007ephone-0-1-85-220-0.png/512x512bb.jpg",
       "versions": [
         {
           "version": "1.12.2",
@@ -651,7 +630,7 @@
       "developerName": "SultanMods",
       "bundleIdentifier": "com.ilovepdf.www",
       "localizedDescription": "iLovePDF - PDF Editor & Scan 3.12.0\n- AppStore Link\n- PDF Editor App\n- Login and restart the app to activate subscription\n- Minimum iOS/iPadOS 16.0\n\nCreated by ethTeam\nCrack by @VAXMG\nNeed a certificate? Contact @eth4dmin\nNew main channel: https://t.me/ethMods\nethSign Repo: https://repo.ethsign.fyi",
-      "iconURL": "https://paradoxtime.tk/img/pdt_logo_nobg_shadow.png",
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/44/30/0c/44300ce2-c007-0571-a89d-11db72a1f0c7/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/512x512bb.jpg",
       "versions": [
         {
           "version": "3.12.0",
@@ -678,7 +657,7 @@
       "developerName": "SultanMods",
       "bundleIdentifier": "com.heavydutyapps.gymWorkout",
       "localizedDescription": "Gymverse: Gym Workout Planner 7.7800\n- AppStore Link\n- Fitness & Workout App\n- Subscription Unlocked\n- Minimum iOS/iPadOS 16.0\n\nCreated by ethTeam\nCrack by @VAXMG\nNeed a certificate? Contact @eth4dmin\nNew main channel: https://t.me/ethMods\nethSign Repo: https://repo.ethsign.fyi",
-      "iconURL": "https://paradoxtime.tk/img/pdt_logo_nobg_shadow.png",
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/fe/58/77/fe58771b-a1b7-18e1-5218-fbef57bde5e7/AppIcon-0-0-1x_U007epad-0-1-0-0-sRGB-0-85-220.png/512x512bb.jpg",
       "versions": [
         {
           "version": "7.7800",
@@ -694,31 +673,11 @@
       }
     },
     {
-      "name": "Youtube",
-      "developerName": "SultanMods",
-      "bundleIdentifier": "com.google.ios.youtube",
-      "localizedDescription": "YouTube 20.16.7 YTLite 5.2 Beta 1 Full April 28th build\n\nCASTING WORKS ON 20.10.4 posted in here (search) if you need it.\n\n(today's updates are in bold, to see what changed in those tweaks just click on the new version number which is blue and read through the GitHub commit changes)\n-YouTube to 20.16.7\n-YTLite 5.2 beta 1(changelog here -https://t.me/dvntms) (thanks Dan)(over 50+ features, too many to type out, including isponsor, downloading and much much much much much more)\n-Youpip 1.12.7\n-YouQuality 1.3.5\n-YTvideoOverlay2.2.2\n-ReturnYouTubeDislike 1.13.6 updated to 1.13.7\n-DontEatMyContent 1.1.10 \n-YouGroupSettings 1.0.4\n-YTvideoerroralert 1.0.2\n-OpenYoutubeSafariExtension\n-Gonerino\n-Other minor updates check poomsmarts github for smaller changes like isponsorblock\n\nMade by @yougottabillieve decrypted by @eeveedecryptorbot\nNeed a certificate? Contact @eth4dmin\nNew channel: https://t.me/ethMods\nEthMods Repo: https://repo.ethsign.fyi",
-      "iconURL": "https://paradoxtime.tk/img/pdt_logo_nobg_shadow.png",
-      "versions": [
-        {
-          "version": "20.16.7",
-          "date": "2025-04-28",
-          "size": 127317571,
-          "downloadURL": "https://repo.ethsign.fyi/8f16e84e-a000-4cb7-8bc7-8408de064967/YTLiteFullGonerino_20.16.7_YouGottaBillieve.ipa",
-          "localizedDescription": "YouTube 20.16.7 YTLite 5.2 Beta 1 Full April 28th build\n\nCASTING WORKS ON 20.10.4 posted in here (search) if you need it.\n\n(today's updates are in bold, to see what changed in those tweaks just click on the new version number which is blue and read through the GitHub commit changes)\n-YouTube to 20.16.7\n-YTLite 5.2 beta 1(changelog here -https://t.me/dvntms) (thanks Dan)(over 50+ features, too many to type out, including isponsor, downloading and much much much much much more)\n-Youpip 1.12.7\n-YouQuality 1.3.5\n-YTvideoOverlay2.2.2\n-ReturnYouTubeDislike 1.13.6 updated to 1.13.7\n-DontEatMyContent 1.1.10 \n-YouGroupSettings 1.0.4\n-YTvideoerroralert 1.0.2\n-OpenYoutubeSafariExtension\n-Gonerino\n-Other minor updates check poomsmarts github for smaller changes like isponsorblock\n\nMade by @yougottabillieve decrypted by @eeveedecryptorbot\nNeed a certificate? Contact @eth4dmin\nNew channel: https://t.me/ethMods\nEthMods Repo: https://repo.ethsign.fyi"
-        }
-      ],
-      "appPermissions": {
-        "entitlements": [],
-        "privacy": {}
-      }
-    },
-    {
       "name": "Foodie",
       "developerName": "SultanMods",
       "bundleIdentifier": "com.linecorp.Foodie",
       "localizedDescription": "Foodie - Filter & Film Camera 7.0.7\n- AppStore Link\n- Ai Camera & Photos Editor\n- Subscription Unlocked\n- Minimum iOS 14.0\n\nCreated by ethTeam\nCrack by @VAXMG\nNeed a certificate? Contact @eth4dmin\nNew main channel: https://t.me/ethMods\nethSign Repo: https://repo.ethsign.fyi",
-      "iconURL": "https://paradoxtime.tk/img/pdt_logo_nobg_shadow.png",
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/2a/2b/d4/2a2bd489-6eeb-f807-1f49-53edefa0335b/GlobalAppIcon-1x_U007emarketing-0-8-0-85-220-0.png/512x512bb.jpg",
       "versions": [
         {
           "version": "7.0.7",
@@ -745,7 +704,7 @@
       "developerName": "SultanMods",
       "bundleIdentifier": "com.erhanra.photo.editor",
       "localizedDescription": "HDFlix | Free Movies and TV\n- Open app and it redirects to HDFlix\n\nMade by @YouGottaBillieve decrypted by @eeveedecrypterbot\nNew channel: https://t.me/ethMods\nEthMods Repo: https://repo.ethsign.fyi\nneed a cert dm @eth4dmin",
-      "iconURL": "https://paradoxtime.tk/img/pdt_logo_nobg_shadow.png",
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/ba/24/51/ba2451f5-a11f-e20d-8e70-9b879986f66b/AppIcon-1x_U007emarketing-0-8-0-85-220-0.png/512x512bb.jpg",
       "versions": [
         {
           "version": "2.0",
@@ -765,7 +724,7 @@
       "developerName": "SultanMods",
       "bundleIdentifier": "app.reeder",
       "localizedDescription": "Reeder 2025.4.1 | Reeder+ Unlocked\n- Uses Satella. Make a fake purchase to unlock premium.\n\nMade by @YouGottaBillieve decrypted by @eeveedecrypterbot\nNew channel: https://t.me/ethMods\nEthMods Repo: https://repo.ethsign.fyi\ntweak made by densor or you can find him at https://6gr8.github.io/deno.io/\nneed a cert dm @eth4dmin",
-      "iconURL": "https://paradoxtime.tk/img/pdt_logo_nobg_shadow.png",
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/79/c8/d6/79c8d6c4-e693-db9e-6c38-ae62e2fd57a9/AppIcon-0-0-1x_U007epad-0-0-0-1-0-0-P3-85-220.png/512x512bb.jpg",
       "versions": [
         {
           "version": "2025.4.1",
@@ -785,7 +744,7 @@
       "developerName": "SultanMods",
       "bundleIdentifier": "com.thirteenleafclover.art.generator",
       "localizedDescription": "\ud83d\udcf1 AI Art Generator - UniDream AI\n\n\ud83c\udd94 Bundle ID: \ncom.thirteenleafclover.art.generator\n\ud83d\udcca Version: 6.8.4\n\ud83d\udc68\u200d\ud83d\udcbb Developer: \u5999 \u674e\n\ud83c\udff7 Category: Graphics & Design\n\ud83d\udd27 Minimum iOS: 13.0\n\n\ud83d\udc8e Modifier: Subscription Unlocked\n\n\ud83d\udcdd Note: \nIgnore purchase page and use a VPN if there is issues with downloading images etc.\n\n\ud83d\udd04 Tweaked by @blatants\n\nKo-Fi \u2615\ufe0f | Crypto \ud83d\udc7e | IPAs \ud83d\udce5",
-      "iconURL": "https://paradoxtime.tk/img/pdt_logo_nobg_shadow.png",
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/2a/1f/6c/2a1f6cee-bd95-9f4f-5f12-dddb8ddbb261/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/512x512bb.jpg",
       "versions": [
         {
           "version": "6.8.4",
@@ -812,7 +771,7 @@
       "developerName": "SultanMods",
       "bundleIdentifier": "com.hassantaleb.mockup",
       "localizedDescription": "\ud83d\udcf1 Animock\n\n\ud83c\udd94 Bundle ID: \ncom.hassantaleb.mockup\n\ud83d\udcca Version: 3.1.1\n\ud83d\udc68\u200d\ud83d\udcbb Developer: Hassan Taleb\n\ud83c\udff7 Category: Developer Tools\n\ud83d\udd27 Minimum iOS: 16.0\n\n\ud83d\udc8e Modifier: Pro Unlocked\n\n\ud83d\udcdd Note: \nClick \"Restore Purchase\" if pro isn't active.\n\n\ud83d\udd04 Tweaked by @blatants\n\nKo-Fi \u2615\ufe0f | Crypto \ud83d\udc7e | IPAs \ud83d\udce5",
-      "iconURL": "https://paradoxtime.tk/img/pdt_logo_nobg_shadow.png",
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/24/0a/86/240a86ac-12c0-814d-f4b3-a79aa902662f/AppIcon-1x_U007epad-0-0-0-1-0-85-220-0.png/512x512bb.jpg",
       "versions": [
         {
           "version": "3.1.1",
@@ -832,7 +791,7 @@
       "developerName": "SultanMods",
       "bundleIdentifier": "com.zerone.hidesktop",
       "localizedDescription": "\ud83d\udcf1 iScreen - Widgets & Themes\n\n\ud83c\udd94 Bundle ID: \ncom.zerone.hidesktop\n\ud83d\udcca Version: 4.2.20\n\ud83d\udc68\u200d\ud83d\udcbb Developer: Xiamen iScreen Information Technology Co., Ltd.\n\ud83c\udff7 Category: Graphics & Design\n\ud83d\udd27 Minimum iOS: 14.0\n\n\ud83d\udc8e Modifier: Subscription Unlocked\n\n\ud83d\udcdd Note: \nTo make widgets work with certificates > Read.\n\n\ud83d\udd04 Tweaked by @blatants\n\nKo-Fi \u2615\ufe0f | Crypto \ud83d\udc7e | IPAs \ud83d\udce5",
-      "iconURL": "https://paradoxtime.tk/img/pdt_logo_nobg_shadow.png",
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/df/04/06/df040632-df02-5b43-6ac4-a75dbe5cee99/AppIcon-0-0-1x_U007epad-0-0-0-8-0-0-sRGB-85-220.jpeg/512x512bb.jpg",
       "versions": [
         {
           "version": "4.2.20",
@@ -873,7 +832,7 @@
       "developerName": "SultanMods",
       "bundleIdentifier": "com.aoklab.fewerphotos",
       "localizedDescription": "\ud83d\udcf1 Photo Cleaner: Swipewipe\n\n\ud83c\udd94 Bundle ID: \ncom.aoklab.fewerphotos\n\ud83d\udcca Version: 3.2.1\n\ud83d\udc68\u200d\ud83d\udcbb Developer: MWM\n\ud83c\udff7 Category: Utilities\n\ud83d\udd27 Minimum iOS: 16.4\n\n\ud83d\udc8e Modifier: Pro Unlocked\n\n\ud83d\udcdd Note: \nNo Additional Notes\n\n\ud83d\udd04 Tweaked by @blatants\n\nKo-Fi \u2615\ufe0f | Crypto \ud83d\udc7e | IPAs \ud83d\udce5",
-      "iconURL": "https://paradoxtime.tk/img/pdt_logo_nobg_shadow.png",
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/96/ed/41/96ed4129-eb15-7339-40ac-75b17036930d/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/512x512bb.jpg",
       "versions": [
         {
           "version": "3.2.1",
@@ -893,7 +852,7 @@
       "developerName": "SultanMods",
       "bundleIdentifier": "com.pallo.passionTimerScoped",
       "localizedDescription": "\ud83d\udcf1 YPT - Study Group\n\n\ud83c\udd94 Bundle ID: \ncom.pallo.passionTimerScoped\n\ud83d\udcca Version: 706.2.2\n\ud83d\udc68\u200d\ud83d\udcbb Developer: UnCheon Baek\n\ud83c\udff7 Category: Education\n\ud83d\udd27 Minimum iOS: 13.0\n\n\ud83d\udc8e Modifier: Satella Injected\n\n\ud83d\udcdd Note: \nSatella Injected just click purchase and then cancel\n\n\ud83d\udd04 Tweaked by @blatants\n\nKo-Fi \u2615\ufe0f | Crypto \ud83d\udc7e | IPAs \ud83d\udce5",
-      "iconURL": "https://paradoxtime.tk/img/pdt_logo_nobg_shadow.png",
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/a3/11/11/a31111fb-a653-bb51-748c-7539fe1bc4bd/AppIcon-0-0-1x_U007emarketing-0-11-0-85-220.png/512x512bb.jpg",
       "versions": [
         {
           "version": "706.2.2",
@@ -913,7 +872,7 @@
       "developerName": "SultanMods",
       "bundleIdentifier": "com.truesoftware.TrueCallerOther",
       "localizedDescription": "\ud83d\udcf1 Truecaller: Caller ID Blocker\n\n\ud83c\udd94 Bundle ID: \ncom.truesoftware.TrueCallerOther\n\ud83d\udcca Version: 14.12\n\ud83d\udc68\u200d\ud83d\udcbb Developer: True Software Scandinavia AB\n\ud83c\udff7 Category: Utilities\n\ud83d\udd27 Minimum iOS: 16.0\n\n\ud83d\udc8e Modifier: Gold Unlocked\n\n\ud83d\udcdd Note: \nWorks on ios 16 only i believe.\nTo make it work with certificates > Read.\n\n\ud83d\udd04 Tweaked by @blatants\n\nKo-Fi \u2615\ufe0f | Crypto \ud83d\udc7e | IPAs \ud83d\udce5",
-      "iconURL": "https://paradoxtime.tk/img/pdt_logo_nobg_shadow.png",
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/d1/3b/8c/d13b8cdf-b8ff-4b19-d7eb-d743f132232d/AppIcon-0-0-1x_U007ephone-0-1-85-220.png/512x512bb.jpg",
       "versions": [
         {
           "version": "14.12.5",
@@ -949,6 +908,13 @@
           "size": 122010962,
           "downloadURL": "https://repo.ethsign.fyi/b4525a4a-273f-4617-965d-ff31f6655bd7/Truecaller_Number_&_Caller_ID_v14_5_Gold_Unlocked_blatant.ipa",
           "localizedDescription": "\ud83d\udcf1 Truecaller: Number & Caller ID\n\n\ud83c\udd94 Bundle ID: \ncom.truesoftware.TrueCallerOther\n\ud83d\udcca Version: 14.5\n\ud83d\udc68\u200d\ud83d\udcbb Developer: True Software Scandinavia AB\n\ud83c\udff7 Category: Utilities\n\ud83d\udd27 Minimum iOS: 16.0\n\n\ud83d\udc8e Modifier: Gold Unlocked\n\n\ud83d\udcdd Note: \nTo make it work with certificates > Read.\n\n\ud83d\udd04 Tweaked by @blatants\n\nKo-Fi \u2615\ufe0f | Crypto \ud83d\udc7e | IPAs \ud83d\udce5"
+        },
+        {
+          "version": "14.1.6",
+          "date": "2025-01-27",
+          "size": 107828763,
+          "downloadURL": "https://repo.ethsign.fyi/031c57a5-47e2-43aa-867c-78b195dd763e/Truecaller%20v14.1%20Gold%20Unlocked%20blatant.ipa",
+          "localizedDescription": "\ud83d\udcf1 Truecaller: Number & Caller ID\n\n\ud83c\udd94 Bundle ID: \ncom.truesoftware.TrueCallerOther\n\ud83d\udcca Version: 14.1\n\ud83d\udc68\u200d\ud83d\udcbb Developer: True Software Scandinavia AB\n\ud83c\udff7 Category: Utilities\n\ud83d\udd27 Minimum iOS: 15.0\n\n\ud83d\udc8e Modifier: Gold Unlocked\n\n\ud83d\udcdd Note: \nTo make it work with certificates > Read.\n\n\ud83d\udd04 Tweaked by @blatants\n\nKo-Fi \u2615 | AppStore \ud83d\udcf1 | IPAs \ud83d\udce5"
         }
       ],
       "appPermissions": {
@@ -961,7 +927,7 @@
       "developerName": "SultanMods",
       "bundleIdentifier": "dazz.camera.vintagecamera",
       "localizedDescription": "Dazz cam 2.9.7 pro \nPro unlocked\n*** App Features ***\n\ufeff\ufeffTest your Download & Upload Speed\n\ufeff\ufeffTest network Ping & Jitter\n\ufeff\ufeffMobile Cellular and WiFi network Speed Test\n\ufeff\ufeffOne-tap testing in under 20 seconds\n\ufeff\ufeffReal-time connection graphs\n\ufeff\ufeffTroubleshoot or verify the speed your ISP promised\n\ufeff\ufeffDetailed tracking of all your past results \nwith charts, averages & more\n\ufeff\ufeffWorldwide high-speed 150+ server network for accurate results\n\ufeff\ufeffAdd private notes on speedtest results\n\ufeff\ufeffCalculate transfer times with a built-in Bandwidth\nCalculator\n\ufeff\ufeffEasily share your results on Facebook, Twitter, Email & more\n\ufeff\ufeffStage Manager & Siri Shortcut support\n\ufeff\ufeffSo much more!\nping it simple, no need for post-editing.\nWith just one tap, you can capture the most authentic vintage photos or videos, letting you enjoy the moment without distractions.\nDazz camera is inspired by classic film cameras from the 80s. We've sampled real film stock to recreate the colors and textures of vintage photography. Dazz camera supports shooting in various retro film formats like 135 film, 120 film, toy cameras, slide film, half-frame cameras, instant camera, 3D film photography, disposable camera, and more.\nBesides film photography, Dazz camera also offers modern digital camera color profiles, including compact camera, CCD camera, and we're constantly adding more.\nYou can also capture videos with a retro vibe, using formats like 8mm film camera, 16mm film camera, VHS tape camera, DCR camera, movie camera, and slide projector.\nWe're always rolling out new cameras, so keep an eye out!\nWhen you're capturing photos and videos, we've got some cool extra features and accessories for you:\n\ufeff\ufeffSave the negative and reprocess it to achieve different exposure and color temperature. (Available on select cameras\n\ufeff\ufeffDouble exposure effect by layering two photos.\n\ufeff\ufeffTimer for delayed shots.\n\ufeff\ufeffFlash.\n\ufeff\ufeffImport your existing photos for editing. (Available on select cameras)\n\ufeff\ufeffAdjust color temperature and tint.\n\ufeff\ufeffSwitch between preset focal lengths or adjust freely.\n\ufeff\ufeffTweak exposure compensation.\n\ufeff\ufeffAdjust ISO and shutter speed.\n\ufeff\ufeffStabilization settings.\n\ufeff\ufeffComposition grids.\n\ufeff\ufeffFisheye lens.\n\ufeff\ufeffStarburst lens.\n\ufeff\ufeffColor flash filters.\n\ufeff\ufeffPrism lens.\n\ufeff\ufeffND filter.\nMade by dell , my name is Dell, Need a certificate? Contact @eth4dmin\nNew channel: https://t.me/ethMods\nEthMods Repo: https://repo.ethsign.fyi\nneed a cert dm @eth4dmin",
-      "iconURL": "https://paradoxtime.tk/img/pdt_logo_nobg_shadow.png",
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/c8/e1/55/c8e155bf-ba90-025f-f4d5-dba9797e86e1/AppIcon-0-0-1x_U007epad-0-11-0-sRGB-85-220.png/512x512bb.jpg",
       "versions": [
         {
           "version": "2.9.7",
@@ -1002,7 +968,7 @@
       "developerName": "SultanMods",
       "bundleIdentifier": "com.weprod.iptv",
       "localizedDescription": "IPTV+ Pro 2.0.2\n- IPTV+ 2.0.2 \n- IPTV Streaming \n- Info: Pro Unlocked\nMade by @moeotf decrypted by anyipa.me\nNeed a certificate? Contact @eth4dmin\nNew channel: https://t.me/ethMods\nEthMods Repo: https://repo.ethsign.fyi",
-      "iconURL": "https://paradoxtime.tk/img/pdt_logo_nobg_shadow.png",
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/f4/2e/2e/f42e2e20-ee98-3771-b3cf-990a742ef2f7/AppIcon-0-0-1x_U007epad-0-11-0-85-220.png/512x512bb.jpg",
       "versions": [
         {
           "version": "2.0.2",
@@ -1029,7 +995,7 @@
       "developerName": "SultanMods",
       "bundleIdentifier": "com.burbn.barcelona",
       "localizedDescription": "Threads 376.0.0\n- Connect and Share ideas\n- Saver 1.0.0 by Choco\n- OpenThreadsSafariExtension\n\nMade by @pikk_poket\nDecrypted by @eeveedecrypterbot",
-      "iconURL": "https://paradoxtime.tk/img/pdt_logo_nobg_shadow.png",
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/6a/0b/6a/6a0b6a5f-074c-c536-0b67-e4e20e7fa2fd/Prod-0-0-1x_U007emarketing-0-8-0-85-220.png/512x512bb.jpg",
       "versions": [
         {
           "version": "376.0.0",
@@ -1056,7 +1022,7 @@
       "developerName": "SultanMods",
       "bundleIdentifier": "com.Vince.Alamobile",
       "localizedDescription": "Ala Mobile GP 7.5.3\n- AppStore Link\n- Paid Game $1.99\n- Decrypted by @VAXMG\n\nNeed a certificate? Contact @eth4dmin\nNew main channel: https://t.me/ethMods\nethSign Repo: https://repo.ethsign.fyi",
-      "iconURL": "https://paradoxtime.tk/img/pdt_logo_nobg_shadow.png",
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/ac/c4/08/acc408dc-5041-a4ac-e3d1-135ee2cd2619/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/512x512bb.jpg",
       "versions": [
         {
           "version": "7.5.3",
@@ -1076,7 +1042,7 @@
       "developerName": "SultanMods",
       "bundleIdentifier": "com.veeapps.speedtestxhd",
       "localizedDescription": "Speed test 9.2.9 cracked by Dell (pro mode $25 a year)\nApp store link\nPro unlocked\n*** App Features ***\n\ufeff\ufeffTest your Download & Upload Speed\n\ufeff\ufeffTest network Ping & Jitter\n\ufeff\ufeffMobile Cellular and WiFi network Speed Test\n\ufeff\ufeffOne-tap testing in under 20 seconds\n\ufeff\ufeffReal-time connection graphs\n\ufeff\ufeffTroubleshoot or verify the speed your ISP promised\n\ufeff\ufeffDetailed tracking of all your past results \nwith charts, averages & more\n\ufeff\ufeffWorldwide high-speed 150+ server network for accurate results\n\ufeff\ufeffAdd private notes on speedtest results\n\ufeff\ufeffCalculate transfer times with a built-in Bandwidth\nCalculator\n\ufeff\ufeffEasily share your results on Facebook, Twitter, Email & more\n\ufeff\ufeffStage Manager & Siri Shortcut support\n\ufeff\ufeffSo much more!\nMade by dell , my name is Dell, Need a certificate? Contact @eth4dmin\nNew channel: https://t.me/ethMods\nEthMods Repo: https://repo.ethsign.fyi\nneed a cert dm @eth4dmin",
-      "iconURL": "https://paradoxtime.tk/img/pdt_logo_nobg_shadow.png",
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/41/d0/47/41d0474b-2198-1e9d-cb36-abe8c1848e7e/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/512x512bb.jpg",
       "versions": [
         {
           "version": "9.2.9",
@@ -1096,7 +1062,7 @@
       "developerName": "SultanMods",
       "bundleIdentifier": "com.badoo.BadooSPP",
       "localizedDescription": "Badoo premium 5.407\n\nPaid app decrypted\nAdded keychain to avoid crashes\n\nRequested by a simp/user\nApp store link\nMade by @moeotf decrypted by anyipa.me\nNeed a certificate? Contact @eth4dmin\nNew channel: https://t.me/ethMods\nEthMods Repo: https://repo.ethsign.fyi",
-      "iconURL": "https://paradoxtime.tk/img/pdt_logo_nobg_shadow.png",
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/32/77/95/32779566-4da8-758c-27a6-d48f051592a0/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/512x512bb.jpg",
       "versions": [
         {
           "version": "5.407.0",
@@ -1123,7 +1089,7 @@
       "developerName": "SultanMods",
       "bundleIdentifier": "de.application-systems.TheLongingIOS",
       "localizedDescription": "The Longing Mobile 1.3\n- AppStore Link\n- Adventure, Atmospheric\n- Paid Game $4.99\n- Decrypted exclusively by @VAXMG\n\nNeed a certificate? Contact @eth4dmin\nNew main channel: https://t.me/ethMods\nethSign Repo: https://repo.ethsign.fyi",
-      "iconURL": "https://paradoxtime.tk/img/pdt_logo_nobg_shadow.png",
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/14/8e/f4/148ef4ca-3b6b-3aa5-2954-d12823cc7c51/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/512x512bb.jpg",
       "versions": [
         {
           "version": "1.32",
@@ -1163,7 +1129,7 @@
       "developerName": "SultanMods",
       "bundleIdentifier": "cn.com.10jqka.animatephoto",
       "localizedDescription": "Dreamface 5.11.0 cracked by Dell\nApp store link\nDreamFace is a photo animation app!\nGenerate stunning videos with one click using Al!\n\ufeff\ufeffMake your photos sing and dance with one click!\n\ufeff\ufeffCreate free text-to-speech with one click!\n\ufeff\ufeffCreate stunning avatars with one click!\n\ufeff\ufeffGet enhanced, noise-free, clear, HD-\nquality pictures with one click!\nMade by dell , my name is Dell, Need a certificate? Contact @eth4dmin\nNew channel: https://t.me/ethMods\nEthMods Repo: https://repo.ethsign.fyi\nneed a cert dm @eth4dmin",
-      "iconURL": "https://paradoxtime.tk/img/pdt_logo_nobg_shadow.png",
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/2e/65/83/2e6583a6-4b24-6007-1691-6065d868656d/AppIcon-0-0-1x_U007ephone-0-1-0-0-85-220.png/512x512bb.jpg",
       "versions": [
         {
           "version": "5.11.0",
@@ -1183,7 +1149,7 @@
       "developerName": "SultanMods",
       "bundleIdentifier": "com.fitapp",
       "localizedDescription": "Running Tracker App - FITAPP 7.13.1\n- AppStore Link\n- Running Tracker App\n- Subscription Unlocked\n- Minimum iOS 14.0\nTo make the widget work with cert you need to have the AppGroups entitlement configured in your cert. You can check this using this app\n\nCreated by ethTeam\nCrack by @VAXMG\nNeed a certificate? Contact @eth4dmin\nNew main channel: https://t.me/ethMods\nethSign Repo: https://repo.ethsign.fyi",
-      "iconURL": "https://paradoxtime.tk/img/pdt_logo_nobg_shadow.png",
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/e6/20/c4/e620c40a-d337-d273-6e07-6f820344b2f6/AppIcon-0-0-1x_U007ephone-0-0-0-1-0-0-sRGB-GLES2_U002c0-85-220.png/512x512bb.jpg",
       "versions": [
         {
           "version": "7.13.1",
@@ -1203,7 +1169,7 @@
       "developerName": "SultanMods",
       "bundleIdentifier": "com.ookla.speedtest",
       "localizedDescription": "SpeedTest 6.0.0\n- SpeedTest 6.0.0\n- Check Your Internet Speed\n- Info: Premium Unlocked\n- Login, close the app, then open \nit again | Premium Unlocked\n- VPN Requires Paid Cert with VPN Entitlement or TrollStore\n\nIPA created by RobsMods\nMade by ethTeam\nCrack by @VAXMG\nNeed a cert? Message @eth4dmin",
-      "iconURL": "https://paradoxtime.tk/img/pdt_logo_nobg_shadow.png",
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/a6/4f/2c/a64f2c70-23db-edf5-e71f-506ebc585c50/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/512x512bb.jpg",
       "versions": [
         {
           "version": "6.0.0",
@@ -1251,7 +1217,7 @@
       "developerName": "SultanMods",
       "bundleIdentifier": "com.thegamekitchen.blasphemous",
       "localizedDescription": "blasphemous 1.5\n- AppStore Link\n- 2D pixel art soulslike Metroidvania\n- Paid Game $7.99\n- Decrypted by @VAXMG\n\nNeed a certificate? Contact @eth4dmin\nNew main channel: https://t.me/ethMods\nethSign Repo: https://repo.ethsign.fyi",
-      "iconURL": "https://paradoxtime.tk/img/pdt_logo_nobg_shadow.png",
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/78/65/a6/7865a64b-3bc4-174b-be3d-69de888fdb9e/AppIcon-0-0-1x_U007emarketing-0-3-85-220.png/512x512bb.jpg",
       "versions": [
         {
           "version": "5.5.0",
@@ -1271,7 +1237,7 @@
       "developerName": "SultanMods",
       "bundleIdentifier": "com.masaratapp.salatuk",
       "localizedDescription": "Salatuk 2.2.9\n- AppStore Link \n- Muslim Prayer Companion\n- Paid App $3.99\n- Plugins Patch & SideloadFix included\n\nDecrypted by @eth4dmin.\nNeed a certificate? Contact @eth4dmin.\nNew channel: https://t.me/ethMods\nEthMods Repo: https://repo.ethsign.fyi",
-      "iconURL": "https://paradoxtime.tk/img/pdt_logo_nobg_shadow.png",
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/d5/dc/d2/d5dcd2ae-be96-c9dc-68b2-30832a6c1144/AppIcon-0-0-1x_U007epad-0-1-0-85-220.jpeg/512x512bb.jpg",
       "versions": [
         {
           "version": "2.2.9",
@@ -1319,7 +1285,7 @@
       "developerName": "SultanMods",
       "bundleIdentifier": "com.microblink.PhotoMath",
       "localizedDescription": "Photomath 8.42.0\n- AppStore Link\n- Subscription Unlocked\n- Minimum iOS/iPadOS 14.0\n\nCreated by ethTeam\nCrack by @VAXMG\nNeed a certificate? Contact @eth4dmin\nNew main channel: https://t.me/ethMods\nethSign Repo: https://repo.ethsign.fyi",
-      "iconURL": "https://paradoxtime.tk/img/pdt_logo_nobg_shadow.png",
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/59/79/07/597907aa-ef64-bd48-017b-d3d28b27942b/AppIcon-0-0-1x_U007emarketing-0-7-0-0-85-220.png/512x512bb.jpg",
       "versions": [
         {
           "version": "8.42.0",
@@ -1346,7 +1312,7 @@
       "developerName": "SultanMods",
       "bundleIdentifier": "com.stanga.projectKu",
       "localizedDescription": "- updated walli pro to 1.87.0\n- injected with pro (might bring up a trial popup when first opening, ignore it you can see it's pro under the settings and once you close and open it again)\n-injected with keychain and sideload fix\n\nMade by @moeotf decrypted by anyipa.me\nNeed a certificate? Contact @eth4dmin\nNew channel: https://t.me/ethMods\nEthMods Repo: https://repo.ethsign.fyi",
-      "iconURL": "https://paradoxtime.tk/img/pdt_logo_nobg_shadow.png",
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/b1/0b/05/b10b0590-cfca-b452-8baf-c910fe4ab93a/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/512x512bb.jpg",
       "versions": [
         {
           "version": "1.87.0",
@@ -1387,7 +1353,7 @@
       "developerName": "SultanMods",
       "bundleIdentifier": "com.zhangchao.AudioPlayer",
       "localizedDescription": "Ever Play - HiFi Music Player 5.3.4\n- AppStore Link\n- Great Music Player With many Features\n- Subscription Unlocked\n- Minimum iOS/iPadOS 12.0\nTo make the widget work with cert you need to have the AppGroups entitlement configured in your cert. You can check this using this app\n\nCreated by ethTeam\nCrack by @VAXMG\nNeed a certificate? Contact @eth4dmin\nNew main channel: https://t.me/ethMods\nethSign Repo: https://repo.ethsign.fyi",
-      "iconURL": "https://paradoxtime.tk/img/pdt_logo_nobg_shadow.png",
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/85/e8/be/85e8be89-71ac-6407-f559-705a6bd09eaf/AppIcon5-0-0-1x_U007emarketing-0-11-0-0-sRGB-85-220.png/512x512bb.jpg",
       "versions": [
         {
           "version": "5.3.4",
@@ -1407,7 +1373,7 @@
       "developerName": "SultanMods",
       "bundleIdentifier": "sh.weme.wemesh",
       "localizedDescription": "Rave - Watch Party 7.0.10\n- AppStore Link\n- Social streaming and watch party app\n- Subscription Unlocked\n- Minimum iOS/ iPadOS 15.0\n\nCreated by ethTeam\nCrack by @VAXMG\nNeed a certificate? Contact @eth4dmin\nNew main channel: https://t.me/ethMods\nethSign Repo: https://repo.ethsign.fyi",
-      "iconURL": "https://paradoxtime.tk/img/pdt_logo_nobg_shadow.png",
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/b3/a4/4f/b3a44f7d-1a94-ec54-926c-045fbd00c21c/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/512x512bb.jpg",
       "versions": [
         {
           "version": "7.0.10",
@@ -1427,7 +1393,7 @@
       "developerName": "SultanMods",
       "bundleIdentifier": "net.quochuywdm.collanote496",
       "localizedDescription": "CollaNote: Notes & PDF Markup 3.1.4\n- AppStore Link\n- Note Taking App\n- Subscription Unlocked\n- Minimum iOS/iPadOS 14.0\n\nCreated by ethTeam\nCrack by @VAXMG\nNeed a certificate? Contact @eth4dmin\nNew main channel: https://t.me/ethMods\nethSign Repo: https://repo.ethsign.fyi",
-      "iconURL": "https://paradoxtime.tk/img/pdt_logo_nobg_shadow.png",
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/57/15/8f/57158f9a-c4a7-10e2-1ef9-ebc58d03a72a/AppIcon-0-0-1x_U007emarketing-0-10-0-0-sRGB-GLES2_U002c0-85-220.png/512x512bb.jpg",
       "versions": [
         {
           "version": "3.1.4",
@@ -1447,7 +1413,7 @@
       "developerName": "SultanMods",
       "bundleIdentifier": "com.bitdefender.iosvpn",
       "localizedDescription": "BitDefender VPN: Fast & Secure 2.3.8\n- AppStore Link\n- VPN App\n- Minimum iOS/iPadOS 13.0\n- Subscription Unlocked\n\nCreated by ethTeam\nCrack by @VAXMG\nNeed a certificate? Contact @eth4dmin\nNew main channel: https://t.me/ethMods\nethSign Repo: https://repo.ethsign.fyi",
-      "iconURL": "https://paradoxtime.tk/img/pdt_logo_nobg_shadow.png",
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/2e/cd/2b/2ecd2b1a-e6a9-9d2d-0413-a312c1bed933/AppIcon-0-1x_U007emarketing-0-7-0-85-220-0.png/512x512bb.jpg",
       "versions": [
         {
           "version": "2.3.8",
@@ -1467,7 +1433,7 @@
       "developerName": "SultanMods",
       "bundleIdentifier": "com.umbrella-web.LifeLapse",
       "localizedDescription": "Life Lapse: Stop Motion Video 8.12\n- AppStore Link\n- Stop Motion editing App\n- Subscription Unlocked\n- Minimum iOS/iPadOS 15.0\n\nChangelog 8.12:\nBug fixes & new tutorial categories.\n\nCreated by ethTeam\nCrack by @VAXMG\nNeed a certificate? Contact @eth4dmin\nNew main channel: https://t.me/ethMods\nethSign Repo: https://repo.ethsign.fyi",
-      "iconURL": "https://paradoxtime.tk/img/pdt_logo_nobg_shadow.png",
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/fa/54/a7/fa54a7cb-d264-d50a-5942-f1cc1d8a458c/AppIcon-0-1x_U007ephone-0-0-0-1-0-0-sRGB-0-85-220-0.png/512x512bb.jpg",
       "versions": [
         {
           "version": "8.12",
@@ -1487,7 +1453,7 @@
       "developerName": "SultanMods",
       "bundleIdentifier": "com.apalonapps.radarfree",
       "localizedDescription": "\ud83d\udcf1 Clime: NOAA Weather Radar Live\n\n\ud83c\udd94 Bundle ID: \ncom.apalonapps.radarfree\n\ud83d\udcca Version: 5.13.40\n\ud83d\udc68\u200d\ud83d\udcbb Developer: Easy Tiger Apps, LLC.\n\ud83c\udff7 Category: Weather\n\ud83d\udd27 Minimum iOS: 15.0\n\n\ud83d\udc8e Modifier: Subscription Unlocked\n\n\ud83d\udcdd Note: \nTo make the widgets work with certificates > Read.\n\n\ud83d\udd04 Tweaked by @blatants\n\nKo-Fi \u2615\ufe0f | Crypto \ud83d\udc7e | IPAs \ud83d\udce5",
-      "iconURL": "https://paradoxtime.tk/img/pdt_logo_nobg_shadow.png",
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/eb/53/f3/eb53f3e6-cf57-3c7c-6d14-32571cc707f2/AppIcon_free-0-0-1x_U007emarketing-0-7-0-85-220.png/512x512bb.jpg",
       "versions": [
         {
           "version": "5.13.40",
@@ -1507,7 +1473,7 @@
       "developerName": "SultanMods",
       "bundleIdentifier": "com.intsig.CamScannerLite",
       "localizedDescription": "\ud83d\udcf1 CamScanner - PDF Scanner App\n\n\ud83c\udd94 Bundle ID: \ncom.intsig.CamScannerLite\n\ud83d\udcca Version: 6.84.1\n\ud83d\udc68\u200d\ud83d\udcbb Developer: INTSIG Information Co., Ltd\n\ud83c\udff7 Category: Productivity\n\ud83d\udd27 Minimum iOS: 13.0\n\n\ud83d\udc8e Modifier: VIP Unlocked\n\n\ud83d\udcdd Note: \nSome features are server-sided and cannot be unlocked.\nMay not work on iOS 18 if it does work do let me know.\n\n\ud83d\udd04 Tweaked by @blatants\n\nKo-Fi \u2615\ufe0f | Crypto \ud83d\udc7e | IPAs \ud83d\udce5",
-      "iconURL": "https://paradoxtime.tk/img/pdt_logo_nobg_shadow.png",
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/99/dd/bf/99ddbf2c-2db7-bdce-fc9d-1f93432923ea/AppIconLite-0-1x_U007ephone-0-6-0-0-P3-85-220-0.png/512x512bb.jpg",
       "versions": [
         {
           "version": "6.84.1",
@@ -1527,7 +1493,7 @@
       "developerName": "SultanMods",
       "bundleIdentifier": "com.reddit.Reddit",
       "localizedDescription": "RedditDeluxe 2025.11.0\n- Reddit 2025.11.0\n- RedditFilter \n- RedditCache\n- RedditCacheCleaner\n- RedditUndoScrollUp\n- ColorComments\n- Patch already included\n\nMade by @Jacks_Apps\nIf you need a certificate DM @eth4dmin",
-      "iconURL": "https://paradoxtime.tk/img/pdt_logo_nobg_shadow.png",
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/79/19/96/791996e8-e36d-1053-fc21-cb865e4c381e/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/512x512bb.jpg",
       "versions": [
         {
           "version": "2025.11.0",
@@ -1595,7 +1561,7 @@
       "developerName": "SultanMods",
       "bundleIdentifier": "io.stampapp.Stamp",
       "localizedDescription": "\ud83d\udcf1 Free Your Music Move Playlists\n\n\ud83c\udd94 Bundle ID: \nio.stampapp.Stamp\n\ud83d\udcca Version: 9.11.0\n\ud83d\udc68\u200d\ud83d\udcbb Developer: Hernas O\u00dc\n\ud83c\udff7 Category: Music\n\ud83d\udd27 Minimum iOS: 15.5\n\n\ud83d\udc8e Modifier: Subscription Unlocked\n\n\ud83d\udcdd Note: \nNo Additional Notes\n\n\ud83d\udd04 Tweaked by @blatants\n\nKo-Fi \u2615\ufe0f | Crypto \ud83d\udc7e | IPAs \ud83d\udce5",
-      "iconURL": "https://paradoxtime.tk/img/pdt_logo_nobg_shadow.png",
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/08/cb/7e/08cb7e91-6f00-c29b-03c1-d18de79877af/AppIcon-0-0-1x_U007emarketing-0-11-0-85-220.png/512x512bb.jpg",
       "versions": [
         {
           "version": "9.11.0",
@@ -1636,7 +1602,7 @@
       "developerName": "SultanMods",
       "bundleIdentifier": "com.commitstash.financetracker",
       "localizedDescription": "EcoSpend 2.0.0\n- Hidden movies and series app\n- Platforms: Netflix, Disney+, Apple TV+, Prime Video, Paramount+, Crunchyroll \n- No ads\n- A lot of languages \n\nMade by @eth4dmin \nDecrypted by @eeveedecrypterbot\nNeed a certificate? Contact @eth4dmin\nNew channel: https://t.me/ethMods\nEthMods Repo: https://repo.ethsign.fyi",
-      "iconURL": "https://paradoxtime.tk/img/pdt_logo_nobg_shadow.png",
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/07/f8/cd/07f8cdab-1aaf-3bc1-6962-c5bb8aa21cd4/AppIcon-1x_U007emarketing-0-10-0-85-220-0.png/512x512bb.jpg",
       "versions": [
         {
           "version": "2.0",
@@ -1656,7 +1622,7 @@
       "developerName": "SultanMods",
       "bundleIdentifier": "com.iaftt.flightplusfree",
       "localizedDescription": "Flight Tracker + 8.3.6\n- AppStore Link\n- Flight Tracking App\n- Subscription Unlocked\n- minimum iOS 16.0\n\nChangelog 8.3.6:\nWelcome to the new version!  \n\u2014 Minor bug fixes and UI improvements: You may not immediately notice them, but they will enhance your experience with the app.  \nWe are always available to assist you! If you have any feedback, comments, or ideas, please don't hesitate to contact us at support@impalastudios.com.\n\nCreated by ethTeam\nCrack by @VAXMG\nNeed a certificate? Contact @eth4dmin or @Sultanipas.\nNew channel: https://t.me/SultanModsiOS\nSultanMods Repo: https://repo.sultanmods.fyi",
-      "iconURL": "https://paradoxtime.tk/img/pdt_logo_nobg_shadow.png",
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/92/2f/42/922f4295-290f-617e-16d6-6b86ee1b4dad/AppIcon-0-0-1x_U007epad-0-1-0-P3-0-0-85-220.png/512x512bb.jpg",
       "versions": [
         {
           "version": "8.3.6",
@@ -1679,38 +1645,11 @@
       }
     },
     {
-      "name": "Lloyd",
-      "developerName": "SultanMods",
-      "bundleIdentifier": "com.glidetalk.glideapp",
-      "localizedDescription": "LIoyd - Your AI Super Power 18.121\n- AppStore Link\n- An AI chatbot with realtime video analysis using visual AI\n- Minimum iOS/IPadOS 15.4\n- Subscription Unlocked\n\nChangelog 18.121:\n\u2022 Access Claude Sonnet 3.7 and ChatGPT-4.5! Get access to the latest AI models.  \n\u2022 Use Lloyd during phone calls \u2014 Get AI assistance even while on a call.  \n\u2022 Silent mode starts with text \u2014 Now you can begin interactions without sound.\n\nCreated by ethTeam\nCrack by @VAXMG\nNeed a certificate? Contact @eth4dmin\nNew main channel: https://t.me/ethMods\nethSign Repo: https://repo.ethsign.fyi",
-      "iconURL": "https://paradoxtime.tk/img/pdt_logo_nobg_shadow.png",
-      "versions": [
-        {
-          "version": "18.121",
-          "date": "2025-03-15",
-          "size": 61140015,
-          "downloadURL": "https://repo.ethsign.fyi/1024d9e4-7fc2-42b3-8829-3e408f44c9cf/com.glidetalk.glideapp-18.121.ipa",
-          "localizedDescription": "LIoyd - Your AI Super Power 18.121\n- AppStore Link\n- An AI chatbot with realtime video analysis using visual AI\n- Minimum iOS/IPadOS 15.4\n- Subscription Unlocked\n\nChangelog 18.121:\n\u2022 Access Claude Sonnet 3.7 and ChatGPT-4.5! Get access to the latest AI models.  \n\u2022 Use Lloyd during phone calls \u2014 Get AI assistance even while on a call.  \n\u2022 Silent mode starts with text \u2014 Now you can begin interactions without sound.\n\nCreated by ethTeam\nCrack by @VAXMG\nNeed a certificate? Contact @eth4dmin\nNew main channel: https://t.me/ethMods\nethSign Repo: https://repo.ethsign.fyi"
-        },
-        {
-          "version": "18.119",
-          "date": "2025-03-06",
-          "size": 61094837,
-          "downloadURL": "https://repo.ethsign.fyi/4e06998a-e008-410d-82b3-1ca258400b35/com.glidetalk.glideapp-18.119_.ipa",
-          "localizedDescription": "LIoyd - Your AI Super Power 18.119\n- AppStore Link\n- An AI chatbot with realtime video analysis using visual AI\n- Minimum iOS/IPadOS 15.4\n- Subscription Unlocked\n\nChangelog 18.119:\n- Use Lloyd during phone calls Get Al assistance even while on a call.\n- Silent mode starts with text Now you can begin interactions without sound.\n- Performance improvements & bug fixes A smoother, more reliable experience. \n\nCreated by ethTeam\nCrack by @VAXMG\nNeed a certificate? Contact @eth4dmin\nNew main channel: https://t.me/ethMods\nethSign Repo: https://repo.ethsign.fyi"
-        }
-      ],
-      "appPermissions": {
-        "entitlements": [],
-        "privacy": {}
-      }
-    },
-    {
       "name": "VK",
       "developerName": "SultanMods",
       "bundleIdentifier": "com.vk.vkclient",
       "localizedDescription": "[iOS15.6+] VK v8.120",
-      "iconURL": "https://paradoxtime.tk/img/pdt_logo_nobg_shadow.png",
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/82/dd/a6/82dda692-2302-ea08-63aa-83803f192d91/AppIcon-0-0-1x_U007emarketing-0-8-0-sRGB-85-220.png/512x512bb.jpg",
       "versions": [
         {
           "version": "8.120",
@@ -1744,7 +1683,7 @@
       "developerName": "SultanMods",
       "bundleIdentifier": "com.apps.PhotifyAI",
       "localizedDescription": "\ud83d\udcf1 Photify AI: AI Photo Generator\n\n\ud83c\udd94 Bundle ID: \ncom.apps.PhotifyAI\n\ud83d\udcca Version: 2.3.9\n\ud83d\udc68\u200d\ud83d\udcbb Developer: Ex-human, Inc\n\ud83c\udff7 Category: Photo & Video\n\ud83d\udd27 Minimum iOS: 15.0\n\n\ud83d\udc8e Modifier: Subscription + iAP Patched\n\n\ud83d\udcdd Note: \nVideo credits cannot be bought.\nYou can buy more photo credits!\nJust click buy and then cancel.\n\n\ud83d\udd04 Tweaked by @blatants\n\nKo-Fi \u2615\ufe0f | Crypto \ud83d\udc7e | IPAs \ud83d\udce5",
-      "iconURL": "https://paradoxtime.tk/img/pdt_logo_nobg_shadow.png",
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/f4/76/8b/f4768b09-b17c-d9b6-4205-57605eed2b9f/AppIcon-0-0-1x_U007ephone-0-11-0-85-220.png/512x512bb.jpg",
       "versions": [
         {
           "version": "2.3.9",
@@ -1764,7 +1703,7 @@
       "developerName": "SultanMods",
       "bundleIdentifier": "ventures.slam.minutes",
       "localizedDescription": "\ud83d\udcf1 Minutes: AI Meeting Note Taker\n\n\ud83c\udd94 Bundle ID: \nventures.slam.minutes\n\ud83d\udcca Version: 1.5.0\n\ud83d\udc68\u200d\ud83d\udcbb Developer: Minutes AI\n\ud83c\udff7 Category: Productivity\n\ud83d\udd27 Minimum iOS: 16.0\n\n\ud83d\udc8e Modifier: Pro Unlocked\n\n\ud83d\udcdd Note: \nNo Additional Notes\n\n\ud83d\udd04 Tweaked by @blatants\n\nKo-Fi \u2615\ufe0f | Crypto \ud83d\udc7e | IPAs \ud83d\udce5",
-      "iconURL": "https://paradoxtime.tk/img/pdt_logo_nobg_shadow.png",
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/8a/96/f1/8a96f158-3c6c-9e18-d35e-3ae63ba120d1/AppIcon-0-0-1x_U007epad-0-1-85-220.jpeg/512x512bb.jpg",
       "versions": [
         {
           "version": "1.5.0",
@@ -1798,7 +1737,7 @@
       "developerName": "SultanMods",
       "bundleIdentifier": "io.erna",
       "localizedDescription": "\ud83d\udcf1 Supershift - Shift Calendar\n\n\ud83c\udd94 Bundle ID: \nio.erna\n\ud83d\udcca Version: 2025.4\n\ud83d\udc68\u200d\ud83d\udcbb Developer: Supershift GmbH\n\ud83c\udff7 Category: Productivity\n\ud83d\udd27 Minimum iOS: 16.0\n\n\ud83d\udc8e Modifier: Free IAP\n\n\ud83d\udcdd Note: \nClick Buy and cancel.\nTo make the app/widgets work with certificates > Read.\n\n\ud83d\udd04 Tweaked by @blatants\n\nKo-Fi \u2615\ufe0f | Crypto \ud83d\udc7e | IPAs \ud83d\udce5",
-      "iconURL": "https://paradoxtime.tk/img/pdt_logo_nobg_shadow.png",
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/ce/01/fd/ce01fd27-5602-cd2a-17ed-b279157561f6/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/512x512bb.jpg",
       "versions": [
         {
           "version": "2025.4",
@@ -1818,7 +1757,7 @@
       "developerName": "SultanMods",
       "bundleIdentifier": "com.consumedbycode.slopes",
       "localizedDescription": "\ud83d\udcf1 Slopes: Ski & Snowboard\n\n\ud83c\udd94 Bundle ID: \ncom.consumedbycode.slopes\n\ud83d\udcca Version: 2025.6\n\ud83d\udc68\u200d\ud83d\udcbb Developer: Breakpoint Studio LLC\n\ud83c\udff7 Category: Sports\n\ud83d\udd27 Minimum iOS: 16.1\n\n\ud83d\udc8e Modifier: Subscription Unlocked\n\n\ud83d\udcdd Note: \nLogin to activate\n\n\ud83d\udd04 Tweaked by @blatants\n\nKo-Fi \u2615\ufe0f | Crypto \ud83d\udc7e | IPAs \ud83d\udce5",
-      "iconURL": "https://paradoxtime.tk/img/pdt_logo_nobg_shadow.png",
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/99/f6/ed/99f6eda7-974a-e1f5-b457-1026a2ee7cab/AppIcon-0-0-1x_U007epad-0-0-0-1-0-0-sRGB-GLES2_U002c0-85-220.png/512x512bb.jpg",
       "versions": [
         {
           "version": "2025.6",
@@ -1838,7 +1777,7 @@
       "developerName": "SultanMods",
       "bundleIdentifier": "com.madarsoft.fitness",
       "localizedDescription": "\ud83d\udcf1 Rashaqa: Home Workout & Diet\n\n\ud83c\udd94 Bundle ID: \ncom.madarsoft.fitness\n\ud83d\udcca Version: 15\n\ud83d\udc68\u200d\ud83d\udcbb Developer: Madar Al Parmaga\n\ud83c\udff7 Category: Health & Fitness\n\ud83d\udd27 Minimum iOS: 13.0\n\n\ud83d\udc8e Modifier: Pro Unlocked\n\n\ud83d\udcdd Note: \nIgnore the \"Premium\" button all features should work.\n\n\ud83d\udd04 Tweaked by @blatants\n\nKo-Fi \u2615\ufe0f | Crypto \ud83d\udc7e | IPAs \ud83d\udce5",
-      "iconURL": "https://paradoxtime.tk/img/pdt_logo_nobg_shadow.png",
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/12/c3/4a/12c34ad2-fd17-858e-cd00-1a07b3a5eaf9/AppIcon-0-0-1x_U007emarketing-0-8-0-sRGB-85-220.png/512x512bb.jpg",
       "versions": [
         {
           "version": "15",
@@ -1858,7 +1797,7 @@
       "developerName": "SultanMods",
       "bundleIdentifier": "com.xinmei365.NewEmojiKey",
       "localizedDescription": "Kika Keyboard: Themes, Fonts 5.2.0\n- AppStore Link\n- Keyboard App\n- Subscription Unlocked\n\nChangelog 5.2.0:\n- Customize themes with NEW SWIPE EFFECTS!\nPerfect Your Flirt with Rizz Master assistant! \ud83d\ude2d\nNew AI Chat feature, meet roleplaying AI friends! New Themes available.\n\nCreated by ethTeam\nCrack by @VAXMG\nNeed a certificate? Contact @eth4dmin\nNew main channel: https://t.me/ethMods\nethSign Repo: https://repo.ethsign.fyi",
-      "iconURL": "https://paradoxtime.tk/img/pdt_logo_nobg_shadow.png",
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/aa/99/d1/aa99d1e3-a8f2-a43a-894d-cccd8f750a66/AppIcon-1x_U007emarketing-0-10-0-0-85-220-0.png/512x512bb.jpg",
       "versions": [
         {
           "version": "5.2.0",
@@ -1898,7 +1837,7 @@
       "developerName": "SultanMods",
       "bundleIdentifier": "au.com.savageinteractive.Dreams",
       "localizedDescription": "Procreate Dreams 1.0.14 iPad\n- updated Procreate Dreams 1.0.14\n-injected with keychain and sideload fix\n\nMade by @moeotf decrypted by anyipa.me\nNeed a certificate? Contact @eth4dmin\nNew channel: https://t.me/ethMods\nEthMods Repo: https://repo.ethsign.fyi",
-      "iconURL": "https://paradoxtime.tk/img/pdt_logo_nobg_shadow.png",
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/da/6c/aa/da6caafe-ec83-e766-bb03-fc399774c832/AppIcon-0-0-1x_U007emarketing-0-5-0-P3-85-220.png/512x512bb.jpg",
       "versions": [
         {
           "version": "1.0.14",
@@ -1918,7 +1857,7 @@
       "developerName": "SultanMods",
       "bundleIdentifier": "au.com.savageinteractive.procreate",
       "localizedDescription": "Procreate 5.3.14 iPad\n- updated Procreate 5.3.14\n-injected with keychain and sideload fix\n\nMade by @moeotf decrypted by anyipa.me\nNeed a certificate? Contact @eth4dmin\nNew channel: https://t.me/ethMods\nEthMods Repo: https://repo.ethsign.fyi",
-      "iconURL": "https://paradoxtime.tk/img/pdt_logo_nobg_shadow.png",
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/66/8a/f3/668af3c6-e8b2-08fb-c913-4c6b9d75054f/AppIcon-0-0-1x_U007emarketing-0-4-0-85-220.png/512x512bb.jpg",
       "versions": [
         {
           "version": "5.3.14",
@@ -1979,7 +1918,7 @@
       "developerName": "ethMods",
       "bundleIdentifier": "co.appnation.geniechat",
       "localizedDescription": "\ud83d\udcf1 Chatbot AI Assistant - Genie\n\n\ud83c\udd94 Bundle ID: \nco.appnation.geniechat\n\ud83d\udcca Version: 7.7.1\n\ud83d\udc68\u200d\ud83d\udcbb Developer: APPNATION YAZILIM HIZMETLERI TICARET ANONIM SIRKETI\n\ud83c\udff7 Category: Productivity\n\ud83d\udd27 Minimum iOS: 15.0\n\n\ud83d\udc8e Modifier: Pro Unlocked\n\n\ud83d\udcdd Note: \nAlready patched with keyboard fix!!!! You just need app groups configured on your cert!!!\n\n\ud83d\udd04 Tweaked by @blatants\n\nKo-Fi \u2615\ufe0f | Crypto \ud83d\udc7e | IPAs \ud83d\udce5\n\nneed a cert? Dm @eth4dmin or @sultanipas\nnew main channel linked below\nhttps://t.me/SultanModsiOS",
-      "iconURL": "https://paradoxtime.tk/img/pdt_logo_nobg_shadow.png",
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/30/86/05/30860522-31cf-24f8-f601-5e781c8dadf2/AppIcon-Omega-0-0-1x_U007epad-0-0-85-220.jpeg/512x512bb.jpg",
       "versions": [
         {
           "version": "7.7.1",
@@ -2020,7 +1959,7 @@
       "developerName": "SultanMods",
       "bundleIdentifier": "com.goodnotesapp.x",
       "localizedDescription": "\ud83d\udcf1 Goodnotes 6\n\n\ud83c\udd94 Bundle ID: \ncom.goodnotesapp.x\n\ud83d\udcca Version: 6.6.18\n\ud83d\udc68\u200d\ud83d\udcbb Developer: Goodnotes Limited\n\ud83c\udff7 Category: Productivity\n\ud83d\udd27 Minimum iOS: 16.4\n\n\ud83d\udc8e Modifier: Pro Unlocked\n\n\ud83d\udcdd Note: \nTrollStore/jailbreak only!!\nInstall from appstore then force-install\nthis ipa with trollstore.\n\n\ud83d\udd04 Tweaked by @blatants\n\nKo-Fi \u2615\ufe0f | Crypto \ud83d\udc7e | IPAs \ud83d\udce5",
-      "iconURL": "https://paradoxtime.tk/img/pdt_logo_nobg_shadow.png",
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/ad/95/13/ad9513ca-12d1-e1a5-e0cb-51519859bfcf/AppIcon-0-0-1x_U007epad-0-1-0-sRGB-85-220.png/512x512bb.jpg",
       "versions": [
         {
           "version": "6.6.18",
@@ -2054,7 +1993,7 @@
       "developerName": "SultanMods",
       "bundleIdentifier": "com.focos",
       "localizedDescription": "\ud83d\udcf1 Focos\n\n\ud83c\udd94 Bundle ID: \ncom.focos\n\ud83d\udcca Version: 2.11.18\n\ud83d\udc68\u200d\ud83d\udcbb Developer: Bending Spoons Apps ApS\n\ud83c\udff7 Category: Photo & Video\n\ud83d\udd27 Minimum iOS: 14.0\n\n\ud83d\udc8e Modifier: Pro Unlocked\n\n\ud83d\udcdd Note: \n\u26a0\ufe0f Restart app if Subscriptions isn't activated.\n\n\ud83d\udd04 Tweaked by @blatants\n\nKo-Fi \u2615\ufe0f | Crypto \ud83d\udc7e | IPAs \ud83d\udce5",
-      "iconURL": "https://paradoxtime.tk/img/pdt_logo_nobg_shadow.png",
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/33/0e/2a/330e2a31-bce9-6149-d8b4-19be673e217e/AppIcon-0-0-1x_U007emarketing-0-10-0-sRGB-85-220.png/512x512bb.jpg",
       "versions": [
         {
           "version": "2.11.18",
@@ -2081,7 +2020,7 @@
       "developerName": "SultanMods",
       "bundleIdentifier": "com.mwm.stems",
       "localizedDescription": "\ud83d\udcf1 Stemz: AI Tool for Musicians\n\n\ud83c\udd94 Bundle ID: \ncom.mwm.stems\n\ud83d\udcca Version: 4.01.13\n\ud83d\udc68\u200d\ud83d\udcbb Developer: MWM\n\ud83c\udff7 Category: Music\n\ud83d\udd27 Minimum iOS: 16.6\n\n\ud83d\udc8e Modifier: Pro Unlocked\n\n\ud83d\udcdd Note: \nNo Additional Notes\n\n\ud83d\udd04 Tweaked by @blatants\n\nKo-Fi \u2615\ufe0f | Crypto \ud83d\udc7e | IPAs \ud83d\udce5",
-      "iconURL": "https://paradoxtime.tk/img/pdt_logo_nobg_shadow.png",
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/1e/47/18/1e471864-d7cb-00f6-0159-25016b18ded3/AppIcon-0-0-1x_U007epad-0-11-0-0-85-220.png/512x512bb.jpg",
       "versions": [
         {
           "version": "4.01.13",
@@ -2128,7 +2067,7 @@
       "developerName": "SultanMods",
       "bundleIdentifier": "com.moodtools.thoughtdiary",
       "localizedDescription": "\ud83d\udcf1 Clarity: CBT Self Help Journal\n\n\ud83c\udd94 Bundle ID: \ncom.moodtools.thoughtdiary\n\ud83d\udcca Version: 5.4.87\n\ud83d\udc68\u200d\ud83d\udcbb Developer: Inquiry Health LLC\n\ud83c\udff7 Category: Medical\n\ud83d\udd27 Minimum iOS: 16.0\n\n\ud83d\udc8e Modifier: Pro Unlocked\n\n\ud83d\udcdd Note: \nNo Additional Notes\n\n\ud83d\udd04 Tweaked by @blatants\n\nKo-Fi \u2615\ufe0f | Crypto \ud83d\udc7e | IPAs \ud83d\udce5",
-      "iconURL": "https://paradoxtime.tk/img/pdt_logo_nobg_shadow.png",
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/1e/00/4a/1e004a2d-fe15-bc01-7d30-a4dc31241b91/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/512x512bb.jpg",
       "versions": [
         {
           "version": "5.4.87",
@@ -2148,7 +2087,7 @@
       "developerName": "SultanMods",
       "bundleIdentifier": "com.yoshisuga.genZD",
       "localizedDescription": "GenZD 2025.2.3\n- AppStore Link\n- Run Doom ports on iOS \n- Paid App $2.99\n- Plugins Patch & SideloadFix included\n\ndecrypted by @eeveedecryptbot\nNeed a certificate? Contact @eth4dmin\nNew channel: https://t.me/ethMods\nEthMods Repo: https://repo.ethsign.fyi",
-      "iconURL": "https://paradoxtime.tk/img/pdt_logo_nobg_shadow.png",
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/93/79/59/93795974-3ac3-3188-427b-97bdbcc84540/AppIcon18-0-0-1x_U007epad-0-1-85-220.png/512x512bb.jpg",
       "versions": [
         {
           "version": "2025.2.3",
@@ -2182,7 +2121,7 @@
       "developerName": "SultanMods",
       "bundleIdentifier": "co.appnation.aimusic",
       "localizedDescription": "\ud83d\udcf1 AI Song Generator - Melodia\n\n\ud83c\udd94 Bundle ID: \nco.appnation.aimusic\n\ud83d\udcca Version: 2.1.0\n\ud83d\udc68\u200d\ud83d\udcbb Developer: APPNATION YAZILIM HIZMETLERI TICARET ANONIM SIRKETI\n\ud83c\udff7 Category: Music\n\ud83d\udd27 Minimum iOS: 14.0\n\n\ud83d\udc8e Modifier: Pro Unlocked\n\n\ud83d\udcdd Note: \nNo Additional Notes\n\n\ud83d\udd04 Tweaked by @blatants\n\nKo-Fi \u2615\ufe0f | Crypto \ud83d\udc7e | IPAs \ud83d\udce5",
-      "iconURL": "https://paradoxtime.tk/img/pdt_logo_nobg_shadow.png",
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/6f/8d/18/6f8d1874-b50e-064a-00d9-8f2d2b79ced2/AppIcon-0-0-1x_U007epad-0-85-220.jpeg/512x512bb.jpg",
       "versions": [
         {
           "version": "2.1.0",
@@ -2202,7 +2141,7 @@
       "developerName": "SultanMods",
       "bundleIdentifier": "com.musixmatch.lyrics",
       "localizedDescription": "Musixmatch Lyrics Finder 7.12.0\n- AppStore Link\n- Lyrics with real time sync, song identification, and lyric translations. \n- Premium Unlocked\n- To make the widget work with cert you need to have the AppGroups entitlement configured in your cert. You can check this using this app\n\nChangelog 7.12.0:\n- This release brings a lot of bug fixes and general improvements.\n\nCreated by ethTeam\nCrack by @VAXMG\nNeed a certificate? Contact @eth4dmin \nethMods Repo: https://repo.ethsign.fyi",
-      "iconURL": "https://paradoxtime.tk/img/pdt_logo_nobg_shadow.png",
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/e3/44/5e/e3445e74-1f6c-3664-e1ca-fd24212a5659/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/512x512bb.jpg",
       "versions": [
         {
           "version": "7.12.0",
@@ -2229,7 +2168,7 @@
       "developerName": "SultanMods",
       "bundleIdentifier": "com.glitchgames.foreverlostepisode1hd",
       "localizedDescription": "Forever Lost v1.2.1.7  \n\n\ud83c\uddf7\ud83c\uddfa \u0417\u0430\u0433\u0430\u0434\u043e\u0447\u043d\u044b\u0439 \u043a\u0432\u0435\u0441\u0442, \u0433\u0434\u0435 \u0432\u0430\u043c \u043f\u0440\u0435\u0434\u0441\u0442\u043e\u0438\u0442 \u0440\u0430\u0441\u043a\u0440\u044b\u0432\u0430\u0442\u044c \u0442\u0430\u0439\u043d\u044b \u0434\u0440\u0435\u0432\u043d\u0438\u0445 \u043c\u0438\u0440\u043e\u0432 \u0438 \u0440\u0430\u0437\u0433\u0430\u0434\u044b\u0432\u0430\u0442\u044c \u0433\u043e\u043b\u043e\u0432\u043e\u043b\u043e\u043c\u043a\u0438.  \n\u2014 \u041f\u043b\u0430\u0442\u043d\u043e\u0435 \u043f\u0440\u0438\u043b\u043e\u0436\u0435\u043d\u0438\u0435 \u0438\u0437 AppStore  \n\u00a9 \u0421\u043e\u0437\u0434\u0430\u043d\u043e: GLESign  \n\n\ud83c\uddfa\ud83c\uddf8 A mysterious quest where you uncover the secrets of ancient worlds and solve puzzles.  \n\u2014 Paid app from AppStore  \n\u00a9 Created: GLESign",
-      "iconURL": "https://paradoxtime.tk/img/pdt_logo_nobg_shadow.png",
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/c8/92/bc/c892bcd7-47f1-01c3-f57d-8b7d09089381/AppIcon-0-0-1x_U007emarketing-0-7-85-220.png/512x512bb.jpg",
       "versions": [
         {
           "version": "2.1.7",
@@ -2249,7 +2188,7 @@
       "developerName": "SultanMods",
       "bundleIdentifier": "com.polarbit.reckless2",
       "localizedDescription": "Reckless 2 v1.2.8  \n\n\ud83c\uddf7\ud83c\uddfa \u0417\u0430\u0445\u0432\u0430\u0442\u044b\u0432\u0430\u044e\u0449\u0430\u044f \u0433\u043e\u043d\u043e\u0447\u043d\u0430\u044f \u0438\u0433\u0440\u0430 \u0441 \u0431\u0435\u0437\u0443\u043c\u043d\u044b\u043c\u0438 \u0442\u0440\u044e\u043a\u0430\u043c\u0438 \u0438 \u0434\u0438\u043d\u0430\u043c\u0438\u0447\u043d\u044b\u043c \u0438\u0433\u0440\u043e\u0432\u044b\u043c \u043f\u0440\u043e\u0446\u0435\u0441\u0441\u043e\u043c.  \n\u2014 \u041f\u043b\u0430\u0442\u043d\u043e\u0435 \u043f\u0440\u0438\u043b\u043e\u0436\u0435\u043d\u0438\u0435 \u0438\u0437 AppStore  \n\u00a9 \u0421\u043e\u0437\u0434\u0430\u043d\u043e: GLESign\n\n\ud83c\uddfa\ud83c\uddf8 An exciting racing game with insane stunts and dynamic gameplay.  \n\u2014 Paid app from AppStore  \n\u00a9 Created: GLESign",
-      "iconURL": "https://paradoxtime.tk/img/pdt_logo_nobg_shadow.png",
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple124/v4/95/a2/30/95a230d3-29eb-b64f-5c85-0c422dc3b661/AppIcon-1x_U007emarketing-8-0-85-220.png/512x512bb.jpg",
       "versions": [
         {
           "version": "1.2.8",
@@ -2269,7 +2208,7 @@
       "developerName": "SultanMods",
       "bundleIdentifier": "com.ea.recklessracing.ipad.bv",
       "localizedDescription": "Reckless Racing HD v1.5.2  \n\n\ud83c\uddf7\ud83c\uddfa \u0412\u043e\u0434\u0438\u0442\u0435 \u0430\u0432\u0442\u043e\u043c\u043e\u0431\u0438\u043b\u0438 \u043f\u043e \u0431\u0435\u0437\u0443\u043c\u043d\u044b\u043c \u0442\u0440\u0430\u0441\u0441\u0430\u043c \u0432 \u044d\u0442\u043e\u0439 \u0430\u0440\u043a\u0430\u0434\u043d\u043e\u0439 \u0433\u043e\u043d\u043e\u0447\u043d\u043e\u0439 \u0438\u0433\u0440\u0435.  \n\u2014 \u041f\u043b\u0430\u0442\u043d\u043e\u0435 \u043f\u0440\u0438\u043b\u043e\u0436\u0435\u043d\u0438\u0435 \u0438\u0437 AppStore  \n\u00a9 \u0421\u043e\u0437\u0434\u0430\u043d\u043e: GLESign\n\n\ud83c\uddfa\ud83c\uddf8 Drive cars on crazy tracks in this arcade racing game.  \n\u2014 Paid app from AppStore  \n\u00a9 Created: GLESign",
-      "iconURL": "https://paradoxtime.tk/img/pdt_logo_nobg_shadow.png",
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple114/v4/b5/5c/0e/b55c0e3e-acc4-7408-89d9-4c0ef47f38b5/AppIcon-1x_U007emarketing-0-10-0-85-220.png/512x512bb.jpg",
       "versions": [
         {
           "version": "1.5.2",
@@ -2289,7 +2228,7 @@
       "developerName": "SultanMods",
       "bundleIdentifier": "com.scottgames.fivenights",
       "localizedDescription": "Five Nights at Freddy's v2.0.5  \n\n\ud83c\uddf7\ud83c\uddfa \u041b\u0435\u0433\u0435\u043d\u0434\u0430\u0440\u043d\u044b\u0439 \u0445\u043e\u0440\u0440\u043e\u0440, \u0433\u0434\u0435 \u0432\u0430\u043c \u043f\u0440\u0435\u0434\u0441\u0442\u043e\u0438\u0442 \u0432\u044b\u0436\u0438\u0442\u044c \u043f\u044f\u0442\u044c \u043d\u043e\u0447\u0435\u0439, \u0441\u043b\u0435\u0434\u044f \u0437\u0430 \u0430\u043d\u0438\u043c\u0430\u0442\u0440\u043e\u043d\u0438\u043a\u0430\u043c\u0438 \u0447\u0435\u0440\u0435\u0437 \u043a\u0430\u043c\u0435\u0440\u044b \u043d\u0430\u0431\u043b\u044e\u0434\u0435\u043d\u0438\u044f.  \n\u2014 \u041f\u043b\u0430\u0442\u043d\u043e\u0435 \u043f\u0440\u0438\u043b\u043e\u0436\u0435\u043d\u0438\u0435 \u0438\u0437 AppStore  \n\u00a9 \u0421\u043e\u0437\u0434\u0430\u043d\u043e: GLESign\n\n\ud83c\uddfa\ud83c\uddf8 The legendary horror game where you must survive five nights while monitoring animatronics through security cameras.  \n\u2014 Paid app from AppStore  \n\u00a9 Created: GLESign",
-      "iconURL": "https://paradoxtime.tk/img/pdt_logo_nobg_shadow.png",
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/9b/77/03/9b77034f-5ade-ddf5-9c2d-48fd8a546c62/AppIcon-1x_U007epad-0-85-220-0.png/512x512bb.jpg",
       "versions": [
         {
           "version": "2.0.5",
@@ -2309,7 +2248,7 @@
       "developerName": "SultanMods",
       "bundleIdentifier": "com.mobile.ilabbs.python",
       "localizedDescription": "Python v3.2.0  \n\n\ud83c\uddf7\ud83c\uddfa \u041f\u043e\u043b\u043d\u043e\u0446\u0435\u043d\u043d\u043e\u0435 \u043e\u043a\u0440\u0443\u0436\u0435\u043d\u0438\u0435 \u0434\u043b\u044f \u043f\u0440\u043e\u0433\u0440\u0430\u043c\u043c\u0438\u0440\u043e\u0432\u0430\u043d\u0438\u044f \u043d\u0430 Python \u043f\u0440\u044f\u043c\u043e \u043d\u0430 \u0432\u0430\u0448\u0435\u043c \u043c\u043e\u0431\u0438\u043b\u044c\u043d\u043e\u043c \u0443\u0441\u0442\u0440\u043e\u0439\u0441\u0442\u0432\u0435. \u0418\u0434\u0435\u0430\u043b\u044c\u043d\u043e \u0434\u043b\u044f \u043e\u0431\u0443\u0447\u0435\u043d\u0438\u044f \u0438 \u044d\u043a\u0441\u043f\u0435\u0440\u0438\u043c\u0435\u043d\u0442\u043e\u0432!  \n\u2014 \u041f\u043b\u0430\u0442\u043d\u043e\u0435 \u043f\u0440\u0438\u043b\u043e\u0436\u0435\u043d\u0438\u0435 \u0438\u0437 AppStore  \n\u00a9 \u0421\u043e\u0437\u0434\u0430\u043d\u043e: GLESign\n\n\ud83c\uddfa\ud83c\uddf8 A full-featured environment for Python programming right on your mobile device. Perfect for learning and experimenting!  \n\u2014 Paid app from AppStore  \n\u00a9 Created: GLESign",
-      "iconURL": "https://paradoxtime.tk/img/pdt_logo_nobg_shadow.png",
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple122/v4/be/a3/1b/bea31b98-e410-90f0-632f-3f63eafeca3b/AppIcon-1x_U007emarketing-0-10-0-85-220.png/512x512bb.jpg",
       "versions": [
         {
           "version": "3.2.0",
@@ -2329,7 +2268,7 @@
       "developerName": "ethMods",
       "bundleIdentifier": "com.bbauman.Scripty",
       "localizedDescription": "\ud83d\udcf1 Coconote - AI Note Taker\n\n\ud83c\udd94 Bundle ID: \ncom.bbauman.Scripty\n\ud83d\udcca Version: 1.79\n\ud83d\udc68\u200d\ud83d\udcbb Developer: Coconote\n\ud83c\udff7 Category: Education\n\ud83d\udd27 Minimum iOS: 17.0\n\n\ud83d\udc8e Modifier: Pro Unlocked\n\n\ud83d\udcdd Note: \nNo Additional Notes\n\n\ud83d\udd04 Tweaked by @blatants\n\nKo-Fi \u2615\ufe0f | Crypto \ud83d\udc7e | IPAs \ud83d\udce5",
-      "iconURL": "https://paradoxtime.tk/img/pdt_logo_nobg_shadow.png",
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/7e/d1/fc/7ed1fc0d-31b0-6cf8-e8aa-45e7951817e3/AppIcon-0-0-1x_U007epad-0-0-0-1-0-0-sRGB-85-220.png/512x512bb.jpg",
       "versions": [
         {
           "version": "1.79",
@@ -2349,7 +2288,7 @@
       "developerName": "ethMods",
       "bundleIdentifier": "com.busuu.english.app",
       "localizedDescription": "\ud83d\udcf1 Busuu: Language Learning\n\n\ud83c\udd94 Bundle ID: \ncom.busuu.english.app\n\ud83d\udcca Version: 28.28.0\n\ud83d\udc68\u200d\ud83d\udcbb Developer: Busuu Limited\n\ud83c\udff7 Category: Education\n\ud83d\udd27 Minimum iOS: 16.4\n\n\ud83d\udc8e Modifier: Subscription Unlocked\n\n\ud83d\udcdd Note: \nNo Additional Notes\n\n\ud83d\udd04 Tweaked by @blatants\n\nKo-Fi \u2615\ufe0f | Crypto \ud83d\udc7e | IPAs \ud83d\udce5",
-      "iconURL": "https://paradoxtime.tk/img/pdt_logo_nobg_shadow.png",
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/ce/a6/11/cea6119a-3f8a-c4b9-034c-81e894a16758/AppIcon-0-0-1x_U007emarketing-0-8-0-sRGB-0-0-85-220.png/512x512bb.jpg",
       "versions": [
         {
           "version": "28.28.0",
@@ -2369,7 +2308,7 @@
       "developerName": "ethMods",
       "bundleIdentifier": "com.hevyapp.hevy",
       "localizedDescription": "\ud83d\udcf1 Hevy - Workout Tracker Gym Log\n\n\ud83c\udd94 Bundle ID: \ncom.hevyapp.hevy\n\ud83d\udcca Version: 2.1.6\n\ud83d\udc68\u200d\ud83d\udcbb Developer: Hevy Studios S.L.\n\ud83c\udff7 Category: Health & Fitness\n\ud83d\udd27 Minimum iOS: 14.1\n\n\ud83d\udc8e Modifier: Subscription Unlocked\n\n\ud83d\udcdd Note: \nCan't create unlimited routines.\n\n\ud83d\udd04 Tweaked by @blatants\n\nKo-Fi \u2615\ufe0f | Crypto \ud83d\udc7e | IPAs \ud83d\udce5",
-      "iconURL": "https://paradoxtime.tk/img/pdt_logo_nobg_shadow.png",
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/04/94/a1/0494a155-d31d-a20c-96b6-12003655cbda/AppIcon-0-0-1x_U007emarketing-0-5-0-sRGB-85-220.png/512x512bb.jpg",
       "versions": [
         {
           "version": "2.1.6",
@@ -2389,7 +2328,7 @@
       "developerName": "ethMods",
       "bundleIdentifier": "com.verycoolapp.mediaconvert",
       "localizedDescription": "\ud83d\udcf1 Media Converter - video to mp3\n\n\ud83c\udd94 Bundle ID: \ncom.verycoolapp.mediaconvert\n\ud83d\udcca Version: 3.25\n\ud83d\udc68\u200d\ud83d\udcbb Developer: \u4fca\u6770 \u962e\n\ud83c\udff7 Category: Utilities\n\ud83d\udd27 Minimum iOS: 12.1\n\n\ud83d\udc8e Modifier: Subscription Unlocked\n\n\ud83d\udcdd Note: \nNo Additional Notes\n\n\ud83d\udd04 Tweaked by @blatants\n\nKo-Fi \u2615\ufe0f | Crypto \ud83d\udc7e | IPAs \ud83d\udce5",
-      "iconURL": "https://paradoxtime.tk/img/pdt_logo_nobg_shadow.png",
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/95/21/5f/95215f7b-96b5-7bee-69eb-ecfa080c8e06/AppIcon-0-0-1x_U007emarketing-0-8-0-0-85-220.png/512x512bb.jpg",
       "versions": [
         {
           "version": "3.25",
@@ -2416,7 +2355,7 @@
       "developerName": "ethMods",
       "bundleIdentifier": "com.rkgames.smashywanted",
       "localizedDescription": "\ud83c\udff7\ufe0f Name: Smash Road: Wanted\n\u2063\n\ud83d\udc89 Free iAP\n\u2063\n\ud83c\udd94 Bundle ID: com.rkgames.smashywanted\n\n\ud83d\udcbb Developer: Bearbit Studios B.V.\n\n\u23f3 Version: \u20631.4.8\n\n\u26a1\ufe0f Made by RiftysIPAs",
-      "iconURL": "https://paradoxtime.tk/img/pdt_logo_nobg_shadow.png",
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/b7/43/03/b74303f0-ce7d-495f-b026-1d76d3909982/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/512x512bb.jpg",
       "versions": [
         {
           "version": "1.4.8",
@@ -2436,7 +2375,7 @@
       "developerName": "ethMods",
       "bundleIdentifier": "com.Poloskun.TruckerAndTrucks",
       "localizedDescription": "\ud83c\udff7\ufe0f Name: Trucker And Trucks\n\u2063\n\ud83d\udc89 Free IAP\n\u2063\n\ud83c\udd94 Bundle ID: com.Poloskun.TruckerAndTrucks\n\n\ud83d\udcbb Developer: Viktor Danilov\n\n\u23f3 Version: \u20631.2\n\n\u26a1\ufe0f Made by RiftysIPAs",
-      "iconURL": "https://paradoxtime.tk/img/pdt_logo_nobg_shadow.png",
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/34/92/84/349284ec-c2c7-4491-aa0c-e74165dc05c7/AppIcon-0-0-1x_U007emarketing-0-0-0-5-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/512x512bb.jpg",
       "versions": [
         {
           "version": "1.2",
@@ -2456,7 +2395,7 @@
       "developerName": "ethMods",
       "bundleIdentifier": "com.latenitesoft.CameraPlus2",
       "localizedDescription": "Camera+: Pro Camera & Editor 24.5.0\n- AppStore Link\n- Camera & Photo Editing App\n- Restart The App if Subscription isn't Activated\n\n\nChangelog 24.5.0:\n- Bug fixes\n- UI improvements\n\nCreated by ethTeam\nCrack by @VAXMG\nNeed a certificate? Contact @eth4dmin or @Sultanipas.\nNew channel: https://t.me/SultanModsiOS\nSultanMods Repo: https://repo.sultanmods.fy",
-      "iconURL": "https://paradoxtime.tk/img/pdt_logo_nobg_shadow.png",
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/cc/04/dd/cc04dd3a-bfed-4a5d-6982-6bb90f7f636d/AppIcon_N-0-0-1x_U007epad-0-1-0-sRGB-85-220.png/512x512bb.jpg",
       "versions": [
         {
           "version": "24.5.0",
@@ -2476,7 +2415,7 @@
       "developerName": "ethMods",
       "bundleIdentifier": "org.reactjs.native.example.rootd",
       "localizedDescription": "Rootd: Panic Attacks & Anxiety 2.99.3\n- AppStore Link\n- App for anxiety/panic attack relief with CBT, and breathing exercises.\n- Subscription Unlocked\n\nChangelog 2.99.3:\nFebruary is International Boost Self Esteem Month. Struggling with anxiety and lack of sleep are critical for self esteem. So Rootd is here to support users with a brand new guided visualization, designed to accompany and empower users during the often dark and dreary month of February. \n\nCreated by ethTeam\nCrack by @VAXMG\nNeed a certificate? Contact @eth4dmin or @Sultanipas.\nNew channel: https://t.me/SultanModsiOS\nSultanMods Repo: https://repo.sultanmods.fy",
-      "iconURL": "https://paradoxtime.tk/img/pdt_logo_nobg_shadow.png",
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/0c/43/40/0c434051-40cc-b87c-edc3-7662fc2a37ec/AppIcon-0-0-1x_U007emarketing-0-11-0-85-220.png/512x512bb.jpg",
       "versions": [
         {
           "version": "2.99.3",
@@ -2496,7 +2435,7 @@
       "developerName": "ethMods",
       "bundleIdentifier": "com.imageline.FLStudioMobileHD",
       "localizedDescription": "FL Studio Mobile v4.7.3  \n\n\ud83c\uddf7\ud83c\uddfa \u041f\u0440\u043e\u0444\u0435\u0441\u0441\u0438\u043e\u043d\u0430\u043b\u044c\u043d\u0430\u044f \u0441\u0442\u0443\u0434\u0438\u044f \u0434\u043b\u044f \u0441\u043e\u0437\u0434\u0430\u043d\u0438\u044f \u043c\u0443\u0437\u044b\u043a\u0438 \u043f\u0440\u044f\u043c\u043e \u043d\u0430 \u0432\u0430\u0448\u0435\u043c \u043c\u043e\u0431\u0438\u043b\u044c\u043d\u043e\u043c \u0443\u0441\u0442\u0440\u043e\u0439\u0441\u0442\u0432\u0435. \u0421\u043e\u0437\u0434\u0430\u0432\u0430\u0439\u0442\u0435 \u0442\u0440\u0435\u043a\u0438, \u043c\u0438\u043a\u0441\u0443\u0439\u0442\u0435 \u0438 \u0437\u0430\u043f\u0438\u0441\u044b\u0432\u0430\u0439\u0442\u0435!  \n\u2014 \u041f\u043b\u0430\u0442\u043d\u043e\u0435 \u043f\u0440\u0438\u043b\u043e\u0436\u0435\u043d\u0438\u0435 \u0438\u0437 AppStore  \n\u00a9 \u0421\u043e\u0437\u0434\u0430\u043d\u043e: GLESign\n\n\ud83c\uddfa\ud83c\uddf8 A professional music production studio for your mobile device. Create, mix, and record your tracks!  \n\u2014 Paid app from AppStore  \n\u00a9 Created: GLESign",
-      "iconURL": "https://paradoxtime.tk/img/pdt_logo_nobg_shadow.png",
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/2f/fe/08/2ffe0894-0236-5f82-ee60-8cfd730c3171/AppIcon-0-0-1x_U007emarketing-0-10-0-85-220.png/512x512bb.jpg",
       "versions": [
         {
           "version": "4.7.3",
@@ -2536,7 +2475,7 @@
       "developerName": "ethMods",
       "bundleIdentifier": "com.scottgames.fivenights3",
       "localizedDescription": "Five Nights at Freddy's 3 v2.0.2  \n\n\ud83c\uddf7\ud83c\uddfa \u0422\u0440\u0435\u0442\u044c\u044f \u0447\u0430\u0441\u0442\u044c \u043a\u0443\u043b\u044c\u0442\u043e\u0432\u043e\u0433\u043e \u0445\u043e\u0440\u0440\u043e\u0440\u0430, \u0433\u0434\u0435 \u0432\u044b \u0432\u043d\u043e\u0432\u044c \u0441\u0442\u043e\u043b\u043a\u043d\u0435\u0442\u0435\u0441\u044c \u0441 \u0430\u043d\u0438\u043c\u0430\u0442\u0440\u043e\u043d\u0438\u043a\u0430\u043c\u0438 \u0432 \u0437\u0430\u0431\u0440\u043e\u0448\u0435\u043d\u043d\u043e\u0439 \u043f\u0438\u0446\u0446\u0435\u0440\u0438\u0438.  \n\u2014 \u041f\u043b\u0430\u0442\u043d\u043e\u0435 \u043f\u0440\u0438\u043b\u043e\u0436\u0435\u043d\u0438\u0435 \u0438\u0437 AppStore  \n\u00a9 \u0421\u043e\u0437\u0434\u0430\u043d\u043e: GLESign\n\n\ud83c\uddfa\ud83c\uddf8 The third installment of the cult horror series, where you once again face animatronics in an abandoned pizzeria.  \n\u2014 Paid app from AppStore  \n\u00a9 Created: GLESign",
-      "iconURL": "https://paradoxtime.tk/img/pdt_logo_nobg_shadow.png",
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/3a/04/73/3a047302-0d1b-e510-fa85-bb9119f01709/AppIcon-1x_U007epad-0-85-220-0.png/512x512bb.jpg",
       "versions": [
         {
           "version": "2.0.2",
@@ -2563,7 +2502,7 @@
       "developerName": "ethMods",
       "bundleIdentifier": "pl.idreams.potteryHDLite",
       "localizedDescription": "Pottery v1.64  \n\n\ud83c\uddf7\ud83c\uddfa \u0422\u0432\u043e\u0440\u0447\u0435\u0441\u043a\u0430\u044f \u0438\u0433\u0440\u0430, \u0432 \u043a\u043e\u0442\u043e\u0440\u043e\u0439 \u0432\u044b \u043c\u043e\u0436\u0435\u0442\u0435 \u0441\u043e\u0437\u0434\u0430\u0432\u0430\u0442\u044c \u0443\u043d\u0438\u043a\u0430\u043b\u044c\u043d\u044b\u0435 \u043a\u0435\u0440\u0430\u043c\u0438\u0447\u0435\u0441\u043a\u0438\u0435 \u0438\u0437\u0434\u0435\u043b\u0438\u044f \u0438 \u043d\u0430\u0441\u043b\u0430\u0436\u0434\u0430\u0442\u044c\u0441\u044f \u043f\u0440\u043e\u0446\u0435\u0441\u0441\u043e\u043c \u0433\u043e\u043d\u0447\u0430\u0440\u043d\u043e\u0433\u043e \u0440\u0435\u043c\u0435\u0441\u043b\u0430.  \n\u2014 \u041f\u043b\u0430\u0442\u043d\u043e\u0435 \u043f\u0440\u0438\u043b\u043e\u0436\u0435\u043d\u0438\u0435 \u0438\u0437 AppStore  \n\u00a9 \u0421\u043e\u0437\u0434\u0430\u043d\u043e: GLESign \n\n\ud83c\uddfa\ud83c\uddf8 A creative game where you craft unique pottery pieces and enjoy the art of ceramics.  \n\u2014 Paid app from AppStore  \n\u00a9 Created: GLESign",
-      "iconURL": "https://paradoxtime.tk/img/pdt_logo_nobg_shadow.png",
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple128/v4/18/95/4d/18954da8-b093-333a-d6a7-a1d7334abbe3/AppIcon-1x_U007emarketing-85-220-8.png/512x512bb.jpg",
       "versions": [
         {
           "version": "1.64",
@@ -2583,7 +2522,7 @@
       "developerName": "ethMods",
       "bundleIdentifier": "com.appmaster.cakemaker",
       "localizedDescription": "Purple Place v3.0.1  \n\n\ud83c\uddf7\ud83c\uddfa \u041a\u043b\u0430\u0441\u0441\u0438\u0447\u0435\u0441\u043a\u0430\u044f \u0434\u0435\u0442\u0441\u043a\u0430\u044f \u0438\u0433\u0440\u0430 \u0441 \u0442\u0440\u0435\u043c\u044f \u043c\u0438\u043d\u0438-\u0438\u0433\u0440\u0430\u043c\u0438 \u0434\u043b\u044f \u0442\u0440\u0435\u043d\u0438\u0440\u043e\u0432\u043a\u0438 \u043f\u0430\u043c\u044f\u0442\u0438, \u043b\u043e\u0433\u0438\u043a\u0438 \u0438 \u043a\u0443\u043b\u0438\u043d\u0430\u0440\u043d\u044b\u0445 \u043d\u0430\u0432\u044b\u043a\u043e\u0432.  \n\u2014 \u041f\u043b\u0430\u0442\u043d\u043e\u0435 \u043f\u0440\u0438\u043b\u043e\u0436\u0435\u043d\u0438\u0435 \u0438\u0437 AppStore  \n\u00a9 \u0421\u043e\u0437\u0434\u0430\u043d\u043e: GLESign\n\n\ud83c\uddfa\ud83c\uddf8 A classic children's game with three mini-games to train memory, logic, and baking skills.  \n\u2014 Paid app from AppStore  \n\u00a9 Created: GLESign",
-      "iconURL": "https://paradoxtime.tk/img/pdt_logo_nobg_shadow.png",
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/5f/14/f6/5f14f6d0-d38a-2031-7b66-1f0e24528153/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/512x512bb.jpg",
       "versions": [
         {
           "version": "3.0.1",
@@ -2623,7 +2562,7 @@
       "developerName": "ethMods",
       "bundleIdentifier": "com.fatih.survival",
       "localizedDescription": "Overwinter v2.2  \n\n\ud83c\uddf7\ud83c\uddfa \u0410\u0442\u043c\u043e\u0441\u0444\u0435\u0440\u043d\u043e\u0435 \u043f\u0440\u0438\u043a\u043b\u044e\u0447\u0435\u043d\u0438\u0435, \u0433\u0434\u0435 \u0432\u0430\u043c \u043f\u0440\u0435\u0434\u0441\u0442\u043e\u0438\u0442 \u043f\u0435\u0440\u0435\u0436\u0438\u0442\u044c \u0441\u0443\u0440\u043e\u0432\u0443\u044e \u0437\u0438\u043c\u0443.  \n\u2014 \u041f\u043b\u0430\u0442\u043d\u043e\u0435 \u043f\u0440\u0438\u043b\u043e\u0436\u0435\u043d\u0438\u0435 \u0438\u0437 AppStore  \n\u00a9 \u0421\u043e\u0437\u0434\u0430\u043d\u043e: GLESign\n\n\ud83c\uddfa\ud83c\uddf8 An atmospheric adventure where you must survive a harsh winter.  \n\u2014 Paid app from AppStore  \n\u00a9 Created: GLESign",
-      "iconURL": "https://paradoxtime.tk/img/pdt_logo_nobg_shadow.png",
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/3d/9b/00/3d9b00a5-98d1-68e7-f265-79ab83d78549/AppIcon-0-0-1x_U007ephone-0-10-0-85-220.png/512x512bb.jpg",
       "versions": [
         {
           "version": "2.2",
@@ -2643,7 +2582,7 @@
       "developerName": "ethMods",
       "bundleIdentifier": "yuca.scanner",
       "localizedDescription": "Yuka - Food & Cosmetics Scanner 4.53\n- AppStore Link\n- Analyzing ingredients for health impacts, evaluating food and cosmetic products, and suggesting healthier alternatives.\n- Subscription Unlocked\n\nChangelog 4.53:\n- Bug fixes & performance improvements.\n\nCreated by ethTeam\nCrack by @VAXMG\nNeed a certificate? Contact @eth4dmin or @Sultanipas.\nNew channel: https://t.me/SultanModsiOS\nSultanMods Repo: https://repo.ethsign.fyi",
-      "iconURL": "https://paradoxtime.tk/img/pdt_logo_nobg_shadow.png",
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/ca/63/93/ca639391-7a82-1913-1726-07c42479c6b8/AppIcon-0-1x_U007epad-0-0-85-220-0.png/512x512bb.jpg",
       "versions": [
         {
           "version": "4.53",
@@ -2663,7 +2602,7 @@
       "developerName": "ethMods",
       "bundleIdentifier": "com.noteful-technologies.noteful",
       "localizedDescription": "Noteful: Note-Taking on PDF 1.4.13\nAppStore Link\n- Note Taking App\n- Subscription Unlocked\n\nChangelog 1.4.13:\n- New: Options to hide tags and tapes when exporting to PDF format. \n- New: iOS 18 Dark Mode app icon.\n - New: Violet-colored laser pointer option. \n- When importing stickers from image files, the stickers now follow the order of their filenames.\n - Fixed an issue where dragging and dropping multiple images into a notebook resulted in some files not being imported. \n\nCreated by ethTeam\nCrack by @VAXMG\nNeed a certificate? Contact @eth4dmin or @Sultanipas.\nNew channel: https://t.me/SultanModsiOS\nSultanMods Repo: https://repo.ethsign.fyi",
-      "iconURL": "https://paradoxtime.tk/img/pdt_logo_nobg_shadow.png",
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/14/66/a1/1466a1fa-aa1c-9b1f-359b-90abd1aeb234/AppIcon-0-0-1x_U007epad-0-1-0-P3-85-220.png/512x512bb.jpg",
       "versions": [
         {
           "version": "1.4.13",
@@ -2697,7 +2636,7 @@
       "developerName": "ethMods",
       "bundleIdentifier": "com.lightricks.Enlight-Phoenix",
       "localizedDescription": "\ud83d\udcf1 Motionleap: 3D Photo Animator\n\n\ud83c\udd94 Bundle ID: \ncom.lightricks.Enlight-Phoenix\n\ud83d\udcca Version: 1.9.28\n\ud83d\udc68\u200d\ud83d\udcbb Developer: Lightricks Ltd.\n\ud83c\udff7 Category: Photo & Video\n\ud83d\udd27 Minimum iOS: 16.0\n\n\ud83d\udc8e Modifier: Subscription Unlocked\n\n\ud83d\udcdd Note: \nNo Additional Notes\n\n\ud83d\udd04 Tweaked by @blatants\n\nKo-Fi \u2615\ufe0f | Crypto \ud83d\udc7e | IPAs \ud83d\udce5",
-      "iconURL": "https://paradoxtime.tk/img/pdt_logo_nobg_shadow.png",
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/a9/67/37/a967375d-c481-c63c-1a82-e548660fa0b4/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/512x512bb.jpg",
       "versions": [
         {
           "version": "1.9.28",
@@ -2717,7 +2656,7 @@
       "developerName": "ethMods",
       "bundleIdentifier": "com.cuilingshi.fileextract",
       "localizedDescription": "Unzip 5.9 pro\n-updated Unzip to 5.9 PRO\n-Keychain fix included\nBasically like 7-zip on windows or any unarchive utility etc..\n\nPosted by @moeotf, decrypted by anyipa.me\nNeed a certificate? Contact @eth4dmin or @Sultanipas.\nNew channel: https://t.me/SultanModsiOS\nSultanMods Repo: https://repo.ethsign.fyi",
-      "iconURL": "https://paradoxtime.tk/img/pdt_logo_nobg_shadow.png",
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/69/ba/9e/69ba9e24-32ab-ffb6-fb2e-8a459fb6ce85/AppIcon-0-0-1x_U007emarketing-0-6-0-0-85-220.png/512x512bb.jpg",
       "versions": [
         {
           "version": "5.9",
@@ -2751,7 +2690,7 @@
       "developerName": "ethMods",
       "bundleIdentifier": "com.calisthenics.thenx",
       "localizedDescription": "\ud83d\udcf1 Thenx\n\n\ud83c\udd94 Bundle ID: \ncom.calisthenics.thenx\n\ud83d\udcca Version: 6.0.3\n\ud83d\udc68\u200d\ud83d\udcbb Developer: Calisthenics Online LLC\n\ud83c\udff7 Category: Health & Fitness\n\ud83d\udd27 Minimum iOS: 15.0\n\n\ud83d\udc8e Modifier: Subscription Unlocked\n\n\ud83d\udcdd Note: \nNo Additional Notes\n\n\ud83d\udd04 Tweaked by @blatants\n\nKo-Fi \u2615\ufe0f | Crypto \ud83d\udc7e | IPAs \ud83d\udce5",
-      "iconURL": "https://paradoxtime.tk/img/pdt_logo_nobg_shadow.png",
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/84/27/7c/84277cba-0ebf-4879-9b11-f52c6250475e/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/512x512bb.jpg",
       "versions": [
         {
           "version": "6.0.3",
@@ -2785,7 +2724,7 @@
       "developerName": "ethMods",
       "bundleIdentifier": "com.blacksaltgames.dredge",
       "localizedDescription": "DREDGE v1.5.8\n\n\ud83c\uddf7\ud83c\uddfa \u0410\u0442\u043c\u043e\u0441\u0444\u0435\u0440\u043d\u043e\u0435 \u043f\u0440\u0438\u043a\u043b\u044e\u0447\u0435\u043d\u0438\u0435 \u0432 \u043c\u0440\u0430\u0447\u043d\u043e\u043c \u043c\u0438\u0440\u0435 \u0440\u044b\u0431\u043d\u043e\u0439 \u043b\u043e\u0432\u043b\u0438 \u0438 \u0442\u0430\u0438\u043d\u0441\u0442\u0432\u0435\u043d\u043d\u044b\u0445 \u0433\u043b\u0443\u0431\u0438\u043d. \u0418\u0441\u0441\u043b\u0435\u0434\u0443\u0439\u0442\u0435 \u043e\u043a\u0435\u0430\u043d, \u043b\u043e\u0432\u0438\u0442\u0435 \u0440\u044b\u0431\u0443 \u0438 \u0440\u0430\u0441\u043a\u0440\u044b\u0432\u0430\u0439\u0442\u0435 \u0436\u0443\u0442\u043a\u0438\u0435 \u0441\u0435\u043a\u0440\u0435\u0442\u044b.  \n\u2014 \u0420\u0430\u043d\u043d\u0438\u0439 \u0434\u043e\u0441\u0442\u0443\u043f\n\u00a9 \u0421\u043e\u0437\u0434\u0430\u043d\u043e: GLESign\n\n\ud83c\uddfa\ud83c\uddf8 A haunting adventure in a dark world of fishing and mysteries. Explore the ocean, catch fish, and uncover eerie secrets.  \n\u2014 Early access\n\u00a9 Created: GLESign",
-      "iconURL": "https://paradoxtime.tk/img/pdt_logo_nobg_shadow.png",
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/81/d5/6b/81d56b0d-1221-e07c-720b-6c70353dccb0/AppIcon-1x_U007emarketing-0-8-0-85-220-0.png/512x512bb.jpg",
       "versions": [
         {
           "version": "1.5.8",
@@ -2805,7 +2744,7 @@
       "developerName": "ethMods",
       "bundleIdentifier": "com.onetwodev.tunna",
       "localizedDescription": "Tunna v1.5.12  \n\n\ud83c\uddf7\ud83c\uddfa VPN-\u043a\u043b\u0438\u0435\u043d\u0442 \u0441 \u043f\u043e\u0434\u0434\u0435\u0440\u0436\u043a\u043e\u0439 Xray Core  \n\u2014 \u041f\u0440\u043e\u0442\u043e\u043a\u043e\u043b\u044b: Vless, VMESS, Trojan  \n\u2014 \u041e\u0431\u0445\u043e\u0434 \u0446\u0435\u043d\u0437\u0443\u0440\u044b \u0438 \u0431\u043b\u043e\u043a\u0438\u0440\u043e\u0432\u043e\u043a  \n\u2014 \u0417\u0430\u0449\u0438\u0442\u0430 \u043f\u0440\u0438\u0432\u0430\u0442\u043d\u043e\u0441\u0442\u0438 \u0438 \u0430\u043d\u043e\u043d\u0438\u043c\u043d\u043e\u0441\u0442\u0438  \n\u2014 \u041f\u0440\u0438\u043b\u043e\u0436\u0435\u043d\u0438\u0435 \u0438\u0437 TestFlight\n\u00a9 \u0421\u043e\u0437\u0434\u0430\u043d\u043e: GLESign\n\n\ud83c\uddfa\ud83c\uddf8 VPN client with Xray Core support  \n\u2014 Protocols: Vless, VMESS, Trojan  \n\u2014 Bypasses censorship and restrictions  \n\u2014 Ensures privacy and anonymity  \n\u2014 The app from TestFlight\n\u00a9 Created: GLESign",
-      "iconURL": "https://paradoxtime.tk/img/pdt_logo_nobg_shadow.png",
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/5c/28/9b/5c289b48-aa66-5961-3c7c-b138e046fa2a/AppIcon-0-0-1x_U007epad-0-1-sRGB-85-220.png/512x512bb.jpg",
       "versions": [
         {
           "version": "1.5.12",
@@ -2825,7 +2764,7 @@
       "developerName": "ethMods",
       "bundleIdentifier": "com.fingersoft.hillclimbracing",
       "localizedDescription": "\ud83c\udff7\ufe0f Name: Hill Climb Racing\n\u2063\n\ud83d\udc89  Free iAP \n\n\ud83c\udd94 Bundle ID: om.fingersoft.hillclimbracing\n\n\ud83d\udcbb Developer: Fingersoft\n\n\u23f3 Version: 1.64.5\n\n\u26a1\ufe0f Tweaked by Rifty",
-      "iconURL": "https://paradoxtime.tk/img/pdt_logo_nobg_shadow.png",
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/37/f8/d7/37f8d711-c258-cfe5-63c2-0857ddbd89ee/AppIcon-0-0-1x_U007emarketing-0-5-85-220.png/512x512bb.jpg",
       "versions": [
         {
           "version": "1.64.5",
@@ -2845,7 +2784,7 @@
       "developerName": "ethMods",
       "bundleIdentifier": "com.ketchapp.ballz",
       "localizedDescription": "\ud83c\udff7\ufe0f Name: Ballz\n\u2063\n\ud83d\udc89 IGG added for unlimited coins\n\u2063\n\ud83c\udd94 Bundle ID: com.ketchapp.ballz\n\n\ud83d\udcbb Developer: Ketchapp\n\n\u23f3 Version: \u20632.8.19\n\n\u26a1\ufe0f Tweaked by Rifty",
-      "iconURL": "https://paradoxtime.tk/img/pdt_logo_nobg_shadow.png",
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/4a/a3/64/4aa364ab-8324-e725-9c3b-293a1bc738ef/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/512x512bb.jpg",
       "versions": [
         {
           "version": "2.8.19",
@@ -2892,7 +2831,7 @@
       "developerName": "ethMods",
       "bundleIdentifier": "com.dopedevelopment.Panels",
       "localizedDescription": "\ud83d\udcf1 SCRL: Photo Collage Maker\n\n\ud83c\udd94 Bundle ID: \ncom.dopedevelopment.Panels\n\ud83d\udcca Version: 9.7.12\n\ud83d\udc68\u200d\ud83d\udcbb Developer: Appostrophe AB\n\ud83c\udff7 Category: Photo & Video\n\ud83d\udd27 Minimum iOS: 15.0\n\n\ud83d\udc8e Modifier: Subscription Unlocked\n\n\ud83d\udcdd Note: \nNo Additional Notes\n\n\ud83d\udd04 Tweaked by @blatants\n\nKo-Fi \u2615\ufe0f | Crypto \ud83d\udc7e | IPAs \ud83d\udce5",
-      "iconURL": "https://paradoxtime.tk/img/pdt_logo_nobg_shadow.png",
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/bd/cd/eb/bdcdeb7a-3944-6d4b-1524-9e90a0752dd7/AppIcon-1-0-0-1x_U007emarketing-0-8-0-sRGB-85-220.png/512x512bb.jpg",
       "versions": [
         {
           "version": "9.7.12",
@@ -2919,7 +2858,7 @@
       "developerName": "ethMods",
       "bundleIdentifier": "com.mobilefootie.fotmobpro",
       "localizedDescription": "FotMob Pro 1194.0\n- AppStore Link\n- Track European football\n- Info: Pro Unlocked\n\nCreated by @SultanIPAS.\nNeed a certificate? Contact @eth4dmin.\nNew channel: https://t.me/SultanModsiOS",
-      "iconURL": "https://paradoxtime.tk/img/pdt_logo_nobg_shadow.png",
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/aa/54/dd/aa54dddb-5db1-f66d-1530-2605a0bd22bf/AppIcon-0-1x_U007epad-0-11-0-85-220-0.png/512x512bb.jpg",
       "versions": [
         {
           "version": "1195.0",
@@ -2953,7 +2892,7 @@
       "developerName": "ethMods",
       "bundleIdentifier": "com.feelty",
       "localizedDescription": "\ud83d\udcf1 Presets for Lightroom - FLTR\n\n\ud83c\udd94 Bundle ID: \ncom.feelty\n\ud83d\udcca Version: 4.18.6\n\ud83d\udc68\u200d\ud83d\udcbb Developer: Onelight Apps CY Ltd\n\ud83c\udff7 Category: Photo & Video\n\ud83d\udd27 Minimum iOS: 16.0\n\n\ud83d\udc8e Modifier: Subscription Unlocked\n\n\ud83d\udcdd Note: \nNo Additional Notes\n\n\ud83d\udd04 Tweaked by @blatants\n\nKo-Fi \u2615\ufe0f | Crypto \ud83d\udc7e | IPAs \ud83d\udce5",
-      "iconURL": "https://paradoxtime.tk/img/pdt_logo_nobg_shadow.png",
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/87/ea/0c/87ea0c84-bb09-71eb-914f-bb4c035409a0/AppIcon-0-0-1x_U007epad-0-1-85-220.png/512x512bb.jpg",
       "versions": [
         {
           "version": "4.18.6",
@@ -3013,7 +2952,7 @@
       "developerName": "ethMods",
       "bundleIdentifier": "com.cfa.calculator.pro",
       "localizedDescription": "BA Calc Pro 1.5.1\n- BA Calc Pro 1.5.1\n- Paid App $3.99\n- Business Financial Calculator\n\nMade by @SultanIPAS\nNeed a cert? Contact @SultanIPAS or @eth4dmin\nNew Main Channel: https://t.me/SultanModsiOS",
-      "iconURL": "https://paradoxtime.tk/img/pdt_logo_nobg_shadow.png",
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/09/d6/3c/09d63c6c-cade-6840-6ca8-2d1804b5467c/AppIcon-0-0-1x_U007epad-0-85-220.png/512x512bb.jpg",
       "versions": [
         {
           "version": "1.5.1",
@@ -3060,7 +2999,7 @@
       "developerName": "ethMods",
       "bundleIdentifier": "com.twoxlgames.snocross",
       "localizedDescription": "2XL Snocross v1.3  \n\n\ud83c\uddf7\ud83c\uddfa \u0417\u0430\u0445\u0432\u0430\u0442\u044b\u0432\u0430\u044e\u0449\u0438\u0435 \u0433\u043e\u043d\u043a\u0438 \u043d\u0430 \u0441\u043d\u0435\u0433\u043e\u0445\u043e\u0434\u0430\u0445 \u0441 \u0440\u0435\u0430\u043b\u0438\u0441\u0442\u0438\u0447\u043d\u043e\u0439 \u0444\u0438\u0437\u0438\u043a\u043e\u0439 \u0438 \u0434\u0438\u043d\u0430\u043c\u0438\u0447\u043d\u044b\u043c\u0438 \u0442\u0440\u0430\u0441\u0441\u0430\u043c\u0438.  \n\u2014 \u041f\u043b\u0430\u0442\u043d\u043e\u0435 \u043f\u0440\u0438\u043b\u043e\u0436\u0435\u043d\u0438\u0435 \u0438\u0437 AppStore  \n\u00a9 \u0421\u043e\u0437\u0434\u0430\u043d\u043e: GLESign\n\n\ud83c\uddfa\ud83c\uddf8 Exciting snowmobile racing with realistic physics and dynamic tracks.  \n\u2014 Paid app from AppStore  \n\u00a9 Created: GLESign",
-      "iconURL": "https://paradoxtime.tk/img/pdt_logo_nobg_shadow.png",
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/c5/d3/f4/c5d3f4b2-35c5-9f61-e33c-799af8d92148/AppIcon-0-0-1x_U007epad-0-0-0-0-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/512x512bb.jpg",
       "versions": [
         {
           "version": "1.3",
@@ -3080,7 +3019,7 @@
       "developerName": "ethMods",
       "bundleIdentifier": "com.MMApps.WidgetsApp",
       "localizedDescription": "Color Widgets 6.3.1\n- Color Widgets 6.3.1\n- Widgets & Themes App\n- Tap Restore Purchases To Unlock Subscriptions\n- iOS/iPadOS 14.1 minimum\n- To make the widget work with the cert you need to have the AppGroups entitlement configured in your cert. You can check this using this app\n\nMade by ethTeam\nCrack by @VAXMG\nNeed a cert? Message @eth4dmin\nNew Main Channel: https://t.me/SultanModsiOS",
-      "iconURL": "https://paradoxtime.tk/img/pdt_logo_nobg_shadow.png",
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/e5/0b/42/e50b42de-04e0-fb04-a073-1d94a2bac19d/AppIcon-0-0-1x_U007epad-0-1-0-sRGB-85-220.png/512x512bb.jpg",
       "versions": [
         {
           "version": "6.3.1",
@@ -3100,7 +3039,7 @@
       "developerName": "ethMods",
       "bundleIdentifier": "com.elf-audio.KoalaFX",
       "localizedDescription": "koalafx v1.0.2  \n\n\ud83c\uddf7\ud83c\uddfa \u041f\u0440\u0438\u043b\u043e\u0436\u0435\u043d\u0438\u0435 \u0434\u043b\u044f \u0441\u043e\u0437\u0434\u0430\u043d\u0438\u044f \u0430\u043d\u0438\u043c\u0430\u0446\u0438\u0439 \u0438 \u0433\u0440\u0430\u0444\u0438\u043a\u0438, \u043f\u043e\u0437\u0432\u043e\u043b\u044f\u044e\u0449\u0435\u0435 \u043b\u0435\u0433\u043a\u043e \u0438 \u0431\u044b\u0441\u0442\u0440\u043e \u0441\u043e\u0437\u0434\u0430\u0432\u0430\u0442\u044c \u0432\u0438\u0437\u0443\u0430\u043b\u044c\u043d\u044b\u0435 \u043f\u0440\u043e\u0435\u043a\u0442\u044b.  \n\u2014 \u041f\u043b\u0430\u0442\u043d\u043e\u0435 \u043f\u0440\u0438\u043b\u043e\u0436\u0435\u043d\u0438\u0435 \u0438\u0437 AppStore  \n\u00a9 \u0421\u043e\u0437\u0434\u0430\u043d\u043e: GLESign \n\n\ud83c\uddfa\ud83c\uddf8 An app for creating animations and graphics, allowing you to create visual projects quickly and easily.  \n\u2014 Paid app from AppStore  \n\u00a9 Created: GLESign",
-      "iconURL": "https://paradoxtime.tk/img/pdt_logo_nobg_shadow.png",
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/67/20/c0/6720c0f1-d05a-6f5e-7997-cca683fa0260/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/512x512bb.jpg",
       "versions": [
         {
           "version": "1.0.2",
@@ -3140,7 +3079,7 @@
       "developerName": "ethMods",
       "bundleIdentifier": "com.alightcreative.motion",
       "localizedDescription": "Alight Motion 6.2.14\n- Alight Motion 6.2.14\n- Video Editing App\n- Info: Subscription Unlocked\n- Login To Activate Subscription\n\nMade by ethTeam\nCrack by @VAXMG\nNeed a cert? Dm @eth4dmin\nNew Main Channel: https://t.me/SultanModsiOS",
-      "iconURL": "https://paradoxtime.tk/img/pdt_logo_nobg_shadow.png",
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/4a/63/2a/4a632a58-4b7b-d661-74b0-e0e9b2a47251/AppIcon-0-0-1x_U007emarketing-0-4-0-0-0-0-85-220.png/512x512bb.jpg",
       "versions": [
         {
           "version": "6.2.14",
@@ -3169,5 +3108,6 @@
         "privacy": {}
       }
     }
-  ]
+  ],
+  "name": "ParadoxTime Repo | Ethmod Part 2"
 }
