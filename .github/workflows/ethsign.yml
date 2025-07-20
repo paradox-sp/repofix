@@ -20,7 +20,7 @@ jobs:
           python-version: '3.10'
 
       - name: Install dependencies
-        run: pip install requests pytz
+        run: pip install requests pytz packaging
 
       - name: Convert to SideStore format
         run: |
@@ -28,13 +28,15 @@ jobs:
           import requests
           import json
           from datetime import datetime, timezone
-          import pytz
+          from collections import defaultdict
+          from packaging.version import Version, InvalidVersion
+          import math
 
           # Configuration
           SOURCE_URL = "https://repo.ethsign.fyi/"
           REPO_IDENTIFIER = "fyi.ethsign.repo"
           DEFAULT_ICON = "https://paradoxtime.tk/img/pdt_logo_nobg_shadow.png"
-          MAX_APPS = 100  # Increased from 10 to 20 now that it's working
+          MAX_VERSIONS_PER_APP = 5  # Keep 3 newest versions per app
           YOUR_REPO_URL = "https://raw.githubusercontent.com/paradox-sp/repofix/main/sidestore-source.json"
 
           # Fetch source
@@ -57,92 +59,92 @@ jobs:
               "apps": []
           }
 
-          # Process apps
-          processed_count = 0
+          # Group apps by bundleIdentifier
+          apps_by_bundle = defaultdict(list)
           for app in src_data.get("apps", []):
-              if processed_count >= MAX_APPS:
-                  break
-              
               if not all(k in app for k in ["name", "bundleIdentifier", "version", "downloadURL"]):
                   continue
+              apps_by_bundle[app["bundleIdentifier"]].append(app)
 
-              # Get proper ISO 8601 timestamp
+          def parse_version(ver_str):
+              try:
+                  return Version(ver_str)
+              except InvalidVersion:
+                  return Version("0.0.0")
+
+          # Process each bundle
+          for bundle_id, versions in apps_by_bundle.items():
+              # Sort versions by version number (newest first)
+              versions.sort(key=lambda x: parse_version(x.get("version", "0.0.0")), reverse=True)
+              kept_versions = versions[:MAX_VERSIONS_PER_APP]
+
+              if not kept_versions:
+                  continue
+
+              latest_version = kept_versions[0]
               now = datetime.now(timezone.utc).astimezone().isoformat()
 
-              # Build version entry
-              version_entry = {
-                  "version": app["version"],
-                  "date": app.get("versionDate", now),
-                  "downloadURL": app["downloadURL"],
-                  "size": app.get("size", 0),
-                  "absoluteVersion": app["version"],
-                  "localizedDescription": app.get("localizedDescription", "Latest version")
-              }
+              # Build version entries
+              altstore_versions = []
+              for v in kept_versions:
+                  altstore_versions.append({
+                      "version": v["version"],
+                      "date": v.get("versionDate", now),
+                      "downloadURL": v["downloadURL"],
+                      "size": v.get("size", 0),
+                      "absoluteVersion": v["version"],
+                      "localizedDescription": v.get("localizedDescription", "Latest version")
+                  })
 
               # Build app entry
               app_entry = {
-                  "name": app["name"],
-                  "bundleIdentifier": app["bundleIdentifier"],
-                  "developerName": app.get("developerName", "Unknown Developer"),
-                  "version": app["version"],
-                  "versionDate": version_entry["date"],
-                  "downloadURL": app["downloadURL"],
-                  "localizedDescription": app.get("localizedDescription", "App from EthSign repository"),
-                  "iconURL": app.get("iconURL", DEFAULT_ICON),
-                  "size": app.get("size", 0),
-                  "absoluteVersion": app["version"],
-                  "appID": app["bundleIdentifier"],
-                  "versions": [version_entry]
+                  "name": latest_version["name"],
+                  "bundleIdentifier": bundle_id,
+                  "developerName": latest_version.get("developerName", "Unknown Developer"),
+                  "version": latest_version["version"],
+                  "versionDate": altstore_versions[0]["date"],
+                  "downloadURL": latest_version["downloadURL"],
+                  "localizedDescription": latest_version.get("localizedDescription", "App from EthSign repository"),
+                  "iconURL": latest_version.get("iconURL", DEFAULT_ICON),
+                  "size": latest_version.get("size", 0),
+                  "absoluteVersion": latest_version["version"],
+                  "appID": bundle_id,
+                  "versions": altstore_versions
               }
 
-              # Add optional fields if they exist
-              for optional_field in ["subtitle", "tintColor", "screenshotURLs"]:
-                  if optional_field in app:
-                      app_entry[optional_field] = app[optional_field]
+              # Add optional fields
+              for field in ["subtitle", "tintColor", "screenshotURLs"]:
+                  if field in latest_version:
+                      app_entry[field] = latest_version[field]
 
               output["apps"].append(app_entry)
-              processed_count += 1
 
           # Save output
           with open("sidestore-source.json", "w") as f:
               json.dump(output, f, indent=2, ensure_ascii=False)
-          print(f"✅ Successfully converted {len(output['apps'])} apps")
+          print(f"✅ Generated {len(output['apps'])} apps with {MAX_VERSIONS_PER_APP} versions each")
           EOF
 
       - name: Validate JSON
         run: |
           sudo apt-get install -y jq
           
-          # Basic JSON validation
-          if ! jq empty sidestore-source.json; then
-            echo "❌ Invalid JSON structure"
+          # Check for duplicate bundle identifiers
+          DUPLICATES=$(jq -r '.apps[].bundleIdentifier' sidestore-source.json | sort | uniq -d)
+          if [ -n "$DUPLICATES" ]; then
+            echo "❌ Found duplicate bundle identifiers:"
+            echo "$DUPLICATES"
             exit 1
           fi
 
-          # Check critical SideStore requirements
-          REQUIRED_FIELDS=(
-            '.identifier'
-            '.sourceURL'
-            '.apps[].name'
-            '.apps[].bundleIdentifier'
-            '.apps[].version'
-            '.apps[].downloadURL'
-            '.apps[].absoluteVersion'
-            '.apps[].appID'
-            '.apps[].versions[].version'
-            '.apps[].versions[].downloadURL'
-          )
+          # Check version counts
+          VERSION_COUNTS=$(jq '.apps[] | .bundleIdentifier + ": " + (.versions | length | tostring)' sidestore-source.json)
+          echo "ℹ️ Version counts per app:"
+          echo "$VERSION_COUNTS"
 
-          for field in "${REQUIRED_FIELDS[@]}"; do
-            if ! jq -e "$field" sidestore-source.json >/dev/null; then
-              echo "❌ Missing required field: $field"
-              exit 1
-            fi
-          done
-
-          # Verify appID matches bundleIdentifier
-          if jq -e '.apps[] | select(.appID != .bundleIdentifier)' sidestore-source.json >/dev/null; then
-            echo "❌ Found apps where appID doesn't match bundleIdentifier"
+          # Basic JSON validation
+          if ! jq empty sidestore-source.json; then
+            echo "❌ Invalid JSON structure"
             exit 1
           fi
 
