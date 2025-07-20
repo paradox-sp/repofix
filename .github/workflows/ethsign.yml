@@ -30,13 +30,12 @@ jobs:
           from datetime import datetime, timezone
           from collections import defaultdict
           from packaging.version import Version, InvalidVersion
-          import math
 
           # Configuration
           SOURCE_URL = "https://repo.ethsign.fyi/"
           REPO_IDENTIFIER = "fyi.ethsign.repo"
           DEFAULT_ICON = "https://paradoxtime.tk/img/pdt_logo_nobg_shadow.png"
-          MAX_VERSIONS_PER_APP = 3  # Keep 3 newest versions per app
+          MAX_VERSIONS_PER_APP = 3
           YOUR_REPO_URL = "https://raw.githubusercontent.com/paradox-sp/repofix/main/sidestore-source.json"
 
           # Fetch source
@@ -61,12 +60,13 @@ jobs:
               "apps": []
           }
 
-          # Group apps by bundleIdentifier
-          apps_by_bundle = defaultdict(list)
+          # Group apps by bundleIdentifier and developer
+          apps_by_bundle_dev = defaultdict(list)
           for app in src_data.get("apps", []):
               if not all(k in app for k in ["name", "bundleIdentifier", "version", "downloadURL"]):
                   continue
-              apps_by_bundle[app["bundleIdentifier"]].append(app)
+              dev = app.get("developerName", "Unknown")
+              apps_by_bundle_dev[(app["bundleIdentifier"], dev)].append(app)
 
           def parse_version(ver_str):
               try:
@@ -74,8 +74,8 @@ jobs:
               except InvalidVersion:
                   return Version("0.0.0")
 
-          # Process each bundle
-          for bundle_id, versions in apps_by_bundle.items():
+          # Process each unique bundle+developer combination
+          for (bundle_id, dev), versions in apps_by_bundle_dev.items():
               # Sort versions by version number (newest first)
               versions.sort(key=lambda x: parse_version(x.get("version", "0.0.0")), reverse=True)
               kept_versions = versions[:MAX_VERSIONS_PER_APP]
@@ -86,23 +86,26 @@ jobs:
               latest_version = kept_versions[0]
               now = datetime.now(timezone.utc).astimezone().isoformat()
 
-              # Build version entries
+              # Build version entries with proper date handling
               altstore_versions = []
               for v in kept_versions:
+                  version_date = v.get("versionDate")
+                  if version_date and not version_date.endswith('Z'):
+                      version_date += 'Z'  # Ensure proper timezone format
                   altstore_versions.append({
                       "version": v["version"],
-                      "date": v.get("versionDate", now),
+                      "date": version_date if version_date else now,
                       "downloadURL": v["downloadURL"],
                       "size": v.get("size", 0),
                       "absoluteVersion": v["version"],
-                      "localizedDescription": v.get("localizedDescription", "Latest version")
+                      "localizedDescription": v.get("localizedDescription", f"Version {v['version']}")
                   })
 
-              # Build app entry
+              # Build app entry with all required fields
               app_entry = {
                   "name": latest_version["name"],
                   "bundleIdentifier": bundle_id,
-                  "developerName": latest_version.get("developerName", "Unknown Developer"),
+                  "developerName": dev,
                   "version": latest_version["version"],
                   "versionDate": altstore_versions[0]["date"],
                   "downloadURL": latest_version["downloadURL"],
@@ -114,17 +117,23 @@ jobs:
                   "versions": altstore_versions
               }
 
-              # Add optional fields
-              for field in ["subtitle", "tintColor", "screenshotURLs"]:
-                  if field in latest_version:
-                      app_entry[field] = latest_version[field]
+              # Add optional fields only if they exist
+              optional_fields = {
+                  "subtitle": latest_version.get("subtitle"),
+                  "tintColor": latest_version.get("tintColor"),
+                  "screenshotURLs": latest_version.get("screenshotURLs", []),
+                  "category": latest_version.get("category", "other")
+              }
+              for k, v in optional_fields.items():
+                  if v:
+                      app_entry[k] = v
 
               output["apps"].append(app_entry)
 
-          # Save output
-          with open("sidestore-source.json", "w") as f:
+          # Save output with proper encoding
+          with open("sidestore-source.json", "w", encoding='utf-8') as f:
               json.dump(output, f, indent=2, ensure_ascii=False)
-          print(f"✅ Generated {len(output['apps'])} apps with {MAX_VERSIONS_PER_APP} versions each")
+          print(f"✅ Generated {len(output['apps'])} apps with up to {MAX_VERSIONS_PER_APP} versions each")
           EOF
 
       - name: Validate JSON
@@ -139,16 +148,34 @@ jobs:
             exit 1
           fi
 
-          # Check version counts
-          VERSION_COUNTS=$(jq '.apps[] | .bundleIdentifier + ": " + (.versions | length | tostring)' sidestore-source.json)
-          echo "ℹ️ Version counts per app:"
-          echo "$VERSION_COUNTS"
-
-          # Basic JSON validation
-          if ! jq empty sidestore-source.json; then
-            echo "❌ Invalid JSON structure"
+          # Validate date formats
+          if jq -e '.apps[].versions[].date | select(. | endswith("Z") | not)' sidestore-source.json >/dev/null; then
+            echo "❌ Found invalid date formats (must end with Z)"
             exit 1
           fi
+
+          # Check required fields
+          REQUIRED_FIELDS=(
+            '.name'
+            '.identifier'
+            '.sourceURL'
+            '.apps[].name'
+            '.apps[].bundleIdentifier'
+            '.apps[].version'
+            '.apps[].downloadURL'
+            '.apps[].absoluteVersion'
+            '.apps[].appID'
+            '.apps[].versions[].version'
+            '.apps[].versions[].downloadURL'
+            '.apps[].versions[].date'
+          )
+
+          for field in "${REQUIRED_FIELDS[@]}"; do
+            if ! jq -e "$field" sidestore-source.json >/dev/null; then
+              echo "❌ Missing required field: $field"
+              exit 1
+            fi
+          done
 
           echo "✅ All validations passed"
 
