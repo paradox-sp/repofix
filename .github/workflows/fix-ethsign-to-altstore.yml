@@ -2,7 +2,7 @@ name: Fetch and Convert EthSign Repo to AltStore Format
 
 on:
   schedule:
-    - cron: '0 0 * * *' 
+    - cron: '0 0 * * *'
   workflow_dispatch:
 
 jobs:
@@ -21,7 +21,7 @@ jobs:
       - name: Install dependencies
         run: pip install requests packaging
 
-      - name: Fetch, convert, save full and split EthSign repo JSONs with custom names
+      - name: Fetch, convert, save full and split EthSign repo JSONs (3 parts)
         run: |
           python <<EOF
           import requests
@@ -104,7 +104,7 @@ jobs:
 
           all_apps = base_repo["apps"]
           total = len(all_apps)
-          half = math.ceil(total / 2)
+          chunk_size = math.ceil(total / 3)
 
           # Full repo with custom name
           full_repo = dict(base_repo)
@@ -112,13 +112,18 @@ jobs:
 
           # Part 1 repo
           part1_repo = dict(base_repo)
-          part1_repo["apps"] = all_apps[:half]
+          part1_repo["apps"] = all_apps[:chunk_size]
           part1_repo["name"] = "ParadoxTime Repo | Ethmod Part 1"
 
           # Part 2 repo
           part2_repo = dict(base_repo)
-          part2_repo["apps"] = all_apps[half:]
+          part2_repo["apps"] = all_apps[chunk_size:chunk_size*2]
           part2_repo["name"] = "ParadoxTime Repo | Ethmod Part 2"
+
+          # Part 3 repo
+          part3_repo = dict(base_repo)
+          part3_repo["apps"] = all_apps[chunk_size*2:]
+          part3_repo["name"] = "ParadoxTime Repo | Ethmod Part 3"
 
           with open("ethsign-repo-fix.json", "w") as f:
               json.dump(full_repo, f, indent=2)
@@ -128,12 +133,15 @@ jobs:
 
           with open("ethsign-repo-fix2.json", "w") as f:
               json.dump(part2_repo, f, indent=2)
+
+          with open("ethsign-repo-fix3.json", "w") as f:
+              json.dump(part3_repo, f, indent=2)
           EOF
 
       - name: Commit and push changes
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
-          git add ethsign-repo-fix.json ethsign-repo-fix1.json ethsign-repo-fix2.json
-          git commit -m "Auto-convert EthSign repo to AltStore format with full and split parts named" || echo "No changes to commit"
+          git add ethsign-repo-fix.json ethsign-repo-fix1.json ethsign-repo-fix2.json ethsign-repo-fix3.json
+          git commit -m "Auto-convert EthSign repo to AltStore format full + 3 split parts" || echo "No changes to commit"
           git push
