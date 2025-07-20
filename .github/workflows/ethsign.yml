@@ -2,7 +2,7 @@ name: Fetch and Convert EthSign Repo to AltStore
 
 on:
   schedule:
-    - cron: '0 0 * * *'  # Runs daily at midnight UTC
+    - cron: '0 50 * * *'  # Runs daily at midnight UTC
   workflow_dispatch:
 
 permissions:
