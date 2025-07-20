@@ -1,0 +1,563 @@
+{
+  "name": "EthSign (SideStore)",
+  "identifier": "ethsign.sidestore",
+  "iconURL": "https://paradoxtime.tk/img/pdt_logo_nobg_shadow.png",
+  "website": "https://repo.ethsign.fyi",
+  "apps": [
+    {
+      "name": "Manic EMU",
+      "bundleIdentifier": "com.aoshuang.manicemu",
+      "developerName": "SultanMods",
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/72/d3/e8/72d3e8af-c8b1-0fc1-0465-7390c1f24c82/AppIcon-0-0-1x_U007emarketing-0-0-0-11-0-0-85-220.png/512x512bb.jpg",
+      "versions": [
+        {
+          "version": "1.5.3",
+          "date": "2025-07-20",
+          "downloadURL": "https://repo.ethsign.fyi/3d25056a-d278-42c4-9178-e0ed7dd3a510/Manicemu1.5.3MoeJitEnabled.ipa",
+          "size": 88872553,
+          "localizedDescription": "MamicECU 1.5.3 UGB edition\n(PSP 3DS NDS GBA NES GO etc)(Nintendo switch emulator)(compatible with jit)\n1.5.3 changelog\n3h ago\n\ufeff\ufeffAdded Virtual Boy support\n\ufeff\ufeffAdded NDS WFC functionality for online gameplay\n\ufeff\ufeffAdded NDS BIOS configuration & HomeMenu access\n\ufeff\ufeffNew NDS GBA Slot2 feature: Insert GBA ROMs to unlock easter eggs and transfer data\n\ufeff\ufeffPSKM compatibility for editing NDS/GBA/GBC/GB saves\n\ufeff\ufeffRe-fixed cover image zoom issue\n\ufeff\ufeffRe-addressed speed abnormality problem\n\ufeff\ufeffFixed C/Z button mapping in 6-button layout\n\ufeff\ufeffOther bug fixes\nupdated to 1.5.0\n\ufeff\ufeffAdded Nintendo 64 (N64) support\n\ufeff\ufeffAdded N64 Transfer Pak functionality for loading GB/ GBC save data\n\ufeff\ufeffAdded multi-disc support for SEGA CD/Mega-CD\n(MCD) and Saturn (SS) games via.m3u/.cue.bin)\n\ufeff\ufeffAdded Multi-disc Assistant for generating .mu files\n\ufeff\ufeffSeparated Game Boy (GB) and Game Boy Color (GBC)\nmanagement\n\ufeff\ufeffOptimized button mapping with joystick directional support\n\ufeff\ufeffFixed unresponsive Saturn L/R buttons\n\ufeff\ufeffFixed cover image glitches during page scrolling\n\ufeff\ufeffFixed file manager failure when adding skins\n\ufeff\ufeffFixed crash caused by accidental JIT activation in unsupported 3DS environments\n\ufeff\ufeffFixed third-party skin shortcuts malfunction in 3DS\n\ufeff\ufeffFixed incorrect aspect ratios on certain platforms\n\ufeff\ufeffFixed game speed inaccuracies on specific devices\n\ufeff\ufeffOther bug fixes and improvements\n1.4.0\n-play PSP 3DS NDS GBA NES GO, Games\n-injected with keychain and sideload fix and file picker fix\n-tested on eth elite cert (jit enabled)\n-available in app store but when you sideload it you get better performance because it works with JIT\n-How to enable jit on elite cert HERE\n\nMade by @moeotf \nDecrypted by Mr eeves bot (McDonald's wifi hacker) @eeveedecrypterbot\nNeed a certificate? Contact @eth4dmin\nNew channel: https://t.me/ethMods\nNew group to chat: https://t.me/ethmodsgroup\nEthMods Repo: https://repo.ethsign.fyi\nprepatched already thanks to @asdfzxcvbn0 ipapatch bot found here"
+        }
+      ]
+    },
+    {
+      "name": "Pocket City 2",
+      "bundleIdentifier": "com.codebrewgames.pocketcity2",
+      "developerName": "SultanMods",
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/02/e5/76/02e5769f-12b8-b1fc-f2a9-8c75d81e1bd3/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/512x512bb.jpg",
+      "versions": [
+        {
+          "version": "1.085",
+          "date": "2025-07-20",
+          "downloadURL": "https://repo.ethsign.fyi/92595093-dfed-4a4e-a77f-6d69bb90e29e/PocketCity2_1.085-Billieve.ipa",
+          "size": 132214370,
+          "localizedDescription": "Pocket City 2 1.085\nApp Store Link ($5): https://apps.apple.com/us/app/pocket-city-2/id1533709428\n\nBuild and explore your own city in this 3D sequel to the original Pocket City!\nCreate using roads, zones, landmarks, and special buildings. Drop your avatar into the world and roam freely. Buy your own house, host events, survive disasters, and live the life of a successful mayor!\n\nNo microtransactions or long wait times, everything is unlocked and rewarded through gameplay!\n\nFEATURES\n\u2022Build a unique city by creating zones and new special buildings\n\u2022Explore your city by controlling your avatar directly\n\u2022Enjoy a dynamic environment with seasons and a day night cycle\n\u2022Play minigames like street racing, plane flying, and much more\n\u2022Trigger fun events like block parties, or disasters like tornadoes\n\u2022Complete quests to earn XP and money\n\u2022Customize your avatar with clothing and tools\n\u2022Become a homeowner and furnish your own house\n\u2022Visit buildings in your city to buy items and find loot\n\u2022Invest and build long-term mega projects\n\u2022Encounter and help NPCs around your city\n\u2022Spend research points to gain valuable perks\n\u2022Invite a friend to collaborate on your city in real-time\n\u2022Unlock special rewards by competing against rival towns\n\u2022Unleash your creative side in Sandbox Mode\n\u2022Play in both landscape and portrait mode\n\nMade by @yougottabillieve \ndecrypted by @eeveedecryptorbot\nNew channel: https://t.me/ethMods\nEthMods Group: https://t.me/ethmodsgroup\nEthMods Repo: https://repo.ethsign.fyi\nneed a cert dm @eth4dmin \nprepatched already thanks to @asdfzxcvbn0 ipapatch bot found here"
+        }
+      ]
+    },
+    {
+      "name": "Stremio",
+      "bundleIdentifier": "com.stremio.one",
+      "developerName": "SultanMods",
+      "iconURL": "https://repo.ethsign.fyi/icon.jpg",
+      "versions": [
+        {
+          "version": "1.2.0",
+          "date": "2025-07-19",
+          "downloadURL": "https://repo.ethsign.fyi/474c7914-0480-4169-afac-efe0ecff9d13/Stremio_1.2.0.ipa",
+          "size": 76136197,
+          "localizedDescription": "Stremio 1.2.0 build 11\n- Stream Movies & Tv shows\n- Requires Debrid Service \n- Direct Torrent streaming is not supported\n- SideloadFix included\n\nChangelogs:\n- Bug fixes\n\nMade by @moeotf \ndecrypted by @Qwert_Yapur\nNeed a certificate? Contact @eth4dmin\nNew channel: https://t.me/ethMods\nEthMods Repo: https://repo.ethsign.fyi\nprepatched already thanks to @asdfzxcvbn0 ipapatch bot found here"
+        }
+      ]
+    },
+    {
+      "name": "\u200eWhatsApp",
+      "bundleIdentifier": "net.whatsapp.WhatsApp",
+      "developerName": "SultanMods",
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/3c/43/88/3c4388e9-9e15-3e21-f3e0-b90ac2eae9cf/AppIcon-0-0-1x_U007epad-0-0-0-1-0-0-0-85-220.png/512x512bb.jpg",
+      "versions": [
+        {
+          "version": "25.19.83",
+          "date": "2025-07-19",
+          "downloadURL": "https://repo.ethsign.fyi/97547171-26ae-4d8f-9930-923674aa4fdc/WhatsApp_25.19.83_WatusiLicensed_1.2.77-Billieve.ipa",
+          "size": 124255235,
+          "localizedDescription": "WA v25.19.83 | Watusi License v1.2.77\nFreemium tweak for WhatsApp by Fouad Raheb. \n\nTo unlock all features and remove ads, purchase the license for 10$ or subscribe to Regram for $2 a month from Fouad\u2019s Patreon for access to both Regram and Watusi licensed features.\n\nMade by @yougottabillieve\nNew channel: https://t.me/ethMods\nEthMods Repo: https://repo.ethsign.fyi\nEthMods Group: https://t.me/ethmodsgroup\nNeed A Cert? DM @eth4dmin prepatched already thanks to @asdfzxcvbn0 ipapatch bot found here"
+        }
+      ]
+    },
+    {
+      "name": "NYT Cooking",
+      "bundleIdentifier": "com.nytimes.cooking",
+      "developerName": "SultanMods",
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/f3/b7/a4/f3b7a4d8-0bf0-dd44-86ee-2daa70c62125/release-app-icon-0-0-1x_U007epad-0-1-0-85-220.png/512x512bb.jpg",
+      "versions": [
+        {
+          "version": "4.132.1",
+          "date": "2025-07-19",
+          "downloadURL": "https://repo.ethsign.fyi/d7b810c1-087b-45f4-9900-32a6d1df9ce0/com.nytimes.cooking-4.132.1.ipa",
+          "size": 234460404,
+          "localizedDescription": "NYT Cooking: Recipes & Tips 4.132.1\n- AppStore Link\n- Recipe & Meal Planning App\n- Subscription Unlocked\n- Minimum iOS/iPadOS 17.0\n\nCreated by ethTeam\nCrack by @VAXMG\nRequest Apps Here\nNeed a certificate? Contact @eth4dmin\nNew main channel: https://t.me/ethMods\nethSign Repo: https://repo.ethsign.fyi"
+        }
+      ]
+    },
+    {
+      "name": "Lingvist",
+      "bundleIdentifier": "ee.keel24.Lingvist",
+      "developerName": "SultanMods",
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/ac/f1/6e/acf16eb5-e8db-bc6a-d20b-643f717aca83/AppIcon-0-0-1x_U007epad-0-11-0-0-85-220.png/512x512bb.jpg",
+      "versions": [
+        {
+          "version": "2.63.2",
+          "date": "2025-07-18",
+          "downloadURL": "https://repo.ethsign.fyi/2c16a8d9-4768-429e-a3cd-7fce0717c37e/ee.keel24.Lingvist-2.63.2.ipa",
+          "size": 33251879,
+          "localizedDescription": "Lingvist: Learn Languages Fast 2.63.2\n- AppStore Link\n- Learn Languages\n- Subscription Unlocked\n- Minimum iOS/iPadOS 13.0\n\nCreated by ethTeam\nCrack by @VAXMG\nRequest Apps Here\nNeed a certificate? Contact @eth4dmin\nNew main channel: https://t.me/ethMods\nethSign Repo: https://repo.ethsign.fyi"
+        }
+      ]
+    },
+    {
+      "name": "Bear",
+      "bundleIdentifier": "net.shinyfrog.bear-iOS",
+      "developerName": "SultanMods",
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/c9/2d/b0/c92db0d9-96e2-28f0-d620-110c0f773db1/AppIcon-0-0-1x_U007epad-0-0-0-1-0-0-85-220.png/512x512bb.jpg",
+      "versions": [
+        {
+          "version": "2.4.5",
+          "date": "2025-07-18",
+          "downloadURL": "https://repo.ethsign.fyi/624b51a6-3eb5-48ee-b9c3-ccb05cf302dd/net.shinyfrog.bear-iOS-2.4.5.ipa",
+          "size": 88587189,
+          "localizedDescription": "Bear - Markdown Notes 2.4.5\n- AppStore Link\n- Note Taking App\n- Subscription Unlocked\n- Minimum iOS/iPadOS 15.6\n- Trollstore or JB Only\n\nCreated by ethTeam\nCrack by @VAXMG\nRequest Apps Here\nNeed a certificate? Contact @eth4dmin\nNew main channel: https://t.me/ethMods\nethSign Repo: https://repo.ethsign.fyi"
+        }
+      ]
+    },
+    {
+      "name": "Scanner Free",
+      "bundleIdentifier": "com.dreamappstudio.scannerfree",
+      "developerName": "SultanMods",
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/e6/5c/33/e65c3322-701e-8074-2c9d-de595924e35b/AppIcon-0-0-1x_U007epad-0-0-0-1-0-0-P3-85-220.png/512x512bb.jpg",
+      "versions": [
+        {
+          "version": "8.6",
+          "date": "2025-07-18",
+          "downloadURL": "https://repo.ethsign.fyi/298c5901-462f-49a7-9d29-7cf362b3d77f/com.dreamappstudio.scannerfree-8.6.ipa",
+          "size": 158589821,
+          "localizedDescription": "My Scanner: Scan To PDF & Edit 8.6\n- AppStore Link\n- PDF Scanner With Powerful Tools: PDF Editing, OCR, Convert PDFs, Fill & Sign, AI Tools,Scan QRCodes,Grammar Check,Erase Text, and More.\n- Minimum iOS/iPadOS 15.5\n- Subscription Unlocked\n\nCreated by ethTeam\nCrack by @VAXMG\nRequest Apps Here\nNeed a certificate? Contact @eth4dmin\nNew main channel: https://t.me/ethMods\nethSign Repo: https://repo.ethsign.fyi"
+        }
+      ]
+    },
+    {
+      "name": "Gibson",
+      "bundleIdentifier": "com.berggram.amped",
+      "developerName": "SultanMods",
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/29/b5/fc/29b5fc48-6e03-4983-9261-ca1902a32ec0/AppIcon6-1x_U007epad-0-1-0-0-sRGB-85-220-0.png/512x512bb.jpg",
+      "versions": [
+        {
+          "version": "5.5.10",
+          "date": "2025-07-17",
+          "downloadURL": "https://repo.ethsign.fyi/63e8d4e2-42ad-4a0f-bb70-591726a46856/com.berggram.amped-5.5.10.ipa",
+          "size": 193648705,
+          "localizedDescription": "Gibson: Learn & Play Guitar 5.5.10\n- AppStore Link\n- Guitar learning app with lessons, tutorials, and practice tools.\n- Subscription Unlocked\nMinimum iOS/iPadOS 15.0\n\nCreated by ethTeam\nCrack by @VAXMG\nRequest Apps Here\nNeed a certificate? Contact @eth4dmin\nNew main channel: https://t.me/ethMods\nethSign Repo: https://repo.ethsign.fyi"
+        }
+      ]
+    },
+    {
+      "name": "Xodo",
+      "bundleIdentifier": "com.Xodo.pdf.reader",
+      "developerName": "SultanMods",
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/a9/4d/b6/a94db667-6c15-5d45-f982-46eb654a4778/AppIcon-0-1x_U007emarketing-0-8-0-85-220-0.png/512x512bb.jpg",
+      "versions": [
+        {
+          "version": "9.3.0",
+          "date": "2025-07-17",
+          "downloadURL": "https://repo.ethsign.fyi/89920581-08ba-4e95-bac1-d83e9e190c3b/com.Xodo.pdf.reader-9.3.0.ipa",
+          "size": 56668874,
+          "localizedDescription": "Fill and Sign PDF Docs | Xodo 9.3.0\n- AppStore Link\n- PDF Editor\n- Login To Activate Subscription\n- Minimum iOS/iPadOS 16.0\n\nCreated by ethTeam\nCrack by @VAXMG\nRequest Apps Here\nNeed a certificate? Contact @eth4dmin\nNew main channel: https://t.me/ethMods\nethSign Repo: https://repo.ethsign.fyi"
+        }
+      ]
+    },
+    {
+      "name": "Pixelmator",
+      "bundleIdentifier": "com.pixelmatorteam.pixelmator.touch",
+      "developerName": "SultanMods",
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/f1/99/d0/f199d08f-acc3-9b7c-a879-fb4d26d790cd/AppIcon-0-0-1x_U007emarketing-0-7-0-0-0-85-220.png/512x512bb.jpg",
+      "versions": [
+        {
+          "version": "3.1.15",
+          "date": "2025-07-17",
+          "downloadURL": "https://repo.ethsign.fyi/b2e66da1-908f-4f79-8aa7-d46e86b9109d/Pixelmator3.1.15Moe.ipa",
+          "size": 346694689,
+          "localizedDescription": "Pixelmator 3.1.15(patched)\n- photo editor by apple \n-injected with keychain and sideload fix\n-didn't touch iaps just the app itself\n\nApp store link ($10)\n\nhttps://apps.apple.com/us/app/pixelmator/id924695435\n\nMade by @moeotf \nNeed a certificate? Contact @eth4dmin\nNew channel: https://t.me/ethMods\nEthMods Repo: https://repo.ethsign.fyi\nprepatched already thanks to @asdfzxcvbn0 ipapatch bot found here"
+        }
+      ]
+    },
+    {
+      "name": "Twitter",
+      "bundleIdentifier": "com.atebits.Tweetie2",
+      "developerName": "SultanMods",
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/a2/ef/90/a2ef90fb-dcff-df67-59bb-331e1f15d826/ProductionAppIcon-0-0-1x_U007emarketing-0-8-0-0-0-85-220.png/512x512bb.jpg",
+      "versions": [
+        {
+          "version": "11.8.5",
+          "date": "2025-07-17",
+          "downloadURL": "https://repo.ethsign.fyi/0319866e-d2a8-4397-99e5-39fbfb1df51c/X11.8.5Neobird2.0BH5.1WithTwiGalaxy1.9MoePatchedV2.ipa",
+          "size": 159306351,
+          "localizedDescription": "X 11.8.5 TwiGalaxy 1.9 + Neobird 2.0 BH5.1 Beta 3 adfree (with login fix)\n\nFor fresh installs: on the home screen hold down on Twitter and click \"new tweet\" to get to the login screen\nToday's changes:\nCombined Twigalaxy 1.9 with neobird 2.0BH5.1 beta 3\nMade by @moeotf \ndecrypted by @eeveedecrypterbot\nNeed a certificate? Contact @eth4dmin\nNew channel: https://t.me/ethMods\nEthMods Repo: https://repo.ethsign.fyi\nEthmods Group channel: https://t.me/ethModsGroup\nneed a cert dm @eth4dmin\nprepatched already thanks to @asdfzxcvbn0 ipapatch bot found here"
+        }
+      ]
+    },
+    {
+      "name": "TikTok",
+      "bundleIdentifier": "com.zhiliaoapp.musically",
+      "developerName": "SultanMods",
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/5c/86/31/5c8631fb-7d0f-32d9-a7c3-14db00368985/AppIcon_TikTok-0-0-1x_U007epad-0-1-0-0-85-220.png/512x512bb.jpg",
+      "versions": [
+        {
+          "version": "40.8.0",
+          "date": "2025-07-17",
+          "downloadURL": "https://repo.ethsign.fyi/01a2ae62-e671-49a9-a3b7-18347ef0e876/TikTok40.8.0RX1.3.2DL2.1.3MoeAutoClickPatched.ipa",
+          "size": 451648851,
+          "localizedDescription": "TikTok 40.8.0 RX1.3.2 & DL2.1.3(patched)\n\nDL requires elite cert or a license and rx also takes a license\n\nsome people requested it for auto clicker etc..You still need a license for RX.\nAdded open in TikTok and keychain\nMade by @moeotf \ndecrypted by @eeveedecrypterbot\nNeed a certificate? Contact @eth4dmin\nNew channel: https://t.me/ethMods\nEthmods Group channel: https://t.me/ethModsGroup\nEthMods Repo: https://repo.ethsign.fyi\nprepatched already thanks to @asdfzxcvbn0 ipapatch bot found here"
+        }
+      ]
+    },
+    {
+      "name": "Videoleap",
+      "bundleIdentifier": "com.lightricks.Enlight-Video",
+      "developerName": "SultanMods",
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/0a/1d/40/0a1d407d-6f52-6f44-229d-bb5bda00be02/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/512x512bb.jpg",
+      "versions": [
+        {
+          "version": "2.73",
+          "date": "2025-07-17",
+          "downloadURL": "https://repo.ethsign.fyi/fb493028-145b-4e27-87db-af3e8ba45126/Videoleap2.73ProMoePatched.ipa",
+          "size": 403664759,
+          "localizedDescription": "Videoleap Pro 2.73 (patched)\n-Updated videoleap\n-AI video and photo editor\n-Pro unlocked\n-injected with keychain and sideload fix\n\nMade by @moeotf \ndecrypted by @IPADecryptBot\nNeed a certificate? Contact @eth4dmin\nNew channel: https://t.me/ethMods\nEthMods Repo: https://repo.ethsign.fyi"
+        }
+      ]
+    },
+    {
+      "name": "Captions",
+      "bundleIdentifier": "boomer.Smart-Video",
+      "developerName": "SultanMods",
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/06/36/9c/06369ce9-cc7e-f564-da96-8bd03871db46/AppIcon-0-0-1x_U007ephone-0-1-0-85-220.png/512x512bb.jpg",
+      "versions": [
+        {
+          "version": "12.27.0",
+          "date": "2025-07-17",
+          "downloadURL": "https://repo.ethsign.fyi/8ba09b21-5422-42c9-a2f8-39b3fc2f6208/Captions12.27.0ProMoePatched.ipa",
+          "size": 377546576,
+          "localizedDescription": "Captions 12.27.0 pro patched\n-Updated captions to 12.27.0 PRO\n-Once you get past the login screen (might have to restart app and try multiple times) then pro will be activated - https://tinyurl.com/Max-subscription\n-Generate and edit talking videos with Al. Captions is a video creation and editing app that harnesses artificial intelligence to allow anyone, anywhere to produce studio-quality videos from their iPhone in seconds.\nCaptions can help at every step of the video creation process, from scripting and recording (or generating) - to editing and sharing.\n-injected with sideloadkeychainfix and the crack\nMade by @moeotf \ndecrypted by @IPADecryptBot\nNeed a certificate? Contact @eth4dmin\nNew channel: https://t.me/ethMods\nEthMods Repo: https://repo.ethsign.fyi"
+        }
+      ]
+    },
+    {
+      "name": "PicsArt",
+      "bundleIdentifier": "com.picsart.studio",
+      "developerName": "SultanMods",
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/8b/26/af/8b26af88-3ab0-7ac4-72e6-945a68fd6c1c/AppIcon-0-0-1x_U007emarketing-0-8-0-sRGB-85-220.png/512x512bb.jpg",
+      "versions": [
+        {
+          "version": "27.9.3",
+          "date": "2025-07-17",
+          "downloadURL": "https://repo.ethsign.fyi/08322e32-7df5-4b5a-bca2-50cb00abc97c/Picsart27.9.3ProMoePatched.ipa",
+          "size": 100256139,
+          "localizedDescription": "PICSART 27.9.3 Pro Patched\n- updated picsart to 27.9.3 pro\n- injected with pro \n-injected with keychain and sideload fix\n-This version uses a new crack made by teamETH so if you have issues delete the old version then install this version\n\nMade by @moeotf \ndecrypted by @IPADecryptBot\nNeed a certificate? Contact @eth4dmin\nNew channel: https://t.me/ethMods\nEthmods Group channel: https://t.me/ethModsGroup\nEthMods Repo: https://repo.ethsign.fyi\nprepatched already thanks to @asdfzxcvbn0 ipapatch bot found here"
+        }
+      ]
+    },
+    {
+      "name": "Textastic",
+      "bundleIdentifier": "com.textasticapp.textastic-universal",
+      "developerName": "SultanMods",
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/b4/63/04/b463047d-2b74-3a85-dc3e-46c0e6a76424/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/512x512bb.jpg",
+      "versions": [
+        {
+          "version": "10.7.1",
+          "date": "2025-07-17",
+          "downloadURL": "https://repo.ethsign.fyi/ac9771eb-5dff-4fe7-9be2-b6c9c201ba74/Textastic10.7.1ProMoePatched.ipa",
+          "size": 10117506,
+          "localizedDescription": "Textastic 10.7.1 pro (patched) (file picker fix included) \n- updated to 10.7.1\n-injected with keychain and sideload fix\n-app store link below\n-crack by \u041d\u0438\u043a\u0438\u0442\u0430\n-tested on eth cert with esign\n\nNeeded for the carrot and other app crash entitlements fix found here\n\nhttps://apps.apple.com/us/app/textastic-code-editor/id1049254261\n\nMade by @moeotf \nNeed a certificate? Contact @eth4dmin\ndecrypted by @IPADecryptBot\nNew channel: https://t.me/ethMods\nEthMods Repo: https://repo.ethsign.fyi\nprepatched already thanks to @asdfzxcvbn0 ipapatch bot found here"
+        }
+      ]
+    },
+    {
+      "name": "Pirates Outlaws",
+      "bundleIdentifier": "com.piratesoutlaws.roguelikecard.fabled",
+      "developerName": "SultanMods",
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/49/a4/af/49a4af5f-ed4e-c10c-4b7e-6a6d5f388b04/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/512x512bb.jpg",
+      "versions": [
+        {
+          "version": "4.20",
+          "date": "2025-07-16",
+          "downloadURL": "https://repo.ethsign.fyi/c0a2b811-826d-4019-a7df-f01500cfa18c/com.piratesoutlaws.roguelikecard.fabled-VAXMG_4.20.ipa",
+          "size": 176971866,
+          "localizedDescription": "Pirates Outlaws 4.20\n- AppStore Link\n- Paid Game $0.99\n- Minimum iOS/iPadOS 9.0\n- Decrypted Exclusively by @VAXMG\n\nCreated by ethTeam\nRequest Apps Here\nNeed a certificate? Contact @eth4dmin\nNew main channel: https://t.me/ethMods\nethSign Repo: https://repo.ethsign.fyi"
+        }
+      ]
+    },
+    {
+      "name": "Wipr",
+      "bundleIdentifier": "site.kaylees.Wipr2",
+      "developerName": "SultanMods",
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/38/97/e4/3897e415-9a42-a810-c929-b35224bf38ad/AppIcon-0-0-1x_U007epad-0-0-0-1-0-85-220.png/512x512bb.jpg",
+      "versions": [
+        {
+          "version": "2.9.1",
+          "date": "2025-07-16",
+          "downloadURL": "https://repo.ethsign.fyi/da7fd816-6352-426f-88cf-ec64d4199b32/Wipr2_v2.9.1-Billieve.ipa",
+          "size": 3762469,
+          "localizedDescription": "Wipr 2 v2.9.1\n\nApp Store Link ($5): https://apps.apple.com/us/app/wipr-2/id1662217862\n\nWipr blocks ads, popups, trackers, cookie warnings, and other nasty things that make the web slow and ugly.\n\nWebsites in Safari will look clean, load fast, and stop invisibly tracking you. You\u2019ll notice significant improvements to your battery life and data usage. Setup is a snap.\n\nWipr\u2019s blocklist is updated twice a week automatically, and has enhanced versions for the following languages: Chinese, Czech, Danish, Dutch, Estonian, Finnish, French, German, Greek, Hebrew, Hindi, Hungarian, Icelandic, Italian, Japanese, Korean, Macedonian, Norwegian, Polish, Romanian, Russian, Slovak, Spanish, Thai, and Vietnamese. \n\nMade by @yougottabillieve \ndecrypted by @eeveedecryptorbot\nNew channel: https://t.me/ethMods\nEthMods Group: https://t.me/ethmodsgroup\nEthMods Repo: https://repo.ethsign.fyi\nneed a cert dm @eth4dmin"
+        }
+      ]
+    },
+    {
+      "name": "StopTheMadness Pro",
+      "bundleIdentifier": "com.underpassapp.StopTheMadnessPro",
+      "developerName": "SultanMods",
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/b9/8a/3e/b98a3ee0-1df5-a0ee-d798-2b44d1f662c6/AppIcon-0-0-1x_U007epad-0-1-P3-85-220.png/512x512bb.jpg",
+      "versions": [
+        {
+          "version": "20.0",
+          "date": "2025-07-15",
+          "downloadURL": "https://repo.ethsign.fyi/162d1c0c-1833-4764-b7e8-a8ade0c29db1/StopTheMadnessPro_20.0-Billieve.ipa",
+          "size": 16116781,
+          "localizedDescription": "StopTheMadness Pro 20.0\nApp Store Link ($15): https://apps.apple.com/us/app/stopthemadness-pro/id6471380298\n\nStopTheMadness Pro is a web browser extension that stops websites from making your browser harder to use, and it protects your privacy on the web. With a huge number of unique features, StopTheMadness Pro is one of a kind! Made by indie developer Jeff Johnson. The support link has documentation and my email address. StopTheMadness Pro includes extensions for Safari, Safari web apps, Chrome, and Firefox on macOS, as well as Safari on iOS and iPadOS.\n\nWhat's new in StopTheMadness Pro:\n\n\u2022 Presets: Easily assign the same specific website options to multiple websites\n\u2022 Customize the list of query tracking parameters automatically removed from URLs, including URL domain-specific removal\n\u2022 Run custom JavaScript snippets at any time\n\u2022 Set custom cookies on websites\n\u2022 Stop web animations\n\u2022 Stop websites from overwriting your system clipboard\n\u2022 Automatically select YouTube video subtitles\n\u2022 Automatically toggle off the YouTube autoplay button\n\u2022 Add your own private comments to website options\n\u2022 Temporarily disable the extension just on the current page\n\u2022 Hide Page Elements: New global list separate from the custom CSS option, so you can hide web page elements without creating new website options\n\u2022 Contextual menu item for Hide Page Elements\n\u2022 Copy Link URL and Copy Link Title use the document URL and title if you're not hovering over a link\n\u2022 New option to open URLs in a non-private window in Web Rules and Tab Rules\n\u2022 Hide \"We'd like to send you some notifications\" banners on many websites\n\u2022 Show the concealed password in password fields\n\u2022 Stop websites from disabling text replacements in Safari\n\u2022 Stop websites from changing the cursor and hiding the scrollbar\n\u2022 Many other improvements\n\nOf course StopTheMadness Pro still includes the features that made StopTheMadness famous:\n\n\u2022 Stop websites from disabling user interface features in Safari such as text selection, copy, cut, and paste, drag and drop, contextual menus, AutoFill, \u2318-key keyboard shortcuts, and \u2318-click to open links in a new tab\n\u2022 Stop clickjacking on Google Search, Gmail, Facebook, and DuckDuckGo\n\u2022 Stop hyperlink auditing (anchor \"ping\")\n\u2022 Stop tracking beacons (Navigator.sendBeacon)\n\u2022 Bypass well-known URL shorteners such as bit.ly, tinyurl, and t.co\n\u2022 Stop autoplaying audio and video\n\u2022 Always show Safari's native video controls, including Picture-in-Picture\n\u2022 Auto-skip YouTube video ads\n\u2022 Auto-select YouTube video quality\n\u2022 Auto-select video playback speed\n\u2022 Hide \"Sign in with Google\" on all websites\n\u2022 Font substitution on websites\n\u2022 Website-specific CSS and JavaScript\n\u2022 Custom URL redirects\n\u2022 Stop losing characters in maxlength password fields\n\u2022 Force links to open in the current tab instead of a new tab, or force links to open in a new tab instead of the current tab\n\u2022 Force images to the front so you can drag and use the contextual menu\n\u2022 Automatically open clicked links in other apps\n\u2022 Contextual menu item to copy link titles\n\u2022 Keyboard shortcuts to copy link titles, link URLs, and open links in other apps\n\u2022 And many more features! \n\nMade by @yougottabillieve \ndecrypted by @eeveedecryptorbot\nNew channel: https://t.me/ethMods\nEthMods Group: https://t.me/ethmodsgroup\nEthMods Repo: https://repo.ethsign.fyi\nneed a cert dm @eth4dmin"
+        }
+      ]
+    },
+    {
+      "name": "!Vibes",
+      "bundleIdentifier": "com.andyworks.vibes",
+      "developerName": "SultanMods",
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/ea/a3/31/eaa331a9-5ba4-a6ca-d37a-7d6b296823f8/AppIcon-0-0-1x_U007epad-0-1-0-0-sRGB-85-220.png/512x512bb.jpg",
+      "versions": [
+        {
+          "version": "1.19",
+          "date": "2025-07-15",
+          "downloadURL": "https://repo.ethsign.fyi/ea3138c7-c070-4a31-a639-7a11d5880ed8/NotBoringVibes1.19MoePatched.ipa",
+          "size": 208970738,
+          "localizedDescription": ""
+        }
+      ]
+    },
+    {
+      "name": "!Habits",
+      "bundleIdentifier": "com.andyworks.streaks",
+      "developerName": "SultanMods",
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/f2/78/c4/f278c4f1-d8b0-707a-0d94-b348c016ab07/AppIcon-0-0-1x_U007epad-0-1-0-sRGB-85-220.png/512x512bb.jpg",
+      "versions": [
+        {
+          "version": "3.18",
+          "date": "2025-07-15",
+          "downloadURL": "https://repo.ethsign.fyi/fc38a863-0e78-429d-97b1-7fedee75ee41/NotBoringStreaks3.18MoePatched.ipa",
+          "size": 171812988,
+          "localizedDescription": "The entire not boring collection with iaps unlocked\n\nMade by @moeotf \nNeed a certificate? Contact @eth4dmin\nNew channel: https://t.me/ethMods\nEthMods Repo: https://repo.ethsign.fyi\nprepatched already thanks to @asdfzxcvbn0 ipapatch bot found here"
+        }
+      ]
+    },
+    {
+      "name": "simple-weather",
+      "bundleIdentifier": "com.andyworks.weather",
+      "developerName": "SultanMods",
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/7f/96/57/7f965771-5db1-5ff6-0998-b3d7488c4b10/AppIcon-0-0-1x_U007epad-0-1-0-0-P3-85-220.png/512x512bb.jpg",
+      "versions": [
+        {
+          "version": "3.39",
+          "date": "2025-07-15",
+          "downloadURL": "https://repo.ethsign.fyi/dcb0b93e-cf79-4efb-9561-70c449caa323/NotBoringWeather3.39MoePatched.ipa",
+          "size": 156492942,
+          "localizedDescription": ""
+        }
+      ]
+    },
+    {
+      "name": "simple-timer",
+      "bundleIdentifier": "com.andyworks.timer",
+      "developerName": "SultanMods",
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/0b/00/2a/0b002ad2-24cc-defb-3ee9-1bfc98bc5c14/AppIcon-0-0-1x_U007epad-0-1-sRGB-85-220.png/512x512bb.jpg",
+      "versions": [
+        {
+          "version": "3.15",
+          "date": "2025-07-15",
+          "downloadURL": "https://repo.ethsign.fyi/d00acd42-4516-4582-a0c5-6cf64cd61b4d/NotBoringTimer3.15MoePatched.ipa",
+          "size": 125935578,
+          "localizedDescription": ""
+        }
+      ]
+    },
+    {
+      "name": "andyworks-calculator",
+      "bundleIdentifier": "com.andyworks.calculator",
+      "developerName": "SultanMods",
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/97/3b/ae/973baedf-f800-1ec1-3977-7b7fa7ba1fa6/AppIcon-0-0-1x_U007epad-0-1-0-sRGB-85-220.png/512x512bb.jpg",
+      "versions": [
+        {
+          "version": "3.17",
+          "date": "2025-07-15",
+          "downloadURL": "https://repo.ethsign.fyi/0f6a18ae-1a37-4625-b256-ac973cdf0250/NotBoringCalculator3.17MoePatched.ipa",
+          "size": 73575818,
+          "localizedDescription": ""
+        }
+      ]
+    },
+    {
+      "name": "!Camera",
+      "bundleIdentifier": "com.andyworks.camera",
+      "developerName": "SultanMods",
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/ae/bd/c6/aebdc6f1-3d9a-cca8-bc0e-559f9d064c62/AppIcon-0-0-1x_U007epad-0-1-0-0-sRGB-85-220.png/512x512bb.jpg",
+      "versions": [
+        {
+          "version": "1.31",
+          "date": "2025-07-15",
+          "downloadURL": "https://repo.ethsign.fyi/386097f0-c959-4aba-b0da-68ef7d683fe5/NotBoringCamera1.31MoePatched.ipa",
+          "size": 88235747,
+          "localizedDescription": "Not boring camera 1.31 pro (patched)(unlocked iaps)\n- updated to 1.31\n-injected with keychain and sideload fix and crack by moeotf\n-app store link below\nRequested by @vvvreseller_manager\n\nhttps://apps.apple.com/us/app/not-boring-camera/id6737783441 \n\nMade by @moeotf \nNeed a certificate? Contact @eth4dmin\nNew channel: https://t.me/ethMods\nEthMods Repo: https://repo.ethsign.fyi\nprepatched already thanks to @asdfzxcvbn0 ipapatch bot found here"
+        }
+      ]
+    },
+    {
+      "name": "SoundCloud",
+      "bundleIdentifier": "com.soundcloud.TouchApp",
+      "developerName": "SultanMods",
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/3f/a1/27/3fa127e3-4312-9ff8-00e8-399cd639e9d7/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/512x512bb.jpg",
+      "versions": [
+        {
+          "version": "8.22.2",
+          "date": "2025-07-15",
+          "downloadURL": "https://repo.ethsign.fyi/2db6b61a-92ee-40ca-9ba2-cbff3b0816c1/Soundcloud8.22.2AdfreeMoePatched.ipa",
+          "size": 97510309,
+          "localizedDescription": "SoundCloud 8.22.2 Adfree (no music ads or visual ads) (already patched)\n-Scmusicplus 24.9.1-3 for the audio ads\n-another adblocker dylib for the visual ads\n-already fixed the link on libsub being in the framework folder instead of executable root so you can use it with feather esign etc\n-keychain and sideload fixer\n-only tested on eth cert with esign. Didn't test on trollstore or live container etc\n-might not play in your region. Tested in the US, also needs a cert with app groups configured\n\nIf it crashes follow the guide below\nhttps://t.me/ethModsChat/67356\n\nMade by @moeotf \ndecrypted by @eeveedecrypterbot (can also decrypt testflight apps) \nNeed a certificate? Contact @eth4dmin\nNew channel: https://t.me/ethMods\nEthMods Repo: https://repo.ethsign.fyi\nprepatched already thanks to @asdfzxcvbn0 ipapatch bot found here"
+        }
+      ]
+    },
+    {
+      "name": "GoogleNews",
+      "bundleIdentifier": "com.google.GoogleDigitalEditions",
+      "developerName": "SultanMods",
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/a9/c6/fa/a9c6fa76-b95a-e8cc-8713-fab8ea6f5500/logo_google_news_color-0-1x_U007emarketing-0-0-0-7-0-0-0-0-0-85-220-0.png/512x512bb.jpg",
+      "versions": [
+        {
+          "version": "5.107",
+          "date": "2025-07-15",
+          "downloadURL": "https://repo.ethsign.fyi/18ae08d3-f4e3-4954-9e51-6ca06889fb97/GoogleNews5.107AdfreeMoePatched.ipa",
+          "size": 34115098,
+          "localizedDescription": "Google news 5.107 adfree\n-updated Google news to 5.107 PRO (today's release)\n-injected with no ads\n-injected with sideload fix\n\nMade by @moeotf decrypted by @eeveedecrypterbot\nNeed a certificate? Contact @eth4dmin\nNew channel: https://t.me/ethMods\nEthMods Repo: https://repo.ethsign.fyi"
+        }
+      ]
+    },
+    {
+      "name": "RadarScope",
+      "bundleIdentifier": "com.basevelocity.RadarScope",
+      "developerName": "SultanMods",
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/8b/fc/56/8bfc56b0-de8b-3df3-d437-12ecc66801d2/App_Icon-0-0-1x_U007emarketing-0-0-0-8-0-0-85-220.png/512x512bb.jpg",
+      "versions": [
+        {
+          "version": "5.4.2",
+          "date": "2025-07-15",
+          "downloadURL": "https://repo.ethsign.fyi/7940d83c-6376-42da-a671-704d08a11dbc/RadarScope_v5.4.2-Billieve.ipa",
+          "size": 51042237,
+          "localizedDescription": "RadarScope 5.4.2\nApp Store Link ($10): https://apps.apple.com/us/app/radarscope/id288419283 \n\nDISCLAIMER: Paid apps ONLY. No iAP\n\nRadarScope is an AMS-award-winning weather visualization tool that empowers meteorologists, public safety officials, storm spotters, and weather enthusiasts to view a full suite of single-site radar data and related severe weather products. Your initial purchase provides professional radar visualization in a fully native app, free from distracting and invasive practices, with optional subscription packages to add even more capabilities.\n\nWhether you\u2019re scanning for a mesocyclone\u2019s tell-tale hook echo, pinpointing the landfall of a hurricane\u2019s eye wall, or identifying velocity couplet, hail spike, or debris ball signatures, RadarScope displays native radar data in its original radial format. You see what the radar sees almost as soon as the radar sees it, with automatic updates every two to ten minutes depending on the radar\u2019s scanning strategy.\n\nYour initial app purchase includes the following:\n\n\u2022Full suite of single-site radar products for the US, Canada, Guam, Denmark, Finland, and Germany\n\u20226-frame radar loops\n\u2022Two built-in providers for radar data\n\u2022Tornado, thunderstorm, flash flood, special marine, snow squall, and extreme wind warnings in the US\n\u2022Selected severe weather warnings in Canada and Australia\n\u2022NWS-generated storm tracks with hail, TVS, and mesocyclone attributes\n\u2022Inspector and distance tools\n\u2022Color palette options for radar data\n\u2022AllisonHouse data plan integration\n\u2022Spotter Network integration for storm and location reporting\n\u2022mPING integration for submitting weather reports to NSSL\n\u2022Bundled maps with political boundaries, water bodies, and major highways, optimized for low-bandwidth use\n\u2022Support for widgets and complications \nMade by @yougottabillieve \ndecrypted by @eeveedecryptorbot\nNew channel: https://t.me/ethMods\nEthMods Group: https://t.me/ethmodsgroup\nEthMods Repo: https://repo.ethsign.fyi\nneed a cert dm @eth4dmin"
+        }
+      ]
+    },
+    {
+      "name": "Narwhal",
+      "bundleIdentifier": "com.rickharrison.narwhal",
+      "developerName": "SultanMods",
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/c0/fa/21/c0fa2137-d248-eb26-73ab-25b7352064f6/AppIcon-0-0-1x_U007epad-0-0-0-1-0-0-85-220.png/512x512bb.jpg",
+      "versions": [
+        {
+          "version": "2025.2",
+          "date": "2025-07-15",
+          "downloadURL": "https://repo.ethsign.fyi/6203af1c-93b3-46b5-a323-3baeeb14e7c3/Narwhal2025.2ProMoe.ipa",
+          "size": 17098372,
+          "localizedDescription": "Narwhal 2025.2 Pro Reddit client\n- updated to 2025.2\n-CLICK PURCHASE THEN CANCEL TO ACTIVATE PRO\n-injected with keychain and sideload fix\n\nNarwhal 2 is the most customizable app for Reddit. This is an all new app designed from the ground up to be the successor to Narwhal 1. All of these features were designed specifically for fast, efficient use of Reddit:\n\ufeff\ufeffView any and all subreddits\n\ufeff\ufeffA seamless experience to see a link and its comments at the same time\n\ufeff\ufeffVoting on posts and comments through a simple swipe\n\ufeff\ufeffCreate your own themes\n\ufeff\ufeffHide and save links to your reddit account\n\ufeff\ufeffAdd new posts to your favorite subreddit\n\ufeff\ufeffView all of your orangereds\n\ufeff\ufeffWhat are you waiting for!? Go ahead and download and browse reddit as much as you want!\n\n\nApp store link \nhttps://apps.apple.com/us/app/narwhal-for-reddit/id845422455\n\nMade by @moeotf \nNeed a certificate? Contact @eth4dmin\nNew channel: https://t.me/ethMods\nEthMods Repo: https://repo.ethsign.fyi\nprepatched already thanks to @asdfzxcvbn0 ipapatch bot found here"
+        }
+      ]
+    },
+    {
+      "name": "AI Liberator",
+      "bundleIdentifier": "com.ai.liberator",
+      "developerName": "SultanMods",
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/01/e5/4e/01e54ef1-a38f-b5e2-9c0b-d533d7a61a72/AppIcon-0-0-1x_U007epad-0-1-85-220.png/512x512bb.jpg",
+      "versions": [
+        {
+          "version": "1.3",
+          "date": "2025-07-15",
+          "downloadURL": "https://repo.ethsign.fyi/c3f5c634-5031-47cc-a203-a61152676ca1/AI_Liberator_v1.3-Billieve.ipa",
+          "size": 8722216,
+          "localizedDescription": "AI Liberator v1.3\nApp Store Link ($5): https://apps.apple.com/us/app/ai-liberator/id6740617831\n\nThis is a very simple yet powerful tool that will convert a prompt an AI would normally struggle to answer into one it will answer.\n\nHere's how it works:\n\n1) Select your AI of choice\n\n2) Type in your spiciest prompt and press the \"Liberate\" button to copy the new prompt to your clipboard\n\n3) Open up you AI chat of choice, and paste in the new liberated prompt to get your response\n\nThe following AI models are supported:\n\n- GPT-4o-NEW/o3-MINI, GPT-4o (Chat), GPT-4o-mini, GPT-3.5, System Prompt Generator (playground), and Custom GPT's\n- Claude 3.7 Sonnet, Claude 3.5 Sonnet 20241022, Claude 3.5, Claude-3 OPUS\n- Gemini 2.0 Pro Experimental, GEMINI-2.0-FLASH-THINKING-EXP-01-21, GEMINI-2.0-FLASH-THINKING-EXP-01-21, GEMINI EXPERIMENTAL 1206, GEMINI FLASH 2.0, GEMINI EXPERIMENTAL 1114, GEMINI-1.5-PRO-002, GEMINI-1.5-FLASH-002, GEMINI 1.5 PRO EXPERIMENTAL 0801, GEMINI 1.5 PRO\n- LLAMA-3.3-70B, LLAMA-3.1-405B, LLAMA-3-70B\n- Nova Models\n- QWEN Thinking QWQ, QWEN 2.5 Max, QWEN QWQ, QWEN 2.5 CODER, QWEN 2, QWEN\n- DeepSeek R1, DeepSeek R1 Lite, DeepSeek 2, DeepSeek\n- Mistral Large 2, Mistral Large (Le Chat)\n- Nous (Hermes 3 70B)\n- NVIDIA (LLAMA-3.1-NEMOTRON-70B, NVIDIA NEMOTRON-4-340B)\n- Perplexity\n- Reflection (REFLECTION-70B)\n- Reka (Reka Core)\n- xAI (Grok 3)\n- Zamba (Zamba-7b)\n- Fetch AI ASI1-MINI\n\nExtra features:\n\n- History that logs your prompts (can be disabled)\n \nMade by @yougottabillieve \ndecrypted by @eeveedecryptorbot\nNew channel: https://t.me/ethMods\nEthMods Group: https://t.me/ethmodsgroup\nEthMods Repo: https://repo.ethsign.fyi\nneed a cert dm @eth4dmin"
+        }
+      ]
+    },
+    {
+      "name": "MoeSports",
+      "bundleIdentifier": "Moe.Sports",
+      "developerName": "SultanMods",
+      "iconURL": "https://repo.ethsign.fyi/icon.jpg",
+      "versions": [
+        {
+          "version": "2.2",
+          "date": "2025-07-14",
+          "downloadURL": "https://repo.ethsign.fyi/c4ceef4f-6e5d-44a9-bb7b-32688401bf3b/MoeSports2.2.ipa",
+          "size": 1579462,
+          "localizedDescription": "MoeSports 2.2 (watch live football, soccer, nfl, nba,mlb, wwe, f1, boxing, tennis, ufc and other sports for free)\n2.2= compiled with xcode 26 instead of the previous version and enabled the \"liquid glass effect\" option for the icon, which now changes themes based on light more or dark mode\n2.1= fixed an issue where sites might \njust show a blank screen\n2.0=redesigned the entire bottom buttons, and finally added an in safari adblocker!!\n1.7 changelog= complete redesign \ninspired from ios26 with it being circular and darker elements, added tennis, added a feedback botton where you can request new sports as well. More ui changes for the buttons on the bottom half coming soon!!!!\nOh and safari will now pull the dark mode version of a website if it is available\n1.6 changelog= i added boxing, wwe, F1 and cleaned up the UI a bit and added keychain fix as well\n1.5=added support for ios 15, so now works on ios 15-18\nlive streams for soccer, football, nba games, nfl games, and mlb and UFC games\n-tap on the sites name to open it in the app without leaving the app\n-watch live games and quickly switch between all 6 sports quickly\n-if a site just loads to a blank page, keep clicking on it\n-fully written in swiftUI\nMade by @moeotf \nCompiled with xcode written with swiftUI\nNeed a certificate? Contact @eth4dmin\nNew channel: https://t.me/ethMods\nEthmods Group channel: https://t.me/ethModsGroup\nEthMods Repo: https://repo.ethsign.fyi"
+        }
+      ]
+    },
+    {
+      "name": "Goblin Tools",
+      "bundleIdentifier": "com.goblintools",
+      "developerName": "SultanMods",
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/98/d1/49/98d149b0-645a-7cf4-fb16-3948ff3dd471/AppIcon-1x_U007emarketing-0-10-0-85-220.png/512x512bb.jpg",
+      "versions": [
+        {
+          "version": "1.2",
+          "date": "2025-07-14",
+          "downloadURL": "https://repo.ethsign.fyi/4f5a6e1d-e470-44e3-b17f-6c22f0464d05/Goblintools1.1MoePatched.ipa",
+          "size": 544899,
+          "localizedDescription": "Goblin tools 1.1 (patched)\n- updated goblin tools to 1.1\n-injected with keychain and sideload fix\n-didn't touch iaps just the app itself\n\nApp store link ($2)\n\nhttps://apps.apple.com/us/app/goblin-tools/id6449003064\n\nMade by @moeotf \nNeed a certificate? Contact @eth4dmin\nNew channel: https://t.me/ethMods\nEthMods Repo: https://repo.ethsign.fyi\nprepatched already thanks to @asdfzxcvbn0 ipapatch bot found here"
+        }
+      ]
+    },
+    {
+      "name": "Omni",
+      "bundleIdentifier": "win.stkc.omni",
+      "developerName": "SultanMods",
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/3b/38/5b/3b385bc6-0e99-35b4-de61-7644ea7616f7/AppIcon-0-0-1x_U007epad-0-1-85-220.png/512x512bb.jpg",
+      "versions": [
+        {
+          "version": "1.0",
+          "date": "2025-07-14",
+          "downloadURL": "https://repo.ethsign.fyi/fdb89b32-e820-45ec-8be9-1afe095b0bbd/OmniContentHub1.0Patched.ipa",
+          "size": 19761461,
+          "localizedDescription": "Omni content hub 1.0 (patched)\n- updated Omni content hub to 1.0\n-injected with keychain and sideload fix\n-didn't touch iaps just the app itself\n-requires debrid service\n-fusion and stremio alternative\n\nApp store link ($10)\n\nhttps://apps.apple.com/us/app/omni-content-hub/id6741470807\n\nMade by @moeotf \nNeed a certificate? Contact @eth4dmin\nNew channel: https://t.me/ethMods\nEthMods Repo: https://repo.ethsign.fyi\nprepatched already thanks to @asdfzxcvbn0 ipapatch bot found here"
+        }
+      ]
+    },
+    {
+      "name": "YouTube Music",
+      "bundleIdentifier": "com.google.ios.youtubemusic",
+      "developerName": "SultanMods",
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/c7/76/f7/c776f700-f8a7-174d-f87c-6c12a2b8d253/logo_youtube_music_2024_q4_color-0-1x_U007emarketing-0-0-0-7-0-0-0-85-220-0.png/512x512bb.jpg",
+      "versions": [
+        {
+          "version": "8.28.2",
+          "date": "2025-07-14",
+          "downloadURL": "https://repo.ethsign.fyi/769fa47f-638e-4f99-9739-fbf6ae944320/YTMusicUltimate8.28MoePatched.ipa",
+          "size": 100599840,
+          "localizedDescription": "YouTube Music Ultimate 8.28 patched\n-Ready to use on carplay with eth @eth4dmin certs\n-no ads\n-background playback\n-download audio\n-sponsorblock\n-oled theme option\n-etc etc, many other features\n\nCompiled by @moeotf \nbased from dayanch repo here\ndecrypted by @eeveedecrypterbot\nNeed a certificate? Contact @eth4dmin\nNew channel: https://t.me/ethMods\nEthMods Repo: https://repo.ethsign.fyi\nprepatched already thanks to @asdfzxcvbn0 ipapatch bot found here"
+        }
+      ]
+    },
+    {
+      "name": "ProShot",
+      "bundleIdentifier": "com.riseupgames.ProShot",
+      "developerName": "SultanMods",
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/e1/58/88/e1588899-3455-1c4c-6418-f2937aab7214/AppIcon-1x_U007emarketing-0-11-0-85-220-0.png/512x512bb.jpg",
+      "versions": [
+        {
+          "version": "9.5.6",
+          "date": "2025-07-14",
+          "downloadURL": "https://repo.ethsign.fyi/0bba0cd0-0436-4f0e-bc43-bae597b8f609/ProShotv9.5.6ProMoePatched.ipa",
+          "size": 8955581,
+          "localizedDescription": "ProShot 9.5.6 pro (patched)(file picker fix already included)\n- updated to 9.5.6\n-injected with keychain and sideload fix and crack by moeotf\n-app store link below\n\nhttps://apps.apple.com/us/app/proshot/id924438909 ($8)\n\nMade by @moeotf \nNeed a certificate? Contact @eth4dmin\nNew channel: https://t.me/ethMods\nEthMods Repo: https://repo.ethsign.fyi\nprepatched already thanks to @asdfzxcvbn0 ipapatch bot found here"
+        }
+      ]
+    },
+    {
+      "name": "Facetune",
+      "bundleIdentifier": "com.lightricks.Facetune2",
+      "developerName": "SultanMods",
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/0b/3f/b9/0b3fb9fe-4078-750e-f7d7-fa0fe5f528a3/AppIcon-0-0-1x_U007epad-0-1-0-0-sRGB-85-220.png/512x512bb.jpg",
+      "versions": [
+        {
+          "version": "3.94",
+          "date": "2025-07-14",
+          "downloadURL": "https://repo.ethsign.fyi/01f8ac5b-2e5d-4b3c-9b7a-da36ea5adba1/Facetune3.94ProMoePatched.ipa",
+          "size": 337300098,
+          "localizedDescription": "Facetune Pro 3.94\n-updated facetune to 3.94\n-Keychain fix included\n-AI Photo/Video Editor\n\nMade by @moeotf decrypted by @eeveedecrypterbot (can also decrypt testflight apps)\nNeed a certificate? Contact @eth4dmin\nNew channel: https://t.me/ethMods\nEthMods Repo: https://repo.ethsign.fyi\nPrepatched with @asdfzxcvbn0 ipapatch bot found here"
+        }
+      ]
+    }
+  ]
+}
