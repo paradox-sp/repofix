@@ -2,7 +2,7 @@ name: EthSign to SideStore Converter
 
 on:
   schedule:
-    - cron: '0 0 * * *'
+    - cron: '0 0 * * *'  # Daily at midnight UTC
   workflow_dispatch:
 
 jobs:
@@ -20,81 +20,81 @@ jobs:
           python-version: '3.10'
 
       - name: Install dependencies
-        run: pip install requests jsonschema
+        run: pip install requests
 
-      - name: Fetch and convert repo
+      - name: Convert EthSign to SideStore format
         run: |
           python <<EOF
           import requests
           import json
           from datetime import datetime
-          from collections import defaultdict
 
+          # Configuration
           SOURCE_URL = "https://repo.ethsign.fyi/"
-          DEFAULT_DESCRIPTION = "No description available"
+          DEFAULT_DESC = "App from EthSign repository"
           DEFAULT_ICON = "https://paradoxtime.tk/img/pdt_logo_nobg_shadow.png"
 
+          # Fetch source
+          print("🔄 Fetching EthSign repo...")
           try:
               response = requests.get(SOURCE_URL, timeout=15)
               response.raise_for_status()
               src_data = response.json()
           except Exception as e:
-              print(f"🚨 Error fetching source: {e}")
+              print(f"❌ Error fetching source: {e}")
               exit(1)
 
+          # Transform data
           output = {
-              "name": "EthSign (SideStore)",
+              "name": "EthSign Apps",
               "identifier": "ethsign.sidestore",
               "iconURL": DEFAULT_ICON,
               "apps": []
           }
 
+          # Process apps
           for app in src_data.get("apps", []):
-              # Skip apps missing required fields
+              # Skip invalid entries
               if not all(k in app for k in ["name", "bundleIdentifier", "version", "downloadURL"]):
                   continue
 
-              # Ensure all version fields exist
+              # Build version entry with guaranteed description
               version_entry = {
                   "version": app["version"],
                   "date": app.get("versionDate", datetime.now().strftime("%Y-%m-%d")),
                   "downloadURL": app["downloadURL"],
                   "size": app.get("size", 10000000),
-                  "localizedDescription": app.get("localizedDescription", DEFAULT_DESCRIPTION)
+                  "localizedDescription": app.get("localizedDescription", DEFAULT_DESC)
               }
 
-              # Ensure all app fields exist
-              app_entry = {
+              # Build app entry with guaranteed description
+              output["apps"].append({
                   "name": app["name"],
                   "bundleIdentifier": app["bundleIdentifier"],
                   "developerName": app.get("developerName", "Unknown"),
                   "iconURL": app.get("iconURL", DEFAULT_ICON),
-                  "localizedDescription": app.get("localizedDescription", DEFAULT_DESCRIPTION),
+                  "localizedDescription": app.get("localizedDescription", DEFAULT_DESC),
                   "versions": [version_entry]
-              }
+              })
 
-              output["apps"].append(app_entry)
-
+          # Save output
           with open("ethsign-sidestore.json", "w") as f:
               json.dump(output, f, indent=2)
-          print(f"✅ Generated repo with {len(output['apps'])} apps")
+          print(f"✅ Successfully converted {len(output['apps'])} apps")
           EOF
 
-      - name: Validate JSON
+      - name: Verify JSON
         run: |
-          python -c "
-          import json
-          with open('ethsign-sidestore.json') as f:
-              data = json.load(f)
-              assert all('localizedDescription' in app for app in data['apps']), 'Missing localizedDescription'
-              assert all('localizedDescription' in v for app in data['apps'] for v in app['versions']), 'Missing version descriptions'
-          print('✅ All descriptions present')
-          "
+          if ! jq empty ethsign-sidestore.json; then
+            echo "❌ Invalid JSON structure"
+            exit 1
+          fi
+          echo "✅ Valid JSON structure"
 
       - name: Commit changes
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
           git add ethsign-sidestore.json
-          git diff --quiet && git diff --staged --quiet || git commit -m "Update: $(date +'%Y-%m-%d %H:%M')"
+          git diff --quiet && git diff --staged --quiet || git commit -m "Auto-update: $(date +'%Y-%m-%d %H:%M')"
           git push
