@@ -1,5 +1,3 @@
-name: Clean AltStore Repo JSON
-
 on:
   schedule:
     - cron: '0 0 * * *'
@@ -18,12 +16,14 @@ jobs:
           python-version: '3.10'
 
       - name: Install dependencies
-        run: pip install requests
+        run: pip install requests packaging
 
-      - name: Download and clean JSON
+      - name: Download, clean, and sort JSON
         run: |
           python <<EOF
-          import json, requests
+          import json
+          import requests
+          from packaging import version
 
           url = "https://aio.zxcvbn.fyi/r/repo.altstore.json"
           response = requests.get(url)
@@ -60,6 +60,16 @@ jobs:
                           key = (bundle_id, v["version"])
                   seen_versions_global.add(key)
                   cleaned_versions.append(v)
+
+              def version_key(x):
+                  try:
+                      base_ver = x["version"].split("-alt")[0]
+                      return version.parse(base_ver)
+                  except Exception:
+                      return version.parse("0")
+
+              cleaned_versions.sort(key=version_key, reverse=True)
+
               app["versions"] = cleaned_versions
               cleaned_apps.append(app)
 
