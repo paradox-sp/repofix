@@ -153,6 +153,159 @@
 
 # ----------------------------------------------------------------------------------------------------------------------------------------------------
 
+# name: Fetch and Convert EthSign Repo to AltStore Format
+
+# on:
+#   schedule:
+#     - cron: '0 0 * * *'
+#   workflow_dispatch:
+
+# jobs:
+#   convert-and-publish:
+#     runs-on: ubuntu-latest
+#     timeout-minutes: 10
+
+#     steps:
+#       - name: Checkout repository
+#         uses: actions/checkout@v3
+
+#       - name: Set up Python
+#         uses: actions/setup-python@v4
+#         with:
+#           python-version: '3.10'
+
+#       - name: Install dependencies
+#         run: |
+#           pip install requests packaging pyyaml
+
+#       - name: Fetch and convert EthSign repo
+#         run: |
+#           python <<EOF
+#           import requests
+#           import json
+#           from collections import defaultdict
+#           from packaging.version import Version, InvalidVersion
+#           import math
+#           import yaml
+#           from datetime import datetime
+
+#           SOURCE_URL = "https://repo.ethsign.fyi/"
+#           MAX_VERSIONS_PER_APP = 3
+#           REPO_METADATA = {
+#               "identifier": "ethmod.paradoxtime.tk",
+#               "iconURL": "https://paradoxtime.tk/img/pdt_logo_nobg_shadow.png",
+#               "subtitle": "From EthSign repo, fixed for AltStore/SideStore",
+#               "description": "ParadoxTime Repo — automatically synced from EthSign repo",
+#               "website": "https://paradoxtime.tk",
+#               "tintColor": "#FF6B6B",
+#               "apps": []
+#           }
+
+#           try:
+#               response = requests.get(SOURCE_URL, timeout=10)
+#               response.raise_for_status()
+#               src_data = response.json()
+#           except Exception as e:
+#               print(f"Error fetching source: {e}")
+#               exit(1)
+
+#           apps_by_bundle = defaultdict(list)
+#           for app in src_data.get("apps", []):
+#               if not all(k in app for k in ["bundleIdentifier", "version", "downloadURL"]):
+#                   continue
+#               apps_by_bundle[app["bundleIdentifier"]].append(app)
+
+#           def parse_version(ver_str):
+#               try:
+#                   return Version(ver_str)
+#               except InvalidVersion:
+#                   return Version("0.0.0")
+
+#           processed_apps = []
+#           for bundle_id, versions in apps_by_bundle.items():
+#               versions.sort(key=lambda x: parse_version(x.get("version", "0.0.0")), reverse=True)
+#               kept_versions = versions[:MAX_VERSIONS_PER_APP]
+#               if not kept_versions:
+#                   continue
+              
+#               latest = kept_versions[0]
+#               altstore_versions = []
+#               for v in kept_versions:
+#                   altstore_versions.append({
+#                       "version": v["version"],
+#                       "date": v.get("versionDate", datetime.now().strftime("%Y-%m-%d")),
+#                       "size": v.get("size", 0),
+#                       "downloadURL": v["downloadURL"],
+#                       "localizedDescription": v.get("localizedDescription", "")
+#                   })
+              
+#               entitlements = []
+#               if "emu" in bundle_id.lower() or "manic" in latest.get("name", "").lower():
+#                   entitlements.append("com.apple.security.cs.allow-jit")
+              
+#               processed_apps.append({
+#                   "name": latest.get("name", "Unnamed App"),
+#                   "bundleIdentifier": bundle_id,
+#                   "developerName": latest.get("developerName", "Unknown"),
+#                   "iconURL": latest.get("iconURL", REPO_METADATA["iconURL"]),
+#                   "versions": altstore_versions,
+#                   "appPermissions": {
+#                       "entitlements": entitlements,
+#                       "privacy": {}
+#                   }
+#               })
+
+#           CHUNK_COUNT = 3
+#           chunk_size = math.ceil(len(processed_apps) / CHUNK_COUNT)
+          
+#           repos = {
+#               "ethsign-repo-full.json": {
+#                   **REPO_METADATA,
+#                   "name": "ParadoxTime Repo | Full",
+#                   "apps": processed_apps
+#               }
+#           }
+          
+#           for i in range(CHUNK_COUNT):
+#               chunk_name = f"ethsign-repo-part{i+1}.json"
+#               chunk_apps = processed_apps[i*chunk_size : (i+1)*chunk_size]
+#               repos[chunk_name] = {
+#                   **REPO_METADATA,
+#                   "name": f"ParadoxTime Repo | Part {i+1}",
+#                   "apps": chunk_apps
+#               }
+
+#           for filename, data in repos.items():
+#               with open(filename, "w") as f:
+#                   json.dump(data, f, indent=2)
+#           EOF
+
+#       - name: Verify JSON files
+#         run: |
+#           jq empty ethsign-repo-*.json || (echo "Invalid JSON detected!" && exit 1)
+
+#       - name: Commit changes
+#         run: |
+#           git config user.name "github-actions[bot]"
+#           git config user.email "github-actions[bot]@users.noreply.github.com"
+#           git add ethsign-repo-*.json
+#           git diff --quiet && git diff --staged --quiet || git commit -m "Auto-update: $(date +'%Y-%m-%d %H:%M')"
+#           git push
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 name: Fetch and Convert EthSign Repo to AltStore Format
 
 on:
@@ -175,8 +328,7 @@ jobs:
           python-version: '3.10'
 
       - name: Install dependencies
-        run: |
-          pip install requests packaging pyyaml
+        run: pip install requests packaging pyyaml
 
       - name: Fetch and convert EthSign repo
         run: |
@@ -231,19 +383,21 @@ jobs:
               latest = kept_versions[0]
               altstore_versions = []
               for v in kept_versions:
-                  altstore_versions.append({
+                  version_data = {
                       "version": v["version"],
                       "date": v.get("versionDate", datetime.now().strftime("%Y-%m-%d")),
                       "size": v.get("size", 0),
-                      "downloadURL": v["downloadURL"],
-                      "localizedDescription": v.get("localizedDescription", "")
-                  })
+                      "downloadURL": v["downloadURL"]
+                  }
+                  if "localizedDescription" in v:
+                      version_data["localizedDescription"] = v["localizedDescription"]
+                  altstore_versions.append(version_data)
               
               entitlements = []
               if "emu" in bundle_id.lower() or "manic" in latest.get("name", "").lower():
                   entitlements.append("com.apple.security.cs.allow-jit")
               
-              processed_apps.append({
+              app_data = {
                   "name": latest.get("name", "Unnamed App"),
                   "bundleIdentifier": bundle_id,
                   "developerName": latest.get("developerName", "Unknown"),
@@ -253,7 +407,10 @@ jobs:
                       "entitlements": entitlements,
                       "privacy": {}
                   }
-              })
+              }
+              if "localizedDescription" in latest:
+                  app_data["localizedDescription"] = latest["localizedDescription"]
+              processed_apps.append(app_data)
 
           CHUNK_COUNT = 3
           chunk_size = math.ceil(len(processed_apps) / CHUNK_COUNT)
