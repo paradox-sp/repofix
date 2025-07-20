@@ -5,6 +5,9 @@ on:
     - cron: '0 0 * * *'
   workflow_dispatch:
 
+permissions:
+  contents: write
+
 jobs:
   convert-and-deploy:
     runs-on: ubuntu-latest
@@ -12,6 +15,8 @@ jobs:
     steps:
       - name: Checkout repository
         uses: actions/checkout@v4
+        with:
+          fetch-depth: 0  # Needed for git diff
 
       - name: Set up Python
         uses: actions/setup-python@v5
@@ -20,91 +25,117 @@ jobs:
 
       - name: Fetch and Convert JSON
         run: |
+          # Create the Python script file
           cat <<EOF > convert.py
-import json, requests
-from datetime import datetime
-from collections import defaultdict
+          import json, requests
+          from datetime import datetime
+          from collections import defaultdict
 
-def parse_date(date_str):
-    try:
-        return datetime.strptime(date_str, '%Y-%m-%d')
-    except:
-        return datetime.min
+          def parse_date(date_str):
+              try:
+                  return datetime.strptime(date_str, '%Y-%m-%d')
+              except:
+                  return datetime.min
 
-FEATURE_BUNDLES = {
-    'com.google.ios.youtube',
-    'com.burbn.instagram',
-    'com.spotify.client'
-}
+          FEATURE_BUNDLES = {
+              'com.google.ios.youtube',
+              'com.burbn.instagram',
+              'com.spotify.client'
+          }
 
-# Fetch the source JSON
-source = requests.get('https://repo.ethsign.fyi/').json()
-apps = source.get('apps', [])
+          def fetch_source():
+              try:
+                  response = requests.get('https://repo.ethsign.fyi/', timeout=10)
+                  response.raise_for_status()
+                  return response.json()
+              except Exception as e:
+                  print(f"Error fetching source: {e}")
+                  return None
 
-# Group apps by bundleIdentifier
-grouped = defaultdict(list)
-for app in apps:
-    grouped[app['bundleIdentifier']].append(app)
+          def process_apps(source):
+              if not source or 'apps' not in source:
+                  return [], []
+              
+              apps = source.get('apps', [])
+              grouped = defaultdict(list)
+              for app in apps:
+                  grouped[app['bundleIdentifier']].append(app)
 
-# Keep up to 3 latest versions per bundleIdentifier
-filtered_apps = []
-for versions in grouped.values():
-    versions.sort(key=lambda x: parse_date(x.get('versionDate', '')), reverse=True)
-    filtered_apps.extend(versions[:3])
+              filtered_apps = []
+              for versions in grouped.values():
+                  versions.sort(key=lambda x: parse_date(x.get('versionDate', '')), reverse=True)
+                  filtered_apps.extend(versions[:3])
 
-# Separate featured apps
-featured = []
-others = []
+              featured = []
+              others = []
 
-def transform(app, is_featured=False):
-    entry = {
-        'name': app['name'],
-        'bundleIdentifier': app['bundleIdentifier'],
-        'developerName': app['developerName'],
-        'version': app['version'],
-        'versionDate': app.get('versionDate', ''),
-        'downloadURL': app['downloadURL'],
-        'localizedDescription': app.get('localizedDescription', ''),
-        'iconURL': app['iconURL'],
-        'size': app.get('size', 0),
-        'tintColor': '#007AFF'
-    }
-    if is_featured:
-        entry['featured'] = True
-    return entry
+              def transform(app, is_featured=False):
+                  entry = {
+                      'name': app['name'],
+                      'bundleIdentifier': app['bundleIdentifier'],
+                      'developerName': app['developerName'],
+                      'version': app['version'],
+                      'versionDate': app.get('versionDate', ''),
+                      'downloadURL': app['downloadURL'],
+                      'localizedDescription': app.get('localizedDescription', ''),
+                      'iconURL': app['iconURL'],
+                      'size': app.get('size', 0),
+                      'tintColor': '#007AFF'
+                  }
+                  if is_featured:
+                      entry['featured'] = True
+                  return entry
 
-for app in filtered_apps:
-    is_featured = app['bundleIdentifier'] in FEATURE_BUNDLES
-    target_list = featured if is_featured else others
-    target_list.append(transform(app, is_featured))
+              for app in filtered_apps:
+                  is_featured = app['bundleIdentifier'] in FEATURE_BUNDLES
+                  target_list = featured if is_featured else others
+                  target_list.append(transform(app, is_featured))
 
-# Sort both lists by versionDate descending
-featured.sort(key=lambda x: parse_date(x['versionDate']), reverse=True)
-others.sort(key=lambda x: parse_date(x['versionDate']), reverse=True)
+              featured.sort(key=lambda x: parse_date(x['versionDate']), reverse=True)
+              others.sort(key=lambda x: parse_date(x['versionDate']), reverse=True)
+              
+              return featured, others
 
-# Final output JSON
-output = {
-    'name': 'ParadoxTime Repo | Ethmod',
-    'identifier': 'fyi.ethsign.repo',
-    'sourceURL': 'https://raw.githubusercontent.com/paradox-sp/repofix/main/sidestore-source.json',
-    'iconURL': 'https://paradoxtime.tk/img/pdt_logo_nobg_shadow.png',
-    'userinfo': {},
-    'subtitle': 'From EthSign repo, fixed for AltStore/SideStore',
-    'description': 'ParadoxTime Repo — fetches IPAs from EthSign repo',
-    'apps': featured + others
-}
+          def main():
+              source = fetch_source()
+              if not source:
+                  return False
+                  
+              featured, others = process_apps(source)
+              
+              output = {
+                  'name': 'ParadoxTime Repo | Ethmod',
+                  'identifier': 'fyi.ethsign.repo',
+                  'sourceURL': 'https://raw.githubusercontent.com/paradox-sp/repofix/main/sidestore-source.json',
+                  'iconURL': 'https://paradoxtime.tk/img/pdt_logo_nobg_shadow.png',
+                  'userinfo': {},
+                  'subtitle': 'From EthSign repo, fixed for AltStore/SideStore',
+                  'description': 'ParadoxTime Repo — fetches IPAs from EthSign repo',
+                  'apps': featured + others
+              }
 
-# Write the output file
-with open('sidestore-source.json', 'w') as f:
-    json.dump(output, f, indent=2)
-EOF
+              with open('sidestore-source.json', 'w') as f:
+                  json.dump(output, f, indent=2)
+              return True
 
+          if __name__ == '__main__':
+              if not main():
+                  exit(1)
+          EOF
+
+          # Run the conversion
           python3 convert.py
 
       - name: Commit and Push Changes
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
-          git add sidestore-source.json
-          git commit -m "Update sidestore-source.json from EthSign (latest 3 versions, featured, sorted)"
-          git push
+          
+          # Check if there are changes to commit
+          if git diff --quiet --exit-code sidestore-source.json; then
+            echo "No changes to commit"
+          else
+            git add sidestore-source.json
+            git commit -m "Update sidestore-source.json from EthSign (latest 3 versions, featured, sorted)"
+            git push
+          fi
