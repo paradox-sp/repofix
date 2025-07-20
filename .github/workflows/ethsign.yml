@@ -89,7 +89,7 @@ jobs:
                   "iconURL": app.get("iconURL", DEFAULT_ICON),
                   "size": app.get("size", 0),
                   "absoluteVersion": app["version"],
-                  "appID": app["bundleIdentifier"],  # Critical: must match bundleIdentifier
+                  "appID": app["bundleIdentifier"],
                   "versions": [version_entry]
               }
 
@@ -99,7 +99,7 @@ jobs:
           # Save output
           with open("sidestore-source.json", "w") as f:
               json.dump(output, f, indent=2, ensure_ascii=False)
-          print(f"✅ Generated {len(output['apps']} apps")
+          print(f"✅ Generated {len(output['apps'])} apps")  # FIXED: Correct parenthesis
           EOF
 
       - name: Validate JSON
