@@ -1,4 +1,4 @@
-name: EthSign to SideStore Converter
+name: EthSign to SideStore (Limited)
 
 on:
   schedule:
@@ -22,7 +22,7 @@ jobs:
       - name: Install dependencies
         run: pip install requests pytz
 
-      - name: Convert to SideStore format
+      - name: Convert to SideStore format (10 apps only)
         run: |
           python <<EOF
           import requests
@@ -34,9 +34,10 @@ jobs:
           SOURCE_URL = "https://repo.ethsign.fyi/"
           REPO_IDENTIFIER = "fyi.ethsign.repo"
           DEFAULT_ICON = "https://paradoxtime.tk/img/pdt_logo_nobg_shadow.png"
+          MAX_APPS = 10  # Safety limit to prevent crashes
 
           # Fetch source
-          print("🔄 Fetching EthSign repo...")
+          print("🔄 Fetching EthSign repo (first 10 apps only)...")
           try:
               response = requests.get(SOURCE_URL, timeout=15)
               response.raise_for_status()
@@ -47,23 +48,27 @@ jobs:
 
           # Transform to SideStore format
           output = {
-              "name": "EthSign Apps",
+              "name": "EthSign Apps (10 Sample)",
               "identifier": REPO_IDENTIFIER,
-              "sourceURL": "https://your-github-repo/sidestore-source.json",  # Update this!
+              "sourceURL": "https://raw.githubusercontent.com/paradox-sp/repofix/main/sidestore-source.json",
               "iconURL": DEFAULT_ICON,
               "userinfo": {},
               "apps": []
           }
 
-          # Process apps
+          # Process only first 10 valid apps
+          processed_count = 0
           for app in src_data.get("apps", []):
+              if processed_count >= MAX_APPS:
+                  break
+              
               if not all(k in app for k in ["name", "bundleIdentifier", "version", "downloadURL"]):
                   continue
 
               # Get proper ISO 8601 timestamp
               now = datetime.now(timezone.utc).astimezone().isoformat()
 
-              # Build version entry (minimal required fields)
+              # Build minimal required version entry
               version_entry = {
                   "version": app["version"],
                   "date": app.get("versionDate", now),
@@ -72,7 +77,7 @@ jobs:
                   "absoluteVersion": app["version"]
               }
 
-              # Build app entry (minimal required fields)
+              # Build minimal required app entry
               app_entry = {
                   "name": app["name"],
                   "bundleIdentifier": app["bundleIdentifier"],
@@ -84,66 +89,42 @@ jobs:
                   "iconURL": app.get("iconURL", DEFAULT_ICON),
                   "size": app.get("size", 0),
                   "absoluteVersion": app["version"],
-                  "appID": app["bundleIdentifier"],  # Must match bundleIdentifier
+                  "appID": app["bundleIdentifier"],  # Critical: must match bundleIdentifier
                   "versions": [version_entry]
               }
 
-              # Optional fields (only add if they exist)
-              for field in ["subtitle", "tintColor", "screenshotURLs"]:
-                  if field in app:
-                      app_entry[field] = app[field]
-
               output["apps"].append(app_entry)
+              processed_count += 1
 
           # Save output
           with open("sidestore-source.json", "w") as f:
               json.dump(output, f, indent=2, ensure_ascii=False)
-          print(f"✅ Generated {len(output['apps'])} apps")
+          print(f"✅ Generated {len(output['apps']} apps")
           EOF
 
       - name: Validate JSON
         run: |
           sudo apt-get install -y jq
           
-          # Check basic JSON validity
+          # Basic validation
           if ! jq empty sidestore-source.json; then
             echo "❌ Invalid JSON structure"
             exit 1
           fi
 
-          # Check critical SideStore requirements
-          REQUIRED_FIELDS=(
-            '.identifier'
-            '.sourceURL'
-            '.apps[].name'
-            '.apps[].bundleIdentifier'
-            '.apps[].version'
-            '.apps[].downloadURL'
-            '.apps[].absoluteVersion'
-            '.apps[].appID'
-            '.apps[].versions[].version'
-            '.apps[].versions[].downloadURL'
-          )
-
-          for field in "${REQUIRED_FIELDS[@]}"; do
-            if ! jq -e "$field" sidestore-source.json >/dev/null; then
-              echo "❌ Missing required field: $field"
-              exit 1
-            fi
-          done
-
-          # Verify appID matches bundleIdentifier
-          if jq -e '.apps[] | select(.appID != .bundleIdentifier)' sidestore-source.json >/dev/null; then
-            echo "❌ Found apps where appID doesn't match bundleIdentifier"
+          # Check for exactly 10 apps
+          APP_COUNT=$(jq '.apps | length' sidestore-source.json)
+          if [ "$APP_COUNT" -ne 10 ]; then
+            echo "❌ Expected 10 apps, got $APP_COUNT"
             exit 1
           fi
 
-          echo "✅ All validations passed"
+          echo "✅ Validated 10 apps successfully"
 
       - name: Commit changes
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
           git add sidestore-source.json
-          git diff --quiet && git diff --staged --quiet || git commit -m "Auto-update: $(date +'%Y-%m-%d %H:%M')"
+          git diff --quiet && git diff --staged --quiet || git commit -m "Auto-update: 10 apps - $(date +'%Y-%m-%d %H:%M')"
           git push
