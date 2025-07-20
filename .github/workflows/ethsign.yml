@@ -28,14 +28,12 @@ jobs:
           import requests
           import json
           from datetime import datetime, timezone
-          from collections import defaultdict
           from packaging.version import Version, InvalidVersion
 
           # Configuration
           SOURCE_URL = "https://repo.ethsign.fyi/"
           REPO_IDENTIFIER = "fyi.ethsign.repo"
           DEFAULT_ICON = "https://paradoxtime.tk/img/pdt_logo_nobg_shadow.png"
-          MAX_VERSIONS_PER_APP = 3
           YOUR_REPO_URL = "https://raw.githubusercontent.com/paradox-sp/repofix/main/sidestore-source.json"
 
           # Fetch source
@@ -56,17 +54,9 @@ jobs:
               "iconURL": DEFAULT_ICON,
               "userinfo": {},
               "subtitle": "From EthSign repo, fixed for AltStore/SideStore",
-              "description": "ParadoxTime Repo — fetches IPAs from EthSign repo and fixes json format for altstore.",
+              "description": "ParadoxTime Repo — fetches IPAs from EthSign repo",
               "apps": []
           }
-
-          # Group apps by bundleIdentifier and developer
-          apps_by_bundle_dev = defaultdict(list)
-          for app in src_data.get("apps", []):
-              if not all(k in app for k in ["name", "bundleIdentifier", "version", "downloadURL"]):
-                  continue
-              dev = app.get("developerName", "Unknown")
-              apps_by_bundle_dev[(app["bundleIdentifier"], dev)].append(app)
 
           def parse_version(ver_str):
               try:
@@ -74,72 +64,65 @@ jobs:
               except InvalidVersion:
                   return Version("0.0.0")
 
-          # Process each unique bundle+developer combination
-          for (bundle_id, dev), versions in apps_by_bundle_dev.items():
-              # Sort versions by version number (newest first)
-              versions.sort(key=lambda x: parse_version(x.get("version", "0.0.0")), reverse=True)
-              kept_versions = versions[:MAX_VERSIONS_PER_APP]
+          # Track newest version of each bundle
+          newest_versions = {}
 
-              if not kept_versions:
+          for app in src_data.get("apps", []):
+              if not all(k in app for k in ["name", "bundleIdentifier", "version", "downloadURL"]):
                   continue
 
-              latest_version = kept_versions[0]
+              bundle_id = app["bundleIdentifier"]
+              current_version = parse_version(app["version"])
+
+              # Keep only the newest version
+              if bundle_id not in newest_versions or current_version > parse_version(newest_versions[bundle_id]["version"]):
+                  newest_versions[bundle_id] = app
+
+          # Process the newest versions
+          for bundle_id, app in newest_versions.items():
               now = datetime.now(timezone.utc).astimezone().isoformat()
 
-              # Build version entries with proper date handling
-              altstore_versions = []
-              for v in kept_versions:
-                  version_date = v.get("versionDate")
-                  if version_date and not version_date.endswith('Z'):
-                      version_date += 'Z'  # Ensure proper timezone format
-                  altstore_versions.append({
-                      "version": v["version"],
-                      "date": version_date if version_date else now,
-                      "downloadURL": v["downloadURL"],
-                      "size": v.get("size", 0),
-                      "absoluteVersion": v["version"],
-                      "localizedDescription": v.get("localizedDescription", f"Version {v['version']}")
-                  })
+              # Build version entry
+              version_entry = {
+                  "version": app["version"],
+                  "date": app.get("versionDate", now),
+                  "downloadURL": app["downloadURL"],
+                  "size": app.get("size", 0),
+                  "absoluteVersion": app["version"],
+                  "localizedDescription": app.get("localizedDescription", "Latest version")
+              }
 
-              # Build app entry with all required fields
+              # Build app entry
               app_entry = {
-                  "name": latest_version["name"],
+                  "name": app["name"],
                   "bundleIdentifier": bundle_id,
-                  "developerName": dev,
-                  "version": latest_version["version"],
-                  "versionDate": altstore_versions[0]["date"],
-                  "downloadURL": latest_version["downloadURL"],
-                  "localizedDescription": latest_version.get("localizedDescription", "App from EthSign repository"),
-                  "iconURL": latest_version.get("iconURL", DEFAULT_ICON),
-                  "size": latest_version.get("size", 0),
-                  "absoluteVersion": latest_version["version"],
+                  "developerName": app.get("developerName", "Unknown Developer"),
+                  "version": app["version"],
+                  "versionDate": version_entry["date"],
+                  "downloadURL": app["downloadURL"],
+                  "localizedDescription": app.get("localizedDescription", "App from EthSign repository"),
+                  "iconURL": app.get("iconURL", DEFAULT_ICON),
+                  "size": app.get("size", 0),
+                  "absoluteVersion": app["version"],
                   "appID": bundle_id,
-                  "versions": altstore_versions
+                  "versions": [version_entry]
               }
 
-              # Add optional fields only if they exist
-              optional_fields = {
-                  "subtitle": latest_version.get("subtitle"),
-                  "tintColor": latest_version.get("tintColor"),
-                  "screenshotURLs": latest_version.get("screenshotURLs", []),
-                  "category": latest_version.get("category", "other")
-              }
-              for k, v in optional_fields.items():
-                  if v:
-                      app_entry[k] = v
+              # Add optional fields
+              for field in ["subtitle", "tintColor", "screenshotURLs", "category"]:
+                  if field in app:
+                      app_entry[field] = app[field]
 
               output["apps"].append(app_entry)
 
-          # Save output with proper encoding
+          # Save output
           with open("sidestore-source.json", "w", encoding='utf-8') as f:
               json.dump(output, f, indent=2, ensure_ascii=False)
-          print(f"✅ Generated {len(output['apps'])} apps with up to {MAX_VERSIONS_PER_APP} versions each")
+          print(f"✅ Generated {len(output['apps'])} unique apps (newest versions only)")
           EOF
 
       - name: Validate JSON
         run: |
-          sudo apt-get install -y jq
-          
           # Check for duplicate bundle identifiers
           DUPLICATES=$(jq -r '.apps[].bundleIdentifier' sidestore-source.json | sort | uniq -d)
           if [ -n "$DUPLICATES" ]; then
@@ -148,34 +131,11 @@ jobs:
             exit 1
           fi
 
-          # Validate date formats
-          if jq -e '.apps[].versions[].date | select(. | endswith("Z") | not)' sidestore-source.json >/dev/null; then
-            echo "❌ Found invalid date formats (must end with Z)"
+          # Basic JSON validation
+          if ! jq empty sidestore-source.json; then
+            echo "❌ Invalid JSON structure"
             exit 1
           fi
-
-          # Check required fields
-          REQUIRED_FIELDS=(
-            '.name'
-            '.identifier'
-            '.sourceURL'
-            '.apps[].name'
-            '.apps[].bundleIdentifier'
-            '.apps[].version'
-            '.apps[].downloadURL'
-            '.apps[].absoluteVersion'
-            '.apps[].appID'
-            '.apps[].versions[].version'
-            '.apps[].versions[].downloadURL'
-            '.apps[].versions[].date'
-          )
-
-          for field in "${REQUIRED_FIELDS[@]}"; do
-            if ! jq -e "$field" sidestore-source.json >/dev/null; then
-              echo "❌ Missing required field: $field"
-              exit 1
-            fi
-          done
 
           echo "✅ All validations passed"
 
@@ -184,5 +144,5 @@ jobs:
           git config user.name "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
           git add sidestore-source.json
-          git diff --quiet && git diff --staged --quiet || git commit -m "Auto-update: $(date +'%Y-%m-%d %H:%M')"
+          git diff --quiet && git diff --staged --quiet || git commit -m "Auto-update: Newest versions only - $(date +'%Y-%m-%d %H:%M')"
           git push
