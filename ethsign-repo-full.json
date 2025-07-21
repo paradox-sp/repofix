@@ -7,6 +7,142 @@
   "tintColor": "#FF6B6B",
   "apps": [
     {
+      "name": "YouTube",
+      "bundleIdentifier": "com.google.ios.youtube",
+      "developerName": "SultanMods",
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/0e/28/24/0e282411-f2e0-4b46-65e5-c6131964cebb/logo_youtube_2024_q4_color-0-1x_U007emarketing-0-0-0-7-0-0-0-85-220-0.png/512x512bb.jpg",
+      "versions": [
+        {
+          "version": "20.29.3",
+          "date": "2025-07-21",
+          "size": 130802714,
+          "downloadURL": "https://repo.ethsign.fyi/cdbd8544-f4e1-4b3e-8bc6-9cb5c6e82496/youtube20.29.3YTPlus5.2B1July20thMoePatched.ipa",
+          "localizedDescription": "YouTube 20.29.3 YTLite 5.2 Beta 1 Full July 20th build (added new tweaks)\n\nJuly 20th changelog: Now includes bigYTminiPlayer\nNew tweaks added in this build \n\nBigYTMiniPlayer: tweak that makes the miniplayer and pip in youtube easier to see\n\n-BigYTMiniPlayer\n-YTABConfig 1.7.9 (highly requested)\n-YTVideoErrorAlert 1.0.2\n-Alderis 1.2.4\n-YouChooseQuality 1.0.6\n-YouLoop 1.0.0\n-YouMute 1.3.2\n-YouSlider 1.2.2\n-YouSpeed 1.6.2\n-Youtimestamp 1.1.0\nThis build does not support casting and might have issues with the tab bar. I don't recommend it until beta 2 is released, For the most stable build that also has 5.2 beta 1 (the same tweak as this ipa, use the 20.10 build posted below\n(turn off vp9 if you have a 15 pro or above, not needed its outdated, and is replaced with AV1 on iphone 15+ and up which supports 4K as well)(today's updates are in bold, to see what changed in those tweaks just click on the new version number which is blue and read through the GitHub commit changes)\n-YouTube \n-YTLite 5.2 beta 1\n-YTABConfig 1.7.9\n-YTVideoErrorAlert 1.0.2\n-Alderis 1.2.4\n-YouChooseQuality 1.0.6\n-YouLoop 1.0.0\n-YouMute 1.3.2\n-YouSlider 1.2.2\n-YouSpeed 1.6.2\n-Youtimestamp 1.1.0\n-Youpip 1.12.7\n-YouQuality 1.3.6\n-YTUHD 1.6.6\n-YTClassicVideoQuality 1.5.2\n-YTvideoOverlay 2.2.3\n-ReturnYouTubeDislike 1.13.12 updated to 1.13.13\n-DontEatMyContent 1.1.10 \n-YouGroupSettings 1.0.4\n-YTvideoerroralert 1.0.2\n-OpenYoutubeSafariExtension\nMade by @moeotf \ud83d\udc4c\ud83c\udffb\ndecrypted by @eeveedecrypterbot\nNeed a certificate? Contact @eth4dmin\nNew channel: https://t.me/ethMods\nEthMods Repo: https://repo.ethsign.fyi\nprepatched already thanks to @asdfzxcvbn0 ipapatch bot found here\nBeta 2 ipa only for people who purchased beta 2 from Dans Patreon"
+        },
+        {
+          "version": "20.28.2",
+          "date": "2025-07-21",
+          "size": 130512037,
+          "downloadURL": "https://repo.ethsign.fyi/394e9e5b-ecfc-4d6f-870f-d0c04b7f2ed9/youtube20.28.2YTPlus5.2B1July20thMoePatched.ipa",
+          "localizedDescription": "YouTube 20.28.2 YTLite 5.2 Beta 1 Full July 20th build (added new tweaks)\n\nJuly 20th changelog: Now includes bigYTminiPlayer\nNew tweaks added in this build \n\nBigYTMiniPlayer: tweak that makes the miniplayer and pip in youtube easier to see\n\n-BigYTMiniPlayer\n-YTABConfig 1.7.9 (highly requested)\n-YTVideoErrorAlert 1.0.2\n-Alderis 1.2.4\n-YouChooseQuality 1.0.6\n-YouLoop 1.0.0\n-YouMute 1.3.2\n-YouSlider 1.2.2\n-YouSpeed 1.6.2\n-Youtimestamp 1.1.0\nThis build does not support casting and might have issues with the tab bar. I don't recommend it until beta 2 is released, For the most stable build that also has 5.2 beta 1 (the same tweak as this ipa, use the 20.10 build posted below\n(turn off vp9 if you have a 15 pro or above, not needed its outdated, and is replaced with AV1 on iphone 15+ and up which supports 4K as well)(today's updates are in bold, to see what changed in those tweaks just click on the new version number which is blue and read through the GitHub commit changes)\n-YouTube \n-YTLite 5.2 beta 1\n-YTABConfig 1.7.9\n-YTVideoErrorAlert 1.0.2\n-Alderis 1.2.4\n-YouChooseQuality 1.0.6\n-YouLoop 1.0.0\n-YouMute 1.3.2\n-YouSlider 1.2.2\n-YouSpeed 1.6.2\n-Youtimestamp 1.1.0\n-Youpip 1.12.7\n-YouQuality 1.3.6\n-YTUHD 1.6.6\n-YTClassicVideoQuality 1.5.2\n-YTvideoOverlay 2.2.3\n-ReturnYouTubeDislike 1.13.12 updated to 1.13.13\n-DontEatMyContent 1.1.10 \n-YouGroupSettings 1.0.4\n-YTvideoerroralert 1.0.2\n-OpenYoutubeSafariExtension\nMade by @moeotf \ud83d\udc4c\ud83c\udffb\ndecrypted by @eeveedecrypterbot\nNeed a certificate? Contact @eth4dmin\nNew channel: https://t.me/ethMods\nEthMods Repo: https://repo.ethsign.fyi\nprepatched already thanks to @asdfzxcvbn0 ipapatch bot found here\nJoin Dans Patreon for beta 2"
+        },
+        {
+          "version": "20.28.2",
+          "date": "2025-07-20",
+          "size": 127251837,
+          "downloadURL": "https://repo.ethsign.fyi/02e47a5c-9268-48fd-9e7d-b578b4a0613a/YouTubeRebornPlus_20.28.2-4.2.9Moe.ipa",
+          "localizedDescription": "YouTube reborn plus 20.28.2-4.2.9 \nAnother YouTube tweak read about it on the GitHub linked below \n\nhttps://github.com/arichornlover/YouTubeRebornPlus\n\nMade by @moeotf \ndecrypted by @eeveedecrypterbot\nNeed a certificate? Contact @eth4dmin\nNew channel: https://t.me/ethMods\nEthmods Group channel: https://t.me/ethModsGroup\nEthMods Repo: https://repo.ethsign.fyi\nprepatched already thanks to @asdfzxcvbn0 ipapatch bot found here"
+        }
+      ],
+      "appPermissions": {
+        "entitlements": [],
+        "privacy": {}
+      },
+      "localizedDescription": "YouTube 20.29.3 YTLite 5.2 Beta 1 Full July 20th build (added new tweaks)\n\nJuly 20th changelog: Now includes bigYTminiPlayer\nNew tweaks added in this build \n\nBigYTMiniPlayer: tweak that makes the miniplayer and pip in youtube easier to see\n\n-BigYTMiniPlayer\n-YTABConfig 1.7.9 (highly requested)\n-YTVideoErrorAlert 1.0.2\n-Alderis 1.2.4\n-YouChooseQuality 1.0.6\n-YouLoop 1.0.0\n-YouMute 1.3.2\n-YouSlider 1.2.2\n-YouSpeed 1.6.2\n-Youtimestamp 1.1.0\nThis build does not support casting and might have issues with the tab bar. I don't recommend it until beta 2 is released, For the most stable build that also has 5.2 beta 1 (the same tweak as this ipa, use the 20.10 build posted below\n(turn off vp9 if you have a 15 pro or above, not needed its outdated, and is replaced with AV1 on iphone 15+ and up which supports 4K as well)(today's updates are in bold, to see what changed in those tweaks just click on the new version number which is blue and read through the GitHub commit changes)\n-YouTube \n-YTLite 5.2 beta 1\n-YTABConfig 1.7.9\n-YTVideoErrorAlert 1.0.2\n-Alderis 1.2.4\n-YouChooseQuality 1.0.6\n-YouLoop 1.0.0\n-YouMute 1.3.2\n-YouSlider 1.2.2\n-YouSpeed 1.6.2\n-Youtimestamp 1.1.0\n-Youpip 1.12.7\n-YouQuality 1.3.6\n-YTUHD 1.6.6\n-YTClassicVideoQuality 1.5.2\n-YTvideoOverlay 2.2.3\n-ReturnYouTubeDislike 1.13.12 updated to 1.13.13\n-DontEatMyContent 1.1.10 \n-YouGroupSettings 1.0.4\n-YTvideoerroralert 1.0.2\n-OpenYoutubeSafariExtension\nMade by @moeotf \ud83d\udc4c\ud83c\udffb\ndecrypted by @eeveedecrypterbot\nNeed a certificate? Contact @eth4dmin\nNew channel: https://t.me/ethMods\nEthMods Repo: https://repo.ethsign.fyi\nprepatched already thanks to @asdfzxcvbn0 ipapatch bot found here\nBeta 2 ipa only for people who purchased beta 2 from Dans Patreon"
+    },
+    {
+      "name": "Waze",
+      "bundleIdentifier": "com.waze.iphone",
+      "developerName": "SultanMods",
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/ab/29/be/ab29be5d-6a96-e020-bc89-7a3481eaf2d7/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/512x512bb.jpg",
+      "versions": [
+        {
+          "version": "5.9.0",
+          "date": "2025-07-20",
+          "size": 85490524,
+          "downloadURL": "https://repo.ethsign.fyi/610b9f1e-b304-4459-ad9e-3f1214443ed4/WazePlus_5.9.0.2405_Jacks_Apps.ipa",
+          "localizedDescription": "Waze 5.9.0.2405\n- Waze 5.9.0.2405\n- Blocking Waze ads and sound control button\n- Log in fixed\n\nMade by @Jacks_Apps\nIf you need a certificate DM @eth4dmin"
+        },
+        {
+          "version": "5.8.1",
+          "date": "2025-06-25",
+          "size": 83503660,
+          "downloadURL": "https://repo.ethsign.fyi/c9972d8e-91ec-4da1-aa4f-d95442d60300/WazePlus_5.8.1.0_Jacks_Apps.ipa",
+          "localizedDescription": "Waze 5.8.1.0\n- Waze 5.8.1.0\n- Blocking Waze ads and sound control button\n- Log in fixed\n\nMade by @Jacks_Apps\nIf you need a certificate DM @eth4dmin"
+        },
+        {
+          "version": "5.4.1",
+          "date": "2025-03-10",
+          "size": 84185304,
+          "downloadURL": "https://repo.ethsign.fyi/7e9ba2d2-064c-4e47-9e34-99aa3b965b7d/WazePlus_5.4.1.0_Jacks_Apps.ipa",
+          "localizedDescription": "Waze 5.4.1.0\n- Waze 5.4.1.0\n- Blocking Waze ads and sound control button\n- Log in fixed\n\nMade by @Jacks_Apps\nIf you need a certificate DM @eth4dmin"
+        }
+      ],
+      "appPermissions": {
+        "entitlements": [],
+        "privacy": {}
+      },
+      "localizedDescription": "Waze 5.9.0.2405\n- Waze 5.9.0.2405\n- Blocking Waze ads and sound control button\n- Log in fixed\n\nMade by @Jacks_Apps\nIf you need a certificate DM @eth4dmin"
+    },
+    {
+      "name": "Photoleap",
+      "bundleIdentifier": "com.lightricks.Enlight-Editor",
+      "developerName": "SultanMods",
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/9d/eb/16/9deb1699-7278-fdfb-84ad-d4d8f28ba8f0/AppIcon-0-0-1x_U007emarketing-0-8-0-0-85-220.png/512x512bb.jpg",
+      "versions": [
+        {
+          "version": "2.115",
+          "date": "2025-07-20",
+          "size": 378687558,
+          "downloadURL": "https://repo.ethsign.fyi/f3152ac1-a79b-428f-ab35-4b7863f441b1/Photoleap2.115ProMoePatched.ipa",
+          "localizedDescription": "Photoleap AI Art Photo Editor v2.115\n- Pro Features Unlocked\n- injected keychain and sideload fix\n-one of the best AI imaging apps\n\nAppstore Link \nMade by @moeotf decrypted by anyipa.me\nNeed a certificate? Contact @eth4dmin\nNew channel: https://t.me/ethMods\nEthMods Repo: https://repo.ethsign.fyi"
+        },
+        {
+          "version": "2.114",
+          "date": "2025-06-22",
+          "size": 365591502,
+          "downloadURL": "https://repo.ethsign.fyi/e7ed14ae-3a73-4fff-80ab-c202e0ddc1d5/Photoleap2.114ProMoe.ipa",
+          "localizedDescription": "Photoleap AI Art Photo Editor v2.114\n- Pro Features Unlocked\n- injected keychain and sideload fix\n-one of the best AI imaging apps\n\nAppstore Link \nMade by @moeotf decrypted by anyipa.me\nNeed a certificate? Contact @eth4dmin\nNew channel: https://t.me/ethMods\nEthMods Repo: https://repo.ethsign.fyi"
+        },
+        {
+          "version": "2.113",
+          "date": "2025-05-11",
+          "size": 361151162,
+          "downloadURL": "https://repo.ethsign.fyi/d6fb617b-6392-4fb7-bdc2-dbde00dc643d/Photoleap2.113Promoe.ipa",
+          "localizedDescription": "Photoleap AI Art Photo Editor v2.113\n- Pro Features Unlocked\n- injected keychain and sideload fix\n-one of the best AI imaging apps\n\nAppstore Link \nMade by @moeotf decrypted by anyipa.me\nNeed a certificate? Contact @eth4dmin\nNew channel: https://t.me/ethMods\nEthMods Repo: https://repo.ethsign.fyi"
+        }
+      ],
+      "appPermissions": {
+        "entitlements": [],
+        "privacy": {}
+      },
+      "localizedDescription": "Photoleap AI Art Photo Editor v2.115\n- Pro Features Unlocked\n- injected keychain and sideload fix\n-one of the best AI imaging apps\n\nAppstore Link \nMade by @moeotf decrypted by anyipa.me\nNeed a certificate? Contact @eth4dmin\nNew channel: https://t.me/ethMods\nEthMods Repo: https://repo.ethsign.fyi"
+    },
+    {
+      "name": "OrNET Browser",
+      "bundleIdentifier": "ch.b-eng.tor",
+      "developerName": "SultanMods",
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/cb/0b/7b/cb0b7b21-7de6-2ceb-0008-62acbfdfa7b5/AppIcon-Old-0-0-1x_U007epad-0-1-0-0-85-220.png/512x512bb.jpg",
+      "versions": [
+        {
+          "version": "3.8.2",
+          "date": "2025-07-20",
+          "size": 72602547,
+          "downloadURL": "https://repo.ethsign.fyi/3589643e-5f22-4366-a32c-ad18131d14e2/Tor3.8.2ProMoePatched.ipa",
+          "localizedDescription": "TOR 3.8.2 Pro (patched)\n- premium features unlocked\n-updated to latest IPA\n-your certificate might need VPN entitlements\n-vpn might not work, use a 3rd party vpn\nTor taxi link for markets etc: http://tortaxi2dev6xjwbaydqzla77rrnth7yn2oqzjfmiuwn5h6vsk2a4syd.onion/\nMade by @moeotf \ndecrypted by @eeveedecrypterbot\nNeed a certificate? Contact @eth4dmin\nNew channel: https://t.me/ethMods\nEthmods Group channel: https://t.me/ethModsGroup\nEthMods Repo: https://repo.ethsign.fyi\nprepatched already thanks to @asdfzxcvbn0 ipapatch bot found here"
+        },
+        {
+          "version": "3.7.17",
+          "date": "2025-06-27",
+          "size": 69603739,
+          "downloadURL": "https://repo.ethsign.fyi/b6e6b2ad-0f9c-4664-81bc-974409b2710b/Tor3.7.17ProMoe.ipa",
+          "localizedDescription": "TOR 3.7.17 Pro (no plugins to patch)\n- premium features unlocked\n-updated to latest IPA 3.7.17\n-your certificate might need VPN entitlements\n-vpn might not work, use a 3rd party vpn\nTor taxi link for markets etc: http://tortaxi2dev6xjwbaydqzla77rrnth7yn2oqzjfmiuwn5h6vsk2a4syd.onion/\n- Posted and keychain and hack injected by @moeotf, decrypted by @eeveedecrypterbot\nNeed a certificate? Contact @eth4dmin\nNew channel: https://t.me/ethMods\nEthMods Repo: https://repo.ethsign.fyi"
+        },
+        {
+          "version": "3.7.15",
+          "date": "2025-06-06",
+          "size": 69282407,
+          "downloadURL": "https://repo.ethsign.fyi/a867a40f-f886-4de7-93bb-0c998f2a402c/Tor3.7.15Pro.ipa",
+          "localizedDescription": "TOR 3.7.15 Pro (no plugins to patch)\n- premium features unlocked\n-updated to latest IPA 3.7.15\n-your certificate might need VPN entitlements\n-vpn might not work, use a 3rd party vpn\nTor taxi link for markets etc: http://tortaxi2dev6xjwbaydqzla77rrnth7yn2oqzjfmiuwn5h6vsk2a4syd.onion/\n- Posted and keychain and hack injected by @moeotf, decrypted by @eeveedecrypterbot\nNeed a certificate? Contact @eth4dmin\nNew channel: https://t.me/ethMods\nEthMods Repo: https://repo.ethsign.fyi"
+        }
+      ],
+      "appPermissions": {
+        "entitlements": [],
+        "privacy": {}
+      },
+      "localizedDescription": "TOR 3.8.2 Pro (patched)\n- premium features unlocked\n-updated to latest IPA\n-your certificate might need VPN entitlements\n-vpn might not work, use a 3rd party vpn\nTor taxi link for markets etc: http://tortaxi2dev6xjwbaydqzla77rrnth7yn2oqzjfmiuwn5h6vsk2a4syd.onion/\nMade by @moeotf \ndecrypted by @eeveedecrypterbot\nNeed a certificate? Contact @eth4dmin\nNew channel: https://t.me/ethMods\nEthmods Group channel: https://t.me/ethModsGroup\nEthMods Repo: https://repo.ethsign.fyi\nprepatched already thanks to @asdfzxcvbn0 ipapatch bot found here"
+    },
+    {
       "name": "Manic EMU",
       "bundleIdentifier": "com.aoshuang.manicemu",
       "developerName": "SultanMods",
@@ -1402,40 +1538,6 @@
       "localizedDescription": "Nicegram 2.1.6 official not beta | TGExtra 1.3.1 (patched)\n- Updated nicegram to 2.1.6 \n- Updated TGExtra to 1.3-1\nTGExtra by ChocolateFluffy (@swiftLeopard)\n\u2022\u26a0\ufe0fTo open the tweak settings Tap 5 Times on the Chats Tab Button. Or Go To settings and Long Press on \"Ask a Question\".\nDisable Ads\nDisable Online Status\nPrevent others from seeing you online.\nDisable Typing Status\nHide when you're typing messages.\nDisable Recording Video Status\nHide when you're recording a video.\nDisable Uploading Video Status\nHide when you're uploading a Video\nDisable Voice Message\nRecording Status\nHide when you're recording a voice message.\nDisable Voice Message\nUploading Status\nHide when you're uploading a voice message.\nDisable Uploading Photo Status\nHide when you're uploading a Photo\nDisable Uploading File Status\nHide when you're uploading a file.\nDisable Choosing Location Status\nHide when you're choosing a location.\nDisable Choosing Contact\nHide when you're choosing a contact.\nDisable Recording Round\nVideo Status\nHide when you're recording a round video.\nDisable Uploading Round\nVideo Status\nDisable Uploading Round Video Status\nDisable Speaking in Group Call Status\nHide when you're speaking in a group call.\nDisable Choosing Sticker Status\nHide when you're picking a sticker.\nDisable Emoji Interaction Status\nHide when you interact with emoji.\nDisable Emoji Acknowledgement\nStatus\nHide when you react with emoji to a message.\nREAD RECEIPTS\nDisable Message Read Receipts\nPrevent others from seeing you've read their messages.\nDisable Story Read Receipts\nPrevent others from seeing you've viewed their stories.\nMade by @moeotf \ndecrypted by @eeveedecrypterbot \nNeed a certificate? Contact @eth4dmin\nNew channel: https://t.me/ethMods\nEthMods Repo: https://repo.ethsign.fyi\nprepatched already thanks to @asdfzxcvbn0 ipapatch bot found here"
     },
     {
-      "name": "YouTube",
-      "bundleIdentifier": "com.google.ios.youtube",
-      "developerName": "SultanMods",
-      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/b5/30/98/b5309846-02e7-a3bc-e412-64ca57ce2f41/logo_youtube_2024_q4_color-0-1x_U007emarketing-0-0-0-7-0-0-0-85-220-0.png/512x512bb.jpg",
-      "versions": [
-        {
-          "version": "20.26.7",
-          "date": "2025-07-05",
-          "size": 126049661,
-          "downloadURL": "https://repo.ethsign.fyi/b41dc5c0-788f-4707-8a30-e463afffa204/YouTube20.26.7YTPlus5.2B1FullJuly5thMoePatched.ipa",
-          "localizedDescription": "YouTube 20.26.7 YTLite 5.2 Beta 1 Full July 5th build (added new tweaks)\nNew tweaks added in this build (july 5th):\n-YTABConfig 1.7.9 (highly requested)\n-YTVideoErrorAlert 1.0.2\n-Alderis 1.2.3\n-YouChooseQuality 1.0.6\n-YouLoop 1.0.0\n-YouMute 1.3.2\n-YouSlider 1.2.2\n-YouSpeed 1.6.1\n-Youtimestamp 1.1.0\nThis build does not support casting and might have issues with the tab bar. I don't recommend it until beta 2 is released, For the most stable build that also has 5.2 beta 1 (the same tweak as this ipa, use the 20.10 build posted below\n(turn off vp9 if you have a 15 pro or above, not needed its outdated, and is replaced with AV1 on iphone 15+ and up which supports 4K as well)(today's updates are in bold, to see what changed in those tweaks just click on the new version number which is blue and read through the GitHub commit changes)\n-YouTube \n-YTLite 5.2 beta 1\n-YTABConfig 1.7.9\n-YTVideoErrorAlert 1.0.2\n-Alderis 1.2.3\n-YouChooseQuality 1.0.6\n-YouLoop 1.0.0\n-YouMute 1.3.2\n-YouSlider 1.2.2\n-YouSpeed 1.6.1\n-Youtimestamp 1.1.0\n-Youpip 1.12.7\n-YouQuality 1.3.6\n-YTUHD 1.6.6\n-YTClassicVideoQuality 1.5.2\n-YTvideoOverlay 2.2.3\n-ReturnYouTubeDislike 1.13.12 updated to 1.13.13\n-DontEatMyContent 1.1.10 \n-YouGroupSettings 1.0.4\n-YTvideoerroralert 1.0.2\n-OpenYoutubeSafariExtension\nMade by @moeotf \ud83d\udc4c\ud83c\udffb\ndecrypted by @eeveedecrypterbot\nNeed a certificate? Contact @eth4dmin\nNew channel: https://t.me/ethMods\nEthMods Repo: https://repo.ethsign.fyi\nprepatched already thanks to @asdfzxcvbn0 ipapatch bot found here"
-        },
-        {
-          "version": "20.26.7",
-          "date": "2025-06-30",
-          "size": 125056753,
-          "downloadURL": "https://repo.ethsign.fyi/a2851f2b-b9e3-413c-b17d-af6fef8ebb97/YouTube20.26.7PlusEX.Lite5.2bFullJune29thMoePatched.ipa",
-          "localizedDescription": "YouTube 20.26.7 YTLite 5.2 Beta 1 Full June 29th build\nThis build does not support casting and might have issues with the tab bar. I don't recommend it until beta 2 is released, For the most stable build that also has 5.2 beta 1 (the same tweak as this ipa, use the 20.10 build posted here\n\n(turn off vp9 if you have a 15 pro or above, not needed its outdated, and is replaced with AV1 on iphone 15+ and up which supports 4K as well)(today's updates are in bold, to see what changed in those tweaks just click on the new version number which is blue and read through the GitHub commit changes)\n-YouTube \n-YTLite 5.2 beta 1(changelog here -https://t.me/dvntms) (thanks Dan)(over 50+ features, too many to type out, including isponsor, downloading and much much much much much more)\n-Youpip 1.12.7\n-YouQuality 1.3.5 updated to 1.3.6\n-YTUHD 1.6.1 updated to 1.6.6\n-YTClassicVideoQuality 1.5.2\n-YTvideoOverlay2.2.3\n-ReturnYouTubeDislike 1.13.12\n-DontEatMyContent 1.1.10 \n-YouGroupSettings 1.0.4\n-YTvideoerroralert 1.0.2\n-OpenYoutubeSafariExtension\n-Other minor updates check poomsmarts github for smaller changes like isponsorblock\n\nMade by @moeotf \ud83d\udc4c\ud83c\udffb\ndecrypted by @eeveedecrypterbot\nNeed a certificate? Contact @eth4dmin\nNew channel: https://t.me/ethMods\nEthMods Repo: https://repo.ethsign.fyi\nprepatched already thanks to @asdfzxcvbn0 ipapatch bot found here"
-        },
-        {
-          "version": "20.26.7",
-          "date": "2025-06-30",
-          "size": 117892585,
-          "downloadURL": "https://repo.ethsign.fyi/1b7a67ad-37e0-4d97-b9b1-c8052c1aff5d/Youtube20.26.7DLTube2.15.9MoePatched.ipa",
-          "localizedDescription": "YouTube 20.26.7 LRDTube 1.8 (already patched)(sign with anything besides esign)(license already included with elite cert for all DL and LRD and SY tweaks just sign it)(screenshots below) \nScreenshots of features here, yes it has a built in media player for downloaded videos and audio\n\nRecommended YTPLUS build(Free): here\nRecommended DLTube build(elite customers): here\n\nAlready posted other free YouTube tweaks just search above. Just adding this to the YouTube tweaks list for elite cert users\nLRD 1.8:\n-just look at the screenshots in the link above.\n-built in video and audio player for downloaded content\n-sign it with anything besides esign\n-keychain and sideload fix injected\n-open links in Instagram injected\nCompiled by @moeotf\ndecrypted by @eeveedecrypter\nbot (can also decrypt testflight apps)\nNeed a certificate? Contact @eth4dmin\nNew channel: https://t.me/ethMods\nEthMods Repo: https://repo.ethsign.fyi\nprepatched already thanks to @asdfzxcvbn0 ipapatch bot found here"
-        }
-      ],
-      "appPermissions": {
-        "entitlements": [],
-        "privacy": {}
-      },
-      "localizedDescription": "YouTube 20.26.7 YTLite 5.2 Beta 1 Full July 5th build (added new tweaks)\nNew tweaks added in this build (july 5th):\n-YTABConfig 1.7.9 (highly requested)\n-YTVideoErrorAlert 1.0.2\n-Alderis 1.2.3\n-YouChooseQuality 1.0.6\n-YouLoop 1.0.0\n-YouMute 1.3.2\n-YouSlider 1.2.2\n-YouSpeed 1.6.1\n-Youtimestamp 1.1.0\nThis build does not support casting and might have issues with the tab bar. I don't recommend it until beta 2 is released, For the most stable build that also has 5.2 beta 1 (the same tweak as this ipa, use the 20.10 build posted below\n(turn off vp9 if you have a 15 pro or above, not needed its outdated, and is replaced with AV1 on iphone 15+ and up which supports 4K as well)(today's updates are in bold, to see what changed in those tweaks just click on the new version number which is blue and read through the GitHub commit changes)\n-YouTube \n-YTLite 5.2 beta 1\n-YTABConfig 1.7.9\n-YTVideoErrorAlert 1.0.2\n-Alderis 1.2.3\n-YouChooseQuality 1.0.6\n-YouLoop 1.0.0\n-YouMute 1.3.2\n-YouSlider 1.2.2\n-YouSpeed 1.6.1\n-Youtimestamp 1.1.0\n-Youpip 1.12.7\n-YouQuality 1.3.6\n-YTUHD 1.6.6\n-YTClassicVideoQuality 1.5.2\n-YTvideoOverlay 2.2.3\n-ReturnYouTubeDislike 1.13.12 updated to 1.13.13\n-DontEatMyContent 1.1.10 \n-YouGroupSettings 1.0.4\n-YTvideoerroralert 1.0.2\n-OpenYoutubeSafariExtension\nMade by @moeotf \ud83d\udc4c\ud83c\udffb\ndecrypted by @eeveedecrypterbot\nNeed a certificate? Contact @eth4dmin\nNew channel: https://t.me/ethMods\nEthMods Repo: https://repo.ethsign.fyi\nprepatched already thanks to @asdfzxcvbn0 ipapatch bot found here"
-    },
-    {
       "name": "Polarr",
       "bundleIdentifier": "co.polarr.ppe",
       "developerName": "SultanMods",
@@ -1829,40 +1931,6 @@
       "localizedDescription": "Caroni: Fuel & Service Tracker (HDFlix)\nMade by @yougottabillieve \ndecrypted by @eeveedecryptorbot\nNew channel: https://t.me/ethMods\nEthMods Repo: \nhttps://repo.ethsign.fyi\nneed a cert dm @eth4dmin \nprepatched already thanks to @asdfzxcvbn0 ipapatch bot found here"
     },
     {
-      "name": "OrNET Browser",
-      "bundleIdentifier": "ch.b-eng.tor",
-      "developerName": "SultanMods",
-      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/36/85/6c/36856cb7-22f6-d188-5482-c84b6f0da250/AppIcon-Old-0-0-1x_U007epad-0-1-0-0-85-220.png/512x512bb.jpg",
-      "versions": [
-        {
-          "version": "3.7.17",
-          "date": "2025-06-27",
-          "size": 69603739,
-          "downloadURL": "https://repo.ethsign.fyi/b6e6b2ad-0f9c-4664-81bc-974409b2710b/Tor3.7.17ProMoe.ipa",
-          "localizedDescription": "TOR 3.7.17 Pro (no plugins to patch)\n- premium features unlocked\n-updated to latest IPA 3.7.17\n-your certificate might need VPN entitlements\n-vpn might not work, use a 3rd party vpn\nTor taxi link for markets etc: http://tortaxi2dev6xjwbaydqzla77rrnth7yn2oqzjfmiuwn5h6vsk2a4syd.onion/\n- Posted and keychain and hack injected by @moeotf, decrypted by @eeveedecrypterbot\nNeed a certificate? Contact @eth4dmin\nNew channel: https://t.me/ethMods\nEthMods Repo: https://repo.ethsign.fyi"
-        },
-        {
-          "version": "3.7.15",
-          "date": "2025-06-06",
-          "size": 69282407,
-          "downloadURL": "https://repo.ethsign.fyi/a867a40f-f886-4de7-93bb-0c998f2a402c/Tor3.7.15Pro.ipa",
-          "localizedDescription": "TOR 3.7.15 Pro (no plugins to patch)\n- premium features unlocked\n-updated to latest IPA 3.7.15\n-your certificate might need VPN entitlements\n-vpn might not work, use a 3rd party vpn\nTor taxi link for markets etc: http://tortaxi2dev6xjwbaydqzla77rrnth7yn2oqzjfmiuwn5h6vsk2a4syd.onion/\n- Posted and keychain and hack injected by @moeotf, decrypted by @eeveedecrypterbot\nNeed a certificate? Contact @eth4dmin\nNew channel: https://t.me/ethMods\nEthMods Repo: https://repo.ethsign.fyi"
-        },
-        {
-          "version": "3.7.14",
-          "date": "2025-06-05",
-          "size": 69280206,
-          "downloadURL": "https://repo.ethsign.fyi/8a9a5b89-642e-42c5-80bd-80086f269f43/Tor3.7.14Pro.ipa",
-          "localizedDescription": "TOR 3.7.14 Pro (no plugins to patch)\n- premium features unlocked\n-updated to latest IPA 3.7.14\n-your certificate might need VPN entitlements\n-vpn might not work, use a 3rd party vpn\nTor taxi link for markets etc: http://tortaxi2dev6xjwbaydqzla77rrnth7yn2oqzjfmiuwn5h6vsk2a4syd.onion/\n- Posted and keychain and hack injected by @moeotf, decrypted by @eeveedecrypterbot\nNeed a certificate? Contact @eth4dmin\nNew channel: https://t.me/ethMods\nEthMods Repo: https://repo.ethsign.fyi"
-        }
-      ],
-      "appPermissions": {
-        "entitlements": [],
-        "privacy": {}
-      },
-      "localizedDescription": "TOR 3.7.17 Pro (no plugins to patch)\n- premium features unlocked\n-updated to latest IPA 3.7.17\n-your certificate might need VPN entitlements\n-vpn might not work, use a 3rd party vpn\nTor taxi link for markets etc: http://tortaxi2dev6xjwbaydqzla77rrnth7yn2oqzjfmiuwn5h6vsk2a4syd.onion/\n- Posted and keychain and hack injected by @moeotf, decrypted by @eeveedecrypterbot\nNeed a certificate? Contact @eth4dmin\nNew channel: https://t.me/ethMods\nEthMods Repo: https://repo.ethsign.fyi"
-    },
-    {
       "name": "KineMaster",
       "bundleIdentifier": "com.kinemaster.kios",
       "developerName": "SultanMods",
@@ -1989,40 +2057,6 @@
         "privacy": {}
       },
       "localizedDescription": "MoeSports 1.3 (watch live football (nfl), soccer, nba, mlb, UFC etc games live for free\n-Simple sports app i put together that lets you watch live streams for soccer, football, nba games, nfl games, and mlb and UFC games\n-if an adblocker is needed I'll add one in the future\n-tap on the sites name to open it in the app without leaving the app\n-watch live games and quickly switch between all 6 sports quickly\n-if a site just loads to a blank page, keep clicking on it\nMade by @moeotf \nCompiled with xcode\nNeed a certificate? Contact @eth4dmin\nNew channel: https://t.me/ethMods\nEthMods Repo: https://repo.ethsign.fyi"
-    },
-    {
-      "name": "Waze",
-      "bundleIdentifier": "com.waze.iphone",
-      "developerName": "SultanMods",
-      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/1e/da/cb/1edacbda-5a0a-0252-9ce2-67a2177a4488/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/512x512bb.jpg",
-      "versions": [
-        {
-          "version": "5.8.1",
-          "date": "2025-06-25",
-          "size": 83503660,
-          "downloadURL": "https://repo.ethsign.fyi/c9972d8e-91ec-4da1-aa4f-d95442d60300/WazePlus_5.8.1.0_Jacks_Apps.ipa",
-          "localizedDescription": "Waze 5.8.1.0\n- Waze 5.8.1.0\n- Blocking Waze ads and sound control button\n- Log in fixed\n\nMade by @Jacks_Apps\nIf you need a certificate DM @eth4dmin"
-        },
-        {
-          "version": "5.4.1",
-          "date": "2025-03-10",
-          "size": 84185304,
-          "downloadURL": "https://repo.ethsign.fyi/7e9ba2d2-064c-4e47-9e34-99aa3b965b7d/WazePlus_5.4.1.0_Jacks_Apps.ipa",
-          "localizedDescription": "Waze 5.4.1.0\n- Waze 5.4.1.0\n- Blocking Waze ads and sound control button\n- Log in fixed\n\nMade by @Jacks_Apps\nIf you need a certificate DM @eth4dmin"
-        },
-        {
-          "version": "5.3.1",
-          "date": "2025-01-26",
-          "size": 85602718,
-          "downloadURL": "https://repo.ethsign.fyi/c11c4a4d-1002-4e9b-90fa-b9143d505bcf/WazePlus_5.3.1_Jacks_Apps.ipa",
-          "localizedDescription": "Waze 5.3.1\n- Waze 5.3.1\n- Blocking Waze ads and sound control button\n- Log in fixed\n\nMade by @Jacks_Apps\nDecrypted by @eeveedecrypterbot"
-        }
-      ],
-      "appPermissions": {
-        "entitlements": [],
-        "privacy": {}
-      },
-      "localizedDescription": "Waze 5.8.1.0\n- Waze 5.8.1.0\n- Blocking Waze ads and sound control button\n- Log in fixed\n\nMade by @Jacks_Apps\nIf you need a certificate DM @eth4dmin"
     },
     {
       "name": "Things",
@@ -2334,40 +2368,6 @@
         "privacy": {}
       },
       "localizedDescription": "\ud83d\udcf1 Surge 5\n\n\ud83c\udd94 Bundle ID: \ncom.nssurge.inc.surge-ios\n\ud83d\udcca Version: 5.8.3\n\ud83d\udc68\u200d\ud83d\udcbb Developer: Surge Networks, Inc.\n\ud83c\udff7 Category: Developer Tools\n\ud83d\udd27 Minimum iOS: 15.0\n\n\ud83d\udc8e Modifier:\nSurge v5.8.3 cracked by (Macked),\nWorks on paid certificate but need VPN and Appgroup entitlements.\n\n\ud83d\udc99 Credits:\nThank chocolateFluffy for making plug-ins patch this wouldn\u2019t be possible without him.\n\n\ud83d\udcdd Note: \nRequirements:\n 1. App Group Entitlement:\n \u2022 Your certificate must include the App Group entitlement.\n \u2022 Ensure that an App Group is properly configured for your cert.\n\n\ud83d\udd04 Tweaked by @blatants\n\nKo-Fi \u2615\ufe0f | AppStore \ud83d\udcf1 | IPAs \ud83d\udce5"
-    },
-    {
-      "name": "Photoleap",
-      "bundleIdentifier": "com.lightricks.Enlight-Editor",
-      "developerName": "SultanMods",
-      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/00/8a/6b/008a6bae-ce6b-bd62-7adf-2951bf87ffb3/AppIcon-0-0-1x_U007emarketing-0-8-0-0-85-220.png/512x512bb.jpg",
-      "versions": [
-        {
-          "version": "2.114",
-          "date": "2025-06-22",
-          "size": 365591502,
-          "downloadURL": "https://repo.ethsign.fyi/e7ed14ae-3a73-4fff-80ab-c202e0ddc1d5/Photoleap2.114ProMoe.ipa",
-          "localizedDescription": "Photoleap AI Art Photo Editor v2.114\n- Pro Features Unlocked\n- injected keychain and sideload fix\n-one of the best AI imaging apps\n\nAppstore Link \nMade by @moeotf decrypted by anyipa.me\nNeed a certificate? Contact @eth4dmin\nNew channel: https://t.me/ethMods\nEthMods Repo: https://repo.ethsign.fyi"
-        },
-        {
-          "version": "2.113",
-          "date": "2025-05-11",
-          "size": 361151162,
-          "downloadURL": "https://repo.ethsign.fyi/d6fb617b-6392-4fb7-bdc2-dbde00dc643d/Photoleap2.113Promoe.ipa",
-          "localizedDescription": "Photoleap AI Art Photo Editor v2.113\n- Pro Features Unlocked\n- injected keychain and sideload fix\n-one of the best AI imaging apps\n\nAppstore Link \nMade by @moeotf decrypted by anyipa.me\nNeed a certificate? Contact @eth4dmin\nNew channel: https://t.me/ethMods\nEthMods Repo: https://repo.ethsign.fyi"
-        },
-        {
-          "version": "2.110",
-          "date": "2025-04-16",
-          "size": 379878197,
-          "downloadURL": "https://repo.ethsign.fyi/61bc1fb1-677e-4711-a1b7-872ae2347a70/Photoleap2.110MoeProETH.ipa",
-          "localizedDescription": "Photoleap AI Art Photo Editor v2.110\n- Pro Features Unlocked\n- injected keychain and sideload fix\n-one of the best AI imaging apps\n\nAppstore Link \nMade by @moeotf decrypted by anyipa.me\nNeed a certificate? Contact @eth4dmin\nNew channel: https://t.me/ethMods\nEthMods Repo: https://repo.ethsign.fyi"
-        }
-      ],
-      "appPermissions": {
-        "entitlements": [],
-        "privacy": {}
-      },
-      "localizedDescription": "Photoleap AI Art Photo Editor v2.114\n- Pro Features Unlocked\n- injected keychain and sideload fix\n-one of the best AI imaging apps\n\nAppstore Link \nMade by @moeotf decrypted by anyipa.me\nNeed a certificate? Contact @eth4dmin\nNew channel: https://t.me/ethMods\nEthMods Repo: https://repo.ethsign.fyi"
     },
     {
       "name": "Vampire Survivors+",
