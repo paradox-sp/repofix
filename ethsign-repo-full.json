@@ -7,6 +7,191 @@
   "tintColor": "#FF6B6B",
   "apps": [
     {
+      "name": "YouTube Music",
+      "bundleIdentifier": "com.google.ios.youtubemusic",
+      "developerName": "SultanMods",
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/33/e6/25/33e6258a-be58-a31d-67be-6c3b0c94e68e/logo_youtube_music_2024_q4_color-0-1x_U007emarketing-0-0-0-7-0-0-0-85-220-0.png/512x512bb.jpg",
+      "versions": [
+        {
+          "version": "8.29.1",
+          "date": "2025-07-22",
+          "size": 95670362,
+          "downloadURL": "https://repo.ethsign.fyi/49f524c5-7e5a-4fdc-ac81-ab2f951881b8/YTMusicUltimate+_8.29.1_Jacks_Apps.ipa",
+          "localizedDescription": "YT Music Ultimate+ 8.28.2\n- YouTube Music 8.28.2\n- YTMusicUltimate\n- Return YouTube Music Dislike\n- YTMABConfig\n- YouMusicPIP\n- Info: https://telegra.ph/zxcvbn-tweaked-ytmusicultimate-04-16\n- Patch already included\n\nMade by @Jacks_Apps\nIf you need a certificate DM @eth4dmin"
+        },
+        {
+          "version": "8.28.2",
+          "date": "2025-07-14",
+          "size": 100599840,
+          "downloadURL": "https://repo.ethsign.fyi/769fa47f-638e-4f99-9739-fbf6ae944320/YTMusicUltimate8.28MoePatched.ipa",
+          "localizedDescription": "YouTube Music Ultimate 8.28 patched\n-Ready to use on carplay with eth @eth4dmin certs\n-no ads\n-background playback\n-download audio\n-sponsorblock\n-oled theme option\n-etc etc, many other features\n\nCompiled by @moeotf \nbased from dayanch repo here\ndecrypted by @eeveedecrypterbot\nNeed a certificate? Contact @eth4dmin\nNew channel: https://t.me/ethMods\nEthMods Repo: https://repo.ethsign.fyi\nprepatched already thanks to @asdfzxcvbn0 ipapatch bot found here"
+        },
+        {
+          "version": "8.26.5",
+          "date": "2025-07-02",
+          "size": 94446229,
+          "downloadURL": "https://repo.ethsign.fyi/4993bfed-5d16-4f32-a819-4b64aa43c5ea/YTMusicUltimate_8.26.5_No_PIP_Jacks_Apps.ipa",
+          "localizedDescription": "YT Music Ultimate+ 8.26.5\n- YouTube Music 8.26.5\n- YTMusicUltimate\n- Return YouTube Music Dislike\n- YTMABConfig\n- Info: https://telegra.ph/zxcvbn-tweaked-ytmusicultimate-04-16\n- Patch already included\n\nMade by @Jacks_Apps\nIf you need a certificate DM @eth4dmin"
+        }
+      ],
+      "appPermissions": {
+        "entitlements": [
+          "com.apple.security.cs.allow-jit"
+        ],
+        "privacy": {}
+      },
+      "localizedDescription": "YT Music Ultimate+ 8.28.2\n- YouTube Music 8.28.2\n- YTMusicUltimate\n- Return YouTube Music Dislike\n- YTMABConfig\n- YouMusicPIP\n- Info: https://telegra.ph/zxcvbn-tweaked-ytmusicultimate-04-16\n- Patch already included\n\nMade by @Jacks_Apps\nIf you need a certificate DM @eth4dmin"
+    },
+    {
+      "name": "Lightroom",
+      "bundleIdentifier": "com.adobe.lrmobilephone",
+      "developerName": "SultanMods",
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/c0/c1/8a/c0c18a41-9496-127c-6f2b-deaa5bde8e68/AppIcon-0-1x_U007ephone-0-1-0-0-85-220-0.png/512x512bb.jpg",
+      "versions": [
+        {
+          "version": "10.4.2",
+          "date": "2025-07-21",
+          "size": 179101619,
+          "downloadURL": "https://repo.ethsign.fyi/c8c52256-0934-41b4-95d0-ef44bb70cce7/lightroom10.4.2ProMoePatched.ipa",
+          "localizedDescription": "Lightroom Unlocked 10.4.2 (switched to satella just till we update the eth crack)\n-Lightroom to 10.4.2 pro\n-click purchase then cancel \n-photo editing app\n\nMade by @moeotf \ud83d\udc4c\ud83c\udffb\ndecrypted by @eeveedecrypterbot \nNeed a certificate? Contact @eth4dmin\nNew channel: https://t.me/ethMods\nEthMods Repo: https://repo.ethsign.fyi\nprepatched already thanks to @asdfzxcvbn0 ipapatch bot found here"
+        },
+        {
+          "version": "10.4.0",
+          "date": "2025-06-09",
+          "size": 176426966,
+          "downloadURL": "https://repo.ethsign.fyi/0ec12479-c4ae-430f-9fe9-db4d3efc41b5/Lightroom10.4ProPatched.ipa",
+          "localizedDescription": "Lightroom Unlocked 10.4 (switched to satella just till we update the eth crack)\n-Lightroom to 10.4 pro\n-click purchase then cancel \n-photo editing app\n-works better then the satella version.\n\nMade by @moeotf \ud83d\udc4c\ud83c\udffb\ndecrypted by @eeveedecrypterbot \nNeed a certificate? Contact @eth4dmin\nNew channel: https://t.me/ethMods\nEthMods Repo: https://repo.ethsign.fyi\nprepatched already thanks to @asdfzxcvbn0 ipapatch bot found here"
+        },
+        {
+          "version": "10.3.1",
+          "date": "2025-05-19",
+          "size": 178550047,
+          "downloadURL": "https://repo.ethsign.fyi/5d60603a-dc00-4f79-8c66-26655366cd0c/Lightroom10.3.1ProTeamETHPatched.ipa",
+          "localizedDescription": "Lightroom Unlocked 10.3.1 (Non Satella version)(team ETH crack)\n-Lightroom to 10.3.1 pro\n-brand new TeamETH crack by @VAXMG \n-photo editing app\n-works better then the satella version.\n\nMade by @moeotf \ud83d\udc4c\ud83c\udffb\ndecrypted by @eeveedecrypterbot \nNeed a certificate? Contact @eth4dmin\nNew channel: https://t.me/ethMods\nEthMods Repo: https://repo.ethsign.fyi\nprepatched already thanks to @asdfzxcvbn0 ipapatch bot found here"
+        }
+      ],
+      "appPermissions": {
+        "entitlements": [],
+        "privacy": {}
+      },
+      "localizedDescription": "Lightroom Unlocked 10.4.2 (switched to satella just till we update the eth crack)\n-Lightroom to 10.4.2 pro\n-click purchase then cancel \n-photo editing app\n\nMade by @moeotf \ud83d\udc4c\ud83c\udffb\ndecrypted by @eeveedecrypterbot \nNeed a certificate? Contact @eth4dmin\nNew channel: https://t.me/ethMods\nEthMods Repo: https://repo.ethsign.fyi\nprepatched already thanks to @asdfzxcvbn0 ipapatch bot found here"
+    },
+    {
+      "name": "Twitter",
+      "bundleIdentifier": "com.atebits.Tweetie2",
+      "developerName": "SultanMods",
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/49/b9/2e/49b92eb5-64e2-5c1a-26e7-ab28d7fa7184/ProductionAppIcon-0-0-1x_U007emarketing-0-8-0-0-0-85-220.png/512x512bb.jpg",
+      "versions": [
+        {
+          "version": "11.9",
+          "date": "2025-07-21",
+          "size": 163976665,
+          "downloadURL": "https://repo.ethsign.fyi/5a7b7643-0d40-47b4-bd40-6e2aa66d0fb9/Classic_BHTwitter+_11.9_Jacks_Apps_Green.ipa",
+          "localizedDescription": ""
+        },
+        {
+          "version": "11.9",
+          "date": "2025-07-21",
+          "size": 163986146,
+          "downloadURL": "https://repo.ethsign.fyi/ac452804-918e-49ac-991e-efd64cee594d/Classic_BHTwitter+_11.9_Jacks_Apps_Red.ipa",
+          "localizedDescription": ""
+        },
+        {
+          "version": "11.9",
+          "date": "2025-07-21",
+          "size": 164015917,
+          "downloadURL": "https://repo.ethsign.fyi/16d4753a-761c-4de3-93cd-7f5cce6a4ecc/Classic_BHTwitter+_11.9_Jacks_Apps_Orange.ipa",
+          "localizedDescription": ""
+        }
+      ],
+      "appPermissions": {
+        "entitlements": [],
+        "privacy": {}
+      },
+      "localizedDescription": ""
+    },
+    {
+      "name": "iSTB",
+      "bundleIdentifier": "com.na.istb",
+      "developerName": "SultanMods",
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/55/4a/8e/554a8e37-b46d-46df-f962-1b7fc6a4c834/AppIcon-0-0-1x_U007emarketing-0-11-0-85-220.png/512x512bb.jpg",
+      "versions": [
+        {
+          "version": "1.28.10",
+          "date": "2025-07-21",
+          "size": 39800081,
+          "downloadURL": "https://repo.ethsign.fyi/f7b211f5-9488-477d-b0b3-0cd236784f31/iSTB1.28.10ProMoePatched.ipa",
+          "localizedDescription": "iSTB 1.28.10 Pro patched\n-Iptv app\n-iap unlocked\nhttps://apps.apple.com/us/app/istb/id1497473331 ($15)\nMade by @moeotf \ud83d\udc4c\ud83c\udffb\ndecrypted by @eeveedecrypterbot\nNeed a certificate? Contact @eth4dmin\nNew channel: https://t.me/ethMods\nEthMods Repo: https://repo.ethsign.fyi\nprepatched already thanks to @asdfzxcvbn0 ipapatch bot found here"
+        },
+        {
+          "version": "1.28.9",
+          "date": "2025-06-05",
+          "size": 38423376,
+          "downloadURL": "https://repo.ethsign.fyi/19306a67-9ae8-4466-ba2e-5f367f4c3b56/iSTBv1.28.9Pro.ipa",
+          "localizedDescription": "iSTB 1.28.9\n- updated to 1.28.9\n-injected with keychain and sideload fix\n-app store link below\n-tested on eth elite cert with esign\n\nhttps://apps.apple.com/us/app/istb/id1497473331 ($15)\n\nMade by @moeotf \nNeed a certificate? Contact @eth4dmin\nNew channel: https://t.me/ethMods\nEthMods Repo: https://repo.ethsign.fyi\nprepatched already thanks to @asdfzxcvbn0 ipapatch bot found here"
+        }
+      ],
+      "appPermissions": {
+        "entitlements": [],
+        "privacy": {}
+      },
+      "localizedDescription": "iSTB 1.28.10 Pro patched\n-Iptv app\n-iap unlocked\nhttps://apps.apple.com/us/app/istb/id1497473331 ($15)\nMade by @moeotf \ud83d\udc4c\ud83c\udffb\ndecrypted by @eeveedecrypterbot\nNeed a certificate? Contact @eth4dmin\nNew channel: https://t.me/ethMods\nEthMods Repo: https://repo.ethsign.fyi\nprepatched already thanks to @asdfzxcvbn0 ipapatch bot found here"
+    },
+    {
+      "name": "Snappier IPTV",
+      "bundleIdentifier": "uk.co.snappy-code.snappierIPTV",
+      "developerName": "SultanMods",
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/a7/ac/cf/a7accf58-780c-acd2-dfcc-ef19266bf9cf/AppIcon-0-0-1x_U007epad-0-1-85-220.jpeg/512x512bb.jpg",
+      "versions": [
+        {
+          "version": "4.5.7",
+          "date": "2025-07-21",
+          "size": 53617368,
+          "downloadURL": "https://repo.ethsign.fyi/850c6ad9-e5f9-4776-87a8-19dc126597ce/Snappier4.5.7ProMoePatched.ipa",
+          "localizedDescription": "Snappier 4.5.7 Pro patched\n-Iptv app\n-iap unlocked\n-requires entitlement fix from here\nhttps://apps.apple.com/us/app/snappier-iptv/id1579702567\nMade by @moeotf \ud83d\udc4c\ud83c\udffb\ndecrypted by @eeveedecrypterbot\nNeed a certificate? Contact @eth4dmin\nNew channel: https://t.me/ethMods\nEthMods Repo: https://repo.ethsign.fyi\nprepatched already thanks to @asdfzxcvbn0 ipapatch bot found here"
+        }
+      ],
+      "appPermissions": {
+        "entitlements": [],
+        "privacy": {}
+      },
+      "localizedDescription": "Snappier 4.5.7 Pro patched\n-Iptv app\n-iap unlocked\n-requires entitlement fix from here\nhttps://apps.apple.com/us/app/snappier-iptv/id1579702567\nMade by @moeotf \ud83d\udc4c\ud83c\udffb\ndecrypted by @eeveedecrypterbot\nNeed a certificate? Contact @eth4dmin\nNew channel: https://t.me/ethMods\nEthMods Repo: https://repo.ethsign.fyi\nprepatched already thanks to @asdfzxcvbn0 ipapatch bot found here"
+    },
+    {
+      "name": "Spotify",
+      "bundleIdentifier": "com.spotify.client",
+      "developerName": "SultanMods",
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/3f/a4/c1/3fa4c1d1-46d3-5948-dca4-f26a4fe0849b/AppIcon-0-0-1x_U007emarketing-0-7-0-0-85-220.png/512x512bb.jpg",
+      "versions": [
+        {
+          "version": "9.0.62",
+          "date": "2025-07-21",
+          "size": 87625353,
+          "downloadURL": "https://repo.ethsign.fyi/1adef8a7-a59f-4b03-90d1-2fa34c18e9af/EeveeSpotify-9.0.62-patched.ipa",
+          "localizedDescription": "\u2022 Patched"
+        },
+        {
+          "version": "9.0.62",
+          "date": "2025-07-21",
+          "size": 85703307,
+          "downloadURL": "https://repo.ethsign.fyi/22585b16-be0b-4cc6-b892-2b0bf093382f/EeveeSpotify-9.0.62.ipa",
+          "localizedDescription": "- updated spotify to v9.0.62\n\u2014 one of the most popular music streaming services!\n- EeveeSpotify v6.0.2 included\n- OpenSpotifySafariExtension included\n\n@SpotilifeIPAs"
+        },
+        {
+          "version": "9.0.60",
+          "date": "2025-07-14",
+          "size": 85483040,
+          "downloadURL": "https://repo.ethsign.fyi/aae81c57-4789-455e-ac25-5641b158fd65/EeveeSpotify-9.0.60.ipa",
+          "localizedDescription": "- updated spotify to v9.0.60\n\u2014 one of the most popular music streaming services!\n- EeveeSpotify v6.0.2 included\n- OpenSpotifySafariExtension included\n\n@SpotilifeIPAs"
+        }
+      ],
+      "appPermissions": {
+        "entitlements": [],
+        "privacy": {}
+      },
+      "localizedDescription": "\u2022 Patched"
+    },
+    {
       "name": "YouTube",
       "bundleIdentifier": "com.google.ios.youtube",
       "developerName": "SultanMods",
@@ -447,40 +632,6 @@
         "privacy": {}
       },
       "localizedDescription": "Pixelmator 3.1.15(patched)\n- photo editor by apple \n-injected with keychain and sideload fix\n-didn't touch iaps just the app itself\n\nApp store link ($10)\n\nhttps://apps.apple.com/us/app/pixelmator/id924695435\n\nMade by @moeotf \nNeed a certificate? Contact @eth4dmin\nNew channel: https://t.me/ethMods\nEthMods Repo: https://repo.ethsign.fyi\nprepatched already thanks to @asdfzxcvbn0 ipapatch bot found here"
-    },
-    {
-      "name": "Twitter",
-      "bundleIdentifier": "com.atebits.Tweetie2",
-      "developerName": "SultanMods",
-      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/a2/ef/90/a2ef90fb-dcff-df67-59bb-331e1f15d826/ProductionAppIcon-0-0-1x_U007emarketing-0-8-0-0-0-85-220.png/512x512bb.jpg",
-      "versions": [
-        {
-          "version": "11.8.5",
-          "date": "2025-07-17",
-          "size": 159306351,
-          "downloadURL": "https://repo.ethsign.fyi/0319866e-d2a8-4397-99e5-39fbfb1df51c/X11.8.5Neobird2.0BH5.1WithTwiGalaxy1.9MoePatchedV2.ipa",
-          "localizedDescription": "X 11.8.5 TwiGalaxy 1.9 + Neobird 2.0 BH5.1 Beta 3 adfree (with login fix)\n\nFor fresh installs: on the home screen hold down on Twitter and click \"new tweet\" to get to the login screen\nToday's changes:\nCombined Twigalaxy 1.9 with neobird 2.0BH5.1 beta 3\nMade by @moeotf \ndecrypted by @eeveedecrypterbot\nNeed a certificate? Contact @eth4dmin\nNew channel: https://t.me/ethMods\nEthMods Repo: https://repo.ethsign.fyi\nEthmods Group channel: https://t.me/ethModsGroup\nneed a cert dm @eth4dmin\nprepatched already thanks to @asdfzxcvbn0 ipapatch bot found here"
-        },
-        {
-          "version": "11.8.5",
-          "date": "2025-07-17",
-          "size": 170198532,
-          "downloadURL": "https://repo.ethsign.fyi/ac9f7830-c9f4-499c-bbef-94c92c7d949a/X11.8.5TwiGalaxy1.9MoePatched.ipa",
-          "localizedDescription": "X 11.8.5 TwiGalaxy 1.9 adfree (with login fix)\nToday's changes:\nTWIGalaxy V1.9\n- Read Chats Anonymously: Read chats without marking them as read\n- Optional update: You can skip it, but the old version may have bugs.\nBug fixes & Improvements\nTWIGalaxy V1.8\n \u2022 Full Count Display: See complete follower, following, and tweet counts without any abbreviations\n \u2022 Faster Profile Sharing: Tap the share button to instantly copy your profile link for quick sharing\n \u2022 Voice Message Download: Save voice messages easily as MP3 audio files or MP4 video files\n\u2022 New HD Video Download: Download videos in high definition with a new button\nTWIGalaxy V1.6\n-Hide username : Hide the tweet author\u2019s username\n-Hide Tweet Date : Hide the date/timestamp on tweets\n-Upload full HD : Upload videos in full high-definition (HD) quality\n-Background Playback : Keep your videos running while you do other things.\n\nHow to disable ads, go to twi galaxy's settings on the bottom right, click on \"more features\" \nscroll down, enable \"Hide Ads\" restart the app.\nAny issues with loading the timeline will require you to delete the old version before installing!\n- Updated X to 11.1 and TWIGalaxy to 1.6 (newer X tweak by densor) \nTWIGalaxy V1.5\n\u2022 Tweets from verified accoun\nts only\n\u2022 No link previews or media cards\n\u2022 Hide ads\n\u2022 Hide retweets\n\u2022 Hide replies from tweets\n\u2022 Replace username with user ID\n\u2022 Copy author info with long press\nTWIGalaxy V1.4\n- Bug Fixes\n- Performance improvements\nTWIGalaxy V1.3\nDownload Images Faster : Long-press to instantly save high-quality images, including avatars and tweets\nSmooth Zoom : Makes zooming into images smoother\nBug Fixes\nPerformance improvements\nTWIGalaxy V1.2 changelog\n\u2022 Download Tweet as Image \u2013 Easily save any tweet as image for sharing anywhere. \n+ Fake Verified Tweet (Makes it look better)\n\u2022 Lock Chats \u2013 Protect your private conversations\n\u2022 Embed Tweets \u2013 Share tweets as embedded content directly in Discord or Telegram\n- Bug Fixes\n- Performance improvements                                        Changelog = TWIGalaxy1.1\n- Hide Subscribe Button\n- Hide Users From Search Results\n- Hide Topics From Search Results\n- Disable Recent Searches\n- Tap to play or pause\nChangelog = TWIGalaxy1.0\n- some features are listed below \n-injected with keychain and sideload fix - - Download Videos\n- Disable unfollow confirmation\n- Follow Confirmation\n- Like Confirmation\n- Save Confirmation\n- Retweet Confirmation\n- Reaction Confirmation\n- Copy Bio\n- Disable Double-Tap\n- Disable Long-press\n- Tweet Timestamp\nMade by @moeotf \ndecrypted by @eeveedecrypterbot\nNeed a certificate? Contact @eth4dmin\nNew channel: https://t.me/ethMods\nEthMods Repo: https://repo.ethsign.fyi\ntweak made by densor or you can find him at https://6gr8.github.io/deno.io/\nEthmods Group channel: https://t.me/ethModsGroup\nneed a cert dm @eth4dmin\nprepatched already thanks to @asdfzxcvbn0 ipapatch bot found here"
-        },
-        {
-          "version": "11.8.5",
-          "date": "2025-07-17",
-          "size": 162301067,
-          "downloadURL": "https://repo.ethsign.fyi/db305cd0-ff06-454f-8150-719d61e26fc3/X11.8.5Neobird2.0BH5.1MoePatched.ipa",
-          "localizedDescription": "X11.8.5 Neofreebird 2.0 Beta BH 5.1 Beta 3 (RECOMMENDED TWITTER TWEAK\ud83d\udea8\ud83d\udea8\ud83d\udea8)\nUpdate to latest from july 15th :\n-General\nVoice Tweets\nTurn Voice Tweets on or off (iOS only).\nNo topic Tweets\nRemove Tweets tied to suggested topics.\nNo 'Topics to follow' Remove suggested topics.\nNo 'Who to follow'\nRemove follow suggestions.\nLock Twitter\nRequire Face ID or a passcode to open Twitter.\nUse external browser\nOpen links in Safari or your default browser.\nCustomize links\nChoose a custom URL for links, and remove tracking.\nAl translate button (beta)\nAdds an Al translate button to Tweets that are not in your language. Requires an API key.\n-Tweets\nDisable compact style\nShow likes, retweets, and replies on a separate line instead of inline on tweet detail view.\nSave Tweet as image\nLong-press share to export Tweets as images.\n-Messages\nDM profile pictures\nAdds profile pictures to all recipients. not just groups.\nOld compose bar\nUse the old message compose bar.\nNo voice messages\nDisable voice message sender on compose bar.\nCustom Messages background\nPick a custom background for your Direct Messages.\nPhotos and videos\nNo video captions\nHigh-quality media\nAlways load photos and videos in the highest resolution possible.\nLarge images\nVideo Timestamp\nShows timestamp on immersive player.\nA bunch more see screenshots\n-manually added openinappeex and keychain\nMade by @moeotf, tweak from here\ndecrypted by @IPADecryptBot\nNeed a certificate? Contact @eth4dmin\nNew channel: https://t.me/ethMods\nEthmods Group channel: https://t.me/ethModsGroup\nEthMods Repo: https://repo.ethsign.fyi\nprepatched already thanks to @asdfzxcvbn0 ipapatch bot found here"
-        }
-      ],
-      "appPermissions": {
-        "entitlements": [],
-        "privacy": {}
-      },
-      "localizedDescription": "X 11.8.5 TwiGalaxy 1.9 + Neobird 2.0 BH5.1 Beta 3 adfree (with login fix)\n\nFor fresh installs: on the home screen hold down on Twitter and click \"new tweet\" to get to the login screen\nToday's changes:\nCombined Twigalaxy 1.9 with neobird 2.0BH5.1 beta 3\nMade by @moeotf \ndecrypted by @eeveedecrypterbot\nNeed a certificate? Contact @eth4dmin\nNew channel: https://t.me/ethMods\nEthMods Repo: https://repo.ethsign.fyi\nEthmods Group channel: https://t.me/ethModsGroup\nneed a cert dm @eth4dmin\nprepatched already thanks to @asdfzxcvbn0 ipapatch bot found here"
     },
     {
       "name": "TikTok",
@@ -1042,42 +1193,6 @@
       "localizedDescription": "Omni content hub 1.0 (patched)\n- updated Omni content hub to 1.0\n-injected with keychain and sideload fix\n-didn't touch iaps just the app itself\n-requires debrid service\n-fusion and stremio alternative\n\nApp store link ($10)\n\nhttps://apps.apple.com/us/app/omni-content-hub/id6741470807\n\nMade by @moeotf \nNeed a certificate? Contact @eth4dmin\nNew channel: https://t.me/ethMods\nEthMods Repo: https://repo.ethsign.fyi\nprepatched already thanks to @asdfzxcvbn0 ipapatch bot found here"
     },
     {
-      "name": "YouTube Music",
-      "bundleIdentifier": "com.google.ios.youtubemusic",
-      "developerName": "SultanMods",
-      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/c7/76/f7/c776f700-f8a7-174d-f87c-6c12a2b8d253/logo_youtube_music_2024_q4_color-0-1x_U007emarketing-0-0-0-7-0-0-0-85-220-0.png/512x512bb.jpg",
-      "versions": [
-        {
-          "version": "8.28.2",
-          "date": "2025-07-14",
-          "size": 100599840,
-          "downloadURL": "https://repo.ethsign.fyi/769fa47f-638e-4f99-9739-fbf6ae944320/YTMusicUltimate8.28MoePatched.ipa",
-          "localizedDescription": "YouTube Music Ultimate 8.28 patched\n-Ready to use on carplay with eth @eth4dmin certs\n-no ads\n-background playback\n-download audio\n-sponsorblock\n-oled theme option\n-etc etc, many other features\n\nCompiled by @moeotf \nbased from dayanch repo here\ndecrypted by @eeveedecrypterbot\nNeed a certificate? Contact @eth4dmin\nNew channel: https://t.me/ethMods\nEthMods Repo: https://repo.ethsign.fyi\nprepatched already thanks to @asdfzxcvbn0 ipapatch bot found here"
-        },
-        {
-          "version": "8.26.5",
-          "date": "2025-07-02",
-          "size": 94446229,
-          "downloadURL": "https://repo.ethsign.fyi/4993bfed-5d16-4f32-a819-4b64aa43c5ea/YTMusicUltimate_8.26.5_No_PIP_Jacks_Apps.ipa",
-          "localizedDescription": "YT Music Ultimate+ 8.26.5\n- YouTube Music 8.26.5\n- YTMusicUltimate\n- Return YouTube Music Dislike\n- YTMABConfig\n- Info: https://telegra.ph/zxcvbn-tweaked-ytmusicultimate-04-16\n- Patch already included\n\nMade by @Jacks_Apps\nIf you need a certificate DM @eth4dmin"
-        },
-        {
-          "version": "8.26.5",
-          "date": "2025-07-02",
-          "size": 94456538,
-          "downloadURL": "https://repo.ethsign.fyi/2f1078ff-c7c9-4fb5-8e44-67023b199049/YTMusicUltimate+_8.26.5_Jacks_Apps.ipa",
-          "localizedDescription": "YT Music Ultimate+ 8.26.5\n- YouTube Music 8.26.5\n- YTMusicUltimate\n- Return YouTube Music Dislike\n- YTMABConfig\n- YouMusicPIP\n- Info: https://telegra.ph/zxcvbn-tweaked-ytmusicultimate-04-16\n- Patch already included\n\nMade by @Jacks_Apps\nIf you need a certificate DM @eth4dmin"
-        }
-      ],
-      "appPermissions": {
-        "entitlements": [
-          "com.apple.security.cs.allow-jit"
-        ],
-        "privacy": {}
-      },
-      "localizedDescription": "YouTube Music Ultimate 8.28 patched\n-Ready to use on carplay with eth @eth4dmin certs\n-no ads\n-background playback\n-download audio\n-sponsorblock\n-oled theme option\n-etc etc, many other features\n\nCompiled by @moeotf \nbased from dayanch repo here\ndecrypted by @eeveedecrypterbot\nNeed a certificate? Contact @eth4dmin\nNew channel: https://t.me/ethMods\nEthMods Repo: https://repo.ethsign.fyi\nprepatched already thanks to @asdfzxcvbn0 ipapatch bot found here"
-    },
-    {
       "name": "ProShot",
       "bundleIdentifier": "com.riseupgames.ProShot",
       "developerName": "SultanMods",
@@ -1212,40 +1327,6 @@
         "privacy": {}
       },
       "localizedDescription": "Instagram 388 DL 2.4.4 (already patched)(license already included with elite cert for all DL and LRD and SY tweaks just sign it)\n\nAlready posted other Instagram tweaks just search above. Just adding this to the Instagram tweaks list\nDL 2.4.4:\nDownload\n-Always download in highest quality\n100\u203a\nMedia\n-Share Media\n-No repeat for videos\nStories\n-Watch stories anonymously\n-Disable move automatically to next story\n-Enable video selection from sticker gallery\n-Show mentions\nLive\n-Watch live anonymously\nDirect Messages\n-Watch messages anonymously\n-Keep deleted messages\n-Disable typing indicator\n-Disable Screenshot notifications\n-Disable replayed media notifications\n-Bypass Voice Message Limit\n-Download Voice Messages\n-Upload Video/Audio As Voice Messages\nPopup Alert\n-Confirm Follow/UnFollow\n-Confirm Like/UnLike\nOthers\n-Copy text\n-Show Following Status\n-Show Views and Likes number\n-Always show timer in videos\nBrowser\n-Open Links in Safari\nAds\n-Remove Promo Ads\nApp Lock\n-Enable\n-keychain and sideload fix injected\n-open links in Instagram injected\nMade by @moeotf \ndecrypted by @eeveedecrypterbot\nNeed a certificate? Contact @eth4dmin\nNew channel: https://t.me/ethMods\nEthmods Group channel: https://t.me/ethModsGroup\nEthMods Repo: https://repo.ethsign.fyi\nprepatched already thanks to @asdfzxcvbn0 ipapatch bot found here"
-    },
-    {
-      "name": "Spotify",
-      "bundleIdentifier": "com.spotify.client",
-      "developerName": "SultanMods",
-      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/33/7b/51/337b51aa-5a12-1a9c-241d-e0d5fffc4f09/AppIcon-0-0-1x_U007emarketing-0-7-0-0-85-220.png/512x512bb.jpg",
-      "versions": [
-        {
-          "version": "9.0.60",
-          "date": "2025-07-14",
-          "size": 85483040,
-          "downloadURL": "https://repo.ethsign.fyi/aae81c57-4789-455e-ac25-5641b158fd65/EeveeSpotify-9.0.60.ipa",
-          "localizedDescription": "- updated spotify to v9.0.60\n\u2014 one of the most popular music streaming services!\n- EeveeSpotify v6.0.2 included\n- OpenSpotifySafariExtension included\n\n@SpotilifeIPAs"
-        },
-        {
-          "version": "9.0.60",
-          "date": "2025-07-14",
-          "size": 87397965,
-          "downloadURL": "https://repo.ethsign.fyi/2e00dd53-4819-4446-8cff-f5ef51411f7b/EeveeSpotify-9.0.60-patched.ipa",
-          "localizedDescription": "\u2022 Patched"
-        },
-        {
-          "version": "9.0.58",
-          "date": "2025-07-06",
-          "size": 86744126,
-          "downloadURL": "https://repo.ethsign.fyi/8b4b84c8-8854-4066-b454-c20dc4825373/EeveeSpotify-9.0.58-patched.ipa",
-          "localizedDescription": "\u2022 Patched"
-        }
-      ],
-      "appPermissions": {
-        "entitlements": [],
-        "privacy": {}
-      },
-      "localizedDescription": "- updated spotify to v9.0.60\n\u2014 one of the most popular music streaming services!\n- EeveeSpotify v6.0.2 included\n- OpenSpotifySafariExtension included\n\n@SpotilifeIPAs"
     },
     {
       "name": "VivaCut",
@@ -2788,40 +2869,6 @@
       "localizedDescription": "Dead Cells+ 3.5.6 | Apple Arcade\nPlay as a failed alchemic experiment and explore the sprawling, ever-changing castle to find out what happened on this gloomy island\u2026!\n\nThat is, assuming you\u2019re able to fight your way past its keepers.\n\nDead Cells+ is a roguevania action platformer that will require you to master frantic 2D combat with a wide variety of weapons and skills against merciless minions and boss.\n\nMain Features\n\n\u2022 Roguevania: The progressive exploration of an interconnected world, with the replayability of a rogue-lite and the adrenaline pumping threat of permadeath\n\u2022 Frantic and Dynamic 2D Action: Learn your enemies\u2019 patterns to stay alive, or prepare to be sent back to your cell before you can say \u201cbaguette\u201d\n\u2022 Nonlinear Progression: Unlock new levels with every death, opt for the path that suits your current build, your playstyle or just your mood.\n\nSurely, the ramparts can\u2019t be as bad the sewers, right?\n\n\u2022 Play at your own pace: Will you explore every nook and cranny of the castle, or rush to the end?\n\n[THIS VERSION ALSO INCLUDES ALL OF THE FOLLOWING CONTENT]\n\n*Latest updates are available: Clean Cut & The End is Near*\n\nRETURN TO CASTLEVANIA DLC\n\n\u2022 New storyline - overcome the Ruler of Darkness alongside Alucard and Richter Belmont,\n\u2022 2 new biomes - Explore Dracula's Castle and its outskirts\n\u2022 9 new monsters - Werewolves, haunted armors, and medusas are waiting for you\n\u2022 14 new weapons - wield the Vampire Killer or the Holy Water to defeat creatures of the night,\n\u2022 3 new bosses - go fangs to fangs against Death and Dracula himself\n\u2022 20 new outfits - dress as your favorite Castlevania characters such as Simon and Richter Belmont or Alucard\n\u2022 Alternative soundtracks - play along 51 Castlevania original tracks and 12 tunes reimagined in the style of Dead Cells\n\nTHE BAD SEED DLC\n\nYou reap what you sow\n\n\u2022 New levels to lose your head in: the not-so-peaceful Dilapidated Arboretum and the noxious Morass of the Banished\n\u2022 New monsters to rip to pieces: get to know the locals, such as the Jerkshroom and the Yeeter\n\u2022 New weapons to play with: trim sticking out heads with the Scythe Claw, or make them dance to the sound of the Rhythm n' Bouzouki\n\u2022 New boss to fight against: Mama Tick is dying to meet you\n\nFATAL FALLS DLC\n\nReady for a leap of faith?\n\n\u2022 3 new biomes - Get some fresh air at the Fractured Shrines, splash around at the Undying Shores and take a picture at the Mausoleum\n\u2022 8 new monsters - The Cold Blooded Guardians and their friends would love to teach you about their culture. ... Wait, aren't those relatives of yours in the Undying Shores...?\n\u2022 7 new weapons - lil' Serenade is perfect for breaking the ice with the locals, although the Snake Fangs would make for a perfect souvenir...\n\u2022 1 new boss - The Scarecrow is very proud of his gardening skills and won't hesitate to show off\n\nQUEEN AND THE SEA DLC\n\nTake it to the sea!\n\n\u2022 2 new biomes - Battle your way through a rotten shipwreck, or scale a burning lighthouse and confront your deadliest foe yet.\n\u2022 9 new weapons, including a throwable shark, a trident and a pirate hook hand (eyepatch not included).\n\u2022 2 new bosses - Don't lose your head before you meet the Queen!\n\nThis DLC also gives you the usual extras:\n\n- A not-so-cute pet.\n- Loads of new outfits.\n- New enemies to bash.\n\nCarefully redesigned for Apple Arcade with a revamped interface\n\n\u2022 Two game modes available: Original & Auto-Hit\n\u2022 Custom controls & More touch controls options available: Change the buttons\u2019 position and size to your liking, swipe to dodge\u2026\n\u2022 MFi external controller support\n\u2022 Game Center achievements\n\nMade by @yougottabillieve \ndecrypted by @eeveedecryptorbot\nNew channel: https://t.me/ethMods\nEthMods Repo: \nhttps://repo.ethsign.fyi\nneed a cert dm @eth4dmin \nprepatched already thanks to @asdfzxcvbn0 ipapatch bot found here"
     },
     {
-      "name": "Lightroom",
-      "bundleIdentifier": "com.adobe.lrmobilephone",
-      "developerName": "SultanMods",
-      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/66/5d/38/665d38e1-436e-53f8-df79-dae2cc7dfe7c/AppIcon-0-1x_U007ephone-0-1-0-0-85-220-0.png/512x512bb.jpg",
-      "versions": [
-        {
-          "version": "10.4.0",
-          "date": "2025-06-09",
-          "size": 176426966,
-          "downloadURL": "https://repo.ethsign.fyi/0ec12479-c4ae-430f-9fe9-db4d3efc41b5/Lightroom10.4ProPatched.ipa",
-          "localizedDescription": "Lightroom Unlocked 10.4 (switched to satella just till we update the eth crack)\n-Lightroom to 10.4 pro\n-click purchase then cancel \n-photo editing app\n-works better then the satella version.\n\nMade by @moeotf \ud83d\udc4c\ud83c\udffb\ndecrypted by @eeveedecrypterbot \nNeed a certificate? Contact @eth4dmin\nNew channel: https://t.me/ethMods\nEthMods Repo: https://repo.ethsign.fyi\nprepatched already thanks to @asdfzxcvbn0 ipapatch bot found here"
-        },
-        {
-          "version": "10.3.1",
-          "date": "2025-05-19",
-          "size": 178550047,
-          "downloadURL": "https://repo.ethsign.fyi/5d60603a-dc00-4f79-8c66-26655366cd0c/Lightroom10.3.1ProTeamETHPatched.ipa",
-          "localizedDescription": "Lightroom Unlocked 10.3.1 (Non Satella version)(team ETH crack)\n-Lightroom to 10.3.1 pro\n-brand new TeamETH crack by @VAXMG \n-photo editing app\n-works better then the satella version.\n\nMade by @moeotf \ud83d\udc4c\ud83c\udffb\ndecrypted by @eeveedecrypterbot \nNeed a certificate? Contact @eth4dmin\nNew channel: https://t.me/ethMods\nEthMods Repo: https://repo.ethsign.fyi\nprepatched already thanks to @asdfzxcvbn0 ipapatch bot found here"
-        },
-        {
-          "version": "10.3.0",
-          "date": "2025-05-11",
-          "size": 175652023,
-          "downloadURL": "https://repo.ethsign.fyi/c3e280ed-a7ef-4c08-9d9e-99741beb7b46/Lightroom10.3teamETHcrack.ipa",
-          "localizedDescription": "Lightroom Unlocked 10.3 (Non Satella version)(team ETH crack)\n-Lightroom to 10.3 pro\n-brand new TeamETH crack by @VAXMG \n-photo editing app\n-works better then the satella version.\n\nMade by @moeotf decrypted by anyipa.me\nNeed a certificate? Contact @eth4dmin\nNew channel: https://t.me/ethMods\nEthMods Repo: https://repo.ethsign.fyi\nStill traveling (mo) don't dm me just had a few minutes to hop on and update a couple apps ttyl\u270c\ud83c\udffb dm any other admins if you need anything"
-        }
-      ],
-      "appPermissions": {
-        "entitlements": [],
-        "privacy": {}
-      },
-      "localizedDescription": "Lightroom Unlocked 10.4 (switched to satella just till we update the eth crack)\n-Lightroom to 10.4 pro\n-click purchase then cancel \n-photo editing app\n-works better then the satella version.\n\nMade by @moeotf \ud83d\udc4c\ud83c\udffb\ndecrypted by @eeveedecrypterbot \nNeed a certificate? Contact @eth4dmin\nNew channel: https://t.me/ethMods\nEthMods Repo: https://repo.ethsign.fyi\nprepatched already thanks to @asdfzxcvbn0 ipapatch bot found here"
-    },
-    {
       "name": "HotSchedules",
       "bundleIdentifier": "com.hotschedules.hotschedules",
       "developerName": "SultanMods",
@@ -2934,26 +2981,6 @@
         "privacy": {}
       },
       "localizedDescription": "Can scanner + 5.26.12 patched\n- updated to 5.26.12\n-injected with keychain and sideload fix\n-app store link below\n-tested on eth elite cert with esign\n-didn't touch iaps just the app\n\nhttps://apps.apple.com/us/app/camscanner-ocr-scanner/id388624839 ($1)\n\nMade by @moeotf \nNeed a certificate? Contact @eth4dmin\nNew channel: https://t.me/ethMods\nEthMods Repo: https://repo.ethsign.fyi\nprepatched already thanks to @asdfzxcvbn0 ipapatch bot found here"
-    },
-    {
-      "name": "iSTB",
-      "bundleIdentifier": "com.na.istb",
-      "developerName": "SultanMods",
-      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/ce/93/a1/ce93a161-7f62-9388-108b-f9ddc18281b5/AppIcon-0-0-1x_U007emarketing-0-11-0-85-220.png/512x512bb.jpg",
-      "versions": [
-        {
-          "version": "1.28.9",
-          "date": "2025-06-05",
-          "size": 38423376,
-          "downloadURL": "https://repo.ethsign.fyi/19306a67-9ae8-4466-ba2e-5f367f4c3b56/iSTBv1.28.9Pro.ipa",
-          "localizedDescription": "iSTB 1.28.9\n- updated to 1.28.9\n-injected with keychain and sideload fix\n-app store link below\n-tested on eth elite cert with esign\n\nhttps://apps.apple.com/us/app/istb/id1497473331 ($15)\n\nMade by @moeotf \nNeed a certificate? Contact @eth4dmin\nNew channel: https://t.me/ethMods\nEthMods Repo: https://repo.ethsign.fyi\nprepatched already thanks to @asdfzxcvbn0 ipapatch bot found here"
-        }
-      ],
-      "appPermissions": {
-        "entitlements": [],
-        "privacy": {}
-      },
-      "localizedDescription": "iSTB 1.28.9\n- updated to 1.28.9\n-injected with keychain and sideload fix\n-app store link below\n-tested on eth elite cert with esign\n\nhttps://apps.apple.com/us/app/istb/id1497473331 ($15)\n\nMade by @moeotf \nNeed a certificate? Contact @eth4dmin\nNew channel: https://t.me/ethMods\nEthMods Repo: https://repo.ethsign.fyi\nprepatched already thanks to @asdfzxcvbn0 ipapatch bot found here"
     },
     {
       "name": "Uplens",
